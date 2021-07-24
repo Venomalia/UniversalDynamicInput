@@ -1,0 +1,261 @@
+{
+"default_host_controls": {
+	"XInput/0/Gamepad": {
+          "`Button B`": "ShyGuy\\Button B.png",
+          "`Button A`": "ShyGuy\\Button A.png",
+          "`Shoulder L`": "ShyGuy\\LB.png",
+          "`Trigger L`": "ShyGuy\\LT.png",
+          "`Thumb L`": "ShyGuy\\Thumb L.png",
+          "`Shoulder R`": "ShyGuy\\RB.png",
+          "`Trigger R`": "ShyGuy\\RT.png",
+          "`Thumb R`": "ShyGuy\\Thumb R.png",
+          "`Button X`": "ShyGuy\\Button X.png",
+          "`Button Y`": "ShyGuy\\Button Y.png",
+		  
+          "Button B": "ShyGuy\\Button B.png",
+          "Button A": "ShyGuy\\Button A.png",
+          "Shoulder L": "ShyGuy\\LB.png",
+          "Trigger L": "ShyGuy\\LT.png",
+          "Thumb L": "ShyGuy\\Thumb L.png",
+          "Shoulder R": "ShyGuy\\RB.png",
+          "Trigger R": "ShyGuy\\RT.png",
+          "Thumb R": "ShyGuy\\Thumb R.png",
+          "Button X": "ShyGuy\\Button X.png",
+          "Button Y": "ShyGuy\\Button Y.png"
+        },
+	"DInput/0/Keyboard Mouse": {
+          "`Click 0`": "ShyGuy\\Click 0.png",
+          "`Click 1`": "ShyGuy\\Click 1.png",
+          "`Click 2`": "ShyGuy\\Click 2.png",
+          "`Click 3`": "ShyGuy\\Click 3.png",
+          "`Click 4`": "ShyGuy\\Click 4.png",
+		  
+          "Click 0": "ShyGuy\\Click 0.png",
+          "Click 1": "ShyGuy\\Click 1.png",
+          "Click 2": "ShyGuy\\Click 2.png",
+          "Click 3": "ShyGuy\\Click 3.png",
+          "Click 4": "ShyGuy\\Click 4.png",
+		  
+          "`0`": "ShyGuy\\0.png",
+          "`1`": "ShyGuy\\1.png",
+          "`2`": "ShyGuy\\2.png",
+          "`3`": "ShyGuy\\3.png",
+          "`4`": "ShyGuy\\4.png",
+          "`5`": "ShyGuy\\5.png",
+          "`6`": "ShyGuy\\6.png",
+          "`7`": "ShyGuy\\7.png",
+          "`8`": "ShyGuy\\8.png",
+          "`9`": "ShyGuy\\9.png",
+          "ADD": "ShyGuy\\ADD.png",
+          "ALT": "ShyGuy\\ALT.png",
+          "BACK": "ShyGuy\\BACK.png",
+          "DOWN": "ShyGuy\\DOWN.png",
+          "LCONTROL": "ShyGuy\\LCONTROL.png",
+          "LEFT": "ShyGuy\\LEFT.png",
+          "LSHIFT": "ShyGuy\\LSHIFT.png",
+          "MINUS": "ShyGuy\\MINUS.png",
+          "RETURN": "ShyGuy\\RETURN.png",
+          "RIGHT": "ShyGuy\\RIGHT.png",
+          "SPACE": "ShyGuy\\SPACE.png",
+          "TAP": "ShyGuy\\TAP.png",
+          "UP": "ShyGuy\\UP.png",
+          "A": "ShyGuy\\A.png",
+          "B": "ShyGuy\\B.png",
+          "C": "ShyGuy\\C.png",
+          "D": "ShyGuy\\D.png",
+          "E": "ShyGuy\\E.png",
+          "F": "ShyGuy\\F.png",
+          "G": "ShyGuy\\G.png",
+          "H": "ShyGuy\\H.png",
+          "I": "ShyGuy\\I.png",
+          "J": "ShyGuy\\J.png",
+          "K": "ShyGuy\\K.png",
+          "L": "ShyGuy\\L.png",
+          "M": "ShyGuy\\M.png",
+          "N": "ShyGuy\\N.png",
+          "O": "ShyGuy\\O.png",
+          "P": "ShyGuy\\P.png",
+          "Q": "ShyGuy\\Q.png",
+          "R": "ShyGuy\\R.png",
+          "S": "ShyGuy\\S.png",
+          "T": "ShyGuy\\T.png",
+          "U": "ShyGuy\\U.png",
+          "V": "ShyGuy\\V.png",
+          "W": "ShyGuy\\W.png",
+          "X": "ShyGuy\\X.png",
+          "Y": "ShyGuy\\Y.png",
+          "Z": "ShyGuy\\Z.png"
+        },
+    "DSUClient/0/DualShock4": {
+          "`Circle`": "ShyGuy\\Circle.png",
+          "`Cross`": "ShyGuy\\Cross.png",
+          "`L1`": "ShyGuy\\L1.png",
+          "`L2`": "ShyGuy\\L2.png",
+          "`L3`": "ShyGuy\\L3.png",
+          "`R1`": "ShyGuy\\R1.png",
+          "`R2`": "ShyGuy\\R2.png",
+          "`R3`": "ShyGuy\\R3.png",
+          "`Square`": "ShyGuy\\Square.png",
+          "`Triangle`": "ShyGuy\\Triangle.png",
+		  
+          "Circle": "ShyGuy\\Circle.png",
+          "Cross": "ShyGuy\\Cross.png",
+          "L1": "ShyGuy\\L1.png",
+          "L2": "ShyGuy\\L2.png",
+          "L3": "ShyGuy\\L3.png",
+          "R1": "ShyGuy\\R1.png",
+          "R2": "ShyGuy\\R2.png",
+          "R3": "ShyGuy\\R3.png",
+          "Square": "ShyGuy\\Square.png",
+          "Triangle": "ShyGuy\\Triangle.png"
+        },
+    "DSUClient/0/BetterJoy": {
+          "`Circle`": "ShyGuy\\A.png",
+          "`Cross`": "ShyGuy\\B.png",
+          "`L1`": "ShyGuy\\L.png",
+          "`L2`": "ShyGuy\\ZL.png",
+          "`L3`": "ShyGuy\\Thumb L.png",
+          "`Options`": "ShyGuy\\ADD.png",
+          "`R1`": "ShyGuy\\R.png",
+          "`R2`": "ShyGuy\\ZR.png",
+          "`R3`": "ShyGuy\\Thumb R.png",
+          "`Share`": "ShyGuy\\MINUS.png",
+          "`Square`": "ShyGuy\\Y.png",
+          "`Triangle`": "ShyGuy\\X.png",
+		  
+          "Circle": "ShyGuy\\A.png",
+          "Cross": "ShyGuy\\B.png",
+          "L1": "ShyGuy\\L.png",
+          "L2": "ShyGuy\\ZL.png",
+          "L3": "ShyGuy\\Thumb L.png",
+          "Options": "ShyGuy\\ADD.png",
+          "R1": "ShyGuy\\R.png",
+          "R2": "ShyGuy\\ZR.png",
+          "R3": "ShyGuy\\Thumb R.png",
+          "Share": "ShyGuy\\MINUS.png",
+          "Square": "ShyGuy\\Y.png",
+          "Triangle": "ShyGuy\\X.png"
+        },
+    "DSUClient/1/BetterJoy": {
+          "`Circle`": "ShyGuy\\A.png",
+          "`Cross`": "ShyGuy\\B.png",
+          "`L1`": "ShyGuy\\L.png",
+          "`L2`": "ShyGuy\\ZL.png",
+          "`L3`": "ShyGuy\\Thumb L.png",
+          "`Options`": "ShyGuy\\ADD.png",
+          "`R1`": "ShyGuy\\R.png",
+          "`R2`": "ShyGuy\\ZR.png",
+          "`R3`": "ShyGuy\\Thumb R.png",
+          "`Share`": "ShyGuy\\MINUS.png",
+          "`Square`": "ShyGuy\\Y.png",
+          "`Triangle`": "ShyGuy\\X.png",
+		  
+          "Circle": "ShyGuy\\A.png",
+          "Cross": "ShyGuy\\B.png",
+          "L1": "ShyGuy\\L.png",
+          "L2": "ShyGuy\\ZL.png",
+          "L3": "ShyGuy\\Thumb L.png",
+          "Options": "ShyGuy\\ADD.png",
+          "R1": "ShyGuy\\R.png",
+          "R2": "ShyGuy\\ZR.png",
+          "R3": "ShyGuy\\Thumb R.png",
+          "Share": "ShyGuy\\MINUS.png",
+          "Square": "ShyGuy\\Y.png",
+          "Triangle": "ShyGuy\\X.png"
+        }
+      },
+  "generated_folder_name": "#Generated_Mario Party 5",
+  "preserve_aspect_ratio": true,
+  "output_textures": {
+    "tex1_64x64_8da99466970cf56d_002a30627bc0f17e_9.png": {
+      "image": "tex1_64x64_8da99466970cf56d_002a30627bc0f17e_9.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/X": [
+            [
+              0.0,
+              0.0,
+              64.0,
+              64.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_64x64_0585ac714c3221e0_d2d37705acdcd5f1_9.png": {
+      "image": "tex1_64x64_0585ac714c3221e0_d2d37705acdcd5f1_9.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/B": [
+            [
+              0.0,
+              0.0,
+              64.0,
+              64.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_64x64_6181fc6a35ccbcc5_9ef4ba650d23374f_9.png": {
+      "image": "tex1_64x64_6181fc6a35ccbcc5_9ef4ba650d23374f_9.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/Y": [
+            [
+              0.0,
+              0.0,
+              64.0,
+              64.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_64x64_60971e49fb10a0bd_dfb826e0ed7e7a9f_9.png": {
+      "image": "tex1_64x64_60971e49fb10a0bd_dfb826e0ed7e7a9f_9.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/A": [
+            [
+              0.0,
+              0.0,
+              64.0,
+              64.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_64x64_ba10ea98eefbb63a_71e96ca1509c3feb_8.png": {
+      "image": "tex1_64x64_ba10ea98eefbb63a_71e96ca1509c3feb_8.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Triggers/L": [
+            [
+              0.0,
+              0.0,
+              64.0,
+              64.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_64x64_f724ca616c3f0e71_a85ab4fd045e7b1e_9.png": {
+      "image": "tex1_64x64_f724ca616c3f0e71_a85ab4fd045e7b1e_9.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Triggers/R": [
+            [
+              0.0,
+              0.0,
+              64.0,
+              64.0
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "Textures": [],
+  "ShouldGetHashFromTextureFilename": true,
+  "EmulatedDevices": [
+    {
+      "$id": "1",
+      "Name": "GCPad1",
+      "EmulatedKeys": [
+        {
+          "Name": "Buttons/A"
+        },
+        {
+          "Name": "Buttons/B"
+        },
+        {
+          "Name": "Buttons/X"
+        },
+        {
+          "Name": "Buttons/Y"
+        },
+        {
+          "Name": "Buttons/Z"
+        },
+        {
+          "Name": "Triggers/L"
+        },
+        {
+          "Name": "Triggers/R"
+        },
+        {
+          "Name": "Buttons/Start"
+        },
+        {
+          "Name": "D-Pad/Up"
+        },
+        {
+          "Name": "D-Pad/Down"
+        },
+        {
+          "Name": "D-Pad/Left"
+        },
+        {
+          "Name": "D-Pad/Right"
+        },
+        {
+          "Name": "Main Stick/Up"
+        },
+        {
+          "Name": "Main Stick/Down"
+        },
+        {
+          "Name": "Main Stick/Left"
+        },
+        {
+          "Name": "Main Stick/Right"
+        },
+        {
+          "Name": "C-Stick/Up"
+        },
+        {
+          "Name": "C-Stick/Down"
+        },
+        {
+          "Name": "C-Stick/Left"
+        },
+        {
+          "Name": "C-Stick/Right"
+        },
+        {
+          "Name": "blank"
+        }
+      ],
+      "SelectedKey": null
+    },
+    {
+      "$id": "2",
+      "Name": "Wiimote1",
+      "EmulatedKeys": [
+        {
+          "Name": "Buttons/A"
+        },
+        {
+          "Name": "Buttons/B"
+        },
+        {
+          "Name": "Buttons/1"
+        },
+        {
+          "Name": "Buttons/2"
+        },
+        {
+          "Name": "Buttons/-"
+        },
+        {
+          "Name": "Buttons/+"
+        },
+        {
+          "Name": "Buttons/Home"
+        },
+        {
+          "Name": "D-Pad/Up"
+        },
+        {
+          "Name": "D-Pad/Down"
+        },
+        {
+          "Name": "D-Pad/Left"
+        },
+        {
+          "Name": "D-Pad/Right"
+        },
+        {
+          "Name": "Shake/Y"
+        },
+        {
+          "Name": "Nunchuk/Buttons/C"
+        },
+        {
+          "Name": "Nunchuk/Buttons/Z"
+        },
+        {
+          "Name": "Nunchuk/Stick/Up"
+        },
+        {
+          "Name": "Nunchuk/Stick/Down"
+        },
+        {
+          "Name": "Nunchuk/Stick/Left"
+        },
+        {
+          "Name": "Nunchuk/Stick/Right"
+        },
+        {
+          "Name": "Nunchuk/Shake/Y"
+        },
+        {
+          "Name": "Classic/Buttons/A"
+        },
+        {
+          "Name": "Classic/Buttons/B"
+        },
+        {
+          "Name": "Classic/Buttons/X"
+        },
+        {
+          "Name": "Classic/Buttons/Y"
+        },
+        {
+          "Name": "Classic/Triggers/L"
+        },
+        {
+          "Name": "Classic/Triggers/R"
+        },
+        {
+          "Name": "Classic/Buttons/ZL"
+        },
+        {
+          "Name": "Classic/Buttons/ZR"
+        },
+        {
+          "Name": "Classic/Left Stick/Up"
+        },
+        {
+          "Name": "Classic/Left Stick/Down"
+        },
+        {
+          "Name": "Classic/Left Stick/Left"
+        },
+        {
+          "Name": "Classic/Left Stick/Right"
+        },
+        {
+          "Name": "Classic/Right Stick/Up"
+        },
+        {
+          "Name": "Classic/Right Stick/Down"
+        },
+        {
+          "Name": "Classic/Right Stick/Left"
+        },
+        {
+          "Name": "Classic/Right Stick/Right"
+        },
+        {
+          "Name": "blank"
+        }
+      ],
+      "SelectedKey": null
+    }
+  ],
+  "SelectedRegionBrush": {
+    "SelectedEmulatedDevice": {
+      "$ref": "1"
+    },
+    "SelectedEmulatedKey": null,
+    "FillRegion": true
+  },
+  "GeneratedFolderName": "#Generated_Name",
+  "PreserveAspectRatio": true,
+  "HostDevices": [],
+  "SelectedHostDevice": null,
+  "SelectedEmulatedDevice": {
+    "$ref": "1"
+  }
+}

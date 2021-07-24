@@ -1,0 +1,231 @@
+{
+"default_host_controls": {
+	"XInput/0/Gamepad": {
+          "`Button B`": "Text 64\\B.png",
+          "`Button A`": "Text 64\\A.png",
+          "`Shoulder L`": "Text 64\\LB.png",
+          "`Trigger L`": "Text 64\\LT.png",
+          "`Thumb L`": "Text 64\\Thumb L.png",
+          "`Shoulder R`": "Text 64\\RB.png",
+          "`Trigger R`": "Text 64\\RT.png",
+          "`Thumb R`": "Text 64\\Thumb R.png",
+          "`Button X`": "Text 64\\X.png",
+          "`Button Y`": "Text 64\\Y.png",
+		  
+          "Button B": "Text 64\\B.png",
+          "Button A": "Text 64\\A.png",
+          "Shoulder L": "Text 64\\LB.png",
+          "Trigger L": "Text 64\\LT.png",
+          "Thumb L": "Text 64\\Thumb L.png",
+          "Shoulder R": "Text 64\\RB.png",
+          "Trigger R": "Text 64\\RT.png",
+          "Thumb R": "Text 64\\Thumb R.png",
+          "Button X": "Text 64\\X.png",
+          "Button Y": "Text 64\\Y.png"
+        },
+	"DInput/0/Keyboard Mouse": {
+          "`Click 0`": "Text 64\\Click 0.png",
+          "`Click 1`": "Text 64\\Click 1.png",
+          "`Click 2`": "Text 64\\Click 2.png",
+          "`Click 3`": "Text 64\\Click 3.png",
+          "`Click 4`": "Text 64\\Click 4.png",
+		  
+          "Click 0": "Text 64\\Click 0.png",
+          "Click 1": "Text 64\\Click 1.png",
+          "Click 2": "Text 64\\Click 2.png",
+          "Click 3": "Text 64\\Click 3.png",
+          "Click 4": "Text 64\\Click 4.png",
+		  
+          "`0`": "Text 64\\0.png",
+          "`1`": "Text 64\\1.png",
+          "`2`": "Text 64\\2.png",
+          "`3`": "Text 64\\3.png",
+          "`4`": "Text 64\\4.png",
+          "`5`": "Text 64\\5.png",
+          "`6`": "Text 64\\6.png",
+          "`7`": "Text 64\\7.png",
+          "`8`": "Text 64\\8.png",
+          "`9`": "Text 64\\9.png",
+          "ADD": "Text 64\\ADD.png",
+          "ALT": "Text 64\\ALT.png",
+          "BACK": "Text 64\\BACK.png",
+          "DOWN": "Text 64\\DOWN.png",
+          "LCONTROL": "Text 64\\LCONTROL.png",
+          "LEFT": "Text 64\\LEFT.png",
+          "LSHIFT": "Text 64\\LSHIFT.png",
+          "MINUS": "Text 64\\MINUS.png",
+          "RETURN": "Text 64\\RETURN.png",
+          "RIGHT": "Text 64\\RIGHT.png",
+          "SPACE": "Text 64\\SPACE.png",
+          "TAP": "Text 64\\TAP.png",
+          "UP": "Text 64\\UP.png",
+          "A": "Text 64\\A.png",
+          "B": "Text 64\\B.png",
+          "C": "Text 64\\C.png",
+          "D": "Text 64\\D.png",
+          "E": "Text 64\\E.png",
+          "F": "Text 64\\F.png",
+          "G": "Text 64\\G.png",
+          "H": "Text 64\\H.png",
+          "I": "Text 64\\I.png",
+          "J": "Text 64\\J.png",
+          "K": "Text 64\\K.png",
+          "L": "Text 64\\L.png",
+          "M": "Text 64\\M.png",
+          "N": "Text 64\\N.png",
+          "O": "Text 64\\O.png",
+          "P": "Text 64\\P.png",
+          "Q": "Text 64\\Q.png",
+          "R": "Text 64\\R.png",
+          "S": "Text 64\\S.png",
+          "T": "Text 64\\T.png",
+          "U": "Text 64\\U.png",
+          "V": "Text 64\\V.png",
+          "W": "Text 64\\W.png",
+          "X": "Text 64\\X.png",
+          "Y": "Text 64\\Y.png",
+          "Z": "Text 64\\Z.png"
+        },
+    "DSUClient/0/DualShock4": {
+          "`Circle`": "Text 64\\Circle.png",
+          "`Cross`": "Text 64\\Cross.png",
+          "`L1`": "Text 64\\L1.png",
+          "`L2`": "Text 64\\L2.png",
+          "`L3`": "Text 64\\L3.png",
+          "`R1`": "Text 64\\R1.png",
+          "`R2`": "Text 64\\R2.png",
+          "`R3`": "Text 64\\R3.png",
+          "`Square`": "Text 64\\Square.png",
+          "`Triangle`": "Text 64\\Triangle.png",
+		  
+          "Circle": "Text 64\\Circle.png",
+          "Cross": "Text 64\\Cross.png",
+          "L1": "Text 64\\L1.png",
+          "L2": "Text 64\\L2.png",
+          "L3": "Text 64\\L3.png",
+          "R1": "Text 64\\R1.png",
+          "R2": "Text 64\\R2.png",
+          "R3": "Text 64\\R3.png",
+          "Square": "Text 64\\Square.png",
+          "Triangle": "Text 64\\Triangle.png"
+        },
+    "DSUClient/0/BetterJoy": {
+          "`Circle`": "Text 64\\A.png",
+          "`Cross`": "Text 64\\B.png",
+          "`L1`": "Text 64\\L.png",
+          "`L2`": "Text 64\\ZL.png",
+          "`L3`": "Text 64\\Thumb L.png",
+          "`Options`": "Text 64\\ADD.png",
+          "`R1`": "Text 64\\R.png",
+          "`R2`": "Text 64\\ZR.png",
+          "`R3`": "Text 64\\Thumb R.png",
+          "`Share`": "Text 64\\MINUS.png",
+          "`Square`": "Text 64\\Y.png",
+          "`Triangle`": "Text 64\\X.png",
+		  
+          "Circle": "Text 64\\A.png",
+          "Cross": "Text 64\\B.png",
+          "L1": "Text 64\\L.png",
+          "L2": "Text 64\\ZL.png",
+          "L3": "Text 64\\Thumb L.png",
+          "Options": "Text 64\\ADD.png",
+          "R1": "Text 64\\R.png",
+          "R2": "Text 64\\ZR.png",
+          "R3": "Text 64\\Thumb R.png",
+          "Share": "Text 64\\MINUS.png",
+          "Square": "Text 64\\Y.png",
+          "Triangle": "Text 64\\X.png"
+        },
+    "DSUClient/1/BetterJoy": {
+          "`Circle`": "Text 64\\A.png",
+          "`Cross`": "Text 64\\B.png",
+          "`L1`": "Text 64\\L.png",
+          "`L2`": "Text 64\\ZL.png",
+          "`L3`": "Text 64\\Thumb L.png",
+          "`Options`": "Text 64\\ADD.png",
+          "`R1`": "Text 64\\R.png",
+          "`R2`": "Text 64\\ZR.png",
+          "`R3`": "Text 64\\Thumb R.png",
+          "`Share`": "Text 64\\MINUS.png",
+          "`Square`": "Text 64\\Y.png",
+          "`Triangle`": "Text 64\\X.png",
+		  
+          "Circle": "Text 64\\A.png",
+          "Cross": "Text 64\\B.png",
+          "L1": "Text 64\\L.png",
+          "L2": "Text 64\\ZL.png",
+          "L3": "Text 64\\Thumb L.png",
+          "Options": "Text 64\\ADD.png",
+          "R1": "Text 64\\R.png",
+          "R2": "Text 64\\ZR.png",
+          "R3": "Text 64\\Thumb R.png",
+          "Share": "Text 64\\MINUS.png",
+          "Square": "Text 64\\Y.png",
+          "Triangle": "Text 64\\X.png"
+        }
+      },
+  "generated_folder_name": "#Generated_Super Mario 64",
+  "preserve_aspect_ratio": true,
+  "output_textures": {
+    "tex1_16x8_6a44af4ac6694744_2.png": {
+      "image": "tex1_16x8_6a44af4ac6694744_2.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Triggers/R": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              64.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_16x8_95bffd35bc84fd69_2.png": {
+      "image": "tex1_16x8_95bffd35bc84fd69_2.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/B": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              64.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_16x8_ab193dc3521dd68a_2.png": {
+      "image": "tex1_16x8_ab193dc3521dd68a_2.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/A": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              64.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_16x8_c7a5908a9d279be4_2.png": {
+      "image": "tex1_16x8_c7a5908a9d279be4_2.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Triggers/L": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              64.0
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1325 @@
+{
+"default_host_controls": {
+	"XInput/0/Gamepad": {
+          "`Button B`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Button B.png",
+          "`Button A`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Button A.png",
+          "`Shoulder L`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Shoulder L.png",
+          "`Trigger L`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Trigger L.png",
+          "`Left X-`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Left X-.png",
+          "`Left X+`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Left X+.png",
+          "`Left Y-`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Left Y-.png",
+          "`Left Y+`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Left Y+.png",
+          "`Thumb L`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Thumb L.png",
+          "`Start`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Start.png",
+          "`Pad E`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Pad E.png",
+          "`Pad N`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Pad N.png",
+          "`Pad S`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Pad S.png",
+          "`Pad W`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Pad W.png",
+          "`Guide`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Guide.png",
+          "`Shoulder R`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Shoulder R.png",
+          "`Trigger R`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Trigger R.png",
+          "`Thumb R`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Thumb R.png",
+          "`Right X-`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Right X-.png",
+          "`Right X+`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Right X+.png",
+          "`Right Y-`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Right Y-.png",
+          "`Right Y+`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Right Y+.png",
+          "`Back`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Back.png",
+          "`Button X`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Button X.png",
+          "`Button Y`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Button Y.png",
+		  
+          "`Button Start`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Start.png",
+          "`Button Guide`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Guide.png",
+          "`Button Back`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Back.png",
+		  
+          "Button B": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Button B.png",
+          "Button A": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Button A.png",
+          "Shoulder L": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Shoulder L.png",
+          "Trigger L": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Trigger L.png",
+          "Thumb L": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Thumb L.png",
+          "Start": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Start.png",
+          "Guide": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Guide.png",
+          "Shoulder R": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Shoulder R.png",
+          "Trigger R": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Trigger R.png",
+          "Thumb R": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Thumb R.png",
+          "Back": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Back.png",
+          "Button X": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Button X.png",
+          "Button Y": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Button Y.png",
+		  
+          "Button Start": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Start.png",
+          "Button Guide": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Guide.png",
+          "Button Back": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Back.png"
+        },
+	"DInput/0/Bluetooth LE XINPUT compatible input device": {
+          "`Button 0`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Button A.png",
+          "`Button 1`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Button B.png",
+          "`Button 2`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Button X.png",
+          "`Button 3`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Button Y.png",
+          "`Button 4`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Shoulder L.png",
+          "`Button 5`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Shoulder R.png",
+          "`Button 6`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Back.png",
+          "`Button 7`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Start.png",
+          "`Button 8`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Thumb L.png",
+          "`Button 9`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Thumb R.png",
+          "`Button 10`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Guide.png",
+          "`Button 11`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Share.png",
+          "`Axis Z+`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Trigger L.png",
+          "`Axis Z-`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Trigger R.png",
+          "`Hat 0 E`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Pad E.png",
+          "`Hat 0 N`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Pad N.png",
+          "`Hat 0 S`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Pad S.png",
+          "`Hat 0 W`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Pad W.png",
+          "`Axis X-`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Left X-.png",
+          "`Axis X+`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Left X+.png",
+          "`Axis Y-`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Left Y+.png",
+          "`Axis Y+`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Left Y-.png",
+          "`Axis Xr-`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Right X-.png",
+          "`Axis Xr+`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Right X+.png",
+          "`Axis Yr+`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Right Y-.png",
+          "`Axis Yr-`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Right Y+.png"
+        },
+	"DInput/0/Keyboard Mouse": {
+          "`Click 0`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\Click 0.png",
+          "`Click 1`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\Click 1.png",
+          "`Click 2`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\Click 2.png",
+          "`Click 3`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\Click 3.png",
+          "`Click 4`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\Click 4.png",
+          "`Axis Z-`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\Axis Z-.png",
+          "`Axis Z+`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\Axis Z+.png",
+          "`Axis X-`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\Axis X-.png",
+          "`Axis X+`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\Axis X+.png",
+          "`Axis Y-`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\Axis Y-.png",
+          "`Axis Y+`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\Axis Y+.png",
+		  
+          "Click 0": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\Click 0.png",
+          "Click 1": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\Click 1.png",
+          "Click 2": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\Click 2.png",
+          "Click 3": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\Click 3.png",
+          "Click 4": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\Click 4.png",
+          "Axis Z-": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\Axis Z-.png",
+          "Axis Z+": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\Axis Z+.png",
+          "Axis X-": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\Axis X-.png",
+          "Axis X+": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\Axis X+.png",
+          "Axis Y-": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\Axis Y-.png",
+          "Axis Y+": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\Axis Y+.png",
+		  
+          "DOWN": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\DOWN.png",
+          "LEFT": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\LEFT.png",
+          "RIGHT": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\RIGHT.png",
+          "UP": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\UP.png",
+		  
+          "Alt": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\ALT.png",
+          "APPS": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\APPS.png",
+          "APOSTROPHE": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\APOSTROPHE.png",
+          "BACK": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\BACK.png",
+          "BACKSLASH": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\BACKSLASH.png",
+          "COMMA": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\COMMA.png",
+          "Ctrl": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\CONTROL.png",
+          "ESCAPE": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\ESC.png",
+          "EQUALS": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\EQUALS.png",
+          "GRAVE": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\GRAVE.png",
+          "LBRACKET": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\LBRACKET.png",
+          "LCONTROL": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\CONTROL.png",
+          "LMENU": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\ALT.png",
+          "LSHIFT": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\SHIFT.png",
+          "MINUS": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\MINUS.png",
+          "`OEM_102`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\OEM_102.png",
+          "PERIOD": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\PERIOD.png",
+          "RBRACKET": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\RBRACKET.png",
+          "RCONTROL": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\CONTROL.png",
+          "RETURN": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\RETURN.png",
+          "RMENU": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\ALT GR.png",
+          "RSHIFT": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\SHIFT.png",
+          "TAP": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\TAP.png",
+		  
+          "Shift": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\SHIFT.png",
+          "SEMICOLON": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\SEMICOLON.png",
+          "SLASH": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\SLASH.png",
+          "SPACE": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\SPACE.png",
+          "Win": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\OS.png",
+		  
+          "A": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\A.png",
+          "B": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\B.png",
+          "C": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\C.png",
+          "D": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\D.png",
+          "E": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\E.png",
+          "F": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\F.png",
+          "G": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\G.png",
+          "H": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\H.png",
+          "I": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\I.png",
+          "J": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\J.png",
+          "K": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\K.png",
+          "L": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\L.png",
+          "M": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\M.png",
+          "N": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\N.png",
+          "O": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\O.png",
+          "P": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\P.png",
+          "Q": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\Q.png",
+          "R": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\R.png",
+          "S": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\S.png",
+          "T": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\T.png",
+          "U": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\U.png",
+          "V": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\V.png",
+          "W": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\W.png",
+          "X": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\X.png",
+          "Y": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\Y.png",
+          "Z": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\Z.png",
+
+		  "`0`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\0.png",
+          "`1`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\1.png",
+          "`2`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\2.png",
+          "`3`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\3.png",
+          "`4`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\4.png",
+          "`5`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\5.png",
+          "`6`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\6.png",
+          "`7`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\7.png",
+          "`8`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\8.png",
+          "`9`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\9.png",
+		  		  
+          "`F1`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\F1.png",
+          "`F2`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\F2.png",
+          "`F3`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\F3.png",
+          "`F4`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\F4.png",
+          "`F5`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\F5.png",
+          "`F6`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\F6.png",
+          "`F7`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\F7.png",
+          "`F8`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\F8.png",
+          "`F9`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\F9.png",
+          "`F10`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\F10.png",
+          "`F11`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\F11.png",
+          "`F12`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\F12.png",
+		  
+          "DELETE": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\DELETE.png",
+          "END": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\END.png",
+          "NEXT": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\NEXT.png",
+          "INSERT": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\INSERT.png",
+          "HOME": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\HOME.png",
+          "PRIOR": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\PRIOR.png",
+          "PAUSE": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\PAUSE.png",
+	
+          "`NUMPAD0`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\0.png",
+          "`NUMPAD1`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\1.png",
+          "`NUMPAD2`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\2.png",
+          "`NUMPAD3`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\3.png",
+          "`NUMPAD4`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\4.png",
+          "`NUMPAD5`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\5.png",
+          "`NUMPAD6`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\6.png",
+          "`NUMPAD7`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\7.png",
+          "`NUMPAD8`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\8.png",
+          "`NUMPAD9`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\9.png",
+          "ADD": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\ADD.png",
+          "DECIMAL": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\DECIMAL.png",
+          "DIVIDE": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\DIVIDE.png",
+          "MULTIPLY": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\MULTIPLY.png",
+          "NUMPADENTER": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\RETURN.png",
+          "SUBTRACT": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\MINUS.png"
+        },
+    "DSUClient/0/DualShock4": {
+          "`Circle`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Circle.png",
+          "`Cross`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Cross.png",
+          "`L1`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\L1.png",
+          "`L2`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\L2.png",
+          "`L3`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\L3.png",
+          "`Left X-`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Left X-.png",
+          "`Left X+`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Left X+.png",
+          "`Left Y-`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Left Y-.png",
+          "`Left Y+`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Left Y+.png",
+          "`Options`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Options.png",
+          "`Pad E`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Pad E.png",
+          "`Pad N`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Pad N.png",
+          "`Pad S`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Pad S.png",
+          "`Pad W`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Pad W.png",
+          "`PS`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\PS.png",
+          "`R1`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\R1.png",
+          "`R2`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\R2.png",
+          "`R3`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\R3.png",
+          "`Right X-`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Right X-.png",
+          "`Right X+`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Right X+.png",
+          "`Right Y-`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Right Y-.png",
+          "`Right Y+`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Right Y+.png",
+          "`Share`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Share.png",
+          "`Square`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Square.png",
+          "`Triangle`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Triangle.png",
+          "`Touch Button`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Touchpad.png",
+		  
+          "Circle": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Circle.png",
+          "Cross": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Cross.png",
+          "L1": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\L1.png",
+          "L2": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\L2.png",
+          "L3": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\L3.png",
+          "Options": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Options.png",
+          "PS": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\PS.png",
+          "R1": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\R1.png",
+          "R2": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\R2.png",
+          "R3": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\R3.png",
+          "Share": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Share.png",
+          "Square": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Square.png",
+          "Triangle": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Triangle.png",
+          "Touch Button": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Touchpad.png"
+        },
+    "DSUClient/0/BetterJoy": {
+          "`Circle`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Button A.png",
+          "`Cross`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Button B.png",
+          "`L1`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\L.png",
+          "`L2`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\ZL.png",
+          "`L3`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Thumb L.png",
+          "`Left X-`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Left X-.png",
+          "`Left X+`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Left X+.png",
+          "`Left Y-`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Left Y-.png",
+          "`Left Y+`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Left Y+.png",
+          "`Options`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Button +.png",
+          "`Pad E`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Pad E.png",
+          "`Pad N`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Pad N.png",
+          "`Pad S`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Pad S.png",
+          "`Pad W`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Pad W.png",
+          "`PS`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Home.png",
+          "`R1`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\R.png",
+          "`R2`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\ZR.png",
+          "`R3`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Thumb R.png",
+          "`Right X-`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Right X-.png",
+          "`Right X+`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Right X+.png",
+          "`Right Y-`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Right Y-.png",
+          "`Right Y+`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Right Y+.png",
+          "`Share`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Button -.png",
+          "`Square`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Button Y.png",
+          "`Triangle`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Button X.png",
+		  
+          "Circle": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Button A.png",
+          "Cross": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Button B.png",
+          "L1": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\L.png",
+          "L2": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\ZL.png",
+          "L3": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Thumb L.png",
+          "Options": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Button +.png",
+          "PS": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Home.png",
+          "R1": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\R.png",
+          "R2": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\ZR.png",
+          "R3": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Thumb R.png",
+          "Share": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Button -.png",
+          "Square": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Button Y.png",
+          "Triangle": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Button X.png"
+        },
+    "DSUClient/1/BetterJoy": {
+          "`Circle`": "..\\#DefaultDevices\\_Mirror\\Switch_Joy-Con\\Flat\\Button A.png",
+          "`Cross`": "..\\#DefaultDevices\\_Mirror\\Switch_Joy-Con\\Flat\\Button B.png",
+          "`L1`": "..\\#DefaultDevices\\_Mirror\\Switch_Joy-Con\\Flat\\L.png",
+          "`L2`": "..\\#DefaultDevices\\_Mirror\\Switch_Joy-Con\\Flat\\ZL.png",
+          "`L3`": "..\\#DefaultDevices\\_Mirror\\Switch_Joy-Con\\Flat\\Thumb L.png",
+          "`Left X-`": "..\\#DefaultDevices\\_Mirror\\Switch_Joy-Con\\Flat\\Left X-.png",
+          "`Left X+`": "..\\#DefaultDevices\\_Mirror\\Switch_Joy-Con\\Flat\\Left X+.png",
+          "`Left Y-`": "..\\#DefaultDevices\\_Mirror\\Switch_Joy-Con\\Flat\\Left Y-.png",
+          "`Left Y+`": "..\\#DefaultDevices\\_Mirror\\Switch_Joy-Con\\Flat\\Left Y+.png",
+          "`Options`": "..\\#DefaultDevices\\_Mirror\\Switch_Joy-Con\\Flat\\Button +.png",
+          "`Pad E`": "..\\#DefaultDevices\\_Mirror\\Switch_Joy-Con\\Flat\\Pad E.png",
+          "`Pad N`": "..\\#DefaultDevices\\_Mirror\\Switch_Joy-Con\\Flat\\Pad N.png",
+          "`Pad S`": "..\\#DefaultDevices\\_Mirror\\Switch_Joy-Con\\Flat\\Pad S.png",
+          "`Pad W`": "..\\#DefaultDevices\\_Mirror\\Switch_Joy-Con\\Flat\\Pad W.png",
+          "`PS`": "..\\#DefaultDevices\\_Mirror\\Switch_Joy-Con\\Flat\\Home.png",
+          "`R1`": "..\\#DefaultDevices\\_Mirror\\Switch_Joy-Con\\Flat\\R.png",
+          "`R2`": "..\\#DefaultDevices\\_Mirror\\Switch_Joy-Con\\Flat\\ZR.png",
+          "`R3`": "..\\#DefaultDevices\\_Mirror\\Switch_Joy-Con\\Flat\\Thumb R.png",
+          "`Right X-`": "..\\#DefaultDevices\\_Mirror\\Switch_Joy-Con\\Flat\\Right X-.png",
+          "`Right X+`": "..\\#DefaultDevices\\_Mirror\\Switch_Joy-Con\\Flat\\Right X+.png",
+          "`Right Y-`": "..\\#DefaultDevices\\_Mirror\\Switch_Joy-Con\\Flat\\Right Y-.png",
+          "`Right Y+`": "..\\#DefaultDevices\\_Mirror\\Switch_Joy-Con\\Flat\\Right Y+.png",
+          "`Share`": "..\\#DefaultDevices\\_Mirror\\Switch_Joy-Con\\Flat\\Button -.png",
+          "`Square`": "..\\#DefaultDevices\\_Mirror\\Switch_Joy-Con\\Flat\\Button Y.png",
+          "`Triangle`": "..\\#DefaultDevices\\_Mirror\\Switch_Joy-Con\\Flat\\Button X.png",
+		  
+          "Circle": "..\\#DefaultDevices\\_Mirror\\Switch_Joy-Con\\Flat\\Button A.png",
+          "Cross": "..\\#DefaultDevices\\_Mirror\\Switch_Joy-Con\\Flat\\Button B.png",
+          "L1": "..\\#DefaultDevices\\_Mirror\\Switch_Joy-Con\\Flat\\L.png",
+          "L2": "..\\#DefaultDevices\\_Mirror\\Switch_Joy-Con\\Flat\\ZL.png",
+          "L3": "..\\#DefaultDevices\\_Mirror\\Switch_Joy-Con\\Flat\\Thumb L.png",
+          "Options": "..\\#DefaultDevices\\_Mirror\\Switch_Joy-Con\\Flat\\Button +.png",
+          "PS": "..\\#DefaultDevices\\_Mirror\\Switch_Joy-Con\\Flat\\Home.png",
+          "R1": "..\\#DefaultDevices\\_Mirror\\Switch_Joy-Con\\Flat\\R.png",
+          "R2": "..\\#DefaultDevices\\_Mirror\\Switch_Joy-Con\\Flat\\ZR.png",
+          "R3": "..\\#DefaultDevices\\_Mirror\\Switch_Joy-Con\\Flat\\Thumb R.png",
+          "Share": "..\\#DefaultDevices\\_Mirror\\Switch_Joy-Con\\Flat\\Button -.png",
+          "Square": "..\\#DefaultDevices\\_Mirror\\Switch_Joy-Con\\Flat\\Button Y.png",
+          "Triangle": "..\\#DefaultDevices\\_Mirror\\Switch_Joy-Con\\Flat\\Button X.png"
+        },
+		"DInput/0/Wireless Gamepad": {
+          "`Button 0`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Button B.png",
+          "`Button 1`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Button A.png",
+          "`Button 2`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Button Y.png",
+          "`Button 3`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Button X.png",
+          "`Button 5`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\R.png",
+          "`Button 4`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\L.png",
+          "`Button 6`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\ZL.png",
+          "`Button 7`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\ZR.png",
+          "`Button 8`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Button -.png",
+          "`Button 9`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Button +.png",
+          "`Button 10`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Thumb L.png",
+          "`Button 11`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Thumb R.png",
+          "`Button 12`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Home.png",
+          "`Button 13`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Share.png",
+          "`Axis X-`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Left X-.png",
+          "`Axis X+`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Left X+.png",
+          "`Axis Y+`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Left Y-.png",
+          "`Axis Y-`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Left Y+.png",
+          "`Hat 0 E`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Pad E.png",
+          "`Hat 0 N`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Pad N.png",
+          "`Hat 0 S`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Pad S.png",
+          "`Hat 0 W`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Pad W.png",
+          "`Axis Xr-`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Right X-.png",
+          "`Axis Xr+`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Right X+.png",
+          "`Axis Yr+`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Right Y-.png",
+          "`Axis Yr-`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Right Y+.png"
+        },
+		"DInput/0/Wireless Controller": {
+			"`Button 0`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Square.png",
+			"`Button 1`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Cross.png",
+			"`Button 2`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Circle.png",
+			"`Button 3`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Triangle.png",
+			"`Button 4`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\L1.png",
+			"`Button 5`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\R1.png",
+			"`Button 6`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\L2.png",
+			"`Button 7`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\R2.png",
+			"`Button 8`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Share.png",
+			"`Button 9`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Options.png",
+			"`Button 10`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\L3.png",
+			"`Button 11`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\R3.png",
+			"`Button 12`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\PS.png",
+			"`Button 13`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Touchpad.png",
+			"`Hat 0 N`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Pad N.png",
+			"`Hat 0 S`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Pad S.png",
+			"`Hat 0 E`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Pad E.png",
+			"`Hat 0 W`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Pad W.png",
+			"`Axis Y+`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Left Y-.png",
+			"`Axis Y-`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Left Y+.png",
+			"`Axis X+`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Left X+.png",
+			"`Axis X-`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Left X-.png",
+			"`Axis Zr+`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Right Y-.png",
+			"`Axis Zr-`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Right Y+.png",
+			"`Axis Z+`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Right X+.png",
+			"`Axis Z-`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Right X-.png"
+        },
+		"DInput/0/USB GamePad": {
+          "`Button 1`": "..\\#DefaultDevices\\_Mirror\\Default_DInput\\Flat\\Button 1.png",
+          "`Button 2`": "..\\#DefaultDevices\\_Mirror\\Default_DInput\\Flat\\Button 2.png",
+          "`Button 3`": "..\\#DefaultDevices\\_Mirror\\Default_DInput\\Flat\\Button 3.png",
+          "`Button 4`": "..\\#DefaultDevices\\_Mirror\\Default_DInput\\Flat\\Button 4.png",
+          "`Button 5`": "..\\#DefaultDevices\\_Mirror\\Default_DInput\\Flat\\Button 5.png",
+          "`Button 6`": "..\\#DefaultDevices\\_Mirror\\Default_DInput\\Flat\\Button 6.png",
+          "`Button 7`": "..\\#DefaultDevices\\_Mirror\\Default_DInput\\Flat\\Button 7.png",
+          "`Button 8`": "..\\#DefaultDevices\\_Mirror\\Default_DInput\\Flat\\Button 8.png",
+          "`Button 9`": "..\\#DefaultDevices\\_Mirror\\Default_DInput\\Flat\\Button 9.png",
+          "`Button 10`": "..\\#DefaultDevices\\_Mirror\\Default_DInput\\Flat\\Button 10.png",
+          "`Button 11`": "..\\#DefaultDevices\\_Mirror\\Default_DInput\\Flat\\Button 11.png",
+          "`Button 12`": "..\\#DefaultDevices\\_Mirror\\Default_DInput\\Flat\\Button 12.png",
+          "`Button 13`": "..\\#DefaultDevices\\_Mirror\\Default_DInput\\Flat\\Button 13.png",
+          "`Button 14`": "..\\#DefaultDevices\\_Mirror\\Default_DInput\\Flat\\Button 14.png",
+          "`Button 15`": "..\\#DefaultDevices\\_Mirror\\Default_DInput\\Flat\\Button 15.png",
+          "`Axis X-`": "..\\#DefaultDevices\\_Mirror\\Default_DInput\\Flat\\Left X-.png",
+          "`Axis X+`": "..\\#DefaultDevices\\_Mirror\\Default_DInput\\Flat\\Left X+.png",
+          "`Axis Y+`": "..\\#DefaultDevices\\_Mirror\\Default_DInput\\Flat\\Left Y-.png",
+          "`Axis Y-`": "..\\#DefaultDevices\\_Mirror\\Default_DInput\\Flat\\Left Y+.png",
+          "`Hat 0 E`": "..\\#DefaultDevices\\_Mirror\\Default_DInput\\Flat\\Pad E.png",
+          "`Hat 0 N`": "..\\#DefaultDevices\\_Mirror\\Default_DInput\\Flat\\Pad N.png",
+          "`Hat 0 S`": "..\\#DefaultDevices\\_Mirror\\Default_DInput\\Flat\\Pad S.png",
+          "`Hat 0 W`": "..\\#DefaultDevices\\_Mirror\\Default_DInput\\Flat\\Pad W.png",
+          "`Axis Xr-`": "..\\#DefaultDevices\\_Mirror\\Default_DInput\\Flat\\Right X-.png",
+          "`Axis Xr+`": "..\\#DefaultDevices\\_Mirror\\Default_DInput\\Flat\\Right X+.png",
+          "`Axis Yr+`": "..\\#DefaultDevices\\_Mirror\\Default_DInput\\Flat\\Right Y-.png",
+          "`Axis Yr-`": "..\\#DefaultDevices\\_Mirror\\Default_DInput\\Flat\\Right Y+.png"
+        },
+        "Bluetooth/0/Wii Remote": {
+          "A": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Button A.png",
+          "B": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Button B.png",
+          "`1`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Button 1.png",
+          "`2`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Button 2.png",
+          "`-`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Button -.png",
+          "`+`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Button +.png",
+          "HOME": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\HOME.png",
+          "Right": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Pad E.png",
+          "Up": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Pad N.png",
+          "Down": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Pad S.png",
+          "Left": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Pad W.png",
+		  		  
+          "`A`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Button A.png",
+          "`B`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Button B.png",
+          "`HOME`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\HOME.png",
+          "`Right`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Pad.png",
+          "`Up`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Pad.png",
+          "`Down`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Pad NS.png",
+          "`Left`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Pad EW.png",
+		  
+          "`Nunchuk C`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Nunchuk C.png",
+          "`Nunchuk Z`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Nunchuk Z.png",
+          "`Nunchuk X-`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Nunchuk X-.png",
+          "`Nunchuk X+`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Nunchuk X+.png",
+          "`Nunchuk Y-`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Nunchuk Y-.png",
+          "`Nunchuk Y+`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Nunchuk Y+.png",
+		  
+          "`Classic A`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Classic a.png",
+          "`Classic B`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Classic b.png",
+          "`Classic X`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Classic x.png",
+          "`Classic Y`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Classic y.png",
+          "`Classic -`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Classic -.png",
+          "`Classic +`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Classic +.png",
+          "`Classic HOME`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Classic HOME.png",
+          "`Classic L`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Classic L.png",
+          "`Classic R`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Classic R.png",
+          "`Classic ZL`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Classic ZL.png",
+          "`Classic ZR`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Classic ZR.png",
+          "`Classic L-Analog`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Classic L.png",
+          "`Classic R-Analog`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Classic R.png",
+          "`Classic Right`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Pad E.png",
+          "`Classic Up`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Pad N.png",
+          "`Classic Down`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Pad S.png",
+          "`Classic Left`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Pad W.png",
+          "`Classic Left X-`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Classic Left X-.png",
+          "`Classic Left X+`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Classic Left X+.png",
+          "`Classic Left Y-`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Classic Left Y-.png",
+          "`Classic Left Y+`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Classic Left Y+.png",
+          "`Classic Right X-`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Classic Right X-.png",
+          "`Classic Right X+`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Classic Right X+.png",
+          "`Classic Right Y-`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Classic Right Y-.png",
+          "`Classic Right Y+`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Flat\\Classic Right Y+.png"
+        }
+      },
+  "generated_folder_name": "#Generated_Metroid Prime_Wii",
+  "preserve_aspect_ratio": true,
+  "output_textures": {
+    "tex1_32x32_1b7367b593278835_14.png": {
+      "image": "tex1_32x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/A": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_2a304e0fc49a883c_5.png": {
+      "image": "tex1_32x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/A": [
+            [
+              8.0,
+              8.0,
+              120.0,
+              120.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_2d9b5d2d0a406a63_6.png": {
+      "image": "tex1_32x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/2": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_4eb90bb511d2b10e_4.png": {
+      "image": "tex1_32x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/A": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_5fa30f82f962b236_5.png": {
+      "image": "tex1_32x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Nunchuk/Buttons/Z": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_7e31a38b70ecbddd_5.png": {
+      "image": "tex1_32x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/+": [
+            [
+              8.0,
+              8.0,
+              120.0,
+              120.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_8a3e8ec9d97c84f7_6.png": {
+      "image": "tex1_32x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Nunchuk/Buttons/Z": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_9af2d52683113ecc_6.png": {
+      "image": "tex1_32x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/-": [
+            [
+              4.0,
+              4.0,
+              124.0,
+              124.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_10ca6dca25531ce9_4.png": {
+      "image": "tex1_32x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/B": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_43be3d9c0c2e2dbd_6.png": {
+      "image": "tex1_32x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/B": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_52bc65cd8d4b0905_6.png": {
+      "image": "tex1_32x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Nunchuk/Buttons/C": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_54e294522955b32e_5.png": {
+      "image": "tex1_32x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/A": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_173f3a24d9dd4a66_6.png": {
+      "image": "tex1_32x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/A": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_380a4ed102753a91_6.png": {
+      "image": "tex1_32x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/A": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_701e7c156583abfc_5.png": {
+      "image": "tex1_32x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/-": [
+            [
+              8.0,
+              8.0,
+              120.0,
+              120.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_877ac67dc3c23f97_6.png": {
+      "image": "tex1_32x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/1": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_889e80824c922249_6.png": {
+      "image": "tex1_32x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/-": [
+            [
+              8.0,
+              8.0,
+              120.0,
+              120.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_975e1a31b02a2a68_6.png": {
+      "image": "tex1_32x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "D-Pad/Down": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_5945fd1a085a2aeb_5.png": {
+      "image": "tex1_32x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/B": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_86475f276fb14e06_5.png": {
+      "image": "tex1_32x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/1": [
+            [
+              8.0,
+              8.0,
+              120.0,
+              120.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_47002754133e4ff5_6.png": {
+      "image": "tex1_32x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/A": [
+            [
+              8.0,
+              8.0,
+              120.0,
+              120.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_96342171475066ab_6.png": {
+      "image": "tex1_32x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/+": [
+            [
+              4.0,
+              4.0,
+              124.0,
+              124.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_a7ef87b56d6b4bdf_5.png": {
+      "image": "tex1_32x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Nunchuk/Buttons/C": [
+            [
+              8.0,
+              8.0,
+              120.0,
+              120.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_a28e2885c4fe7e1c_5.png": {
+      "image": "tex1_32x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/-": [
+            [
+              8.0,
+              8.0,
+              120.0,
+              120.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_b0c321687c7a410b_5.png": {
+      "image": "tex1_32x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/A": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_b4f4fb242799c981_5.png": {
+      "image": "tex1_32x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/+": [
+            [
+              8.0,
+              8.0,
+              120.0,
+              120.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_bb3467a83b7dad05_5.png": {
+      "image": "tex1_32x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/+": [
+            [
+              8.0,
+              8.0,
+              120.0,
+              120.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_c3af34349deab463_6.png": {
+      "image": "tex1_32x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/+": [
+            [
+              8.0,
+              8.0,
+              120.0,
+              120.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_cb44bdce7a961a9d_5.png": {
+      "image": "tex1_32x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/2": [
+            [
+              8.0,
+              8.0,
+              120.0,
+              120.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_ce9f9d8116478553_6.png": {
+      "image": "tex1_32x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/B": [
+            [
+              8.0,
+              8.0,
+              120.0,
+              120.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_dbcb14f0171b30d3_5.png": {
+      "image": "tex1_32x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Nunchuk/Buttons/C": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_dfe44df2c8105710_5.png": {
+      "image": "tex1_32x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/2": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_e74dc87e7b4eef8d_5.png": {
+      "image": "tex1_32x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Nunchuk/Buttons/Z": [
+            [
+              8.0,
+              8.0,
+              120.0,
+              120.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_f2e2eeb12e0e82c0_5.png": {
+      "image": "tex1_32x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/B": [
+            [
+              8.0,
+              8.0,
+              120.0,
+              120.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_f26190a488d42e7c_5.png": {
+      "image": "tex1_32x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/2": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_f0599000a4f68a36_5.png": {
+      "image": "tex1_32x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/B": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_40x32_970859e57fe24761_6.png": {
+      "image": "tex1_40x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Nunchuk/Stick/Up": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_40x32_a60e7e0eac9a75e7_6.png": {
+      "image": "tex1_40x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Nunchuk/Stick/Left": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_40x32_bf0e66339a12f23a_6.png": {
+      "image": "tex1_40x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Nunchuk/Stick/Right": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_40x32_e65a03d74465035d_6.png": {
+      "image": "tex1_40x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Nunchuk/Stick/Down": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_64x32_4f0ad2e2995bddb5_5.png": {
+      "image": "tex1_64x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/1": [
+            [
+              0.0,
+              0.0,
+              256.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_64x32_40eb94b9a870f61e_5.png": {
+      "image": "tex1_64x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "D-Pad/Down": [
+            [
+              0.0,
+              0.0,
+              256.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_64x32_47dc2607b727f563_5.png": {
+      "image": "tex1_64x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "D-Pad/Down": [
+            [
+              8.0,
+              8.0,
+              252.0,
+              120.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_64x32_63eacd0666203c96_5.png": {
+      "image": "tex1_64x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "D-Pad/Down": [
+            [
+              0.0,
+              0.0,
+              256.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_64x32_af76096726fc1854_14.png": {
+      "image": "tex1_64x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/1": [
+            [
+              0.0,
+              0.0,
+              256.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_64x32_ec8bc72a0c6b2b7d_5.png": {
+      "image": "tex1_64x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "D-Pad/Down": [
+            [
+              0.0,
+              0.0,
+              256.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_64x64_db014c47357a98a2_5.png": {
+      "image": "tex1_64x64_A.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/A": [
+            [
+              40.0,
+              50.0,
+              206.0,
+              216.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_76x32_6ac1c1da82026c89_5.png": {
+      "image": "tex1_76x32_6ac1c1da82026c89_5.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Nunchuk/Buttons/Z": [
+            [
+              0.0,
+              0.0,
+              106.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_76x32_7fbc4a84faef18ee_5.png": {
+      "image": "tex1_76x32_7fbc4a84faef18ee_5.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Nunchuk/Buttons/Z": [
+            [
+              0.0,
+              0.0,
+              106.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_76x32_23cf53ad89c9fd1b_5.png": {
+      "image": "tex1_76x32_23cf53ad89c9fd1b_5.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Nunchuk/Buttons/Z": [
+            [
+              0.0,
+              0.0,
+              106.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_76x32_70ff98b99f564308_5.png": {
+      "image": "tex1_76x32_70ff98b99f564308_5.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Nunchuk/Buttons/Z": [
+            [
+              0.0,
+              0.0,
+              106.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_76x32_86d6d4197093f397_5.png": {
+      "image": "tex1_76x32_86d6d4197093f397_5.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Nunchuk/Buttons/Z": [
+            [
+              0.0,
+              0.0,
+              106.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_76x32_93dd5118ba11a908_5.png": {
+      "image": "tex1_76x32_93dd5118ba11a908_5.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Nunchuk/Buttons/Z": [
+            [
+              0.0,
+              0.0,
+              106.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_76x32_75914a5d05565cd7_5.png": {
+      "image": "tex1_76x32_75914a5d05565cd7_5.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Nunchuk/Buttons/Z": [
+            [
+              0.0,
+              0.0,
+              106.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_76x32_59808344c616ced7_5.png": {
+      "image": "tex1_76x32_59808344c616ced7_5.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Nunchuk/Buttons/Z": [
+            [
+              0.0,
+              0.0,
+              106.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_76x32_a05f9156a9b8da71_5.png": {
+      "image": "tex1_76x32_a05f9156a9b8da71_5.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Nunchuk/Buttons/Z": [
+            [
+              0.0,
+              0.0,
+              106.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    }
+  }
+}
