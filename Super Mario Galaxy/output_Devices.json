@@ -1,0 +1,266 @@
+{
+  "generated_folder_name": "#Generated_Super Mario Galaxy",
+  "preserve_aspect_ratio": true,
+  "output_textures": {
+    "tex1_128x128_2bc2bcb2db441b70_4.png": {
+      "image": "Wiimote Animations\\Original\\tex1_128x128_2bc2bcb2db441b70_4.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Device": [
+            [
+              0.0,
+              0.0,
+              512.0,
+              512.0
+            ]
+          ]
+        }
+      },
+      "host_controls": {
+		      "DSUClient/1/BetterJoy": {
+				"DSUClient/1/BetterJoy": "Wiimote Animations\\Joy-Con\\tex1_128x128_2bc2bcb2db441b70_4.png"
+			    }
+	    }
+    },
+    "tex1_128x128_75edc338cb298220_4.png": {
+      "image": "Wiimote Animations\\Original\\tex1_128x128_75edc338cb298220_4.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Device": [
+            [
+              0.0,
+              0.0,
+              512.0,
+              512.0
+            ]
+          ]
+        }
+      },
+      "host_controls": {
+		      "DSUClient/1/BetterJoy": {
+				"DSUClient/1/BetterJoy": "Wiimote Animations\\Joy-Con\\tex1_128x128_75edc338cb298220_4.png"
+			    }
+	    }
+    },
+    "tex1_128x128_715a1feea447461b_4.png": {
+      "image": "Wiimote Animations\\Original\\tex1_128x128_715a1feea447461b_4.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Device": [
+            [
+              0.0,
+              0.0,
+              512.0,
+              512.0
+            ]
+          ]
+        }
+      },
+      "host_controls": {
+		      "DSUClient/1/BetterJoy": {
+				"DSUClient/1/BetterJoy": "Wiimote Animations\\Joy-Con\\tex1_128x128_715a1feea447461b_4.png"
+			    }
+	    }
+    },
+    "tex1_128x128_847d41fbcf8b308e_4.png": {
+      "image": "Wiimote Animations\\Original\\tex1_128x128_847d41fbcf8b308e_4.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Device": [
+            [
+              0.0,
+              0.0,
+              512.0,
+              512.0
+            ]
+          ]
+        }
+      },
+      "host_controls": {
+		      "DSUClient/1/BetterJoy": {
+				"DSUClient/1/BetterJoy": "Wiimote Animations\\Joy-Con\\tex1_128x128_847d41fbcf8b308e_4.png"
+			    }
+	    }
+    },
+    "tex1_128x128_5277b75ea1688bd4_4.png": {
+      "image": "Wiimote Animations\\Original\\tex1_128x128_5277b75ea1688bd4_4.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Device": [
+            [
+              0.0,
+              0.0,
+              512.0,
+              512.0
+            ]
+          ]
+        }
+      },
+      "host_controls": {
+		      "DSUClient/1/BetterJoy": {
+				"DSUClient/1/BetterJoy": "Wiimote Animations\\Joy-Con\\tex1_128x128_5277b75ea1688bd4_4.png"
+			    }
+	    }
+    },
+    "tex1_128x128_05692a04cdd9bf97_4.png": {
+      "image": "Wiimote Animations\\Original\\tex1_128x128_05692a04cdd9bf97_4.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Device": [
+            [
+              0.0,
+              0.0,
+              512.0,
+              512.0
+            ]
+          ]
+        }
+      },
+      "host_controls": {
+		      "DSUClient/1/BetterJoy": {
+				"DSUClient/1/BetterJoy": "Wiimote Animations\\Joy-Con\\tex1_128x128_05692a04cdd9bf97_4.png"
+			}
+	    }
+    },
+    "tex1_128x128_a4fc6558152fbf3f_4.png": {
+      "image": "Wiimote Animations\\Original\\tex1_128x128_a4fc6558152fbf3f_4.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Device": [
+            [
+              0.0,
+              0.0,
+              512.0,
+              512.0
+            ]
+          ]
+        }
+      },
+      "host_controls": {
+		      "DSUClient/1/BetterJoy": {
+				"DSUClient/1/BetterJoy": "Wiimote Animations\\Joy-Con\\tex1_128x128_a4fc6558152fbf3f_4.png"
+			}
+	    }
+    },
+    "tex1_128x128_be0696b00ef70b9a_4.png": {
+      "image": "Wiimote Animations\\Original\\tex1_128x128_be0696b00ef70b9a_4.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Device": [
+            [
+              0.0,
+              0.0,
+              512.0,
+              512.0
+            ]
+          ]
+        }
+      },
+      "host_controls": {
+		      "DSUClient/1/BetterJoy": {
+				"DSUClient/1/BetterJoy": "Wiimote Animations\\Joy-Con\\tex1_128x128_be0696b00ef70b9a_4.png"
+			}
+	    }
+    },
+    "tex1_128x128_c165bf4bc64281e7_4.png": {
+      "image": "Wiimote Animations\\Original\\tex1_128x128_c165bf4bc64281e7_4.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Device": [
+            [
+              0.0,
+              0.0,
+              512.0,
+              512.0
+            ]
+          ]
+        }
+      },
+      "host_controls": {
+		      "DSUClient/1/BetterJoy": {
+				"DSUClient/1/BetterJoy": "Wiimote Animations\\Joy-Con\\tex1_128x128_c165bf4bc64281e7_4.png"
+			}
+	    }
+    },
+    "tex1_128x128_c97659147330c75b_4.png": {
+      "image": "Wiimote Animations\\Original\\tex1_128x128_c97659147330c75b_4.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Device": [
+            [
+              0.0,
+              0.0,
+              512.0,
+              512.0
+            ]
+          ]
+        }
+      },
+      "host_controls": {
+		      "DSUClient/1/BetterJoy": {
+				"DSUClient/1/BetterJoy": "Wiimote Animations\\Joy-Con\\tex1_128x128_c97659147330c75b_4.png"
+			}
+	    }
+    },
+    "tex1_128x128_cb5bba45b9574b45_4.png": {
+      "image": "Wiimote Animations\\Original\\tex1_128x128_cb5bba45b9574b45_4.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Device": [
+            [
+              0.0,
+              0.0,
+              512.0,
+              512.0
+            ]
+          ]
+        }
+      },
+      "host_controls": {
+		      "DSUClient/1/BetterJoy": {
+				"DSUClient/1/BetterJoy": "Wiimote Animations\\Joy-Con\\tex1_128x128_cb5bba45b9574b45_4.png"
+			}
+	    }
+    },
+    "tex1_128x128_d2d7f1826bb18c31_4.png": {
+      "image": "Wiimote Animations\\Original\\tex1_128x128_d2d7f1826bb18c31_4.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Device": [
+            [
+              0.0,
+              0.0,
+              512.0,
+              512.0
+            ]
+          ]
+        }
+      },
+      "host_controls": {
+		      "DSUClient/1/BetterJoy": {
+				"DSUClient/1/BetterJoy": "Wiimote Animations\\Joy-Con\\tex1_128x128_d2d7f1826bb18c31_4.png"
+			}
+	    }
+    },
+    "tex1_128x128_dcf98b2b73c4db9f_4.png": {
+      "image": "Wiimote Animations\\Original\\tex1_128x128_dcf98b2b73c4db9f_4.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Device": [
+            [
+              0.0,
+              0.0,
+              512.0,
+              512.0
+            ]
+          ]
+        }
+      },
+      "host_controls": {
+		      "DSUClient/1/BetterJoy": {
+				"DSUClient/1/BetterJoy": "Wiimote Animations\\Joy-Con\\tex1_128x128_dcf98b2b73c4db9f_4.png"
+			}
+	    }
+    }
+  }
+}
