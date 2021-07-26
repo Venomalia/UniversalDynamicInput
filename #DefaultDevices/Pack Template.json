@@ -68,6 +68,9 @@
         },
         {
           "Name": "blank"
+        },
+        {
+          "Name": "Device"
         }
       ],
       "SelectedKey": null
@@ -183,6 +186,52 @@
         },
         {
           "Name": "blank"
+        },
+        {
+          "Name": "Device"
+        }
+      ],
+      "SelectedKey": null
+    },
+    {
+      "$id": "3",
+      "Name": "GBA1",
+      "EmulatedKeys": [
+        {
+          "Name": "Buttons/A"
+        },
+        {
+          "Name": "Buttons/B"
+        },
+        {
+          "Name": "Buttons/L"
+        },
+        {
+          "Name": "Buttons/R"
+        },
+        {
+          "Name": "Buttons/SELECT"
+        },
+        {
+          "Name": "Buttons/START"
+        },
+        {
+          "Name": "D-Pad/Up"
+        },
+        {
+          "Name": "D-Pad/Down"
+        },
+        {
+          "Name": "D-Pad/Left"
+        },
+        {
+          "Name": "D-Pad/Right"
+        },
+        {
+          "Name": "blank"
+        },
+        {
+          "Name": "Device"
         }
       ],
       "SelectedKey": null
