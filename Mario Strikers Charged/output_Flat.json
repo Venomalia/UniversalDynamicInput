@@ -481,23 +481,6 @@
   "generated_folder_name": "#Generated_Mario Strikers Charged",
   "preserve_aspect_ratio": true,
   "output_textures": {
-    "tex1_512x512_4cee7371ef0a517e_27de524a564722af_9.png": {
-      "image": "tex1_512x512_4cee7371ef0a517e_27de524a564722af_9.png",
-      "emulated_controls": {
-        "GCPad1": {
-          "Buttons/A": [
-            [
-              1588.181818181818,
-              1542.7272727272725,
-              1747.272727272727,
-              1705.4545454545453
-            ]
-          ]
-        }
-      }
-    }
-  },
-  "output_textures": {
     "tex1_512x512_8d780bf0c6f0701c_27de524a564722af_9.png": {
       "image": "tex1_512x512_4cee7371ef0a517e_27de524a564722af_9.png",
       "emulated_controls": {
