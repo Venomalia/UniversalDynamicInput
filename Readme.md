@@ -1,5 +1,5 @@
 # Universal Dynamic Input
-[supported games](https://github.com/Venomalia/UniversalDynamicInput/blob/master/Games.md)|[DynamicInputTextureCreator](https://github.com/iwubcode/DolphinDynamicInputTextureCreator)
+[supported games](https://github.com/Venomalia/UniversalDynamicInput/blob/master/Games.md)|[Discord](https://discord.gg/vEQYMPxgSR)|[DynamicInputTextureCreator](https://github.com/iwubcode/DolphinDynamicInputTextureCreator)
 
 This is a custom button package that uses [**Dynamic Input Textures**](https://forums.dolphin-emu.org/Thread-introducing-dynamic-input-textures-a-new-feature-for-controller-icons) to create custom buttons in real time.
 Unlike traditional custom button packs, you can change the contoler settings at any time and in any way you like
@@ -7,6 +7,8 @@ and since it is a function of dolphin, the actual intalation is very simple.
 As the name suggests, I try to support as many games and input devices as possible and not to implement every game perfectly.
 
 I am constantly expanding this project and i am open for suggestions
+
+![Image1](https://i.imgur.com/WIxE3IZ.jpg "Image1")
 
 ##  Installation:
 **Windows**:
@@ -43,6 +45,8 @@ Mario Sunshine, Mario Kart Wii, F-Zero GX and Super Mario Galaxy1&2 and more.
 This means that your controller is not recognised or the button cannot be assigned.
 - [InputSyntax]( https://wiki.dolphin-emu.org/index.php?title=Input_Syntax) is not possible, only individual buttons are recognised.
 - The contoler is not **port_1** for GC or **Wiimote_1** for Wii? Check Contoller settings.
+- If you use BetterJoy, DS4Windows or any other DSUClient you have to name them correctly. Enter Controller Settings > alternative input sources
+  Use the name "DualShock4" or "BetterJoy" for Switch controllers.
 - You are using the wrong device or it is not supported? Check Supported Devices list.
   or you have several controllers? currently only the first one is supported!
   use **"XInput_0_Gamepad"** not **"XInput_1_Gamepad"**
