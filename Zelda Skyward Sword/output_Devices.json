@@ -1,0 +1,352 @@
+{
+  "generated_folder_name": "#Generated_Zelda Skyward Sword",
+  "preserve_aspect_ratio": true,
+  "output_textures": {
+    "tex1_24x48_067e48be777b2a3c_2.png": {
+      "image": "tex1_24x48_067e48be777b2a3c_2.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Device": [
+            [
+              0.0,
+              0.0,
+              96.0,
+              192.0
+            ]
+          ]
+        }
+      },
+      "host_controls": {
+		      "DSUClient/1/BetterJoy": {
+				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\IconN_Right.png"
+			    },
+		      "XInput/0/Gamepad": {
+				"XInput/0/Gamepad": "..\\#DefaultDevices\\XBOX ONE\\Device\\Icon-Simple_90.png"
+			    },
+		      "DSUClient/0/DualShock4": {
+				"DSUClient/0/DualShock4": "..\\#DefaultDevices\\XBOX ONE\\Device\\Icon-Simple_90.png"
+			    }
+	    }
+    },
+    "tex1_40x44_32dc40ed344d52a7_2.png": {
+      "image": "tex1_40x44_32dc40ed344d52a7_2.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Device": [
+            [
+              0.0,
+              0.0,
+              160.0,
+              176.0
+            ]
+          ]
+        }
+      },
+      "host_controls": {
+		      "DSUClient/1/BetterJoy": {
+				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Move_Pointer_Up.png"
+			    }
+	    }
+    },
+    "tex1_20x48_4392a4bcf319b01c_1.png": {
+      "image": "tex1_20x48_4392a4bcf319b01c_1.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Device": [
+            [
+              0.0,
+              0.0,
+              40.0,
+              96.0
+            ]
+          ]
+        }
+      },
+      "host_controls": {
+		      "DSUClient/1/BetterJoy": {
+				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Icon-Simple_Right.png"
+			    }
+	    }
+    },
+    "tex1_40x40_7e05321e5e8d6005_2.png": {
+      "image": "tex1_40x40_7e05321e5e8d6005_2.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Device": [
+            [
+              0.0,
+              0.0,
+              160.0,
+              160.0
+            ]
+          ]
+        }
+      },
+      "host_controls": {
+		      "DSUClient/1/BetterJoy": {
+				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Move_Pointer_Right.png"
+			    }
+	    }
+    },
+    "tex1_44x28_568c285e8159c5cc_2.png": {
+      "image": "tex1_44x28_568c285e8159c5cc_2.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Device": [
+            [
+              0.0,
+              0.0,
+              176.0,
+              112.0
+            ]
+          ]
+        }
+      },
+      "host_controls": {
+		      "DSUClient/1/BetterJoy": {
+				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Move_Pointer_Down.png"
+			    }
+	    }
+    },
+    "tex1_48x36_46f71914e5c27906_2.png": {
+      "image": "tex1_48x36_46f71914e5c27906_2.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Device": [
+            [
+              0.0,
+              0.0,
+              192.0,
+              144.0
+            ]
+          ]
+        }
+      },
+      "host_controls": {
+		      "DSUClient/1/BetterJoy": {
+				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Move_Pointer_Center.png"
+			    }
+	    }
+    },
+    "tex1_48x44_85adb71cd1ad1d94_2.png": {
+      "image": "tex1_48x44_85adb71cd1ad1d94_2.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Device": [
+            [
+              0.0,
+              0.0,
+              192.0,
+              176.0
+            ]
+          ]
+        }
+      },
+      "host_controls": {
+		      "DSUClient/1/BetterJoy": {
+				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Move_Pointer_Up.png"
+			    }
+	    }
+    },
+    "tex1_52x32_13f38c9654305d3c_2.png": {
+      "image": "tex1_52x32_13f38c9654305d3c_2.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Device": [
+            [
+              0.0,
+              0.0,
+              208.0,
+              128.0
+            ]
+          ]
+        }
+      },
+      "host_controls": {
+		      "DSUClient/1/BetterJoy": {
+				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Move_Pointer_Left.png"
+			    }
+	    }
+    },
+    "tex1_28x52_a1d0d6f8220b27b1_2.png": {
+      "image": "tex1_28x52_a1d0d6f8220b27b1_2.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Device": [
+            [
+              0.0,
+              0.0,
+              112.0,
+              208.0
+            ]
+          ]
+        }
+      },
+      "host_controls": {
+		      "DSUClient/1/BetterJoy": {
+				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Move_Pointer_RightUp.png"
+			    }
+	    }
+    },
+    "tex1_36x44_d3d2e89ba15dd951_2.png": {
+      "image": "tex1_36x44_d3d2e89ba15dd951_2.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Device": [
+            [
+              0.0,
+              0.0,
+              144.0,
+              176.0
+            ]
+          ]
+        }
+      },
+      "host_controls": {
+		      "DSUClient/1/BetterJoy": {
+				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Move_Pointer_Right.png"
+			    }
+	    }
+    },
+    "tex1_20x48_7d92dfd29ea27b7f_3.png": {
+      "image": "tex1_20x48_7d92dfd29ea27b7f_3.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Device": [
+            [
+              0.0,
+              0.0,
+              80.0,
+              192.0
+            ]
+          ]
+        }
+      },
+      "host_controls": {
+		      "DSUClient/1/BetterJoy": {
+				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Move_Extensions.png"
+			    }
+	    }
+    },
+    "tex1_24x44_0fd8ae8928cf0e1e_3.png": {
+      "image": "tex1_24x44_0fd8ae8928cf0e1e_3.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Device": [
+            [
+              0.0,
+              0.0,
+              96.0,
+              176.0
+            ]
+          ]
+        }
+      },
+      "host_controls": {
+		      "DSUClient/1/BetterJoy": {
+				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Move_Extensions.png"
+			    }
+	    }
+    },
+    "tex1_28x48_14f5e676eebb3eee_3.png": {
+      "image": "tex1_28x48_14f5e676eebb3eee_3.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Device": [
+            [
+              0.0,
+              0.0,
+              112.0,
+              192.0
+            ]
+          ]
+        }
+      },
+      "host_controls": {
+		      "DSUClient/1/BetterJoy": {
+				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Move_Extensions.png"
+			    }
+	    }
+    },
+    "tex1_28x40_59a30af3f63c35e1_3.png": {
+      "image": "tex1_28x40_59a30af3f63c35e1_3.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Device": [
+            [
+              0.0,
+              0.0,
+              112.0,
+              160.0
+            ]
+          ]
+        }
+      },
+      "host_controls": {
+		      "DSUClient/1/BetterJoy": {
+				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Move_Extensions2.png"
+			    }
+	    }
+    },
+    "tex1_36x44_30031893d43b404f_2.png": {
+      "image": "tex1_36x44_30031893d43b404f_2.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Device": [
+            [
+              0.0,
+              0.0,
+              144.0,
+              176.0
+            ]
+          ]
+        }
+      },
+      "host_controls": {
+		      "DSUClient/1/BetterJoy": {
+				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Move_Deep_Down.png"
+			    }
+	    }
+    },
+    "tex1_40x28_bc3648faeb7132b0_2.png": {
+      "image": "tex1_40x28_bc3648faeb7132b0_2.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Device": [
+            [
+              0.0,
+              0.0,
+              160.0,
+              112.0
+            ]
+          ]
+        }
+      },
+      "host_controls": {
+		      "DSUClient/1/BetterJoy": {
+				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Move_Deep_Up.png"
+			    }
+	    }
+    },
+    "tex1_28x48_5d0e204c098cfcdb_2.png": {
+      "image": "tex1_28x48_5d0e204c098cfcdb_2.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Device": [
+            [
+              0.0,
+              0.0,
+              112.0,
+              192.0
+            ]
+          ]
+        }
+      },
+      "host_controls": {
+		      "DSUClient/1/BetterJoy": {
+				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Move_180.png"
+			    }
+	    }
+    }
+  }
+}

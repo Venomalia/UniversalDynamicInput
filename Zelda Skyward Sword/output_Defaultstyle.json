@@ -485,7 +485,7 @@
       "image": "tex1_24x36_801ae95733b7a575_3.png",
       "emulated_controls": {
         "Wiimote1": {
-          "D-Pad/Up": [
+          "D-Pad/Up_N": [
             [
               0.0,
               0.0,
@@ -500,7 +500,7 @@
       "image": "tex1_32x24_0db700c296db76c7_3.png",
       "emulated_controls": {
         "Wiimote1": {
-          "D-Pad/Left": [
+          "D-Pad/Left_N": [
             [
               0.0,
               0.0,
