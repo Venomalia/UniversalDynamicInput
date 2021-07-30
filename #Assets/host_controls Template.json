@@ -1,6 +1,7 @@
 {
 "default_host_controls": {
 	"XInput/0/Gamepad": {
+		  "XInput/0/Gamepad": "..\\#DefaultDevices\\XBOX ONE\\Device\\Icon.png",
           "`Button B`": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Button B.png",
           "`Button A`": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Button A.png",
           "`Shoulder L`": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Shoulder L.png",
@@ -50,6 +51,7 @@
           "Button Back": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Back.png"
         },
 	"DInput/0/Bluetooth LE XINPUT compatible input device": {
+		  "DInput/0/Bluetooth LE XINPUT compatible input device": "..\\#DefaultDevices\\XBOX ONE\\Device\\Icon.png",
           "`Button 0`": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Button A.png",
           "`Button 1`": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Button B.png",
           "`Button 2`": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Button X.png",
@@ -214,6 +216,7 @@
           "SUBTRACT": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\MINUS.png"
         },
     "DSUClient/0/DualShock4": {
+		  "DSUClient/0/DualShock4": "..\\#DefaultDevices\\DualShock4\\Device\\Icon.png",
           "`Circle`": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Circle.png",
           "`Cross`": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Cross.png",
           "`L1`": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\L1.png",
@@ -257,6 +260,7 @@
           "Touch Button": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Touchpad.png"
         },
     "DSUClient/0/BetterJoy": {
+		  "DSUClient/0/BetterJoy": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon.png",
           "`Circle`": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Button A.png",
           "`Cross`": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Button B.png",
           "`L1`": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\L.png",
@@ -298,6 +302,7 @@
           "Triangle": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Button X.png"
         },
     "DSUClient/1/BetterJoy": {
+		  "DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Icon.png",
           "`Circle`": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle\\Button A.png",
           "`Cross`": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle\\Button B.png",
           "`L1`": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle\\L.png",
@@ -339,6 +344,7 @@
           "Triangle": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle\\Button X.png"
         },
 		"DInput/0/Wireless Gamepad": {
+		  "DInput/0/Wireless Gamepad": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon.png",
           "`Button 0`": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Button B.png",
           "`Button 1`": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Button A.png",
           "`Button 2`": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Button Y.png",
@@ -367,6 +373,7 @@
           "`Axis Yr-`": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Right Y+.png"
         },
 		"DInput/0/Wireless Controller": {
+		    "DInput/0/Wireless Controller": "..\\#DefaultDevices\\DualShock4\\Device\\Icon.png",
 			"`Button 0`": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Square.png",
 			"`Button 1`": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Cross.png",
 			"`Button 2`": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Circle.png",
