@@ -18,7 +18,7 @@
       },
       "host_controls": {
 		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\IconN_Right.png"
+				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Move.png"
 			    },
 		      "XInput/0/Gamepad": {
 				"XInput/0/Gamepad": "..\\#DefaultDevices\\XBOX ONE\\Device\\Icon-Simple_90.png"
@@ -345,6 +345,86 @@
       "host_controls": {
 		      "DSUClient/1/BetterJoy": {
 				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Move_180.png"
+			    }
+	    }
+    },
+    "tex1_52x32_acb485bcb991089a_2.png": {
+      "image": "tex1_52x32_acb485bcb991089a_2.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Device": [
+            [
+              0.0,
+              0.0,
+              208.0,
+              128.0
+            ]
+          ]
+        }
+      },
+      "host_controls": {
+		      "DSUClient/1/BetterJoy": {
+				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Move_90.png"
+			    }
+	    }
+    },
+    "tex1_28x36_9541d6ec7ca2723d_2.png": {
+      "image": "tex1_28x36_9541d6ec7ca2723d_2.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Device": [
+            [
+              0.0,
+              0.0,
+              112.0,
+              144.0
+            ]
+          ]
+        }
+      },
+      "host_controls": {
+		      "DSUClient/1/BetterJoy": {
+				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Move_Roll_Left.png"
+			    }
+	    }
+    },
+    "tex1_36x36_427b958161bfdd20_2.png": {
+      "image": "tex1_36x36_427b958161bfdd20_2.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Device": [
+            [
+              0.0,
+              0.0,
+              144.0,
+              144.0
+            ]
+          ]
+        }
+      },
+      "host_controls": {
+		      "DSUClient/1/BetterJoy": {
+				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Move_Roll_Left.png"
+			    }
+	    }
+    },
+    "tex1_48x36_3ec5cea34e7f8342_2.png": {
+      "image": "tex1_48x36_3ec5cea34e7f8342_2.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Device": [
+            [
+              0.0,
+              0.0,
+              192.0,
+              144.0
+            ]
+          ]
+        }
+      },
+      "host_controls": {
+		      "DSUClient/1/BetterJoy": {
+				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Move_Roll_Left.png"
 			    }
 	    }
     }
