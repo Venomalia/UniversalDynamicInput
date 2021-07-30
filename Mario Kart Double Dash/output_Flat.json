@@ -555,6 +555,36 @@
           ]
         }
       }
+    },
+    "tex1_32x32_dd6d7cfd39bb41ca_2.png": {
+      "image": "tex1_32x32_dd6d7cfd39bb41ca_2.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Triggers/L": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_c6ce2e74ccb90b34_2.png": {
+      "image": "tex1_32x32_c6ce2e74ccb90b34_2.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Triggers/R": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
     }
   }
 }
