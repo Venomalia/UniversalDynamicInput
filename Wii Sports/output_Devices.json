@@ -1,0 +1,32 @@
+{
+  "generated_folder_name": "#Generated_Wii Sports",
+  "preserve_aspect_ratio": true,
+  "output_textures": {
+    "tex1_128x32_e9c895729832af8b_3.png": {
+      "image": "tex1_128x32_e9c895729832af8b_3.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Device": [
+            [
+              0.0,
+              0.0,
+              512.0,
+              128.0
+            ]
+          ]
+        }
+      },
+      "host_controls": {
+		      "DSUClient/1/BetterJoy": {
+				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\3D-Side_pointing.png"
+			    },
+		      "XInput/0/Gamepad": {
+				"XInput/0/Gamepad": "..\\#DefaultDevices\\XBOX ONE\\Device\\3D-front from above.png"
+			    },
+		      "DSUClient/0/DualShock4": {
+				"DSUClient/0/DualShock4": "..\\#DefaultDevices\\XBOX ONE\\Device\\3D-front from above.png"
+			    }
+	    }
+    }
+  }
+}

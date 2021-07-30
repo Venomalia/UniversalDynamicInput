@@ -481,8 +481,23 @@
   "generated_folder_name": "#Generated_Wii Sports",
   "preserve_aspect_ratio": true,
   "output_textures": {
+    "tex1_32x32_b392fadff120ab9e_2.png": {
+      "image": "tex1_32x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/B": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
     "tex1_32x32_da186bbb97ef8e55_3.png": {
-      "image": "tex1_32x32_da186bbb97ef8e55_3.png",
+      "image": "tex1_32x32.png",
       "emulated_controls": {
         "Wiimote1": {
           "Buttons/B": [
@@ -508,7 +523,7 @@
               128.0
             ],
             [
-              1248.0,
+              1250.0,
               0.0,
               1344.0,
               128.0
@@ -530,9 +545,9 @@
           ],
           "Buttons/A": [
             [
-              1144.0,
+              1146.0,
               0.0,
-              1247.7263427109974,
+              1244.0,
               128.0
             ]
           ],
