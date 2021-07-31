@@ -12,6 +12,7 @@ PAL, NTSC-U and NTSC-J versions are supported.
 - Eternal Darkness
 - Fire Emblem Path of Radiance
 - F-ZERO GX
+- Harvest Moon A Wonderful Life (EN,DE)
 - Kirby Air Ride
 - Luigis Mansion
 - Mario Golf Toadstool Tour
@@ -37,6 +38,7 @@ PAL, NTSC-U and NTSC-J versions are supported.
 - Prince of Persia The Two Thrones
 - Prince of Persia Warrior Within
 - Rayman 3
+- Resident Evil 4
 - Shadow the Hedgehog
 - Shrek SuperSlam
 - Shadow the Hedgehog
@@ -117,8 +119,13 @@ PAL, NTSC-U and NTSC-J versions are supported.
 
 ### Virtual Console
 - Mario Party 2
+- Paper Mario
 - Pokémon Snap
 - Super Smash Bros
 - Super Mario 64
 - Zelda Majora's Mask
 - Zelda Ocarina of Time
+- [HACK] The Fate of the Bombiwa
+- [HACK] Zelda Dawn & Dusk
+- [HACK] Zelda Nimpize Adventure
+- [HACK] Zelda The Missing Link
