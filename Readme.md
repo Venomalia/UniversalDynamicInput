@@ -8,14 +8,14 @@ As the name suggests, I try to support as many games and input devices as possib
 
 I am constantly expanding this project and i am open for suggestions
 
+### [Download](https://github.com/Venomalia/UniversalDynamicInput/releases)
 
 ##  Installation:
 **Windows**:
 - you need Dolphin 5.0-13603 or [newer](https://de.dolphin-emu.org/download/).
 - Place the **"DynamicInputTextures"** folder into Dolphin's **"load"** directory,
- `"%UserName%\Documents\Dolphin Emulator\Load"`
- or when in portebel mode (portable.txt),
-`Dolphin directory "\User\Load"`
+`"%UserName%\Documents\Dolphin Emulator\Load"`
+or when in portebel mode (portable.txt),`Dolphin directory "\User\Load"`
 - Open Dolphin, enter Graphics > Advanced tab > Check Load Custom Textures.
 - If it does not work immediately, please check your Contoller settings.
 
@@ -38,7 +38,7 @@ Before **updating**, the old installation should be removed.
 - **DInput/0/Wireless Controller** - DualShock4
 - **DInput/0/USB GamePad** - General DInput
 
-#### DevicesTextureChanger
+### DevicesTextureChanger
 With the **DevicesTextureChanger.bat** in **#DefaultDevices** you can exchange certain devices.
 
 ## Known Issues
@@ -51,19 +51,19 @@ Mario Sunshine, Mario Kart Wii, F-Zero GX and Super Mario Galaxy1&2 and more.
 #### does it work with texture packs?
 Yes, there are no known problems.
 
-#### does it work with netplay?
+### does it work with netplay?
 Yes, but there can be problems with wii games because only player 1 can use Wii Remote 1.
 
-####The textures do not fit for my controller
+### The textures do not fit for my controller
 try the [DevicesTextureChanger](https://github.com/Venomalia/UniversalDynamicInput#DevicesTextureChanger).
 
-#### do you accept game suggestions?
+### do you accept game suggestions?
 yes but i need the [texture dumps](https://forums.dolphin-emu.org/Thread-how-to-install-texture-packs-custom-textures-info) to implement it. dumps can send to me via [Discord](https://discord.gg/vEQYMPxgSR).
 
-#### Dolphin closes when I try to start my game.
+### Dolphin closes when I try to start my game.
 probably the pack is faulty, report the pack with the controller used.
 
-#### I See ? Buttens,
+### I See ? Buttens,
 This means that your controller is not recognised or the button cannot be assigned.
 - [InputSyntax]( https://wiki.dolphin-emu.org/index.php?title=Input_Syntax) is not possible, only individual buttons are recognised.
 - The contoler is not **port_1** for GC or **Wiimote_1** for Wii? Check Contoller settings.
@@ -73,7 +73,7 @@ This means that your controller is not recognised or the button cannot be assign
   or you have several controllers? currently only the first one is supported!
   use **"XInput_0_Gamepad"** not **"XInput_1_Gamepad"**
 
-#### I do not see any changes,
+### I do not see any changes,
 - is the game [supported](https://github.com/Venomalia/UniversalDynamicInput/blob/master/Games.md)?
 - Are custom textures active? Open Dolphin, enter Graphics > Advanced tab > Check **Load Custom Textures**.
 - You are using the wrong device or it is not supported? Check [Supported Inputs Devices](https://github.com/Venomalia/UniversalDynamicInput#supported-inputs-devices).
@@ -82,7 +82,7 @@ This means that your controller is not recognised or the button cannot be assign
 check Dolphin's `"load\Textures\"` directory a `#Generated_<GameName>` directory should be existing!
 If it doesn't, you must have done something wrong.
 
-#### where can i ask questions?
+### where can i ask questions?
 you can use [Discord](https://discord.gg/vEQYMPxgSR) or [thread](https://forums.dolphin-emu.org/Thread-universal-dynamic-input-texture-pack) in dolphin forum.
 
 ## Credits:
@@ -90,7 +90,7 @@ you can use [Discord](https://discord.gg/vEQYMPxgSR) or [thread](https://forums.
 [iwubcode](https://github.com/iwubcode) for this great feature.
 and to all helpers for beta-tests, feedback, texture-dumps and other improvements.
 
-Super Mario Galaxy [1](https://forums.dolphin-emu.org/Thread-super-mario-galaxy-1-hd-texture-mod) & [2](https://forums.dolphin-emu.org/Thread-super-mario-galaxy-2-hd-texture-mod) UI assets a created by **Razius**.
+Super Mario Galaxy [1](https://forums.dolphin-emu.org/Thread-super-mario-galaxy-1-hd-texture-mod)&[2](https://forums.dolphin-emu.org/Thread-super-mario-galaxy-2-hd-texture-mod) UI assets a created by **Razius**.
 
 Phantasy Star Online 1&2UI assets a created by [LutheeMajestic](https://forums.dolphin-emu.org/Thread-phantasy-star-online-episode-i-ii-hd-ui-project).
 
