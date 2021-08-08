@@ -1505,6 +1505,121 @@
           ]
         }
       }
+    },
+    "tex1_186x82_5ad66c91190ff869_5.png": {
+      "image": "tex1_186x82_5ad66c91190ff869_5.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/Start": [
+            [
+              204.0,
+              192.0,
+              288.0,
+              276.0
+            ]
+          ],
+          "Buttons/Z": [
+            [
+              518.0,
+              154.0,
+              640.0,
+              238.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_186x82_06a9a6012cf5a215_5.png": {
+      "image": "tex1_186x82_06a9a6012cf5a215_5.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/Start": [
+            [
+              204.0,
+              192.0,
+              288.0,
+              276.0
+            ]
+          ],
+          "Buttons/Z": [
+            [
+              518.0,
+              154.0,
+              640.0,
+              238.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_186x82_48d4cde5dc75ca35_5.png": {
+      "image": "tex1_186x82_48d4cde5dc75ca35_5.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/Start": [
+            [
+              204.0,
+              192.0,
+              288.0,
+              276.0
+            ]
+          ],
+          "Buttons/Z": [
+            [
+              518.0,
+              154.0,
+              640.0,
+              238.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_186x82_875cf3f265c5af43_5.png": {
+      "image": "tex1_186x82_875cf3f265c5af43_5.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/Start": [
+            [
+              204.0,
+              192.0,
+              288.0,
+              276.0
+            ]
+          ],
+          "Buttons/Z": [
+            [
+              518.0,
+              154.0,
+              640.0,
+              238.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_186x82_2700ea036096622b_5.png": {
+      "image": "tex1_186x82_2700ea036096622b_5.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/Start": [
+            [
+              204.0,
+              192.0,
+              288.0,
+              276.0
+            ]
+          ],
+          "Buttons/Z": [
+            [
+              518.0,
+              154.0,
+              640.0,
+              238.0
+            ]
+          ]
+        }
+      }
     }
   }
 }
