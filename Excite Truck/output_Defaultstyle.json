@@ -509,6 +509,112 @@
           ]
         }
       }
+    },
+    "tex1_256x256_0634e94b2685e32f_14.png": {
+      "image": "tex1_256x256_0634e94b2685e32f_14.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Tilt/Forward": [
+            [
+              0.0,
+              0.0,
+              256.0,
+              256.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_256x256_03640b0be99adfdb_0.png": {
+      "image": "tex1_256x256_03640b0be99adfdb_0.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Tilt/Backward": [
+            [
+              0.0,
+              0.0,
+              256.0,
+              256.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_256x256_4777c6b5e1bc0bb0_14.png": {
+      "image": "tex1_256x256_4777c6b5e1bc0bb0_14.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Tilt/Backward": [
+            [
+              0.0,
+              0.0,
+              256.0,
+              256.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_256x256_bcd76be7ae0d53e9_0.png": {
+      "image": "tex1_256x256_bcd76be7ae0d53e9_0.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Tilt/Forward": [
+            [
+              0.0,
+              0.0,
+              256.0,
+              256.0
+            ]
+          ]
+        }
+      }
+    },
+	"tex1_256x256_3770fbba3c6938f0_0.png": {
+      "image": "tex1_256x256_3770fbba3c6938f0_0.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Tilt/Right": [
+            [
+              128.0,
+              0.0,
+              256.0,
+              202.0
+            ]
+          ],
+          "Tilt/Left": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              202.0
+            ]
+          ]
+        }
+      }
+    },
+	"tex1_256x256_80b75d80ad2492d5_14.png": {
+      "image": "tex1_256x256_80b75d80ad2492d5_14.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Tilt/Right": [
+            [
+              128.0,
+              0.0,
+              256.0,
+              202.0
+            ]
+          ],
+          "Tilt/Left": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              202.0
+            ]
+          ]
+        }
+      }
     }
   }
 }

@@ -115,6 +115,7 @@ PAL, NTSC-U and NTSC-J versions are supported.
 
 ### Wii Ware
 - Bomberman Blast
+- Excite Truck
 - FAST Racing League
 
 ### Virtual Console
