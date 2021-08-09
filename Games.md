@@ -74,6 +74,7 @@ PAL, NTSC-U and NTSC-J versions are supported.
 - FIFA 15 Legacy Edition
 - Fire Emblem Radiant Dawn
 - Fragile Dreams
+- Kirby's Return to Dreamland
 - Mario Kart Wii
 - Mario Party 8
 - Mario Party 9
