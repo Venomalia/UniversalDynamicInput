@@ -17,7 +17,8 @@ Unlike traditional button packages, you can change the control settings at any t
 - Open Dolphin, enter Graphics > Advanced tab > Check `Load Custom Textures`.
 
 As soon as you start a [supported game](https://github.com/Venomalia/UniversalDynamicInput/wiki/Supported-games), Dolphin should generate and load the textures.
-If it does not work, try this [guide](https://github.com/Venomalia/UniversalDynamicInput/wiki/Problem-solving).
+
+If it not work, try this [guide](https://github.com/Venomalia/UniversalDynamicInput/wiki/Problem-solving).
 
 ##  Screenshots:
 ![Image1](https://i.imgur.com/WIxE3IZ.jpg "Image1")
@@ -46,7 +47,7 @@ try this [guide](https://github.com/Venomalia/UniversalDynamicInput/wiki/Create-
 you can use [Discord](https://discord.gg/vEQYMPxgSR) or [thread](https://forums.dolphin-emu.org/Thread-universal-dynamic-input-texture-pack) in dolphin forum.
 
 ## Credits:
-###[Contributors](https://github.com/Venomalia/UniversalDynamicInput/graphs/contributors)
+### [Contributors](https://github.com/Venomalia/UniversalDynamicInput/graphs/contributors)
 
 ### Special thanks:
 [iwubcode](https://github.com/iwubcode) for this great feature.
