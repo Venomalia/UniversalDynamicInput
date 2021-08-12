@@ -1,0 +1,45 @@
+{
+  "generated_folder_name": "#Generated_Need for Speed Carbon",
+  "preserve_aspect_ratio": true,
+  "output_textures": {
+    "tex1_256x256_m_facf56c28bb55699_6.png": {
+      "image": "tex1_256x256_m_facf56c28bb55699_6.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Device": [
+            [
+              36.0,
+              78.0,
+              221.0,
+              190.0
+            ]
+          ]
+        }
+      },
+      "host_controls": {
+		      "DSUClient/1/BetterJoy": {
+				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Icon-Simple.png"
+			    },
+		      "DSUClient/0/BetterJoy": {
+				"DSUClient/0/BetterJoy": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon-Simple.png"
+			    },
+		      "DInput/0/Wireless Gamepad": {
+				"DInput/0/Wireless Gamepad": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon-Simple.png"
+			    },
+		      "XInput/0/Gamepad": {
+				"XInput/0/Gamepad": "..\\#DefaultDevices\\XBOX ONE\\Device\\Icon-Simple.png"
+			    },
+		      "DInput/0/Bluetooth LE XINPUT compatible input device": {
+				"DInput/0/Bluetooth LE XINPUT compatible input device": "..\\#DefaultDevices\\XBOX ONE\\Device\\Icon-Simple.png"
+			    },
+		      "DSUClient/0/DualShock4": {
+				"DSUClient/0/DualShock4": "..\\#DefaultDevices\\DualShock4\\Device\\Icon-Simple.png"
+			    },
+		      "DInput/0/Wireless Controller": {
+				"DInput/0/Wireless Controller": "..\\#DefaultDevices\\DualShock4\\Device\\Icon-Simple.png"
+			    }
+	    }
+	  
+    }
+  }
+}
