@@ -1,17 +1,14 @@
 # Universal Dynamic Input
 [Wiki](https://github.com/Venomalia/UniversalDynamicInput/wiki) | [Discord](https://discord.gg/vEQYMPxgSR) | [Changelog](https://github.com/Venomalia/UniversalDynamicInput/blob/main/Changelog.md) | [DynamicInputTextureCreator Tool](https://github.com/Venomalia/DolphinDynamicInputTextureCreator/releases) | [Dolphin forum](https://forums.dolphin-emu.org/Thread-universal-dynamic-input-texture-pack)
 
-This is a custom button package that uses [**Dynamic Input Textures**](https://forums.dolphin-emu.org/Thread-introducing-dynamic-input-textures-a-new-feature-for-controller-icons) to create custom buttons in real time. 
-Unlike traditional button packages, you can change the control settings at any time and there are no problems with texture packs.
-I try to support as many games and input devices as possible and not to implement every game perfectly.
-
-I am constantly expanding this project and i am open for suggestions
+**UniversalDynamicInput** is a custom button package for [dolphin emulator](https://dolphin-emu.org/) it uses [dynamic input textures](https://forums.dolphin-emu.org/Thread-introducing-dynamic-input-textures-a-new-feature-for-controller-icons) to create custom buttons in real time.
+Unlike traditional button packages, you can change the control settings at any time and there are no problems with texture packages.
 
 ### [Download](https://github.com/Venomalia/UniversalDynamicInput/releases)
 
 ##  [Installation](https://github.com/Venomalia/UniversalDynamicInput/wiki/Installation):
 - Dolphin 5.0-13603 or [newer](https://de.dolphin-emu.org/download/).
-- The last [release](https://github.com/Venomalia/UniversalDynamicInput/releases).
+- The last [release](https://github.com/Venomalia/UniversalDynamicInput/releases) of UniversalDynamicInput.
 - at least one [Supported game](https://github.com/Venomalia/UniversalDynamicInput/wiki/Supported-games)
 - at least one [Supported Device](https://github.com/Venomalia/UniversalDynamicInput/wiki/Supported-Inputs-Devices)
 - Place the **DynamicInputTextures** folder into Dolphin's **Load** directory,
@@ -49,6 +46,8 @@ try this [guide](https://github.com/Venomalia/UniversalDynamicInput/wiki/Create-
 you can use [Discord](https://discord.gg/vEQYMPxgSR) or [thread](https://forums.dolphin-emu.org/Thread-universal-dynamic-input-texture-pack) in dolphin forum.
 
 ## Credits:
+###[Contributors](https://github.com/Venomalia/UniversalDynamicInput/graphs/contributors)
+
 ### Special thanks:
 [iwubcode](https://github.com/iwubcode) for this great feature.
 and to all helpers for beta-tests, feedback, texture-dumps and other improvements.
@@ -56,8 +55,6 @@ and to all helpers for beta-tests, feedback, texture-dumps and other improvement
 Super Mario Galaxy [1](https://forums.dolphin-emu.org/Thread-super-mario-galaxy-1-hd-texture-mod)&[2](https://forums.dolphin-emu.org/Thread-super-mario-galaxy-2-hd-texture-mod) UI assets a created by **Razius**.
 
 Phantasy Star Online 1&2UI assets a created by [LutheeMajestic](https://forums.dolphin-emu.org/Thread-phantasy-star-online-episode-i-ii-hd-ui-project).
-
-I use waifu2x for some UI elements.
 
 ## License: CC BY 4.0
 [![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
