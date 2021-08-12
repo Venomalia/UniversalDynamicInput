@@ -706,6 +706,66 @@
         }
       }
     },
+    "tex1_28x28_4e309c0686c66d11_346420438ad18336_9.png": {
+      "image": "tex1_28x28_4e309c0686c66d11_346420438ad18336_9.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "D-Pad/Right": [
+            [
+              0.0,
+              0.0,
+              112.0,
+              112.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_28x28_4253f7a8d7af1546_3ebadba04ac9525b_9.png": {
+      "image": "tex1_28x28_4253f7a8d7af1546_3ebadba04ac9525b_9.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "D-Pad/Down": [
+            [
+              0.0,
+              0.0,
+              112.0,
+              112.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_28x28_7410fe89fe2fd7be_4e66e00c5f401f76_9.png": {
+      "image": "tex1_28x28_7410fe89fe2fd7be_4e66e00c5f401f76_9.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "D-Pad/Left": [
+            [
+              0.0,
+              0.0,
+              112.0,
+              112.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_28x28_c479c0216bdacb76_d018d23b220b3200_9.png": {
+      "image": "tex1_28x28_c479c0216bdacb76_d018d23b220b3200_9.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "D-Pad/Up": [
+            [
+              0.0,
+              0.0,
+              112.0,
+              112.0
+            ]
+          ]
+        }
+      }
+    },
     "tex1_28x28_cd3a9305768df0c7_999d3f90c2b0ff72_8.png": {
       "image": "tex1_28x28.png",
       "emulated_controls": {
