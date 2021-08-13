@@ -18,26 +18,182 @@
       },
       "host_controls": {
 		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Icon-Simple.png"
+				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\3D-Left side.png"
 			    },
 		      "DSUClient/0/BetterJoy": {
-				"DSUClient/0/BetterJoy": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon-Simple.png"
+				"DSUClient/0/BetterJoy": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon.png"
 			    },
 		      "DInput/0/Wireless Gamepad": {
-				"DInput/0/Wireless Gamepad": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon-Simple.png"
+				"DInput/0/Wireless Gamepad": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon.png"
 			    },
 		      "XInput/0/Gamepad": {
-				"XInput/0/Gamepad": "..\\#DefaultDevices\\XBOX ONE\\Device\\Icon-Simple.png"
+				"XInput/0/Gamepad": "..\\#DefaultDevices\\XBOX ONE\\Device\\3D-front from above.png"
 			    },
 		      "DInput/0/Bluetooth LE XINPUT compatible input device": {
-				"DInput/0/Bluetooth LE XINPUT compatible input device": "..\\#DefaultDevices\\XBOX ONE\\Device\\Icon-Simple.png"
+				"DInput/0/Bluetooth LE XINPUT compatible input device": "..\\#DefaultDevices\\XBOX ONE\\Device\\3D-front from above.png"
 			    },
 		      "DSUClient/0/DualShock4": {
-				"DSUClient/0/DualShock4": "..\\#DefaultDevices\\DualShock4\\Device\\Icon-Simple.png"
+				"DSUClient/0/DualShock4": "..\\#DefaultDevices\\DualShock4\\Device\\3D-front from above.png"
 			    },
 		      "DInput/0/Wireless Controller": {
-				"DInput/0/Wireless Controller": "..\\#DefaultDevices\\DualShock4\\Device\\Icon-Simple.png"
-			    }
+				"DInput/0/Wireless Controller": "..\\#DefaultDevices\\DualShock4\\Device\\3D-front from above.png"
+			}
+	    }
+	  
+    },
+    "tex1_256x256_m_42bf40a483cd23d4_6.png": {
+      "image": "tex1_256x256_m_42bf40a483cd23d4_6.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Device": [
+            [
+              0.0,
+              22.0,
+              256.0,
+              206.0
+            ]
+          ]
+        }
+      },
+      "host_controls": {
+		      "DSUClient/1/BetterJoy": {
+				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\3D-front from above.png"
+			    },
+		      "DSUClient/0/BetterJoy": {
+				"DSUClient/0/BetterJoy": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon.png"
+			    },
+		      "DInput/0/Wireless Gamepad": {
+				"DInput/0/Wireless Gamepad": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon.png"
+			    },
+		      "XInput/0/Gamepad": {
+				"XInput/0/Gamepad": "..\\#DefaultDevices\\XBOX ONE\\Device\\3D-front from above.png"
+			    },
+		      "DInput/0/Bluetooth LE XINPUT compatible input device": {
+				"DInput/0/Bluetooth LE XINPUT compatible input device": "..\\#DefaultDevices\\XBOX ONE\\Device\\3D-front from above.png"
+			    },
+		      "DSUClient/0/DualShock4": {
+				"DSUClient/0/DualShock4": "..\\#DefaultDevices\\DualShock4\\Device\\3D-front from above.png"
+			    },
+		      "DInput/0/Wireless Controller": {
+				"DInput/0/Wireless Controller": "..\\#DefaultDevices\\DualShock4\\Device\\3D-front from above.png"
+			}
+	    }
+	  
+    },
+    "tex1_256x256_m_110eae2d3b10a36a_6.png": {
+      "image": "tex1_256x256_m_110eae2d3b10a36a_6.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Device": [
+            [
+              0.0,
+              22.0,
+              256.0,
+              206.0
+            ]
+          ]
+        }
+      },
+      "host_controls": {
+		      "DSUClient/1/BetterJoy": {
+				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\3D-front from above.png"
+			    },
+		      "DSUClient/0/BetterJoy": {
+				"DSUClient/0/BetterJoy": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon.png"
+			    },
+		      "DInput/0/Wireless Gamepad": {
+				"DInput/0/Wireless Gamepad": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon.png"
+			    },
+		      "XInput/0/Gamepad": {
+				"XInput/0/Gamepad": "..\\#DefaultDevices\\XBOX ONE\\Device\\3D-front from above.png"
+			    },
+		      "DInput/0/Bluetooth LE XINPUT compatible input device": {
+				"DInput/0/Bluetooth LE XINPUT compatible input device": "..\\#DefaultDevices\\XBOX ONE\\Device\\3D-front from above.png"
+			    },
+		      "DSUClient/0/DualShock4": {
+				"DSUClient/0/DualShock4": "..\\#DefaultDevices\\DualShock4\\Device\\3D-front from above.png"
+			    },
+		      "DInput/0/Wireless Controller": {
+				"DInput/0/Wireless Controller": "..\\#DefaultDevices\\DualShock4\\Device\\3D-front from above.png"
+			}
+	    }
+	  
+    },
+    "tex1_256x256_m_a852447bcecd050e_6.png": {
+      "image": "tex1_256x256_m_a852447bcecd050e_6.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Device": [
+            [
+              0.0,
+              22.0,
+              256.0,
+              206.0
+            ]
+          ]
+        }
+      },
+      "host_controls": {
+		      "DSUClient/1/BetterJoy": {
+				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\3D-front from above.png"
+			    },
+		      "DSUClient/0/BetterJoy": {
+				"DSUClient/0/BetterJoy": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon.png"
+			    },
+		      "DInput/0/Wireless Gamepad": {
+				"DInput/0/Wireless Gamepad": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon.png"
+			    },
+		      "XInput/0/Gamepad": {
+				"XInput/0/Gamepad": "..\\#DefaultDevices\\XBOX ONE\\Device\\3D-front from above.png"
+			    },
+		      "DInput/0/Bluetooth LE XINPUT compatible input device": {
+				"DInput/0/Bluetooth LE XINPUT compatible input device": "..\\#DefaultDevices\\XBOX ONE\\Device\\3D-front from above.png"
+			    },
+		      "DSUClient/0/DualShock4": {
+				"DSUClient/0/DualShock4": "..\\#DefaultDevices\\DualShock4\\Device\\3D-front from above.png"
+			    },
+		      "DInput/0/Wireless Controller": {
+				"DInput/0/Wireless Controller": "..\\#DefaultDevices\\DualShock4\\Device\\3D-front from above.png"
+			}
+	    }
+	  
+    },
+    "tex1_256x256_m_b17ae4020beef7bd_6.png": {
+      "image": "tex1_256x256_m_b17ae4020beef7bd_6.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Device": [
+            [
+              0.0,
+              22.0,
+              256.0,
+              206.0
+            ]
+          ]
+        }
+      },
+      "host_controls": {
+		      "DSUClient/1/BetterJoy": {
+				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\3D-front from above.png"
+			    },
+		      "DSUClient/0/BetterJoy": {
+				"DSUClient/0/BetterJoy": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon.png"
+			    },
+		      "DInput/0/Wireless Gamepad": {
+				"DInput/0/Wireless Gamepad": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon.png"
+			    },
+		      "XInput/0/Gamepad": {
+				"XInput/0/Gamepad": "..\\#DefaultDevices\\XBOX ONE\\Device\\3D-front from above.png"
+			    },
+		      "DInput/0/Bluetooth LE XINPUT compatible input device": {
+				"DInput/0/Bluetooth LE XINPUT compatible input device": "..\\#DefaultDevices\\XBOX ONE\\Device\\3D-front from above.png"
+			    },
+		      "DSUClient/0/DualShock4": {
+				"DSUClient/0/DualShock4": "..\\#DefaultDevices\\DualShock4\\Device\\3D-front from above.png"
+			    },
+		      "DInput/0/Wireless Controller": {
+				"DInput/0/Wireless Controller": "..\\#DefaultDevices\\DualShock4\\Device\\3D-front from above.png"
+			}
 	    }
 	  
     }
