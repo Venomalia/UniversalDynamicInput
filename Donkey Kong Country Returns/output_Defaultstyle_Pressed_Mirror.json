@@ -446,10 +446,10 @@
 		  
           "`Nunchuk C`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Defaultstyle_Pressed\\Nunchuk C.png",
           "`Nunchuk Z`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Defaultstyle_Pressed\\Nunchuk Z.png",
-          "`Nunchuk X-`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Defaultstyle_Pressed\\Nunchuk X-.png",
-          "`Nunchuk X+`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Defaultstyle_Pressed\\Nunchuk X+.png",
-          "`Nunchuk Y-`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Defaultstyle_Pressed\\Nunchuk Y-.png",
-          "`Nunchuk Y+`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Defaultstyle_Pressed\\Nunchuk Y+.png",
+          "`Nunchuk X-`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Defaultstyle_Pressed\\Nunchuk Stick.png",
+          "`Nunchuk X+`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Defaultstyle_Pressed\\Nunchuk Stick.png",
+          "`Nunchuk Y-`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Defaultstyle_Pressed\\Nunchuk Stick.png",
+          "`Nunchuk Y+`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Defaultstyle_Pressed\\Nunchuk Stick.png",
 		  
           "`Classic A`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Defaultstyle_Pressed\\Classic a.png",
           "`Classic B`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Defaultstyle_Pressed\\Classic b.png",
