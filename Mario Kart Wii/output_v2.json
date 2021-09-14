@@ -503,7 +503,7 @@
         "image": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Right Stick.png"
       },
       {
-        "keys": ["`Pad N`", "`Pad E-`", "`Pad S`", "`Pad W`"],
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`", "`Pad W`"],
         "tag": "NSEW",
         "image": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Pad.png"
       }
