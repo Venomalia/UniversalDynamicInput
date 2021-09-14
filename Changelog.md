@@ -1,4 +1,38 @@
 ---
+# 09-13-2021 - UniversalDynamicInput_Pack 1.4
+
+## Support added:
+#### GC
+- The Sims
+
+#### Wii
+- Spider-Man Shattered Dimensions
+- Kirby's Return to Dreamland
+
+#### Wii Ware
+- Excite Truck
+- Jett Rocket
+
+## Missing textures added:
+- Mario Party 6 - Add missing mini game instruction screens
+- Mario Golf Toadstool Tour: added missing textures.
+- Need for Speed Carbon added device texture
+- Mario Party 9: GrowingUP minigame added.
+- Mario Party 9: BombBattle minigame added.
+- Chibi-Robo: Chibi door added.
+
+## Other Adjustments:
+- Bomberman Blast Fix coridinates
+- update host_controls templates
+- Need for Speed Underground 2: device update
+- Xenoblade Chronicles added Dpad.
+- Need for Speed Most Wanted: updated.
+- XBOX ONE\Defaultstyle Dpad graphics are now all 256x256
+- New Super Mario Wii: Correct devices to Wiimote
+- Animal Crossing Wii add missing butten 1
+- Corrected a lot of small errors
+
+---
 # 08-1-2021 - UniversalDynamicInput_Pack 1.3
 ## Devices:
 - added DInput/Bluetooth LE XINPUT (Xbox Series X)

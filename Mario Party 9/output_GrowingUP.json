@@ -441,8 +441,8 @@
           "`HOME`": "GrowingUP\\Wii_Remote\\HOME.png",
           "`Right`": "GrowingUP\\Wii_Remote\\Pad.png",
           "`Up`": "GrowingUP\\Wii_Remote\\Pad.png",
-          "`Down`": "GrowingUP\\Wii_Remote\\Pad NS.png",
-          "`Left`": "GrowingUP\\Wii_Remote\\Pad EW.png",
+          "`Down`": "GrowingUP\\Wii_Remote\\Pad.png",
+          "`Left`": "GrowingUP\\Wii_Remote\\Pad.png",
 		  
           "`Nunchuk C`": "GrowingUP\\Wii_Remote\\Nunchuk C.png",
           "`Nunchuk Z`": "GrowingUP\\Wii_Remote\\Nunchuk Z.png",
