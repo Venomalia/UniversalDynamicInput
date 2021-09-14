@@ -4,15 +4,14 @@
 ## Support added:
 #### GC
 - The Sims
-- Spider-Man Shattered Dimensions
 
 #### Wii
+- Spider-Man Shattered Dimensions
 - Kirby's Return to Dreamland
 
-#### Virtual Console
+#### Wii Ware
 - Excite Truck
 - Jett Rocket
-
 
 ## Missing textures added:
 - Mario Party 6 - Add missing mini game instruction screens
