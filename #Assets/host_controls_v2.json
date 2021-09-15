@@ -1,6 +1,6 @@
 {
   "default_host_controls": {
-    "XInput/0/Gamepad": {
+    "XInput/0/Gamepad": [
         {
             "keys": ["XInput/0/Gamepad"],
             "image": "..\\#DefaultDevices\\XBOX ONE\\Device\\Icon.png"
@@ -516,6 +516,6 @@
             "tag": "Right Stick Pressed",
             "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle_Pressed\\Right Stick.png"
         }
-    }
+    ]
   }
 }
