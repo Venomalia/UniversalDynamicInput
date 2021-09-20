@@ -8,9 +8,9 @@
 #### Wii
 - Spider-Man Shattered Dimensions
 - Kirby's Return to Dreamland
+- Excite Truck
 
 #### Wii Ware
-- Excite Truck
 - Jett Rocket
 
 ## Missing textures added:
