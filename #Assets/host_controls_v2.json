@@ -183,6 +183,111 @@
         "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Back.png"
       },
       {
+        "keys": ["`Left Y+`", "`Left X+`", "`Left Y-`", "`Left X-`"],
+        "tag": "NESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Left Stick.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X+`"],
+        "tag": "NE",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Left X+`", "`Left Y-`"],
+        "tag": "ES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Left Y-`", "`Left X-`"],
+        "tag": "SW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X-`"],
+        "tag": "NW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`", "`Right Y-`", "`Right X-`"],
+        "tag": "NESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Right Stick.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`"],
+        "tag": "NE",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Right X+`", "`Right Y-`"],
+        "tag": "ES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Right Y-`", "`Right X-`"],
+        "tag": "SW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X-`"],
+        "tag": "NW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "NESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Pad.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`"],
+        "tag": "NE",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Pad NE.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`"],
+        "tag": "ES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Pad ES.png"
+      },
+      {
+        "keys": ["`Pad S`", "`Pad W`"],
+        "tag": "SW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Pad SW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad W`"],
+        "tag": "NW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Pad NW.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "ESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`", "`Pad W`"],
+        "tag": "NSW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad W`"],
+        "tag": "NEW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`"],
+        "tag": "NES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Pad NES.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`"],
+        "tag": "NS",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Pad NS.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad W`"],
+        "tag": "EW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Pad EW.png"
+      },
+      {
         "keys": ["`Button B`"],
         "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle_Pressed\\Button B.png",
         "tag": "Pressed"
@@ -401,6 +506,111 @@
         "keys": ["Button Back"],
         "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle_Pressed\\Back.png",
         "tag": "Pressed"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X+`", "`Left Y-`", "`Left X-`"],
+        "tag": "Pressed NESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle_Pressed\\Left Stick.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X+`"],
+        "tag": "Pressed NE",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle_Pressed\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Left X+`", "`Left Y-`"],
+        "tag": "Pressed ES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle_Pressed\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Left Y-`", "`Left X-`"],
+        "tag": "Pressed SW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle_Pressed\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X-`"],
+        "tag": "Pressed NW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle_Pressed\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`", "`Right Y-`", "`Right X-`"],
+        "tag": "Pressed NESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle_Pressed\\Right Stick.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`"],
+        "tag": "Pressed NE",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle_Pressed\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Right X+`", "`Right Y-`"],
+        "tag": "Pressed ES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle_Pressed\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Right Y-`", "`Right X-`"],
+        "tag": "Pressed SW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle_Pressed\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X-`"],
+        "tag": "Pressed NW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle_Pressed\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "Pressed NESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle_Pressed\\Pad.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`"],
+        "tag": "Pressed NE",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle_Pressed\\Pad NE.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`"],
+        "tag": "Pressed ES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle_Pressed\\Pad ES.png"
+      },
+      {
+        "keys": ["`Pad S`", "`Pad W`"],
+        "tag": "Pressed SW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle_Pressed\\Pad SW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad W`"],
+        "tag": "Pressed NW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle_Pressed\\Pad NW.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "Pressed ESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle_Pressed\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`", "`Pad W`"],
+        "tag": "Pressed NSW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle_Pressed\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad W`"],
+        "tag": "Pressed NEW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle_Pressed\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`"],
+        "tag": "Pressed NES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle_Pressed\\Pad NES.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`"],
+        "tag": "Pressed NS",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle_Pressed\\Pad NS.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad W`"],
+        "tag": "Pressed EW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle_Pressed\\Pad EW.png"
       },
       {
         "keys": ["XInput/0/Gamepad"],
@@ -628,6 +838,111 @@
         "tag": "Flat"
       },
       {
+        "keys": ["`Left Y+`", "`Left X+`", "`Left Y-`", "`Left X-`"],
+        "tag": "Flat NESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Left Stick.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X+`"],
+        "tag": "Flat NE",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Left X+`", "`Left Y-`"],
+        "tag": "Flat ES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Left Y-`", "`Left X-`"],
+        "tag": "Flat SW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X-`"],
+        "tag": "Flat NW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`", "`Right Y-`", "`Right X-`"],
+        "tag": "Flat NESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Right Stick.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`"],
+        "tag": "Flat NE",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Right X+`", "`Right Y-`"],
+        "tag": "Flat ES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Right Y-`", "`Right X-`"],
+        "tag": "Flat SW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X-`"],
+        "tag": "Flat NW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "Flat NESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Pad.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`"],
+        "tag": "Flat NE",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Pad NE.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`"],
+        "tag": "Flat ES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Pad ES.png"
+      },
+      {
+        "keys": ["`Pad S`", "`Pad W`"],
+        "tag": "Flat SW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Pad SW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad W`"],
+        "tag": "Flat NW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Pad NW.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "Flat ESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`", "`Pad W`"],
+        "tag": "Flat NSW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad W`"],
+        "tag": "Flat NEW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`"],
+        "tag": "Flat NES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Pad NES.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`"],
+        "tag": "Flat NS",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Pad NS.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad W`"],
+        "tag": "Flat EW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Pad EW.png"
+      },
+      {
         "keys": ["`Button B`"],
         "image": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Button B.png",
         "tag": "Flat_Pressed"
@@ -846,6 +1161,111 @@
         "keys": ["Button Back"],
         "image": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Back.png",
         "tag": "Flat_Pressed"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X+`", "`Left Y-`", "`Left X-`"],
+        "tag": "Flat_Pressed NESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Left Stick.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X+`"],
+        "tag": "Flat_Pressed NE",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Left X+`", "`Left Y-`"],
+        "tag": "Flat_Pressed ES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Left Y-`", "`Left X-`"],
+        "tag": "Flat_Pressed SW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X-`"],
+        "tag": "Flat_Pressed NW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`", "`Right Y-`", "`Right X-`"],
+        "tag": "Flat_Pressed NESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Right Stick.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`"],
+        "tag": "Flat_Pressed NE",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Right X+`", "`Right Y-`"],
+        "tag": "Flat_Pressed ES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Right Y-`", "`Right X-`"],
+        "tag": "Flat_Pressed SW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X-`"],
+        "tag": "Flat_Pressed NW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Right Y+X-.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "Flat_Pressed NESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Pad.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`"],
+        "tag": "Flat_Pressed NE",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Pad NE.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`"],
+        "tag": "Flat_Pressed ES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Pad ES.png"
+      },
+      {
+        "keys": ["`Pad S`", "`Pad W`"],
+        "tag": "Flat_Pressed SW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Pad SW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad W`"],
+        "tag": "Flat_Pressed NW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Pad NW.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "Flat_Pressed ESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`", "`Pad W`"],
+        "tag": "Flat_Pressed NSW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad W`"],
+        "tag": "Flat_Pressed NEW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`"],
+        "tag": "Flat_Pressed NES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Pad NES.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`"],
+        "tag": "Flat_Pressed NS",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Pad NS.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad W`"],
+        "tag": "Flat_Pressed EW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Pad EW.png"
       },
       {
         "keys": ["XInput/0/Gamepad"],
@@ -1073,6 +1493,111 @@
         "tag": "Simple-Default"
       },
       {
+        "keys": ["`Left Y+`", "`Left X+`", "`Left Y-`", "`Left X-`"],
+        "tag": "Simple-Default NESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Simple-Default\\Left Stick.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X+`"],
+        "tag": "Simple-Default NE",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Simple-Default\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Left X+`", "`Left Y-`"],
+        "tag": "Simple-Default ES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Simple-Default\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Left Y-`", "`Left X-`"],
+        "tag": "Simple-Default SW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Simple-Default\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X-`"],
+        "tag": "Simple-Default NW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Simple-Default\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`", "`Right Y-`", "`Right X-`"],
+        "tag": "Simple-Default NESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Simple-Default\\Right Stick.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`"],
+        "tag": "Simple-Default NE",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Simple-Default\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Right X+`", "`Right Y-`"],
+        "tag": "Simple-Default ES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Simple-Default\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Right Y-`", "`Right X-`"],
+        "tag": "Simple-Default SW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Simple-Default\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X-`"],
+        "tag": "Simple-Default NW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Simple-Default\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "Simple-Default NESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Simple-Default\\Pad.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`"],
+        "tag": "Simple-Default NE",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Simple-Default\\Pad NE.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`"],
+        "tag": "Simple-Default ES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Simple-Default\\Pad ES.png"
+      },
+      {
+        "keys": ["`Pad S`", "`Pad W`"],
+        "tag": "Simple-Default SW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Simple-Default\\Pad SW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad W`"],
+        "tag": "Simple-Default NW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Simple-Default\\Pad NW.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "Simple-Default ESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Simple-Default\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`", "`Pad W`"],
+        "tag": "Simple-Default NSW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Simple-Default\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad W`"],
+        "tag": "Simple-Default NEW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Simple-Default\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`"],
+        "tag": "Simple-Default NES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Simple-Default\\Pad NES.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`"],
+        "tag": "Simple-Default NS",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Simple-Default\\Pad NS.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad W`"],
+        "tag": "Simple-Default EW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Simple-Default\\Pad EW.png"
+      },
+      {
         "keys": ["XInput/0/Gamepad"],
         "image": "..\\#DefaultDevices\\XBOX ONE\\Device\\Icon.png",
         "tag": "Text-Default"
@@ -1296,6 +1821,111 @@
         "keys": ["Button Back"],
         "image": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Back.png",
         "tag": "Text-Default"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X+`", "`Left Y-`", "`Left X-`"],
+        "tag": "Text-Default NESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Left Stick.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X+`"],
+        "tag": "Text-Default NE",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Left X+`", "`Left Y-`"],
+        "tag": "Text-Default ES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Left Y-`", "`Left X-`"],
+        "tag": "Text-Default SW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X-`"],
+        "tag": "Text-Default NW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`", "`Right Y-`", "`Right X-`"],
+        "tag": "Text-Default NESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Right Stick.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`"],
+        "tag": "Text-Default NE",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Right X+`", "`Right Y-`"],
+        "tag": "Text-Default ES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Right Y-`", "`Right X-`"],
+        "tag": "Text-Default SW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X-`"],
+        "tag": "Text-Default NW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "Text-Default NESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Pad.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`"],
+        "tag": "Text-Default NE",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Pad NE.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`"],
+        "tag": "Text-Default ES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Pad ES.png"
+      },
+      {
+        "keys": ["`Pad S`", "`Pad W`"],
+        "tag": "Text-Default SW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Pad SW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad W`"],
+        "tag": "Text-Default NW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Pad NW.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "Text-Default ESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`", "`Pad W`"],
+        "tag": "Text-Default NSW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad W`"],
+        "tag": "Text-Default NEW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`"],
+        "tag": "Text-Default NES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Pad NES.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`"],
+        "tag": "Text-Default NS",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Pad NS.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad W`"],
+        "tag": "Text-Default EW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Pad EW.png"
       }
     ],
     "DInput/0/Bluetooth LE XINPUT compatible input device": [
@@ -1406,6 +2036,111 @@
       {
         "keys": ["`Axis Yr-`"],
         "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Right Y+.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X+`", "`Axis Y-`", "`Axis X-`"],
+        "tag": "NESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Left Stick.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X+`"],
+        "tag": "NE",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Axis X+`", "`Axis Y-`"],
+        "tag": "ES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Y-`", "`Axis X-`"],
+        "tag": "SW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X-`"],
+        "tag": "NW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`", "`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "NESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Right Stick.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`"],
+        "tag": "NE",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Axis Xr+`", "`Axis Yr-`"],
+        "tag": "ES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "SW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr-`"],
+        "tag": "NW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "NESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Pad.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`"],
+        "tag": "NE",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Pad NE.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "ES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Pad ES.png"
+      },
+      {
+        "keys": ["`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "SW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Pad SW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 W`"],
+        "tag": "NW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Pad NW.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "ESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "NSW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "NEW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "NES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Pad NES.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`"],
+        "tag": "NS",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Pad NS.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "EW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle\\Pad EW.png"
       },
       {
         "keys": ["`Button 0`"],
@@ -1536,6 +2271,111 @@
         "keys": ["`Axis Yr-`"],
         "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle_Pressed\\Right Stick.png",
         "tag": "Pressed"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X+`", "`Axis Y-`", "`Axis X-`"],
+        "tag": "Pressed NESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle_Pressed\\Left Stick.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X+`"],
+        "tag": "Pressed NE",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle_Pressed\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Axis X+`", "`Axis Y-`"],
+        "tag": "Pressed ES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle_Pressed\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Y-`", "`Axis X-`"],
+        "tag": "Pressed SW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle_Pressed\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X-`"],
+        "tag": "Pressed NW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle_Pressed\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`", "`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "Pressed NESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle_Pressed\\Right Stick.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`"],
+        "tag": "Pressed NE",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle_Pressed\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Axis Xr+`", "`Axis Yr-`"],
+        "tag": "Pressed ES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle_Pressed\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "Pressed SW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle_Pressed\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr-`"],
+        "tag": "Pressed NW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle_Pressed\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Pressed NESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle_Pressed\\Pad.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`"],
+        "tag": "Pressed NE",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle_Pressed\\Pad NE.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "Pressed ES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle_Pressed\\Pad ES.png"
+      },
+      {
+        "keys": ["`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Pressed SW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle_Pressed\\Pad SW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 W`"],
+        "tag": "Pressed NW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle_Pressed\\Pad NW.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Pressed ESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle_Pressed\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Pressed NSW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle_Pressed\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "Pressed NEW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle_Pressed\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "Pressed NES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle_Pressed\\Pad NES.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`"],
+        "tag": "Pressed NS",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle_Pressed\\Pad NS.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "Pressed EW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Defaultstyle_Pressed\\Pad EW.png"
       },
       {
         "keys": ["DInput/0/Bluetooth LE XINPUT compatible input device"],
@@ -1673,6 +2513,111 @@
         "tag": "Flat"
       },
       {
+        "keys": ["`Axis Y+`", "`Axis X+`", "`Axis Y-`", "`Axis X-`"],
+        "tag": "Flat NESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Left Stick.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X+`"],
+        "tag": "Flat NE",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Axis X+`", "`Axis Y-`"],
+        "tag": "Flat ES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Y-`", "`Axis X-`"],
+        "tag": "Flat SW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X-`"],
+        "tag": "Flat NW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`", "`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "Flat NESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Right Stick.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`"],
+        "tag": "Flat NE",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Axis Xr+`", "`Axis Yr-`"],
+        "tag": "Flat ES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "Flat SW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr-`"],
+        "tag": "Flat NW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Flat NESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Pad.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`"],
+        "tag": "Flat NE",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Pad NE.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "Flat ES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Pad ES.png"
+      },
+      {
+        "keys": ["`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Flat SW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Pad SW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 W`"],
+        "tag": "Flat NW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Pad NW.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Flat ESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Flat NSW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "Flat NEW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "Flat NES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Pad NES.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`"],
+        "tag": "Flat NS",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Pad NS.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "Flat EW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Pad EW.png"
+      },
+      {
         "keys": ["`Button 0`"],
         "image": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Button A.png",
         "tag": "Flat_Pressed"
@@ -1801,6 +2746,111 @@
         "keys": ["`Axis Yr-`"],
         "image": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Right Stick.png",
         "tag": "Flat_Pressed"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X+`", "`Axis Y-`", "`Axis X-`"],
+        "tag": "Flat_Pressed NESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Left Stick.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X+`"],
+        "tag": "Flat_Pressed NE",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Axis X+`", "`Axis Y-`"],
+        "tag": "Flat_Pressed ES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Y-`", "`Axis X-`"],
+        "tag": "Flat_Pressed SW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X-`"],
+        "tag": "Flat_Pressed NW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`", "`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "Flat_Pressed NESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Right Stick.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`"],
+        "tag": "Flat_Pressed NE",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Axis Xr+`", "`Axis Yr-`"],
+        "tag": "Flat_Pressed ES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "Flat_Pressed SW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr-`"],
+        "tag": "Flat_Pressed NW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Flat_Pressed NESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Pad.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`"],
+        "tag": "Flat_Pressed NE",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Pad NE.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "Flat_Pressed ES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Pad ES.png"
+      },
+      {
+        "keys": ["`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Flat_Pressed SW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Pad SW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 W`"],
+        "tag": "Flat_Pressed NW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Pad NW.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Flat_Pressed ESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Flat_Pressed NSW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "Flat_Pressed NEW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "Flat_Pressed NES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Pad NES.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`"],
+        "tag": "Flat_Pressed NS",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Pad NS.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "Flat_Pressed EW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Pad EW.png"
       },
       {
         "keys": ["DInput/0/Bluetooth LE XINPUT compatible input device"],
@@ -1938,6 +2988,111 @@
         "tag": "Simple-Default"
       },
       {
+        "keys": ["`Axis Y+`", "`Axis X+`", "`Axis Y-`", "`Axis X-`"],
+        "tag": "Simple-Default NESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Simple-Default\\Left Stick.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X+`"],
+        "tag": "Simple-Default NE",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Simple-Default\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Axis X+`", "`Axis Y-`"],
+        "tag": "Simple-Default ES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Simple-Default\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Y-`", "`Axis X-`"],
+        "tag": "Simple-Default SW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Simple-Default\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X-`"],
+        "tag": "Simple-Default NW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Simple-Default\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`", "`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "Simple-Default NESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Simple-Default\\Right Stick.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`"],
+        "tag": "Simple-Default NE",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Simple-Default\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Axis Xr+`", "`Axis Yr-`"],
+        "tag": "Simple-Default ES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Simple-Default\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "Simple-Default SW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Simple-Default\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr-`"],
+        "tag": "Simple-Default NW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Simple-Default\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Simple-Default NESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Simple-Default\\Pad.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`"],
+        "tag": "Simple-Default NE",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Simple-Default\\Pad NE.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "Simple-Default ES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Simple-Default\\Pad ES.png"
+      },
+      {
+        "keys": ["`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Simple-Default SW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Simple-Default\\Pad SW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 W`"],
+        "tag": "Simple-Default NW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Simple-Default\\Pad NW.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Simple-Default ESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Simple-Default\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Simple-Default NSW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Simple-Default\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "Simple-Default NEW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Simple-Default\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "Simple-Default NES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Simple-Default\\Pad NES.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`"],
+        "tag": "Simple-Default NS",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Simple-Default\\Pad NS.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "Simple-Default EW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Simple-Default\\Pad EW.png"
+      },
+      {
         "keys": ["DInput/0/Bluetooth LE XINPUT compatible input device"],
         "image": "..\\#DefaultDevices\\XBOX ONE\\Device\\Icon.png",
         "tag": "Text-Default"
@@ -2071,6 +3226,111 @@
         "keys": ["`Axis Yr-`"],
         "image": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Right Y+.png",
         "tag": "Text-Default"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X+`", "`Axis Y-`", "`Axis X-`"],
+        "tag": "Text-Default NESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Left Stick.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X+`"],
+        "tag": "Text-Default NE",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Axis X+`", "`Axis Y-`"],
+        "tag": "Text-Default ES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Y-`", "`Axis X-`"],
+        "tag": "Text-Default SW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X-`"],
+        "tag": "Text-Default NW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`", "`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "Text-Default NESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Right Stick.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`"],
+        "tag": "Text-Default NE",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Axis Xr+`", "`Axis Yr-`"],
+        "tag": "Text-Default ES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "Text-Default SW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr-`"],
+        "tag": "Text-Default NW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Text-Default NESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Pad.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`"],
+        "tag": "Text-Default NE",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Pad NE.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "Text-Default ES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Pad ES.png"
+      },
+      {
+        "keys": ["`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Text-Default SW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Pad SW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 W`"],
+        "tag": "Text-Default NW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Pad NW.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Text-Default ESW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Text-Default NSW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "Text-Default NEW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "Text-Default NES",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Pad NES.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`"],
+        "tag": "Text-Default NS",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Pad NS.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "Text-Default EW",
+        "image": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Pad EW.png"
       }
     ],
     "DInput/0/Keyboard Mouse": [
