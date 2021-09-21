@@ -3527,8 +3527,8 @@
         "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\SHIFT.png"
       },
       {
-        "keys": ["TAP"],
-        "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\TAP.png"
+        "keys": ["TAB"],
+        "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle\\TAB.png"
       },
       {
         "keys": ["Shift"],
@@ -4075,8 +4075,8 @@
         "tag": "Pressed"
       },
       {
-        "keys": ["TAP"],
-        "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\TAP.png",
+        "keys": ["TAB"],
+        "image": "..\\#DefaultDevices\\Keyboard Mouse\\Defaultstyle_Pressed\\TAB.png",
         "tag": "Pressed"
       },
       {
@@ -4700,8 +4700,8 @@
         "tag": "Flat"
       },
       {
-        "keys": ["TAP"],
-        "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\TAP.png",
+        "keys": ["TAB"],
+        "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\TAB.png",
         "tag": "Flat"
       },
       {
@@ -5325,8 +5325,8 @@
         "tag": "Flat_Pressed"
       },
       {
-        "keys": ["TAP"],
-        "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\TAP.png",
+        "keys": ["TAB"],
+        "image": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\TAB.png",
         "tag": "Flat_Pressed"
       },
       {
@@ -5950,8 +5950,8 @@
         "tag": "Simple-Default"
       },
       {
-        "keys": ["TAP"],
-        "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\TAP.png",
+        "keys": ["TAB"],
+        "image": "..\\#DefaultDevices\\Keyboard Mouse\\Simple-Default\\TAB.png",
         "tag": "Simple-Default"
       },
       {
@@ -6575,8 +6575,8 @@
         "tag": "Text-Default"
       },
       {
-        "keys": ["TAP"],
-        "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\TAP.png",
+        "keys": ["TAB"],
+        "image": "..\\#DefaultDevices\\Keyboard Mouse\\Text-Default\\TAB.png",
         "tag": "Text-Default"
       },
       {
