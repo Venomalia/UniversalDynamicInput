@@ -7126,6 +7126,111 @@
         "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Touchpad.png"
       },
       {
+        "keys": ["`Left Y+`", "`Left X+`", "`Left Y-`", "`Left X-`"],
+        "tag": "NESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Left Stick.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X+`"],
+        "tag": "NE",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Left X+`", "`Left Y-`"],
+        "tag": "ES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Left Y-`", "`Left X-`"],
+        "tag": "SW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X-`"],
+        "tag": "NW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`", "`Right Y-`", "`Right X-`"],
+        "tag": "NESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Right Stick.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`"],
+        "tag": "NE",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Right X+`", "`Right Y-`"],
+        "tag": "ES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Right Y-`", "`Right X-`"],
+        "tag": "SW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X-`"],
+        "tag": "NW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "NESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Pad.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`"],
+        "tag": "NE",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Pad NE.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`"],
+        "tag": "ES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Pad ES.png"
+      },
+      {
+        "keys": ["`Pad S`", "`Pad W`"],
+        "tag": "SW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Pad SW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad W`"],
+        "tag": "NW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Pad NW.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "ESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`", "`Pad W`"],
+        "tag": "NSW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad W`"],
+        "tag": "NEW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`"],
+        "tag": "NES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Pad NES.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`"],
+        "tag": "NS",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Pad NS.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad W`"],
+        "tag": "EW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Pad EW.png"
+      },
+      {
         "keys": ["`Circle`"],
         "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle_Pressed\\Circle.png",
         "tag": "Pressed"
@@ -7324,6 +7429,111 @@
         "keys": ["Touch Button"],
         "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle_Pressed\\Touchpad.png",
         "tag": "Pressed"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X+`", "`Left Y-`", "`Left X-`"],
+        "tag": "Pressed NESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle_Pressed\\Left Stick.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X+`"],
+        "tag": "Pressed NE",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle_Pressed\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Left X+`", "`Left Y-`"],
+        "tag": "Pressed ES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle_Pressed\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Left Y-`", "`Left X-`"],
+        "tag": "Pressed SW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle_Pressed\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X-`"],
+        "tag": "Pressed NW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle_Pressed\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`", "`Right Y-`", "`Right X-`"],
+        "tag": "Pressed NESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle_Pressed\\Right Stick.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`"],
+        "tag": "Pressed NE",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle_Pressed\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Right X+`", "`Right Y-`"],
+        "tag": "Pressed ES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle_Pressed\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Right Y-`", "`Right X-`"],
+        "tag": "Pressed SW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle_Pressed\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X-`"],
+        "tag": "Pressed NW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle_Pressed\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "Pressed NESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle_Pressed\\Pad.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`"],
+        "tag": "Pressed NE",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle_Pressed\\Pad NE.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`"],
+        "tag": "Pressed ES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle_Pressed\\Pad ES.png"
+      },
+      {
+        "keys": ["`Pad S`", "`Pad W`"],
+        "tag": "Pressed SW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle_Pressed\\Pad SW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad W`"],
+        "tag": "Pressed NW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle_Pressed\\Pad NW.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "Pressed ESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle_Pressed\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`", "`Pad W`"],
+        "tag": "Pressed NSW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle_Pressed\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad W`"],
+        "tag": "Pressed NEW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle_Pressed\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`"],
+        "tag": "Pressed NES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle_Pressed\\Pad NES.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`"],
+        "tag": "Pressed NS",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle_Pressed\\Pad NS.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad W`"],
+        "tag": "Pressed EW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle_Pressed\\Pad EW.png"
       },
       {
         "keys": ["DSUClient/0/DualShock4"],
@@ -7531,6 +7741,111 @@
         "tag": "Flat"
       },
       {
+        "keys": ["`Left Y+`", "`Left X+`", "`Left Y-`", "`Left X-`"],
+        "tag": "Flat NESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat\\Left Stick.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X+`"],
+        "tag": "Flat NE",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Left X+`", "`Left Y-`"],
+        "tag": "Flat ES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Left Y-`", "`Left X-`"],
+        "tag": "Flat SW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X-`"],
+        "tag": "Flat NW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`", "`Right Y-`", "`Right X-`"],
+        "tag": "Flat NESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat\\Right Stick.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`"],
+        "tag": "Flat NE",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Right X+`", "`Right Y-`"],
+        "tag": "Flat ES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Right Y-`", "`Right X-`"],
+        "tag": "Flat SW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X-`"],
+        "tag": "Flat NW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "Flat NESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat\\Pad.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`"],
+        "tag": "Flat NE",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat\\Pad NE.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`"],
+        "tag": "Flat ES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat\\Pad ES.png"
+      },
+      {
+        "keys": ["`Pad S`", "`Pad W`"],
+        "tag": "Flat SW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat\\Pad SW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad W`"],
+        "tag": "Flat NW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat\\Pad NW.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "Flat ESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`", "`Pad W`"],
+        "tag": "Flat NSW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad W`"],
+        "tag": "Flat NEW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`"],
+        "tag": "Flat NES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat\\Pad NES.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`"],
+        "tag": "Flat NS",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat\\Pad NS.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad W`"],
+        "tag": "Flat EW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat\\Pad EW.png"
+      },
+      {
         "keys": ["`Circle`"],
         "image": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Circle.png",
         "tag": "Flat_Pressed"
@@ -7729,6 +8044,111 @@
         "keys": ["Touch Button"],
         "image": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Touchpad.png",
         "tag": "Flat_Pressed"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X+`", "`Left Y-`", "`Left X-`"],
+        "tag": "Flat_Pressed NESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Left Stick.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X+`"],
+        "tag": "Flat_Pressed NE",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Left X+`", "`Left Y-`"],
+        "tag": "Flat_Pressed ES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Left Y-`", "`Left X-`"],
+        "tag": "Flat_Pressed SW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X-`"],
+        "tag": "Flat_Pressed NW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`", "`Right Y-`", "`Right X-`"],
+        "tag": "Flat_Pressed NESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Right Stick.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`"],
+        "tag": "Flat_Pressed NE",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Right X+`", "`Right Y-`"],
+        "tag": "Flat_Pressed ES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Right Y-`", "`Right X-`"],
+        "tag": "Flat_Pressed SW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X-`"],
+        "tag": "Flat_Pressed NW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "Flat_Pressed NESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Pad.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`"],
+        "tag": "Flat_Pressed NE",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Pad NE.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`"],
+        "tag": "Flat_Pressed ES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Pad ES.png"
+      },
+      {
+        "keys": ["`Pad S`", "`Pad W`"],
+        "tag": "Flat_Pressed SW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Pad SW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad W`"],
+        "tag": "Flat_Pressed NW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Pad NW.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "Flat_Pressed ESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`", "`Pad W`"],
+        "tag": "Flat_Pressed NSW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad W`"],
+        "tag": "Flat_Pressed NEW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`"],
+        "tag": "Flat_Pressed NES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Pad NES.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`"],
+        "tag": "Flat_Pressed NS",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Pad NS.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad W`"],
+        "tag": "Flat_Pressed EW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Pad EW.png"
       },
       {
         "keys": ["DSUClient/0/DualShock4"],
@@ -7936,6 +8356,111 @@
         "tag": "Simple-Default"
       },
       {
+        "keys": ["`Left Y+`", "`Left X+`", "`Left Y-`", "`Left X-`"],
+        "tag": "Simple-Default NESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Simple-Default\\Left Stick.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X+`"],
+        "tag": "Simple-Default NE",
+        "image": "..\\#DefaultDevices\\DualShock4\\Simple-Default\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Left X+`", "`Left Y-`"],
+        "tag": "Simple-Default ES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Simple-Default\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Left Y-`", "`Left X-`"],
+        "tag": "Simple-Default SW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Simple-Default\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X-`"],
+        "tag": "Simple-Default NW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Simple-Default\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`", "`Right Y-`", "`Right X-`"],
+        "tag": "Simple-Default NESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Simple-Default\\Right Stick.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`"],
+        "tag": "Simple-Default NE",
+        "image": "..\\#DefaultDevices\\DualShock4\\Simple-Default\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Right X+`", "`Right Y-`"],
+        "tag": "Simple-Default ES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Simple-Default\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Right Y-`", "`Right X-`"],
+        "tag": "Simple-Default SW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Simple-Default\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X-`"],
+        "tag": "Simple-Default NW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Simple-Default\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "Simple-Default NESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Simple-Default\\Pad.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`"],
+        "tag": "Simple-Default NE",
+        "image": "..\\#DefaultDevices\\DualShock4\\Simple-Default\\Pad NE.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`"],
+        "tag": "Simple-Default ES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Simple-Default\\Pad ES.png"
+      },
+      {
+        "keys": ["`Pad S`", "`Pad W`"],
+        "tag": "Simple-Default SW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Simple-Default\\Pad SW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad W`"],
+        "tag": "Simple-Default NW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Simple-Default\\Pad NW.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "Simple-Default ESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Simple-Default\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`", "`Pad W`"],
+        "tag": "Simple-Default NSW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Simple-Default\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad W`"],
+        "tag": "Simple-Default NEW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Simple-Default\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`"],
+        "tag": "Simple-Default NES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Simple-Default\\Pad NES.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`"],
+        "tag": "Simple-Default NS",
+        "image": "..\\#DefaultDevices\\DualShock4\\Simple-Default\\Pad NS.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad W`"],
+        "tag": "Simple-Default EW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Simple-Default\\Pad EW.png"
+      },
+      {
         "keys": ["DSUClient/0/DualShock4"],
         "image": "..\\#DefaultDevices\\DualShock4\\Device\\Icon.png",
         "tag": "Text-Default"
@@ -8139,6 +8664,111 @@
         "keys": ["Touch Button"],
         "image": "..\\#DefaultDevices\\DualShock4\\Text-Default\\Touchpad.png",
         "tag": "Text-Default"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X+`", "`Left Y-`", "`Left X-`"],
+        "tag": "Text-Default NESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Text-Default\\Left Stick.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X+`"],
+        "tag": "Text-Default NE",
+        "image": "..\\#DefaultDevices\\DualShock4\\Text-Default\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Left X+`", "`Left Y-`"],
+        "tag": "Text-Default ES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Text-Default\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Left Y-`", "`Left X-`"],
+        "tag": "Text-Default SW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Text-Default\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X-`"],
+        "tag": "Text-Default NW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Text-Default\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`", "`Right Y-`", "`Right X-`"],
+        "tag": "Text-Default NESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Text-Default\\Right Stick.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`"],
+        "tag": "Text-Default NE",
+        "image": "..\\#DefaultDevices\\DualShock4\\Text-Default\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Right X+`", "`Right Y-`"],
+        "tag": "Text-Default ES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Text-Default\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Right Y-`", "`Right X-`"],
+        "tag": "Text-Default SW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Text-Default\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X-`"],
+        "tag": "Text-Default NW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Text-Default\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "Text-Default NESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Text-Default\\Pad.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`"],
+        "tag": "Text-Default NE",
+        "image": "..\\#DefaultDevices\\DualShock4\\Text-Default\\Pad NE.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`"],
+        "tag": "Text-Default ES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Text-Default\\Pad ES.png"
+      },
+      {
+        "keys": ["`Pad S`", "`Pad W`"],
+        "tag": "Text-Default SW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Text-Default\\Pad SW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad W`"],
+        "tag": "Text-Default NW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Text-Default\\Pad NW.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "Text-Default ESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Text-Default\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`", "`Pad W`"],
+        "tag": "Text-Default NSW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Text-Default\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad W`"],
+        "tag": "Text-Default NEW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Text-Default\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`"],
+        "tag": "Text-Default NES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Text-Default\\Pad NES.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`"],
+        "tag": "Text-Default NS",
+        "image": "..\\#DefaultDevices\\DualShock4\\Text-Default\\Pad NS.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad W`"],
+        "tag": "Text-Default EW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Text-Default\\Pad EW.png"
       }
     ],
     "DSUClient/0/BetterJoy": [
@@ -8297,6 +8927,111 @@
       {
         "keys": ["Triangle"],
         "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Button X.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X+`", "`Left Y-`", "`Left X-`"],
+        "tag": "NESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Left Stick.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X+`"],
+        "tag": "NE",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Left X+`", "`Left Y-`"],
+        "tag": "ES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Left Y-`", "`Left X-`"],
+        "tag": "SW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X-`"],
+        "tag": "NW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`", "`Right Y-`", "`Right X-`"],
+        "tag": "NESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Right Stick.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`"],
+        "tag": "NE",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Right X+`", "`Right Y-`"],
+        "tag": "ES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Right Y-`", "`Right X-`"],
+        "tag": "SW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X-`"],
+        "tag": "NW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "NESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Pad.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`"],
+        "tag": "NE",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Pad NE.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`"],
+        "tag": "ES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Pad ES.png"
+      },
+      {
+        "keys": ["`Pad S`", "`Pad W`"],
+        "tag": "SW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Pad SW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad W`"],
+        "tag": "NW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Pad NW.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "ESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`", "`Pad W`"],
+        "tag": "NSW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad W`"],
+        "tag": "NEW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`"],
+        "tag": "NES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Pad NES.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`"],
+        "tag": "NS",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Pad NS.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad W`"],
+        "tag": "EW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Pad EW.png"
       },
       {
         "keys": ["`Circle`"],
@@ -8487,6 +9222,111 @@
         "keys": ["Triangle"],
         "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Button X.png",
         "tag": "Pressed"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X+`", "`Left Y-`", "`Left X-`"],
+        "tag": "Pressed NESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Left Stick.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X+`"],
+        "tag": "Pressed NE",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Left X+`", "`Left Y-`"],
+        "tag": "Pressed ES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Left Y-`", "`Left X-`"],
+        "tag": "Pressed SW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X-`"],
+        "tag": "Pressed NW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`", "`Right Y-`", "`Right X-`"],
+        "tag": "Pressed NESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Right Stick.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`"],
+        "tag": "Pressed NE",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Right X+`", "`Right Y-`"],
+        "tag": "Pressed ES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Right Y-`", "`Right X-`"],
+        "tag": "Pressed SW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X-`"],
+        "tag": "Pressed NW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "Pressed NESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Pad.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`"],
+        "tag": "Pressed NE",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Pad NE.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`"],
+        "tag": "Pressed ES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Pad ES.png"
+      },
+      {
+        "keys": ["`Pad S`", "`Pad W`"],
+        "tag": "Pressed SW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Pad SW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad W`"],
+        "tag": "Pressed NW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Pad NW.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "Pressed ESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`", "`Pad W`"],
+        "tag": "Pressed NSW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad W`"],
+        "tag": "Pressed NEW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`"],
+        "tag": "Pressed NES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Pad NES.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`"],
+        "tag": "Pressed NS",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Pad NS.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad W`"],
+        "tag": "Pressed EW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Pad EW.png"
       },
       {
         "keys": ["DSUClient/0/BetterJoy"],
@@ -8684,6 +9524,111 @@
         "tag": "Flat"
       },
       {
+        "keys": ["`Left Y+`", "`Left X+`", "`Left Y-`", "`Left X-`"],
+        "tag": "Flat NESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Left Stick.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X+`"],
+        "tag": "Flat NE",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Left X+`", "`Left Y-`"],
+        "tag": "Flat ES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Left Y-`", "`Left X-`"],
+        "tag": "Flat SW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X-`"],
+        "tag": "Flat NW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`", "`Right Y-`", "`Right X-`"],
+        "tag": "Flat NESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Right Stick.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`"],
+        "tag": "Flat NE",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Right X+`", "`Right Y-`"],
+        "tag": "Flat ES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Right Y-`", "`Right X-`"],
+        "tag": "Flat SW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X-`"],
+        "tag": "Flat NW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "Flat NESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Pad.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`"],
+        "tag": "Flat NE",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Pad NE.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`"],
+        "tag": "Flat ES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Pad ES.png"
+      },
+      {
+        "keys": ["`Pad S`", "`Pad W`"],
+        "tag": "Flat SW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Pad SW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad W`"],
+        "tag": "Flat NW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Pad NW.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "Flat ESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`", "`Pad W`"],
+        "tag": "Flat NSW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad W`"],
+        "tag": "Flat NEW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`"],
+        "tag": "Flat NES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Pad NES.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`"],
+        "tag": "Flat NS",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Pad NS.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad W`"],
+        "tag": "Flat EW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Pad EW.png"
+      },
+      {
         "keys": ["`Circle`"],
         "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Button A.png",
         "tag": "Flat_Pressed"
@@ -8872,6 +9817,111 @@
         "keys": ["Triangle"],
         "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Button X.png",
         "tag": "Flat_Pressed"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X+`", "`Left Y-`", "`Left X-`"],
+        "tag": "Flat_Pressed NESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Left Stick.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X+`"],
+        "tag": "Flat_Pressed NE",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Left X+`", "`Left Y-`"],
+        "tag": "Flat_Pressed ES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Left Y-`", "`Left X-`"],
+        "tag": "Flat_Pressed SW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X-`"],
+        "tag": "Flat_Pressed NW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`", "`Right Y-`", "`Right X-`"],
+        "tag": "Flat_Pressed NESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Right Stick.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`"],
+        "tag": "Flat_Pressed NE",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Right X+`", "`Right Y-`"],
+        "tag": "Flat_Pressed ES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Right Y-`", "`Right X-`"],
+        "tag": "Flat_Pressed SW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X-`"],
+        "tag": "Flat_Pressed NW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "Flat_Pressed NESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Pad.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`"],
+        "tag": "Flat_Pressed NE",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Pad NE.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`"],
+        "tag": "Flat_Pressed ES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Pad ES.png"
+      },
+      {
+        "keys": ["`Pad S`", "`Pad W`"],
+        "tag": "Flat_Pressed SW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Pad SW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad W`"],
+        "tag": "Flat_Pressed NW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Pad NW.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "Flat_Pressed ESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`", "`Pad W`"],
+        "tag": "Flat_Pressed NSW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad W`"],
+        "tag": "Flat_Pressed NEW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`"],
+        "tag": "Flat_Pressed NES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Pad NES.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`"],
+        "tag": "Flat_Pressed NS",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Pad NS.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad W`"],
+        "tag": "Flat_Pressed EW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Pad EW.png"
       },
       {
         "keys": ["DSUClient/0/BetterJoy"],
@@ -9069,6 +10119,111 @@
         "tag": "Simple-Default"
       },
       {
+        "keys": ["`Left Y+`", "`Left X+`", "`Left Y-`", "`Left X-`"],
+        "tag": "Simple-Default NESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Simple-Default\\Left Stick.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X+`"],
+        "tag": "Simple-Default NE",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Simple-Default\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Left X+`", "`Left Y-`"],
+        "tag": "Simple-Default ES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Simple-Default\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Left Y-`", "`Left X-`"],
+        "tag": "Simple-Default SW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Simple-Default\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X-`"],
+        "tag": "Simple-Default NW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Simple-Default\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`", "`Right Y-`", "`Right X-`"],
+        "tag": "Simple-Default NESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Simple-Default\\Right Stick.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`"],
+        "tag": "Simple-Default NE",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Simple-Default\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Right X+`", "`Right Y-`"],
+        "tag": "Simple-Default ES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Simple-Default\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Right Y-`", "`Right X-`"],
+        "tag": "Simple-Default SW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Simple-Default\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X-`"],
+        "tag": "Simple-Default NW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Simple-Default\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "Simple-Default NESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Simple-Default\\Pad.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`"],
+        "tag": "Simple-Default NE",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Simple-Default\\Pad NE.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`"],
+        "tag": "Simple-Default ES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Simple-Default\\Pad ES.png"
+      },
+      {
+        "keys": ["`Pad S`", "`Pad W`"],
+        "tag": "Simple-Default SW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Simple-Default\\Pad SW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad W`"],
+        "tag": "Simple-Default NW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Simple-Default\\Pad NW.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "Simple-Default ESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Simple-Default\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`", "`Pad W`"],
+        "tag": "Simple-Default NSW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Simple-Default\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad W`"],
+        "tag": "Simple-Default NEW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Simple-Default\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`"],
+        "tag": "Simple-Default NES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Simple-Default\\Pad NES.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`"],
+        "tag": "Simple-Default NS",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Simple-Default\\Pad NS.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad W`"],
+        "tag": "Simple-Default EW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Simple-Default\\Pad EW.png"
+      },
+      {
         "keys": ["DSUClient/0/BetterJoy"],
         "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon.png",
         "tag": "Text-Default"
@@ -9262,6 +10417,111 @@
         "keys": ["Triangle"],
         "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Default\\Button X.png",
         "tag": "Text-Default"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X+`", "`Left Y-`", "`Left X-`"],
+        "tag": "Text-Default NESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Default\\Left Stick.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X+`"],
+        "tag": "Text-Default NE",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Default\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Left X+`", "`Left Y-`"],
+        "tag": "Text-Default ES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Default\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Left Y-`", "`Left X-`"],
+        "tag": "Text-Default SW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Default\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X-`"],
+        "tag": "Text-Default NW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Default\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`", "`Right Y-`", "`Right X-`"],
+        "tag": "Text-Default NESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Default\\Right Stick.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`"],
+        "tag": "Text-Default NE",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Default\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Right X+`", "`Right Y-`"],
+        "tag": "Text-Default ES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Default\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Right Y-`", "`Right X-`"],
+        "tag": "Text-Default SW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Default\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X-`"],
+        "tag": "Text-Default NW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Default\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "Text-Default NESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Default\\Pad.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`"],
+        "tag": "Text-Default NE",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Default\\Pad NE.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`"],
+        "tag": "Text-Default ES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Default\\Pad ES.png"
+      },
+      {
+        "keys": ["`Pad S`", "`Pad W`"],
+        "tag": "Text-Default SW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Default\\Pad SW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad W`"],
+        "tag": "Text-Default NW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Default\\Pad NW.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "Text-Default ESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Default\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`", "`Pad W`"],
+        "tag": "Text-Default NSW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Default\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad W`"],
+        "tag": "Text-Default NEW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Default\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`"],
+        "tag": "Text-Default NES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Default\\Pad NES.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`"],
+        "tag": "Text-Default NS",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Default\\Pad NS.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad W`"],
+        "tag": "Text-Default EW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Default\\Pad EW.png"
       }
     ],
     "DSUClient/1/BetterJoy": [
@@ -9420,6 +10680,111 @@
       {
         "keys": ["Triangle"],
         "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle\\Button X.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X+`", "`Left Y-`", "`Left X-`"],
+        "tag": "NESW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle\\Left Stick.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X+`"],
+        "tag": "NE",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Left X+`", "`Left Y-`"],
+        "tag": "ES",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Left Y-`", "`Left X-`"],
+        "tag": "SW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X-`"],
+        "tag": "NW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`", "`Right Y-`", "`Right X-`"],
+        "tag": "NESW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle\\Right Stick.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`"],
+        "tag": "NE",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Right X+`", "`Right Y-`"],
+        "tag": "ES",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Right Y-`", "`Right X-`"],
+        "tag": "SW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X-`"],
+        "tag": "NW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "NESW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle\\Pad.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`"],
+        "tag": "NE",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle\\Pad NE.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`"],
+        "tag": "ES",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle\\Pad ES.png"
+      },
+      {
+        "keys": ["`Pad S`", "`Pad W`"],
+        "tag": "SW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle\\Pad SW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad W`"],
+        "tag": "NW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle\\Pad NW.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "ESW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`", "`Pad W`"],
+        "tag": "NSW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad W`"],
+        "tag": "NEW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`"],
+        "tag": "NES",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle\\Pad NES.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`"],
+        "tag": "NS",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle\\Pad NS.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad W`"],
+        "tag": "EW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle\\Pad EW.png"
       },
       {
         "keys": ["`Circle`"],
@@ -9610,6 +10975,111 @@
         "keys": ["Triangle"],
         "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle_Pressed\\Button X.png",
         "tag": "Pressed"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X+`", "`Left Y-`", "`Left X-`"],
+        "tag": "Pressed NESW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle_Pressed\\Left Stick.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X+`"],
+        "tag": "Pressed NE",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle_Pressed\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Left X+`", "`Left Y-`"],
+        "tag": "Pressed ES",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle_Pressed\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Left Y-`", "`Left X-`"],
+        "tag": "Pressed SW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle_Pressed\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X-`"],
+        "tag": "Pressed NW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle_Pressed\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`", "`Right Y-`", "`Right X-`"],
+        "tag": "Pressed NESW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle_Pressed\\Right Stick.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`"],
+        "tag": "Pressed NE",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle_Pressed\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Right X+`", "`Right Y-`"],
+        "tag": "Pressed ES",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle_Pressed\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Right Y-`", "`Right X-`"],
+        "tag": "Pressed SW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle_Pressed\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X-`"],
+        "tag": "Pressed NW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle_Pressed\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "Pressed NESW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle_Pressed\\Pad.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`"],
+        "tag": "Pressed NE",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle_Pressed\\Pad NE.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`"],
+        "tag": "Pressed ES",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle_Pressed\\Pad ES.png"
+      },
+      {
+        "keys": ["`Pad S`", "`Pad W`"],
+        "tag": "Pressed SW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle_Pressed\\Pad SW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad W`"],
+        "tag": "Pressed NW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle_Pressed\\Pad NW.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "Pressed ESW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle_Pressed\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`", "`Pad W`"],
+        "tag": "Pressed NSW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle_Pressed\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad W`"],
+        "tag": "Pressed NEW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle_Pressed\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`"],
+        "tag": "Pressed NES",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle_Pressed\\Pad NES.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`"],
+        "tag": "Pressed NS",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle_Pressed\\Pad NS.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad W`"],
+        "tag": "Pressed EW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Defaultstyle_Pressed\\Pad EW.png"
       },
       {
         "keys": ["DSUClient/1/BetterJoy"],
@@ -9807,6 +11277,111 @@
         "tag": "Flat"
       },
       {
+        "keys": ["`Left Y+`", "`Left X+`", "`Left Y-`", "`Left X-`"],
+        "tag": "Flat NESW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Left Stick.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X+`"],
+        "tag": "Flat NE",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Left X+`", "`Left Y-`"],
+        "tag": "Flat ES",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Left Y-`", "`Left X-`"],
+        "tag": "Flat SW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X-`"],
+        "tag": "Flat NW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`", "`Right Y-`", "`Right X-`"],
+        "tag": "Flat NESW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Right Stick.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`"],
+        "tag": "Flat NE",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Right X+`", "`Right Y-`"],
+        "tag": "Flat ES",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Right Y-`", "`Right X-`"],
+        "tag": "Flat SW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X-`"],
+        "tag": "Flat NW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "Flat NESW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Pad.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`"],
+        "tag": "Flat NE",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Pad NE.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`"],
+        "tag": "Flat ES",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Pad ES.png"
+      },
+      {
+        "keys": ["`Pad S`", "`Pad W`"],
+        "tag": "Flat SW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Pad SW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad W`"],
+        "tag": "Flat NW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Pad NW.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "Flat ESW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`", "`Pad W`"],
+        "tag": "Flat NSW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad W`"],
+        "tag": "Flat NEW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`"],
+        "tag": "Flat NES",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Pad NES.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`"],
+        "tag": "Flat NS",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Pad NS.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad W`"],
+        "tag": "Flat EW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Pad EW.png"
+      },
+      {
         "keys": ["`Circle`"],
         "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat_Pressed\\Button A.png",
         "tag": "Flat_Pressed"
@@ -9995,6 +11570,111 @@
         "keys": ["Triangle"],
         "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat_Pressed\\Button X.png",
         "tag": "Flat_Pressed"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X+`", "`Left Y-`", "`Left X-`"],
+        "tag": "Flat_Pressed NESW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat_Pressed\\Left Stick.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X+`"],
+        "tag": "Flat_Pressed NE",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat_Pressed\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Left X+`", "`Left Y-`"],
+        "tag": "Flat_Pressed ES",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat_Pressed\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Left Y-`", "`Left X-`"],
+        "tag": "Flat_Pressed SW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat_Pressed\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X-`"],
+        "tag": "Flat_Pressed NW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat_Pressed\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`", "`Right Y-`", "`Right X-`"],
+        "tag": "Flat_Pressed NESW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat_Pressed\\Right Stick.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`"],
+        "tag": "Flat_Pressed NE",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat_Pressed\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Right X+`", "`Right Y-`"],
+        "tag": "Flat_Pressed ES",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat_Pressed\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Right Y-`", "`Right X-`"],
+        "tag": "Flat_Pressed SW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat_Pressed\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X-`"],
+        "tag": "Flat_Pressed NW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat_Pressed\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "Flat_Pressed NESW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat_Pressed\\Pad.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`"],
+        "tag": "Flat_Pressed NE",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat_Pressed\\Pad NE.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`"],
+        "tag": "Flat_Pressed ES",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat_Pressed\\Pad ES.png"
+      },
+      {
+        "keys": ["`Pad S`", "`Pad W`"],
+        "tag": "Flat_Pressed SW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat_Pressed\\Pad SW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad W`"],
+        "tag": "Flat_Pressed NW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat_Pressed\\Pad NW.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "Flat_Pressed ESW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat_Pressed\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`", "`Pad W`"],
+        "tag": "Flat_Pressed NSW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat_Pressed\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad W`"],
+        "tag": "Flat_Pressed NEW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat_Pressed\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`"],
+        "tag": "Flat_Pressed NES",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat_Pressed\\Pad NES.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`"],
+        "tag": "Flat_Pressed NS",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat_Pressed\\Pad NS.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad W`"],
+        "tag": "Flat_Pressed EW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat_Pressed\\Pad EW.png"
       },
       {
         "keys": ["DSUClient/1/BetterJoy"],
@@ -10192,6 +11872,111 @@
         "tag": "Simple-Default"
       },
       {
+        "keys": ["`Left Y+`", "`Left X+`", "`Left Y-`", "`Left X-`"],
+        "tag": "Simple-Default NESW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Simple-Default\\Left Stick.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X+`"],
+        "tag": "Simple-Default NE",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Simple-Default\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Left X+`", "`Left Y-`"],
+        "tag": "Simple-Default ES",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Simple-Default\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Left Y-`", "`Left X-`"],
+        "tag": "Simple-Default SW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Simple-Default\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X-`"],
+        "tag": "Simple-Default NW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Simple-Default\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`", "`Right Y-`", "`Right X-`"],
+        "tag": "Simple-Default NESW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Simple-Default\\Right Stick.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`"],
+        "tag": "Simple-Default NE",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Simple-Default\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Right X+`", "`Right Y-`"],
+        "tag": "Simple-Default ES",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Simple-Default\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Right Y-`", "`Right X-`"],
+        "tag": "Simple-Default SW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Simple-Default\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X-`"],
+        "tag": "Simple-Default NW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Simple-Default\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "Simple-Default NESW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Simple-Default\\Pad.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`"],
+        "tag": "Simple-Default NE",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Simple-Default\\Pad NE.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`"],
+        "tag": "Simple-Default ES",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Simple-Default\\Pad ES.png"
+      },
+      {
+        "keys": ["`Pad S`", "`Pad W`"],
+        "tag": "Simple-Default SW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Simple-Default\\Pad SW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad W`"],
+        "tag": "Simple-Default NW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Simple-Default\\Pad NW.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "Simple-Default ESW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Simple-Default\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`", "`Pad W`"],
+        "tag": "Simple-Default NSW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Simple-Default\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad W`"],
+        "tag": "Simple-Default NEW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Simple-Default\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`"],
+        "tag": "Simple-Default NES",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Simple-Default\\Pad NES.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`"],
+        "tag": "Simple-Default NS",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Simple-Default\\Pad NS.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad W`"],
+        "tag": "Simple-Default EW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Simple-Default\\Pad EW.png"
+      },
+      {
         "keys": ["DSUClient/1/BetterJoy"],
         "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Icon.png",
         "tag": "Text-Default"
@@ -10385,6 +12170,111 @@
         "keys": ["Triangle"],
         "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Text-Default\\Button X.png",
         "tag": "Text-Default"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X+`", "`Left Y-`", "`Left X-`"],
+        "tag": "Text-Default NESW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Text-Default\\Left Stick.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X+`"],
+        "tag": "Text-Default NE",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Text-Default\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Left X+`", "`Left Y-`"],
+        "tag": "Text-Default ES",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Text-Default\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Left Y-`", "`Left X-`"],
+        "tag": "Text-Default SW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Text-Default\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Left Y+`", "`Left X-`"],
+        "tag": "Text-Default NW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Text-Default\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`", "`Right Y-`", "`Right X-`"],
+        "tag": "Text-Default NESW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Text-Default\\Right Stick.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X+`"],
+        "tag": "Text-Default NE",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Text-Default\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Right X+`", "`Right Y-`"],
+        "tag": "Text-Default ES",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Text-Default\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Right Y-`", "`Right X-`"],
+        "tag": "Text-Default SW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Text-Default\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Right Y+`", "`Right X-`"],
+        "tag": "Text-Default NW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Text-Default\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "Text-Default NESW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Text-Default\\Pad.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`"],
+        "tag": "Text-Default NE",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Text-Default\\Pad NE.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`"],
+        "tag": "Text-Default ES",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Text-Default\\Pad ES.png"
+      },
+      {
+        "keys": ["`Pad S`", "`Pad W`"],
+        "tag": "Text-Default SW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Text-Default\\Pad SW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad W`"],
+        "tag": "Text-Default NW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Text-Default\\Pad NW.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad S`", "`Pad W`"],
+        "tag": "Text-Default ESW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Text-Default\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`", "`Pad W`"],
+        "tag": "Text-Default NSW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Text-Default\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad W`"],
+        "tag": "Text-Default NEW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Text-Default\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad E`", "`Pad S`"],
+        "tag": "Text-Default NES",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Text-Default\\Pad NES.png"
+      },
+      {
+        "keys": ["`Pad N`", "`Pad S`"],
+        "tag": "Text-Default NS",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Text-Default\\Pad NS.png"
+      },
+      {
+        "keys": ["`Pad E`", "`Pad W`"],
+        "tag": "Text-Default EW",
+        "image": "..\\#DefaultDevices\\Switch_Joy-Con\\Text-Default\\Pad EW.png"
       }
     ],
     "DInput/0/Wireless Gamepad": [
@@ -10495,6 +12385,111 @@
       {
         "keys": ["`Axis Yr-`"],
         "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Right Y+.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X+`", "`Axis Y-`", "`Axis X-`"],
+        "tag": "NESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Left Stick.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X+`"],
+        "tag": "NE",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Axis X+`", "`Axis Y-`"],
+        "tag": "ES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Y-`", "`Axis X-`"],
+        "tag": "SW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X-`"],
+        "tag": "NW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`", "`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "NESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Right Stick.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`"],
+        "tag": "NE",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Axis Xr+`", "`Axis Yr-`"],
+        "tag": "ES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "SW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr-`"],
+        "tag": "NW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "NESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Pad.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`"],
+        "tag": "NE",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Pad NE.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "ES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Pad ES.png"
+      },
+      {
+        "keys": ["`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "SW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Pad SW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 W`"],
+        "tag": "NW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Pad NW.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "ESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "NSW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "NEW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "NES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Pad NES.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`"],
+        "tag": "NS",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Pad NS.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "EW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Pad EW.png"
       },
       {
         "keys": ["`Button 0`"],
@@ -10625,6 +12620,111 @@
         "keys": ["`Axis Yr-`"],
         "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Right Stick.png",
         "tag": "Pressed"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X+`", "`Axis Y-`", "`Axis X-`"],
+        "tag": "Pressed NESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Left Stick.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X+`"],
+        "tag": "Pressed NE",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Axis X+`", "`Axis Y-`"],
+        "tag": "Pressed ES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Y-`", "`Axis X-`"],
+        "tag": "Pressed SW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X-`"],
+        "tag": "Pressed NW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`", "`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "Pressed NESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Right Stick.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`"],
+        "tag": "Pressed NE",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Axis Xr+`", "`Axis Yr-`"],
+        "tag": "Pressed ES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "Pressed SW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr-`"],
+        "tag": "Pressed NW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Pressed NESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Pad.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`"],
+        "tag": "Pressed NE",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Pad NE.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "Pressed ES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Pad ES.png"
+      },
+      {
+        "keys": ["`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Pressed SW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Pad SW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 W`"],
+        "tag": "Pressed NW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Pad NW.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Pressed ESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Pressed NSW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "Pressed NEW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "Pressed NES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Pad NES.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`"],
+        "tag": "Pressed NS",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Pad NS.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "Pressed EW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Pad EW.png"
       },
       {
         "keys": ["DInput/0/Wireless Gamepad"],
@@ -10762,6 +12862,111 @@
         "tag": "Flat"
       },
       {
+        "keys": ["`Axis Y+`", "`Axis X+`", "`Axis Y-`", "`Axis X-`"],
+        "tag": "Flat NESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Left Stick.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X+`"],
+        "tag": "Flat NE",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Axis X+`", "`Axis Y-`"],
+        "tag": "Flat ES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Y-`", "`Axis X-`"],
+        "tag": "Flat SW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X-`"],
+        "tag": "Flat NW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`", "`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "Flat NESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Right Stick.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`"],
+        "tag": "Flat NE",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Axis Xr+`", "`Axis Yr-`"],
+        "tag": "Flat ES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "Flat SW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr-`"],
+        "tag": "Flat NW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Flat NESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Pad.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`"],
+        "tag": "Flat NE",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Pad NE.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "Flat ES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Pad ES.png"
+      },
+      {
+        "keys": ["`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Flat SW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Pad SW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 W`"],
+        "tag": "Flat NW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Pad NW.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Flat ESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Flat NSW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "Flat NEW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "Flat NES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Pad NES.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`"],
+        "tag": "Flat NS",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Pad NS.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "Flat EW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Pad EW.png"
+      },
+      {
         "keys": ["`Button 0`"],
         "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Button B.png",
         "tag": "Flat_Pressed"
@@ -10890,6 +13095,111 @@
         "keys": ["`Axis Yr-`"],
         "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Right Stick.png",
         "tag": "Flat_Pressed"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X+`", "`Axis Y-`", "`Axis X-`"],
+        "tag": "Flat_Pressed NESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Left Stick.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X+`"],
+        "tag": "Flat_Pressed NE",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Axis X+`", "`Axis Y-`"],
+        "tag": "Flat_Pressed ES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Y-`", "`Axis X-`"],
+        "tag": "Flat_Pressed SW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X-`"],
+        "tag": "Flat_Pressed NW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`", "`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "Flat_Pressed NESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Right Stick.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`"],
+        "tag": "Flat_Pressed NE",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Axis Xr+`", "`Axis Yr-`"],
+        "tag": "Flat_Pressed ES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "Flat_Pressed SW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr-`"],
+        "tag": "Flat_Pressed NW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Flat_Pressed NESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Pad.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`"],
+        "tag": "Flat_Pressed NE",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Pad NE.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "Flat_Pressed ES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Pad ES.png"
+      },
+      {
+        "keys": ["`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Flat_Pressed SW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Pad SW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 W`"],
+        "tag": "Flat_Pressed NW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Pad NW.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Flat_Pressed ESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Flat_Pressed NSW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "Flat_Pressed NEW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "Flat_Pressed NES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Pad NES.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`"],
+        "tag": "Flat_Pressed NS",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Pad NS.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "Flat_Pressed EW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Pad EW.png"
       },
       {
         "keys": ["DInput/0/Wireless Gamepad"],
@@ -11027,6 +13337,111 @@
         "tag": "Simple-Default"
       },
       {
+        "keys": ["`Axis Y+`", "`Axis X+`", "`Axis Y-`", "`Axis X-`"],
+        "tag": "Simple-Default NESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Simple-Default\\Left Stick.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X+`"],
+        "tag": "Simple-Default NE",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Simple-Default\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Axis X+`", "`Axis Y-`"],
+        "tag": "Simple-Default ES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Simple-Default\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Y-`", "`Axis X-`"],
+        "tag": "Simple-Default SW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Simple-Default\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X-`"],
+        "tag": "Simple-Default NW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Simple-Default\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`", "`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "Simple-Default NESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Simple-Default\\Right Stick.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`"],
+        "tag": "Simple-Default NE",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Simple-Default\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Axis Xr+`", "`Axis Yr-`"],
+        "tag": "Simple-Default ES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Simple-Default\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "Simple-Default SW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Simple-Default\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr-`"],
+        "tag": "Simple-Default NW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Simple-Default\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Simple-Default NESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Simple-Default\\Pad.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`"],
+        "tag": "Simple-Default NE",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Simple-Default\\Pad NE.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "Simple-Default ES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Simple-Default\\Pad ES.png"
+      },
+      {
+        "keys": ["`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Simple-Default SW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Simple-Default\\Pad SW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 W`"],
+        "tag": "Simple-Default NW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Simple-Default\\Pad NW.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Simple-Default ESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Simple-Default\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Simple-Default NSW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Simple-Default\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "Simple-Default NEW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Simple-Default\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "Simple-Default NES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Simple-Default\\Pad NES.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`"],
+        "tag": "Simple-Default NS",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Simple-Default\\Pad NS.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "Simple-Default EW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Simple-Default\\Pad EW.png"
+      },
+      {
         "keys": ["DInput/0/Wireless Gamepad"],
         "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon.png",
         "tag": "Text-Default"
@@ -11160,6 +13575,111 @@
         "keys": ["`Axis Yr-`"],
         "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Default\\Right Y+.png",
         "tag": "Text-Default"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X+`", "`Axis Y-`", "`Axis X-`"],
+        "tag": "Text-Default NESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Default\\Left Stick.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X+`"],
+        "tag": "Text-Default NE",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Default\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Axis X+`", "`Axis Y-`"],
+        "tag": "Text-Default ES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Default\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Y-`", "`Axis X-`"],
+        "tag": "Text-Default SW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Default\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X-`"],
+        "tag": "Text-Default NW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Default\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`", "`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "Text-Default NESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Default\\Right Stick.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`"],
+        "tag": "Text-Default NE",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Default\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Axis Xr+`", "`Axis Yr-`"],
+        "tag": "Text-Default ES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Default\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "Text-Default SW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Default\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr-`"],
+        "tag": "Text-Default NW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Default\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Text-Default NESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Default\\Pad.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`"],
+        "tag": "Text-Default NE",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Default\\Pad NE.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "Text-Default ES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Default\\Pad ES.png"
+      },
+      {
+        "keys": ["`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Text-Default SW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Default\\Pad SW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 W`"],
+        "tag": "Text-Default NW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Default\\Pad NW.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Text-Default ESW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Default\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Text-Default NSW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Default\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "Text-Default NEW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Default\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "Text-Default NES",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Default\\Pad NES.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`"],
+        "tag": "Text-Default NS",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Default\\Pad NS.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "Text-Default EW",
+        "image": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Default\\Pad EW.png"
       }
     ],
     "DInput/0/Wireless Controller": [
@@ -11270,6 +13790,111 @@
       {
         "keys": ["`Axis Z-`"],
         "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Right X-.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X+`", "`Axis Y-`", "`Axis X-`"],
+        "tag": "NESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Left Stick.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X+`"],
+        "tag": "NE",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Axis X+`", "`Axis Y-`"],
+        "tag": "ES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Y-`", "`Axis X-`"],
+        "tag": "SW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X-`"],
+        "tag": "NW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`", "`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "NESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Right Stick.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`"],
+        "tag": "NE",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Axis Xr+`", "`Axis Yr-`"],
+        "tag": "ES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "SW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr-`"],
+        "tag": "NW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "NESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Pad.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`"],
+        "tag": "NE",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Pad NE.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "ES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Pad ES.png"
+      },
+      {
+        "keys": ["`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "SW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Pad SW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 W`"],
+        "tag": "NW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Pad NW.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "ESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "NSW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "NEW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "NES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Pad NES.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`"],
+        "tag": "NS",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Pad NS.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "EW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle\\Pad EW.png"
       },
       {
         "keys": ["`Button 0`"],
@@ -11400,6 +14025,111 @@
         "keys": ["`Axis Z-`"],
         "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle_Pressed\\Right Stick.png",
         "tag": "Pressed"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X+`", "`Axis Y-`", "`Axis X-`"],
+        "tag": "Pressed NESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle_Pressed\\Left Stick.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X+`"],
+        "tag": "Pressed NE",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle_Pressed\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Axis X+`", "`Axis Y-`"],
+        "tag": "Pressed ES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle_Pressed\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Y-`", "`Axis X-`"],
+        "tag": "Pressed SW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle_Pressed\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X-`"],
+        "tag": "Pressed NW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle_Pressed\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`", "`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "Pressed NESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle_Pressed\\Right Stick.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`"],
+        "tag": "Pressed NE",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle_Pressed\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Axis Xr+`", "`Axis Yr-`"],
+        "tag": "Pressed ES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle_Pressed\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "Pressed SW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle_Pressed\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr-`"],
+        "tag": "Pressed NW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle_Pressed\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Pressed NESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle_Pressed\\Pad.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`"],
+        "tag": "Pressed NE",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle_Pressed\\Pad NE.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "Pressed ES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle_Pressed\\Pad ES.png"
+      },
+      {
+        "keys": ["`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Pressed SW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle_Pressed\\Pad SW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 W`"],
+        "tag": "Pressed NW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle_Pressed\\Pad NW.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Pressed ESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle_Pressed\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Pressed NSW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle_Pressed\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "Pressed NEW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle_Pressed\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "Pressed NES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle_Pressed\\Pad NES.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`"],
+        "tag": "Pressed NS",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle_Pressed\\Pad NS.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "Pressed EW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Defaultstyle_Pressed\\Pad EW.png"
       },
       {
         "keys": ["DInput/0/Wireless Controller"],
@@ -11537,6 +14267,111 @@
         "tag": "Flat"
       },
       {
+        "keys": ["`Axis Y+`", "`Axis X+`", "`Axis Y-`", "`Axis X-`"],
+        "tag": "Flat NESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat\\Left Stick.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X+`"],
+        "tag": "Flat NE",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Axis X+`", "`Axis Y-`"],
+        "tag": "Flat ES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Y-`", "`Axis X-`"],
+        "tag": "Flat SW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X-`"],
+        "tag": "Flat NW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`", "`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "Flat NESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat\\Right Stick.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`"],
+        "tag": "Flat NE",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Axis Xr+`", "`Axis Yr-`"],
+        "tag": "Flat ES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "Flat SW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr-`"],
+        "tag": "Flat NW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Flat NESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat\\Pad.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`"],
+        "tag": "Flat NE",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat\\Pad NE.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "Flat ES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat\\Pad ES.png"
+      },
+      {
+        "keys": ["`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Flat SW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat\\Pad SW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 W`"],
+        "tag": "Flat NW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat\\Pad NW.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Flat ESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Flat NSW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "Flat NEW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "Flat NES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat\\Pad NES.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`"],
+        "tag": "Flat NS",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat\\Pad NS.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "Flat EW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat\\Pad EW.png"
+      },
+      {
         "keys": ["`Button 0`"],
         "image": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Square.png",
         "tag": "Flat_Pressed"
@@ -11665,6 +14500,111 @@
         "keys": ["`Axis Z-`"],
         "image": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Right Stick.png",
         "tag": "Flat_Pressed"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X+`", "`Axis Y-`", "`Axis X-`"],
+        "tag": "Flat_Pressed NESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Left Stick.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X+`"],
+        "tag": "Flat_Pressed NE",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Axis X+`", "`Axis Y-`"],
+        "tag": "Flat_Pressed ES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Y-`", "`Axis X-`"],
+        "tag": "Flat_Pressed SW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X-`"],
+        "tag": "Flat_Pressed NW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`", "`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "Flat_Pressed NESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Right Stick.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`"],
+        "tag": "Flat_Pressed NE",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Axis Xr+`", "`Axis Yr-`"],
+        "tag": "Flat_Pressed ES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "Flat_Pressed SW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr-`"],
+        "tag": "Flat_Pressed NW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Flat_Pressed NESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Pad.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`"],
+        "tag": "Flat_Pressed NE",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Pad NE.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "Flat_Pressed ES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Pad ES.png"
+      },
+      {
+        "keys": ["`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Flat_Pressed SW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Pad SW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 W`"],
+        "tag": "Flat_Pressed NW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Pad NW.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Flat_Pressed ESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Flat_Pressed NSW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "Flat_Pressed NEW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "Flat_Pressed NES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Pad NES.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`"],
+        "tag": "Flat_Pressed NS",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Pad NS.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "Flat_Pressed EW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Pad EW.png"
       },
       {
         "keys": ["DInput/0/Wireless Controller"],
@@ -11802,6 +14742,111 @@
         "tag": "Simple-Default"
       },
       {
+        "keys": ["`Axis Y+`", "`Axis X+`", "`Axis Y-`", "`Axis X-`"],
+        "tag": "Simple-Default NESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Simple-Default\\Left Stick.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X+`"],
+        "tag": "Simple-Default NE",
+        "image": "..\\#DefaultDevices\\DualShock4\\Simple-Default\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Axis X+`", "`Axis Y-`"],
+        "tag": "Simple-Default ES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Simple-Default\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Y-`", "`Axis X-`"],
+        "tag": "Simple-Default SW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Simple-Default\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X-`"],
+        "tag": "Simple-Default NW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Simple-Default\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`", "`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "Simple-Default NESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Simple-Default\\Right Stick.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`"],
+        "tag": "Simple-Default NE",
+        "image": "..\\#DefaultDevices\\DualShock4\\Simple-Default\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Axis Xr+`", "`Axis Yr-`"],
+        "tag": "Simple-Default ES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Simple-Default\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "Simple-Default SW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Simple-Default\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr-`"],
+        "tag": "Simple-Default NW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Simple-Default\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Simple-Default NESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Simple-Default\\Pad.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`"],
+        "tag": "Simple-Default NE",
+        "image": "..\\#DefaultDevices\\DualShock4\\Simple-Default\\Pad NE.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "Simple-Default ES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Simple-Default\\Pad ES.png"
+      },
+      {
+        "keys": ["`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Simple-Default SW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Simple-Default\\Pad SW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 W`"],
+        "tag": "Simple-Default NW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Simple-Default\\Pad NW.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Simple-Default ESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Simple-Default\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Simple-Default NSW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Simple-Default\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "Simple-Default NEW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Simple-Default\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "Simple-Default NES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Simple-Default\\Pad NES.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`"],
+        "tag": "Simple-Default NS",
+        "image": "..\\#DefaultDevices\\DualShock4\\Simple-Default\\Pad NS.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "Simple-Default EW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Simple-Default\\Pad EW.png"
+      },
+      {
         "keys": ["DInput/0/Wireless Controller"],
         "image": "..\\#DefaultDevices\\DualShock4\\Device\\Icon.png",
         "tag": "Text-Default"
@@ -11935,6 +14980,111 @@
         "keys": ["`Axis Z-`"],
         "image": "..\\#DefaultDevices\\DualShock4\\Text-Default\\Right X-.png",
         "tag": "Text-Default"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X+`", "`Axis Y-`", "`Axis X-`"],
+        "tag": "Text-Default NESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Text-Default\\Left Stick.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X+`"],
+        "tag": "Text-Default NE",
+        "image": "..\\#DefaultDevices\\DualShock4\\Text-Default\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Axis X+`", "`Axis Y-`"],
+        "tag": "Text-Default ES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Text-Default\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Y-`", "`Axis X-`"],
+        "tag": "Text-Default SW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Text-Default\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X-`"],
+        "tag": "Text-Default NW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Text-Default\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`", "`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "Text-Default NESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Text-Default\\Right Stick.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`"],
+        "tag": "Text-Default NE",
+        "image": "..\\#DefaultDevices\\DualShock4\\Text-Default\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Axis Xr+`", "`Axis Yr-`"],
+        "tag": "Text-Default ES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Text-Default\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "Text-Default SW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Text-Default\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr-`"],
+        "tag": "Text-Default NW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Text-Default\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Text-Default NESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Text-Default\\Pad.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`"],
+        "tag": "Text-Default NE",
+        "image": "..\\#DefaultDevices\\DualShock4\\Text-Default\\Pad NE.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "Text-Default ES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Text-Default\\Pad ES.png"
+      },
+      {
+        "keys": ["`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Text-Default SW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Text-Default\\Pad SW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 W`"],
+        "tag": "Text-Default NW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Text-Default\\Pad NW.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Text-Default ESW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Text-Default\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Text-Default NSW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Text-Default\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "Text-Default NEW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Text-Default\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "Text-Default NES",
+        "image": "..\\#DefaultDevices\\DualShock4\\Text-Default\\Pad NES.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`"],
+        "tag": "Text-Default NS",
+        "image": "..\\#DefaultDevices\\DualShock4\\Text-Default\\Pad NS.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "Text-Default EW",
+        "image": "..\\#DefaultDevices\\DualShock4\\Text-Default\\Pad EW.png"
       }
     ],
     "DInput/0/USB GamePad": [
@@ -12045,6 +15195,111 @@
       {
         "keys": ["`Axis Yr-`"],
         "image": "..\\#DefaultDevices\\Default_DInput\\Defaultstyle\\Right Y+.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X+`", "`Axis Y-`", "`Axis X-`"],
+        "tag": "NESW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Defaultstyle\\Left Stick.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X+`"],
+        "tag": "NE",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Defaultstyle\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Axis X+`", "`Axis Y-`"],
+        "tag": "ES",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Defaultstyle\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Y-`", "`Axis X-`"],
+        "tag": "SW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Defaultstyle\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X-`"],
+        "tag": "NW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Defaultstyle\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`", "`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "NESW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Defaultstyle\\Right Stick.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`"],
+        "tag": "NE",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Defaultstyle\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Axis Xr+`", "`Axis Yr-`"],
+        "tag": "ES",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Defaultstyle\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "SW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Defaultstyle\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr-`"],
+        "tag": "NW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Defaultstyle\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "NESW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Defaultstyle\\Pad.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`"],
+        "tag": "NE",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Defaultstyle\\Pad NE.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "ES",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Defaultstyle\\Pad ES.png"
+      },
+      {
+        "keys": ["`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "SW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Defaultstyle\\Pad SW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 W`"],
+        "tag": "NW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Defaultstyle\\Pad NW.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "ESW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Defaultstyle\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "NSW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Defaultstyle\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "NEW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Defaultstyle\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "NES",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Defaultstyle\\Pad NES.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`"],
+        "tag": "NS",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Defaultstyle\\Pad NS.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "EW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Defaultstyle\\Pad EW.png"
       },
       {
         "keys": ["`Button 1`"],
@@ -12182,6 +15437,111 @@
         "tag": "Pressed"
       },
       {
+        "keys": ["`Axis Y+`", "`Axis X+`", "`Axis Y-`", "`Axis X-`"],
+        "tag": "Pressed NESW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Defaultstyle_Pressed\\Left Stick.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X+`"],
+        "tag": "Pressed NE",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Defaultstyle_Pressed\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Axis X+`", "`Axis Y-`"],
+        "tag": "Pressed ES",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Defaultstyle_Pressed\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Y-`", "`Axis X-`"],
+        "tag": "Pressed SW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Defaultstyle_Pressed\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X-`"],
+        "tag": "Pressed NW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Defaultstyle_Pressed\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`", "`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "Pressed NESW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Defaultstyle_Pressed\\Right Stick.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`"],
+        "tag": "Pressed NE",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Defaultstyle_Pressed\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Axis Xr+`", "`Axis Yr-`"],
+        "tag": "Pressed ES",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Defaultstyle_Pressed\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "Pressed SW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Defaultstyle_Pressed\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr-`"],
+        "tag": "Pressed NW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Defaultstyle_Pressed\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Pressed NESW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Defaultstyle_Pressed\\Pad.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`"],
+        "tag": "Pressed NE",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Defaultstyle_Pressed\\Pad NE.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "Pressed ES",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Defaultstyle_Pressed\\Pad ES.png"
+      },
+      {
+        "keys": ["`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Pressed SW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Defaultstyle_Pressed\\Pad SW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 W`"],
+        "tag": "Pressed NW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Defaultstyle_Pressed\\Pad NW.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Pressed ESW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Defaultstyle_Pressed\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Pressed NSW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Defaultstyle_Pressed\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "Pressed NEW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Defaultstyle_Pressed\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "Pressed NES",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Defaultstyle_Pressed\\Pad NES.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`"],
+        "tag": "Pressed NS",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Defaultstyle_Pressed\\Pad NS.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "Pressed EW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Defaultstyle_Pressed\\Pad EW.png"
+      },
+      {
         "keys": ["`Button 1`"],
         "image": "..\\#DefaultDevices\\Default_DInput\\Flat\\Button 1.png",
         "tag": "Flat"
@@ -12315,6 +15675,111 @@
         "keys": ["`Axis Yr-`"],
         "image": "..\\#DefaultDevices\\Default_DInput\\Flat\\Right Y+.png",
         "tag": "Flat"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X+`", "`Axis Y-`", "`Axis X-`"],
+        "tag": "Flat NESW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Flat\\Left Stick.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X+`"],
+        "tag": "Flat NE",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Flat\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Axis X+`", "`Axis Y-`"],
+        "tag": "Flat ES",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Flat\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Y-`", "`Axis X-`"],
+        "tag": "Flat SW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Flat\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X-`"],
+        "tag": "Flat NW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Flat\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`", "`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "Flat NESW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Flat\\Right Stick.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`"],
+        "tag": "Flat NE",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Flat\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Axis Xr+`", "`Axis Yr-`"],
+        "tag": "Flat ES",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Flat\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "Flat SW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Flat\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr-`"],
+        "tag": "Flat NW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Flat\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Flat NESW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Flat\\Pad.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`"],
+        "tag": "Flat NE",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Flat\\Pad NE.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "Flat ES",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Flat\\Pad ES.png"
+      },
+      {
+        "keys": ["`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Flat SW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Flat\\Pad SW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 W`"],
+        "tag": "Flat NW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Flat\\Pad NW.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Flat ESW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Flat\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Flat NSW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Flat\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "Flat NEW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Flat\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "Flat NES",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Flat\\Pad NES.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`"],
+        "tag": "Flat NS",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Flat\\Pad NS.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "Flat EW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Flat\\Pad EW.png"
       },
       {
         "keys": ["`Button 1`"],
@@ -12452,6 +15917,111 @@
         "tag": "Flat_Pressed"
       },
       {
+        "keys": ["`Axis Y+`", "`Axis X+`", "`Axis Y-`", "`Axis X-`"],
+        "tag": "Flat_Pressed NESW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Flat_Pressed\\Left Stick.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X+`"],
+        "tag": "Flat_Pressed NE",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Flat_Pressed\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Axis X+`", "`Axis Y-`"],
+        "tag": "Flat_Pressed ES",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Flat_Pressed\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Y-`", "`Axis X-`"],
+        "tag": "Flat_Pressed SW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Flat_Pressed\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X-`"],
+        "tag": "Flat_Pressed NW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Flat_Pressed\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`", "`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "Flat_Pressed NESW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Flat_Pressed\\Right Stick.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`"],
+        "tag": "Flat_Pressed NE",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Flat_Pressed\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Axis Xr+`", "`Axis Yr-`"],
+        "tag": "Flat_Pressed ES",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Flat_Pressed\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "Flat_Pressed SW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Flat_Pressed\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr-`"],
+        "tag": "Flat_Pressed NW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Flat_Pressed\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Flat_Pressed NESW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Flat_Pressed\\Pad.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`"],
+        "tag": "Flat_Pressed NE",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Flat_Pressed\\Pad NE.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "Flat_Pressed ES",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Flat_Pressed\\Pad ES.png"
+      },
+      {
+        "keys": ["`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Flat_Pressed SW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Flat_Pressed\\Pad SW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 W`"],
+        "tag": "Flat_Pressed NW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Flat_Pressed\\Pad NW.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Flat_Pressed ESW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Flat_Pressed\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Flat_Pressed NSW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Flat_Pressed\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "Flat_Pressed NEW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Flat_Pressed\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "Flat_Pressed NES",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Flat_Pressed\\Pad NES.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`"],
+        "tag": "Flat_Pressed NS",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Flat_Pressed\\Pad NS.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "Flat_Pressed EW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Flat_Pressed\\Pad EW.png"
+      },
+      {
         "keys": ["`Button 1`"],
         "image": "..\\#DefaultDevices\\Default_DInput\\Simple-Default\\Button 1.png",
         "tag": "Simple-Default"
@@ -12587,6 +16157,111 @@
         "tag": "Simple-Default"
       },
       {
+        "keys": ["`Axis Y+`", "`Axis X+`", "`Axis Y-`", "`Axis X-`"],
+        "tag": "Simple-Default NESW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Simple-Default\\Left Stick.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X+`"],
+        "tag": "Simple-Default NE",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Simple-Default\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Axis X+`", "`Axis Y-`"],
+        "tag": "Simple-Default ES",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Simple-Default\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Y-`", "`Axis X-`"],
+        "tag": "Simple-Default SW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Simple-Default\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X-`"],
+        "tag": "Simple-Default NW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Simple-Default\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`", "`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "Simple-Default NESW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Simple-Default\\Right Stick.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`"],
+        "tag": "Simple-Default NE",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Simple-Default\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Axis Xr+`", "`Axis Yr-`"],
+        "tag": "Simple-Default ES",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Simple-Default\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "Simple-Default SW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Simple-Default\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr-`"],
+        "tag": "Simple-Default NW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Simple-Default\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Simple-Default NESW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Simple-Default\\Pad.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`"],
+        "tag": "Simple-Default NE",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Simple-Default\\Pad NE.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "Simple-Default ES",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Simple-Default\\Pad ES.png"
+      },
+      {
+        "keys": ["`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Simple-Default SW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Simple-Default\\Pad SW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 W`"],
+        "tag": "Simple-Default NW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Simple-Default\\Pad NW.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Simple-Default ESW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Simple-Default\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Simple-Default NSW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Simple-Default\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "Simple-Default NEW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Simple-Default\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "Simple-Default NES",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Simple-Default\\Pad NES.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`"],
+        "tag": "Simple-Default NS",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Simple-Default\\Pad NS.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "Simple-Default EW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Simple-Default\\Pad EW.png"
+      },
+      {
         "keys": ["`Button 1`"],
         "image": "..\\#DefaultDevices\\Default_DInput\\Text-Default\\Button 1.png",
         "tag": "Text-Default"
@@ -12720,6 +16395,111 @@
         "keys": ["`Axis Yr-`"],
         "image": "..\\#DefaultDevices\\Default_DInput\\Text-Default\\Right Y+.png",
         "tag": "Text-Default"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X+`", "`Axis Y-`", "`Axis X-`"],
+        "tag": "Text-Default NESW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Text-Default\\Left Stick.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X+`"],
+        "tag": "Text-Default NE",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Text-Default\\Left X+Y+.png"
+      },
+      {
+        "keys": ["`Axis X+`", "`Axis Y-`"],
+        "tag": "Text-Default ES",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Text-Default\\Left X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Y-`", "`Axis X-`"],
+        "tag": "Text-Default SW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Text-Default\\Left X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Y+`", "`Axis X-`"],
+        "tag": "Text-Default NW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Text-Default\\Left X-Y+.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`", "`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "Text-Default NESW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Text-Default\\Right Stick.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr+`"],
+        "tag": "Text-Default NE",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Text-Default\\Right X+Y+.png"
+      },
+      {
+        "keys": ["`Axis Xr+`", "`Axis Yr-`"],
+        "tag": "Text-Default ES",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Text-Default\\Right X+Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr-`", "`Axis Xr-`"],
+        "tag": "Text-Default SW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Text-Default\\Right X-Y-.png"
+      },
+      {
+        "keys": ["`Axis Yr+`", "`Axis Xr-`"],
+        "tag": "Text-Default NW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Text-Default\\Right X-Y+.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Text-Default NESW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Text-Default\\Pad.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`"],
+        "tag": "Text-Default NE",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Text-Default\\Pad NE.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "Text-Default ES",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Text-Default\\Pad ES.png"
+      },
+      {
+        "keys": ["`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Text-Default SW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Text-Default\\Pad SW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 W`"],
+        "tag": "Text-Default NW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Text-Default\\Pad NW.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Text-Default ESW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Text-Default\\Pad ESW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`", "`Hat 0 W`"],
+        "tag": "Text-Default NSW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Text-Default\\Pad NSW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "Text-Default NEW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Text-Default\\Pad NEW.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 E`", "`Hat 0 S`"],
+        "tag": "Text-Default NES",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Text-Default\\Pad NES.png"
+      },
+      {
+        "keys": ["`Hat 0 N`", "`Hat 0 S`"],
+        "tag": "Text-Default NS",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Text-Default\\Pad NS.png"
+      },
+      {
+        "keys": ["`Hat 0 E`", "`Hat 0 W`"],
+        "tag": "Text-Default EW",
+        "image": "..\\#DefaultDevices\\Default_DInput\\Text-Default\\Pad EW.png"
       }
     ],
     "Bluetooth/0/Wii Remote": [
