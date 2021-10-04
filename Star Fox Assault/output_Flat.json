@@ -1,483 +1,691 @@
 {
-"default_host_controls": {
-	"XInput/0/Gamepad": {
-          "`Button B`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Button B.png",
-          "`Button A`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Button A.png",
-          "`Shoulder L`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Shoulder L.png",
-          "`Trigger L`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Trigger L.png",
-          "`Left X-`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Left X-.png",
-          "`Left X+`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Left X+.png",
-          "`Left Y-`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Left Y-.png",
-          "`Left Y+`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Left Y+.png",
-          "`Thumb L`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Thumb L.png",
-          "`Start`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Start.png",
-          "`Pad E`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Pad E.png",
-          "`Pad N`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Pad N.png",
-          "`Pad S`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Pad S.png",
-          "`Pad W`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Pad W.png",
-          "`Guide`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Guide.png",
-          "`Shoulder R`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Shoulder R.png",
-          "`Trigger R`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Trigger R.png",
-          "`Thumb R`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Thumb R.png",
-          "`Right X-`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Right X-.png",
-          "`Right X+`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Right X+.png",
-          "`Right Y-`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Right Y-.png",
-          "`Right Y+`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Right Y+.png",
-          "`Back`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Back.png",
-          "`Button X`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Button X.png",
-          "`Button Y`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Button Y.png",
-		  
-          "`Button Start`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Start.png",
-          "`Button Guide`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Guide.png",
-          "`Button Back`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Back.png",
-		  
-          "Button B": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Button B.png",
-          "Button A": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Button A.png",
-          "Shoulder L": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Shoulder L.png",
-          "Trigger L": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Trigger L.png",
-          "Thumb L": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Thumb L.png",
-          "Start": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Start.png",
-          "Guide": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Guide.png",
-          "Shoulder R": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Shoulder R.png",
-          "Trigger R": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Trigger R.png",
-          "Thumb R": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Thumb R.png",
-          "Back": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Back.png",
-          "Button X": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Button X.png",
-          "Button Y": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Button Y.png",
-		  
-          "Button Start": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Start.png",
-          "Button Guide": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Guide.png",
-          "Button Back": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Back.png"
-        },
-	"DInput/0/Bluetooth LE XINPUT compatible input device": {
-          "`Button 0`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Button A.png",
-          "`Button 1`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Button B.png",
-          "`Button 2`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Button X.png",
-          "`Button 3`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Button Y.png",
-          "`Button 4`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Shoulder L.png",
-          "`Button 5`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Shoulder R.png",
-          "`Button 6`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Back.png",
-          "`Button 7`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Start.png",
-          "`Button 8`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Thumb L.png",
-          "`Button 9`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Thumb R.png",
-          "`Button 10`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Guide.png",
-          "`Button 11`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Share.png",
-          "`Axis Z+`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Trigger L.png",
-          "`Axis Z-`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Trigger R.png",
-          "`Hat 0 E`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Pad E.png",
-          "`Hat 0 N`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Pad N.png",
-          "`Hat 0 S`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Pad S.png",
-          "`Hat 0 W`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Pad W.png",
-          "`Axis X-`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Left X-.png",
-          "`Axis X+`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Left X+.png",
-          "`Axis Y-`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Left Y+.png",
-          "`Axis Y+`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Left Y-.png",
-          "`Axis Xr-`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Right X-.png",
-          "`Axis Xr+`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Right X+.png",
-          "`Axis Yr+`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Right Y-.png",
-          "`Axis Yr-`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Right Y+.png"
-        },
-	"DInput/0/Keyboard Mouse": {
-          "`Click 0`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Click 0.png",
-          "`Click 1`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Click 1.png",
-          "`Click 2`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Click 2.png",
-          "`Click 3`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Click 3.png",
-          "`Click 4`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Click 4.png",
-          "`Axis Z-`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Axis Z-.png",
-          "`Axis Z+`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Axis Z+.png",
-          "`Axis X-`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Axis X-.png",
-          "`Axis X+`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Axis X+.png",
-          "`Axis Y-`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Axis Y-.png",
-          "`Axis Y+`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Axis Y+.png",
-		  
-          "Click 0": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Click 0.png",
-          "Click 1": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Click 1.png",
-          "Click 2": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Click 2.png",
-          "Click 3": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Click 3.png",
-          "Click 4": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Click 4.png",
-          "Axis Z-": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Axis Z-.png",
-          "Axis Z+": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Axis Z+.png",
-          "Axis X-": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Axis X-.png",
-          "Axis X+": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Axis X+.png",
-          "Axis Y-": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Axis Y-.png",
-          "Axis Y+": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Axis Y+.png",
-		  
-          "DOWN": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\DOWN.png",
-          "LEFT": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\LEFT.png",
-          "RIGHT": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\RIGHT.png",
-          "UP": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\UP.png",
-		  
-          "Alt": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\ALT.png",
-          "APPS": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\APPS.png",
-          "APOSTROPHE": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\APOSTROPHE.png",
-          "BACK": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\BACK.png",
-          "BACKSLASH": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\BACKSLASH.png",
-          "COMMA": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\COMMA.png",
-          "Ctrl": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\CONTROL.png",
-          "ESCAPE": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\ESC.png",
-          "EQUALS": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\EQUALS.png",
-          "GRAVE": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\GRAVE.png",
-          "LBRACKET": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\LBRACKET.png",
-          "LCONTROL": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\CONTROL.png",
-          "LMENU": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\ALT.png",
-          "LSHIFT": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\SHIFT.png",
-          "MINUS": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\MINUS.png",
-          "`OEM_102`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\OEM_102.png",
-          "PERIOD": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\PERIOD.png",
-          "RBRACKET": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\RBRACKET.png",
-          "RCONTROL": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\CONTROL.png",
-          "RETURN": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\RETURN.png",
-          "RMENU": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\ALT GR.png",
-          "RSHIFT": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\SHIFT.png",
-          "TAB": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\TAB.png",
-		  
-          "Shift": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\SHIFT.png",
-          "SEMICOLON": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\SEMICOLON.png",
-          "SLASH": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\SLASH.png",
-          "SPACE": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\SPACE.png",
-          "Win": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\OS.png",
-		  
-          "A": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\A.png",
-          "B": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\B.png",
-          "C": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\C.png",
-          "D": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\D.png",
-          "E": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\E.png",
-          "F": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\F.png",
-          "G": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\G.png",
-          "H": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\H.png",
-          "I": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\I.png",
-          "J": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\J.png",
-          "K": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\K.png",
-          "L": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\L.png",
-          "M": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\M.png",
-          "N": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\N.png",
-          "O": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\O.png",
-          "P": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\P.png",
-          "Q": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Q.png",
-          "R": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\R.png",
-          "S": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\S.png",
-          "T": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\T.png",
-          "U": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\U.png",
-          "V": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\V.png",
-          "W": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\W.png",
-          "X": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\X.png",
-          "Y": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Y.png",
-          "Z": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Z.png",
-
-		  "`0`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\0.png",
-          "`1`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\1.png",
-          "`2`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\2.png",
-          "`3`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\3.png",
-          "`4`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\4.png",
-          "`5`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\5.png",
-          "`6`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\6.png",
-          "`7`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\7.png",
-          "`8`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\8.png",
-          "`9`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\9.png",
-		  		  
-          "`F1`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\F1.png",
-          "`F2`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\F2.png",
-          "`F3`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\F3.png",
-          "`F4`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\F4.png",
-          "`F5`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\F5.png",
-          "`F6`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\F6.png",
-          "`F7`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\F7.png",
-          "`F8`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\F8.png",
-          "`F9`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\F9.png",
-          "`F10`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\F10.png",
-          "`F11`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\F11.png",
-          "`F12`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\F12.png",
-		  
-          "DELETE": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\DELETE.png",
-          "END": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\END.png",
-          "NEXT": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\NEXT.png",
-          "INSERT": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\INSERT.png",
-          "HOME": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\HOME.png",
-          "PRIOR": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\PRIOR.png",
-          "PAUSE": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\PAUSE.png",
-	
-          "`NUMPAD0`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\0.png",
-          "`NUMPAD1`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\1.png",
-          "`NUMPAD2`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\2.png",
-          "`NUMPAD3`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\3.png",
-          "`NUMPAD4`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\4.png",
-          "`NUMPAD5`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\5.png",
-          "`NUMPAD6`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\6.png",
-          "`NUMPAD7`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\7.png",
-          "`NUMPAD8`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\8.png",
-          "`NUMPAD9`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\9.png",
-          "ADD": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\ADD.png",
-          "DECIMAL": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\DECIMAL.png",
-          "DIVIDE": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\DIVIDE.png",
-          "MULTIPLY": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\MULTIPLY.png",
-          "NUMPADENTER": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\RETURN.png",
-          "SUBTRACT": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\MINUS.png"
-        },
+  "default_host_controls": {
+    "XInput/0/Gamepad": {
+      "XInput/0/Gamepad": "..\\#DefaultDevices\\XBOX ONE\\Device\\Icon.png",
+      "`Button A`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Button A.png",
+      "`Button B`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Button B.png",
+      "`Button X`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Button X.png",
+      "`Button Y`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Button Y.png",
+      "`Shoulder L`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Shoulder L.png",
+      "`Trigger L`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Trigger L.png",
+      "`Shoulder R`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Shoulder R.png",
+      "`Trigger R`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Trigger R.png",
+      "`Pad E`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Pad E.png",
+      "`Pad N`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Pad N.png",
+      "`Pad S`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Pad S.png",
+      "`Pad W`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Pad W.png",
+      "`Left X-`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Left X-.png",
+      "`Left X+`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Left X+.png",
+      "`Left Y-`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Left Y-.png",
+      "`Left Y+`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Left Y+.png",
+      "`Thumb L`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Thumb L.png",
+      "`Right X-`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Right X-.png",
+      "`Right X+`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Right X+.png",
+      "`Right Y-`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Right Y-.png",
+      "`Right Y+`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Right Y+.png",
+      "`Thumb R`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Thumb R.png",
+      "`Start`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Start.png",
+      "`Guide`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Guide.png",
+      "`Back`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Back.png",
+      "`Button Start`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Start.png",
+      "`Button Guide`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Guide.png",
+      "`Button Back`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Back.png",
+      "Start": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Start.png",
+      "Guide": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Guide.png",
+      "Back": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Back.png",
+      "Button Start": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Start.png",
+      "Button Guide": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Guide.png",
+      "Button Back": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Back.png"
+    },
+    "DInput/0/Bluetooth LE XINPUT compatible input device": {
+      "DInput/0/Bluetooth LE XINPUT compatible input device": "..\\#DefaultDevices\\XBOX ONE\\Device\\Icon.png",
+      "`Button 0`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Button A.png",
+      "`Button 1`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Button B.png",
+      "`Button 2`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Button X.png",
+      "`Button 3`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Button Y.png",
+      "`Button 4`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Shoulder L.png",
+      "`Button 5`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Shoulder R.png",
+      "`Button 6`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Back.png",
+      "`Button 7`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Start.png",
+      "`Button 8`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Thumb L.png",
+      "`Button 9`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Thumb R.png",
+      "`Button 10`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Guide.png",
+      "`Button 11`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Share.png",
+      "`Axis Z+`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Trigger L.png",
+      "`Axis Z-`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Trigger R.png",
+      "`Hat 0 E`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Pad E.png",
+      "`Hat 0 N`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Pad N.png",
+      "`Hat 0 S`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Pad S.png",
+      "`Hat 0 W`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Pad W.png",
+      "`Axis X-`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Left X-.png",
+      "`Axis X+`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Left X+.png",
+      "`Axis Y-`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Left Y+.png",
+      "`Axis Y+`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Left Y-.png",
+      "`Axis Xr-`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Right X-.png",
+      "`Axis Xr+`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Right X+.png",
+      "`Axis Yr+`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Right Y-.png",
+      "`Axis Yr-`": "..\\#DefaultDevices\\XBOX ONE\\Flat\\Right Y+.png"
+    },
+    "DInput/0/Keyboard Mouse": {
+      "`Click 0`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Click 0.png",
+      "`Click 1`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Click 1.png",
+      "`Click 2`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Click 2.png",
+      "`Click 3`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Click 3.png",
+      "`Click 4`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Click 4.png",
+      "`Axis Z-`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Axis Z-.png",
+      "`Axis Z+`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Axis Z+.png",
+      "`Axis X-`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Axis X-.png",
+      "`Axis X+`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Axis X+.png",
+      "`Axis Y-`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Axis Y-.png",
+      "`Axis Y+`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Axis Y+.png",
+      "Click 0": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Click 0.png",
+      "Click 1": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Click 1.png",
+      "Click 2": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Click 2.png",
+      "Click 3": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Click 3.png",
+      "Click 4": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Click 4.png",
+      "Axis Z-": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Axis Z-.png",
+      "Axis Z+": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Axis Z+.png",
+      "Axis X-": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Axis X-.png",
+      "Axis X+": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Axis X+.png",
+      "Axis Y-": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Axis Y-.png",
+      "Axis Y+": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Axis Y+.png",
+      "DOWN": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\DOWN.png",
+      "LEFT": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\LEFT.png",
+      "RIGHT": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\RIGHT.png",
+      "UP": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\UP.png",
+      "Alt": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\ALT.png",
+      "APPS": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\APPS.png",
+      "APOSTROPHE": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\APOSTROPHE.png",
+      "BACK": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\BACK.png",
+      "BACKSLASH": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\BACKSLASH.png",
+      "COMMA": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\COMMA.png",
+      "Ctrl": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\CONTROL.png",
+      "ESCAPE": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\ESC.png",
+      "EQUALS": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\EQUALS.png",
+      "GRAVE": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\GRAVE.png",
+      "LBRACKET": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\LBRACKET.png",
+      "LCONTROL": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\CONTROL.png",
+      "LMENU": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\ALT.png",
+      "LSHIFT": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\SHIFT.png",
+      "MINUS": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\MINUS.png",
+      "`OEM_102`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\OEM_102.png",
+      "PERIOD": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\PERIOD.png",
+      "RBRACKET": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\RBRACKET.png",
+      "RCONTROL": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\CONTROL.png",
+      "RETURN": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\RETURN.png",
+      "RMENU": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\ALT GR.png",
+      "RSHIFT": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\SHIFT.png",
+      "TAB": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\TAB.png",
+      "Shift": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\SHIFT.png",
+      "SEMICOLON": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\SEMICOLON.png",
+      "SLASH": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\SLASH.png",
+      "SPACE": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\SPACE.png",
+      "Win": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\OS.png",
+      "A": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\A.png",
+      "B": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\B.png",
+      "C": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\C.png",
+      "D": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\D.png",
+      "E": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\E.png",
+      "F": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\F.png",
+      "G": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\G.png",
+      "H": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\H.png",
+      "I": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\I.png",
+      "J": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\J.png",
+      "K": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\K.png",
+      "L": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\L.png",
+      "M": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\M.png",
+      "N": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\N.png",
+      "O": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\O.png",
+      "P": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\P.png",
+      "Q": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Q.png",
+      "R": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\R.png",
+      "S": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\S.png",
+      "T": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\T.png",
+      "U": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\U.png",
+      "V": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\V.png",
+      "W": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\W.png",
+      "X": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\X.png",
+      "Y": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Y.png",
+      "Z": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\Z.png",
+      "`0`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\0.png",
+      "`1`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\1.png",
+      "`2`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\2.png",
+      "`3`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\3.png",
+      "`4`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\4.png",
+      "`5`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\5.png",
+      "`6`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\6.png",
+      "`7`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\7.png",
+      "`8`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\8.png",
+      "`9`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\9.png",
+      "`F1`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\F1.png",
+      "`F2`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\F2.png",
+      "`F3`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\F3.png",
+      "`F4`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\F4.png",
+      "`F5`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\F5.png",
+      "`F6`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\F6.png",
+      "`F7`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\F7.png",
+      "`F8`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\F8.png",
+      "`F9`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\F9.png",
+      "`F10`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\F10.png",
+      "`F11`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\F11.png",
+      "`F12`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\F12.png",
+      "DELETE": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\DELETE.png",
+      "END": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\END.png",
+      "NEXT": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\NEXT.png",
+      "INSERT": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\INSERT.png",
+      "HOME": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\HOME.png",
+      "PRIOR": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\PRIOR.png",
+      "PAUSE": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\PAUSE.png",
+      "`NUMPAD0`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\0.png",
+      "`NUMPAD1`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\1.png",
+      "`NUMPAD2`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\2.png",
+      "`NUMPAD3`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\3.png",
+      "`NUMPAD4`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\4.png",
+      "`NUMPAD5`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\5.png",
+      "`NUMPAD6`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\6.png",
+      "`NUMPAD7`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\7.png",
+      "`NUMPAD8`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\8.png",
+      "`NUMPAD9`": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\9.png",
+      "ADD": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\ADD.png",
+      "DECIMAL": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\DECIMAL.png",
+      "DIVIDE": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\DIVIDE.png",
+      "MULTIPLY": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\MULTIPLY.png",
+      "NUMPADENTER": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\RETURN.png",
+      "SUBTRACT": "..\\#DefaultDevices\\Keyboard Mouse\\Flat\\MINUS.png"
+    },
     "DSUClient/0/DualShock4": {
-          "`Circle`": "..\\#DefaultDevices\\DualShock4\\Flat\\Circle.png",
-          "`Cross`": "..\\#DefaultDevices\\DualShock4\\Flat\\Cross.png",
-          "`L1`": "..\\#DefaultDevices\\DualShock4\\Flat\\L1.png",
-          "`L2`": "..\\#DefaultDevices\\DualShock4\\Flat\\L2.png",
-          "`L3`": "..\\#DefaultDevices\\DualShock4\\Flat\\L3.png",
-          "`Left X-`": "..\\#DefaultDevices\\DualShock4\\Flat\\Left X-.png",
-          "`Left X+`": "..\\#DefaultDevices\\DualShock4\\Flat\\Left X+.png",
-          "`Left Y-`": "..\\#DefaultDevices\\DualShock4\\Flat\\Left Y-.png",
-          "`Left Y+`": "..\\#DefaultDevices\\DualShock4\\Flat\\Left Y+.png",
-          "`Options`": "..\\#DefaultDevices\\DualShock4\\Flat\\Options.png",
-          "`Pad E`": "..\\#DefaultDevices\\DualShock4\\Flat\\Pad E.png",
-          "`Pad N`": "..\\#DefaultDevices\\DualShock4\\Flat\\Pad N.png",
-          "`Pad S`": "..\\#DefaultDevices\\DualShock4\\Flat\\Pad S.png",
-          "`Pad W`": "..\\#DefaultDevices\\DualShock4\\Flat\\Pad W.png",
-          "`PS`": "..\\#DefaultDevices\\DualShock4\\Flat\\PS.png",
-          "`R1`": "..\\#DefaultDevices\\DualShock4\\Flat\\R1.png",
-          "`R2`": "..\\#DefaultDevices\\DualShock4\\Flat\\R2.png",
-          "`R3`": "..\\#DefaultDevices\\DualShock4\\Flat\\R3.png",
-          "`Right X-`": "..\\#DefaultDevices\\DualShock4\\Flat\\Right X-.png",
-          "`Right X+`": "..\\#DefaultDevices\\DualShock4\\Flat\\Right X+.png",
-          "`Right Y-`": "..\\#DefaultDevices\\DualShock4\\Flat\\Right Y-.png",
-          "`Right Y+`": "..\\#DefaultDevices\\DualShock4\\Flat\\Right Y+.png",
-          "`Share`": "..\\#DefaultDevices\\DualShock4\\Flat\\Share.png",
-          "`Square`": "..\\#DefaultDevices\\DualShock4\\Flat\\Square.png",
-          "`Triangle`": "..\\#DefaultDevices\\DualShock4\\Flat\\Triangle.png",
-          "`Touch Button`": "..\\#DefaultDevices\\DualShock4\\Flat\\Touchpad.png",
-		  
-          "Circle": "..\\#DefaultDevices\\DualShock4\\Flat\\Circle.png",
-          "Cross": "..\\#DefaultDevices\\DualShock4\\Flat\\Cross.png",
-          "L1": "..\\#DefaultDevices\\DualShock4\\Flat\\L1.png",
-          "L2": "..\\#DefaultDevices\\DualShock4\\Flat\\L2.png",
-          "L3": "..\\#DefaultDevices\\DualShock4\\Flat\\L3.png",
-          "Options": "..\\#DefaultDevices\\DualShock4\\Flat\\Options.png",
-          "PS": "..\\#DefaultDevices\\DualShock4\\Flat\\PS.png",
-          "R1": "..\\#DefaultDevices\\DualShock4\\Flat\\R1.png",
-          "R2": "..\\#DefaultDevices\\DualShock4\\Flat\\R2.png",
-          "R3": "..\\#DefaultDevices\\DualShock4\\Flat\\R3.png",
-          "Share": "..\\#DefaultDevices\\DualShock4\\Flat\\Share.png",
-          "Square": "..\\#DefaultDevices\\DualShock4\\Flat\\Square.png",
-          "Triangle": "..\\#DefaultDevices\\DualShock4\\Flat\\Triangle.png",
-          "Touch Button": "..\\#DefaultDevices\\DualShock4\\Flat\\Touchpad.png"
-        },
+      "DSUClient/0/DualShock4": "..\\#DefaultDevices\\DualShock4\\Device\\Icon.png",
+      "`Circle`": "..\\#DefaultDevices\\DualShock4\\Flat\\Circle.png",
+      "`Cross`": "..\\#DefaultDevices\\DualShock4\\Flat\\Cross.png",
+      "`L1`": "..\\#DefaultDevices\\DualShock4\\Flat\\L1.png",
+      "`L2`": "..\\#DefaultDevices\\DualShock4\\Flat\\L2.png",
+      "`L3`": "..\\#DefaultDevices\\DualShock4\\Flat\\L3.png",
+      "`Left X-`": "..\\#DefaultDevices\\DualShock4\\Flat\\Left X-.png",
+      "`Left X+`": "..\\#DefaultDevices\\DualShock4\\Flat\\Left X+.png",
+      "`Left Y-`": "..\\#DefaultDevices\\DualShock4\\Flat\\Left Y-.png",
+      "`Left Y+`": "..\\#DefaultDevices\\DualShock4\\Flat\\Left Y+.png",
+      "`Options`": "..\\#DefaultDevices\\DualShock4\\Flat\\Options.png",
+      "`Pad E`": "..\\#DefaultDevices\\DualShock4\\Flat\\Pad E.png",
+      "`Pad N`": "..\\#DefaultDevices\\DualShock4\\Flat\\Pad N.png",
+      "`Pad S`": "..\\#DefaultDevices\\DualShock4\\Flat\\Pad S.png",
+      "`Pad W`": "..\\#DefaultDevices\\DualShock4\\Flat\\Pad W.png",
+      "`PS`": "..\\#DefaultDevices\\DualShock4\\Flat\\PS.png",
+      "`R1`": "..\\#DefaultDevices\\DualShock4\\Flat\\R1.png",
+      "`R2`": "..\\#DefaultDevices\\DualShock4\\Flat\\R2.png",
+      "`R3`": "..\\#DefaultDevices\\DualShock4\\Flat\\R3.png",
+      "`Right X-`": "..\\#DefaultDevices\\DualShock4\\Flat\\Right X-.png",
+      "`Right X+`": "..\\#DefaultDevices\\DualShock4\\Flat\\Right X+.png",
+      "`Right Y-`": "..\\#DefaultDevices\\DualShock4\\Flat\\Right Y-.png",
+      "`Right Y+`": "..\\#DefaultDevices\\DualShock4\\Flat\\Right Y+.png",
+      "`Share`": "..\\#DefaultDevices\\DualShock4\\Flat\\Share.png",
+      "`Square`": "..\\#DefaultDevices\\DualShock4\\Flat\\Square.png",
+      "`Triangle`": "..\\#DefaultDevices\\DualShock4\\Flat\\Triangle.png",
+      "`Touch Button`": "..\\#DefaultDevices\\DualShock4\\Flat\\Touchpad.png",
+      "Circle": "..\\#DefaultDevices\\DualShock4\\Flat\\Circle.png",
+      "Cross": "..\\#DefaultDevices\\DualShock4\\Flat\\Cross.png",
+      "L1": "..\\#DefaultDevices\\DualShock4\\Flat\\L1.png",
+      "L2": "..\\#DefaultDevices\\DualShock4\\Flat\\L2.png",
+      "L3": "..\\#DefaultDevices\\DualShock4\\Flat\\L3.png",
+      "Options": "..\\#DefaultDevices\\DualShock4\\Flat\\Options.png",
+      "PS": "..\\#DefaultDevices\\DualShock4\\Flat\\PS.png",
+      "R1": "..\\#DefaultDevices\\DualShock4\\Flat\\R1.png",
+      "R2": "..\\#DefaultDevices\\DualShock4\\Flat\\R2.png",
+      "R3": "..\\#DefaultDevices\\DualShock4\\Flat\\R3.png",
+      "Share": "..\\#DefaultDevices\\DualShock4\\Flat\\Share.png",
+      "Square": "..\\#DefaultDevices\\DualShock4\\Flat\\Square.png",
+      "Triangle": "..\\#DefaultDevices\\DualShock4\\Flat\\Triangle.png",
+      "Touch Button": "..\\#DefaultDevices\\DualShock4\\Flat\\Touchpad.png"
+    },
     "DSUClient/0/BetterJoy": {
-          "`Circle`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button A.png",
-          "`Cross`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button B.png",
-          "`L1`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\L.png",
-          "`L2`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\ZL.png",
-          "`L3`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Thumb L.png",
-          "`Left X-`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Left X-.png",
-          "`Left X+`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Left X+.png",
-          "`Left Y-`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Left Y-.png",
-          "`Left Y+`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Left Y+.png",
-          "`Options`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button +.png",
-          "`Pad E`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Pad E.png",
-          "`Pad N`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Pad N.png",
-          "`Pad S`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Pad S.png",
-          "`Pad W`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Pad W.png",
-          "`PS`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Home.png",
-          "`R1`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\R.png",
-          "`R2`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\ZR.png",
-          "`R3`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Thumb R.png",
-          "`Right X-`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Right X-.png",
-          "`Right X+`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Right X+.png",
-          "`Right Y-`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Right Y-.png",
-          "`Right Y+`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Right Y+.png",
-          "`Share`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button -.png",
-          "`Square`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button Y.png",
-          "`Triangle`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button X.png",
-		  
-          "Circle": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button A.png",
-          "Cross": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button B.png",
-          "L1": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\L.png",
-          "L2": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\ZL.png",
-          "L3": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Thumb L.png",
-          "Options": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button +.png",
-          "PS": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Home.png",
-          "R1": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\R.png",
-          "R2": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\ZR.png",
-          "R3": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Thumb R.png",
-          "Share": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button -.png",
-          "Square": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button Y.png",
-          "Triangle": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button X.png"
-        },
+      "DSUClient/0/BetterJoy": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon.png",
+      "`Circle`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button A.png",
+      "`Cross`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button B.png",
+      "`L1`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\L.png",
+      "`L2`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\ZL.png",
+      "`L3`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Thumb L.png",
+      "`Left X-`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Left X-.png",
+      "`Left X+`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Left X+.png",
+      "`Left Y-`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Left Y-.png",
+      "`Left Y+`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Left Y+.png",
+      "`Options`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button +.png",
+      "`Pad E`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Pad E.png",
+      "`Pad N`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Pad N.png",
+      "`Pad S`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Pad S.png",
+      "`Pad W`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Pad W.png",
+      "`PS`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Home.png",
+      "`R1`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\R.png",
+      "`R2`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\ZR.png",
+      "`R3`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Thumb R.png",
+      "`Right X-`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Right X-.png",
+      "`Right X+`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Right X+.png",
+      "`Right Y-`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Right Y-.png",
+      "`Right Y+`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Right Y+.png",
+      "`Share`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button -.png",
+      "`Square`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button Y.png",
+      "`Triangle`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button X.png",
+      "Circle": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button A.png",
+      "Cross": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button B.png",
+      "L1": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\L.png",
+      "L2": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\ZL.png",
+      "L3": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Thumb L.png",
+      "Options": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button +.png",
+      "PS": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Home.png",
+      "R1": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\R.png",
+      "R2": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\ZR.png",
+      "R3": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Thumb R.png",
+      "Share": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button -.png",
+      "Square": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button Y.png",
+      "Triangle": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button X.png"
+    },
     "DSUClient/1/BetterJoy": {
-          "`Circle`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Button A.png",
-          "`Cross`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Button B.png",
-          "`L1`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\L.png",
-          "`L2`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\ZL.png",
-          "`L3`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Thumb L.png",
-          "`Left X-`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Left X-.png",
-          "`Left X+`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Left X+.png",
-          "`Left Y-`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Left Y-.png",
-          "`Left Y+`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Left Y+.png",
-          "`Options`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Button +.png",
-          "`Pad E`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Pad E.png",
-          "`Pad N`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Pad N.png",
-          "`Pad S`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Pad S.png",
-          "`Pad W`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Pad W.png",
-          "`PS`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Home.png",
-          "`R1`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\R.png",
-          "`R2`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\ZR.png",
-          "`R3`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Thumb R.png",
-          "`Right X-`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Right X-.png",
-          "`Right X+`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Right X+.png",
-          "`Right Y-`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Right Y-.png",
-          "`Right Y+`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Right Y+.png",
-          "`Share`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Button -.png",
-          "`Square`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Button Y.png",
-          "`Triangle`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Button X.png",
-		  
-          "Circle": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Button A.png",
-          "Cross": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Button B.png",
-          "L1": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\L.png",
-          "L2": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\ZL.png",
-          "L3": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Thumb L.png",
-          "Options": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Button +.png",
-          "PS": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Home.png",
-          "R1": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\R.png",
-          "R2": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\ZR.png",
-          "R3": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Thumb R.png",
-          "Share": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Button -.png",
-          "Square": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Button Y.png",
-          "Triangle": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Button X.png"
-        },
-		"DInput/0/Wireless Gamepad": {
-          "`Button 0`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button B.png",
-          "`Button 1`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button A.png",
-          "`Button 2`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button Y.png",
-          "`Button 3`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button X.png",
-          "`Button 5`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\R.png",
-          "`Button 4`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\L.png",
-          "`Button 6`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\ZL.png",
-          "`Button 7`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\ZR.png",
-          "`Button 8`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button -.png",
-          "`Button 9`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button +.png",
-          "`Button 10`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Thumb L.png",
-          "`Button 11`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Thumb R.png",
-          "`Button 12`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Home.png",
-          "`Button 13`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Share.png",
-          "`Axis X-`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Left X-.png",
-          "`Axis X+`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Left X+.png",
-          "`Axis Y+`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Left Y-.png",
-          "`Axis Y-`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Left Y+.png",
-          "`Hat 0 E`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Pad E.png",
-          "`Hat 0 N`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Pad N.png",
-          "`Hat 0 S`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Pad S.png",
-          "`Hat 0 W`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Pad W.png",
-          "`Axis Xr-`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Right X-.png",
-          "`Axis Xr+`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Right X+.png",
-          "`Axis Yr+`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Right Y-.png",
-          "`Axis Yr-`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Right Y+.png"
-        },
-		"DInput/0/Wireless Controller": {
-			"`Button 0`": "..\\#DefaultDevices\\DualShock4\\Flat\\Square.png",
-			"`Button 1`": "..\\#DefaultDevices\\DualShock4\\Flat\\Cross.png",
-			"`Button 2`": "..\\#DefaultDevices\\DualShock4\\Flat\\Circle.png",
-			"`Button 3`": "..\\#DefaultDevices\\DualShock4\\Flat\\Triangle.png",
-			"`Button 4`": "..\\#DefaultDevices\\DualShock4\\Flat\\L1.png",
-			"`Button 5`": "..\\#DefaultDevices\\DualShock4\\Flat\\R1.png",
-			"`Button 6`": "..\\#DefaultDevices\\DualShock4\\Flat\\L2.png",
-			"`Button 7`": "..\\#DefaultDevices\\DualShock4\\Flat\\R2.png",
-			"`Button 8`": "..\\#DefaultDevices\\DualShock4\\Flat\\Share.png",
-			"`Button 9`": "..\\#DefaultDevices\\DualShock4\\Flat\\Options.png",
-			"`Button 10`": "..\\#DefaultDevices\\DualShock4\\Flat\\L3.png",
-			"`Button 11`": "..\\#DefaultDevices\\DualShock4\\Flat\\R3.png",
-			"`Button 12`": "..\\#DefaultDevices\\DualShock4\\Flat\\PS.png",
-			"`Button 13`": "..\\#DefaultDevices\\DualShock4\\Flat\\Touchpad.png",
-			"`Hat 0 N`": "..\\#DefaultDevices\\DualShock4\\Flat\\Pad N.png",
-			"`Hat 0 S`": "..\\#DefaultDevices\\DualShock4\\Flat\\Pad S.png",
-			"`Hat 0 E`": "..\\#DefaultDevices\\DualShock4\\Flat\\Pad E.png",
-			"`Hat 0 W`": "..\\#DefaultDevices\\DualShock4\\Flat\\Pad W.png",
-			"`Axis Y+`": "..\\#DefaultDevices\\DualShock4\\Flat\\Left Y-.png",
-			"`Axis Y-`": "..\\#DefaultDevices\\DualShock4\\Flat\\Left Y+.png",
-			"`Axis X+`": "..\\#DefaultDevices\\DualShock4\\Flat\\Left X+.png",
-			"`Axis X-`": "..\\#DefaultDevices\\DualShock4\\Flat\\Left X-.png",
-			"`Axis Zr+`": "..\\#DefaultDevices\\DualShock4\\Flat\\Right Y-.png",
-			"`Axis Zr-`": "..\\#DefaultDevices\\DualShock4\\Flat\\Right Y+.png",
-			"`Axis Z+`": "..\\#DefaultDevices\\DualShock4\\Flat\\Right X+.png",
-			"`Axis Z-`": "..\\#DefaultDevices\\DualShock4\\Flat\\Right X-.png"
-        },
-		"DInput/0/USB GamePad": {
-          "`Button 1`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Button 1.png",
-          "`Button 2`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Button 2.png",
-          "`Button 3`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Button 3.png",
-          "`Button 4`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Button 4.png",
-          "`Button 5`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Button 5.png",
-          "`Button 6`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Button 6.png",
-          "`Button 7`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Button 7.png",
-          "`Button 8`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Button 8.png",
-          "`Button 9`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Button 9.png",
-          "`Button 10`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Button 10.png",
-          "`Button 11`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Button 11.png",
-          "`Button 12`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Button 12.png",
-          "`Button 13`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Button 13.png",
-          "`Button 14`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Button 14.png",
-          "`Button 15`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Button 15.png",
-          "`Axis X-`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Left X-.png",
-          "`Axis X+`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Left X+.png",
-          "`Axis Y+`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Left Y-.png",
-          "`Axis Y-`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Left Y+.png",
-          "`Hat 0 E`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Pad E.png",
-          "`Hat 0 N`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Pad N.png",
-          "`Hat 0 S`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Pad S.png",
-          "`Hat 0 W`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Pad W.png",
-          "`Axis Xr-`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Right X-.png",
-          "`Axis Xr+`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Right X+.png",
-          "`Axis Yr+`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Right Y-.png",
-          "`Axis Yr-`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Right Y+.png"
-        },
-        "Bluetooth/0/Wii Remote": {
-          "A": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Button A.png",
-          "B": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Button B.png",
-          "`1`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Button 1.png",
-          "`2`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Button 2.png",
-          "`-`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Button -.png",
-          "`+`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Button +.png",
-          "HOME": "..\\#DefaultDevices\\Wii_Remote\\Flat\\HOME.png",
-          "Right": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Pad E.png",
-          "Up": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Pad N.png",
-          "Down": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Pad S.png",
-          "Left": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Pad W.png",
-		  		  
-          "`A`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Button A.png",
-          "`B`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Button B.png",
-          "`HOME`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\HOME.png",
-          "`Right`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Pad E.png",
-          "`Up`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Pad N.png",
-          "`Down`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Pad S.png",
-          "`Left`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Pad W.png",
-		  
-          "`Nunchuk C`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Nunchuk C.png",
-          "`Nunchuk Z`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Nunchuk Z.png",
-          "`Nunchuk X-`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Nunchuk X-.png",
-          "`Nunchuk X+`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Nunchuk X+.png",
-          "`Nunchuk Y-`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Nunchuk Y-.png",
-          "`Nunchuk Y+`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Nunchuk Y+.png",
-		  
-          "`Classic A`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Classic a.png",
-          "`Classic B`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Classic b.png",
-          "`Classic X`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Classic x.png",
-          "`Classic Y`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Classic y.png",
-          "`Classic -`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Classic -.png",
-          "`Classic +`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Classic +.png",
-          "`Classic HOME`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Classic HOME.png",
-          "`Classic L`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Classic L.png",
-          "`Classic R`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Classic R.png",
-          "`Classic ZL`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Classic ZL.png",
-          "`Classic ZR`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Classic ZR.png",
-          "`Classic L-Analog`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Classic L.png",
-          "`Classic R-Analog`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Classic R.png",
-          "`Classic Right`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Pad E.png",
-          "`Classic Up`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Pad N.png",
-          "`Classic Down`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Pad S.png",
-          "`Classic Left`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Pad W.png",
-          "`Classic Left X-`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Classic Left X-.png",
-          "`Classic Left X+`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Classic Left X+.png",
-          "`Classic Left Y-`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Classic Left Y-.png",
-          "`Classic Left Y+`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Classic Left Y+.png",
-          "`Classic Right X-`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Classic Right X-.png",
-          "`Classic Right X+`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Classic Right X+.png",
-          "`Classic Right Y-`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Classic Right Y-.png",
-          "`Classic Right Y+`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Classic Right Y+.png"
-        }
-      },
+      "DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Icon.png",
+      "`Circle`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Button A.png",
+      "`Cross`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Button B.png",
+      "`L1`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\L.png",
+      "`L2`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\ZL.png",
+      "`L3`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Thumb L.png",
+      "`Left X-`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Left X-.png",
+      "`Left X+`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Left X+.png",
+      "`Left Y-`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Left Y-.png",
+      "`Left Y+`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Left Y+.png",
+      "`Options`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Button +.png",
+      "`Pad E`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Pad E.png",
+      "`Pad N`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Pad N.png",
+      "`Pad S`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Pad S.png",
+      "`Pad W`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Pad W.png",
+      "`PS`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Home.png",
+      "`R1`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\R.png",
+      "`R2`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\ZR.png",
+      "`R3`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Thumb R.png",
+      "`Right X-`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Right X-.png",
+      "`Right X+`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Right X+.png",
+      "`Right Y-`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Right Y-.png",
+      "`Right Y+`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Right Y+.png",
+      "`Share`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Button -.png",
+      "`Square`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Button Y.png",
+      "`Triangle`": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Button X.png",
+      "Circle": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Button A.png",
+      "Cross": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Button B.png",
+      "L1": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\L.png",
+      "L2": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\ZL.png",
+      "L3": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Thumb L.png",
+      "Options": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Button +.png",
+      "PS": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Home.png",
+      "R1": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\R.png",
+      "R2": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\ZR.png",
+      "R3": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Thumb R.png",
+      "Share": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Button -.png",
+      "Square": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Button Y.png",
+      "Triangle": "..\\#DefaultDevices\\Switch_Joy-Con\\Flat\\Button X.png"
+    },
+    "DInput/0/Wireless Gamepad": {
+      "DInput/0/Wireless Gamepad": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon.png",
+      "`Button 0`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button B.png",
+      "`Button 1`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button A.png",
+      "`Button 2`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button Y.png",
+      "`Button 3`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button X.png",
+      "`Button 5`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\R.png",
+      "`Button 4`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\L.png",
+      "`Button 6`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\ZL.png",
+      "`Button 7`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\ZR.png",
+      "`Button 8`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button -.png",
+      "`Button 9`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button +.png",
+      "`Button 10`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Thumb L.png",
+      "`Button 11`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Thumb R.png",
+      "`Button 12`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Home.png",
+      "`Button 13`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Share.png",
+      "`Axis X-`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Left X-.png",
+      "`Axis X+`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Left X+.png",
+      "`Axis Y+`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Left Y-.png",
+      "`Axis Y-`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Left Y+.png",
+      "`Hat 0 E`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Pad E.png",
+      "`Hat 0 N`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Pad N.png",
+      "`Hat 0 S`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Pad S.png",
+      "`Hat 0 W`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Pad W.png",
+      "`Axis Xr-`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Right X-.png",
+      "`Axis Xr+`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Right X+.png",
+      "`Axis Yr+`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Right Y-.png",
+      "`Axis Yr-`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Right Y+.png"
+    },
+    "DInput/0/Wireless Controller": {
+      "DInput/0/Wireless Controller": "..\\#DefaultDevices\\DualShock4\\Device\\Icon.png",
+      "`Button 0`": "..\\#DefaultDevices\\DualShock4\\Flat\\Square.png",
+      "`Button 1`": "..\\#DefaultDevices\\DualShock4\\Flat\\Cross.png",
+      "`Button 2`": "..\\#DefaultDevices\\DualShock4\\Flat\\Circle.png",
+      "`Button 3`": "..\\#DefaultDevices\\DualShock4\\Flat\\Triangle.png",
+      "`Button 4`": "..\\#DefaultDevices\\DualShock4\\Flat\\L1.png",
+      "`Button 5`": "..\\#DefaultDevices\\DualShock4\\Flat\\R1.png",
+      "`Button 6`": "..\\#DefaultDevices\\DualShock4\\Flat\\L2.png",
+      "`Button 7`": "..\\#DefaultDevices\\DualShock4\\Flat\\R2.png",
+      "`Button 8`": "..\\#DefaultDevices\\DualShock4\\Flat\\Share.png",
+      "`Button 9`": "..\\#DefaultDevices\\DualShock4\\Flat\\Options.png",
+      "`Button 10`": "..\\#DefaultDevices\\DualShock4\\Flat\\L3.png",
+      "`Button 11`": "..\\#DefaultDevices\\DualShock4\\Flat\\R3.png",
+      "`Button 12`": "..\\#DefaultDevices\\DualShock4\\Flat\\PS.png",
+      "`Button 13`": "..\\#DefaultDevices\\DualShock4\\Flat\\Touchpad.png",
+      "`Hat 0 N`": "..\\#DefaultDevices\\DualShock4\\Flat\\Pad N.png",
+      "`Hat 0 S`": "..\\#DefaultDevices\\DualShock4\\Flat\\Pad S.png",
+      "`Hat 0 E`": "..\\#DefaultDevices\\DualShock4\\Flat\\Pad E.png",
+      "`Hat 0 W`": "..\\#DefaultDevices\\DualShock4\\Flat\\Pad W.png",
+      "`Axis Y+`": "..\\#DefaultDevices\\DualShock4\\Flat\\Left Y-.png",
+      "`Axis Y-`": "..\\#DefaultDevices\\DualShock4\\Flat\\Left Y+.png",
+      "`Axis X+`": "..\\#DefaultDevices\\DualShock4\\Flat\\Left X+.png",
+      "`Axis X-`": "..\\#DefaultDevices\\DualShock4\\Flat\\Left X-.png",
+      "`Axis Zr+`": "..\\#DefaultDevices\\DualShock4\\Flat\\Right Y-.png",
+      "`Axis Zr-`": "..\\#DefaultDevices\\DualShock4\\Flat\\Right Y+.png",
+      "`Axis Z+`": "..\\#DefaultDevices\\DualShock4\\Flat\\Right X+.png",
+      "`Axis Z-`": "..\\#DefaultDevices\\DualShock4\\Flat\\Right X-.png"
+    },
+    "DInput/0/USB GamePad": {
+      "`Button 1`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Button 1.png",
+      "`Button 2`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Button 2.png",
+      "`Button 3`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Button 3.png",
+      "`Button 4`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Button 4.png",
+      "`Button 5`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Button 5.png",
+      "`Button 6`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Button 6.png",
+      "`Button 7`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Button 7.png",
+      "`Button 8`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Button 8.png",
+      "`Button 9`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Button 9.png",
+      "`Button 10`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Button 10.png",
+      "`Button 11`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Button 11.png",
+      "`Button 12`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Button 12.png",
+      "`Button 13`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Button 13.png",
+      "`Button 14`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Button 14.png",
+      "`Button 15`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Button 15.png",
+      "`Axis X-`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Left X-.png",
+      "`Axis X+`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Left X+.png",
+      "`Axis Y+`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Left Y-.png",
+      "`Axis Y-`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Left Y+.png",
+      "`Hat 0 E`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Pad E.png",
+      "`Hat 0 N`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Pad N.png",
+      "`Hat 0 S`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Pad S.png",
+      "`Hat 0 W`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Pad W.png",
+      "`Axis Xr-`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Right X-.png",
+      "`Axis Xr+`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Right X+.png",
+      "`Axis Yr+`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Right Y-.png",
+      "`Axis Yr-`": "..\\#DefaultDevices\\Default_DInput\\Flat\\Right Y+.png"
+    },
+    "Bluetooth/0/Wii Remote": {
+      "A": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Button A.png",
+      "B": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Button B.png",
+      "`1`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Button 1.png",
+      "`2`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Button 2.png",
+      "`-`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Button -.png",
+      "`+`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Button +.png",
+      "HOME": "..\\#DefaultDevices\\Wii_Remote\\Flat\\HOME.png",
+      "Right": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Pad E.png",
+      "Up": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Pad N.png",
+      "Down": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Pad S.png",
+      "Left": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Pad W.png",
+      "`A`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Button A.png",
+      "`B`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Button B.png",
+      "`HOME`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\HOME.png",
+      "`Right`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Pad E.png",
+      "`Up`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Pad N.png",
+      "`Down`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Pad S.png",
+      "`Left`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Pad W.png",
+      "`Nunchuk C`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Nunchuk C.png",
+      "`Nunchuk Z`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Nunchuk Z.png",
+      "`Nunchuk X-`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Nunchuk X-.png",
+      "`Nunchuk X+`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Nunchuk X+.png",
+      "`Nunchuk Y-`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Nunchuk Y-.png",
+      "`Nunchuk Y+`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Nunchuk Y+.png",
+      "`Classic A`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Classic a.png",
+      "`Classic B`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Classic b.png",
+      "`Classic X`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Classic x.png",
+      "`Classic Y`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Classic y.png",
+      "`Classic -`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Classic -.png",
+      "`Classic +`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Classic +.png",
+      "`Classic HOME`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Classic HOME.png",
+      "`Classic L`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Classic L.png",
+      "`Classic R`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Classic R.png",
+      "`Classic ZL`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Classic ZL.png",
+      "`Classic ZR`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Classic ZR.png",
+      "`Classic L-Analog`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Classic L.png",
+      "`Classic R-Analog`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Classic R.png",
+      "`Classic Right`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Pad E.png",
+      "`Classic Up`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Pad N.png",
+      "`Classic Down`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Pad S.png",
+      "`Classic Left`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Pad W.png",
+      "`Classic Left X-`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Classic Left X-.png",
+      "`Classic Left X+`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Classic Left X+.png",
+      "`Classic Left Y-`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Classic Left Y-.png",
+      "`Classic Left Y+`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Classic Left Y+.png",
+      "`Classic Right X-`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Classic Right X-.png",
+      "`Classic Right X+`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Classic Right X+.png",
+      "`Classic Right Y-`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Classic Right Y-.png",
+      "`Classic Right Y+`": "..\\#DefaultDevices\\Wii_Remote\\Flat\\Classic Right Y+.png"
+    },
+    "evdev/0/Microsoft X-Box One S pad": {
+      "evdev/0/Microsoft X-Box One S pad": "../#DefaultDevices/XBOX ONE/Device/Icon.png",
+      "SOUTH": "../#DefaultDevices/XBOX ONE/Flat/Button A.png",
+      "EAST": "../#DefaultDevices/XBOX ONE/Flat/Button B.png",
+      "NORTH": "../#DefaultDevices/XBOX ONE/Flat/Button X.png",
+      "WEST": "../#DefaultDevices/XBOX ONE/Flat/Button Y.png",
+      "TL": "../#DefaultDevices/XBOX ONE/Flat/Shoulder L.png",
+      "TR": "../#DefaultDevices/XBOX ONE/Flat/Shoulder R.png",
+      "`Full Axis 2+`": "../#DefaultDevices/XBOX ONE/Flat/Trigger L.png",
+      "`Full Axis 5+`": "../#DefaultDevices/XBOX ONE/Flat/Trigger R.png",
+      "START": "../#DefaultDevices/XBOX ONE/Flat/Start.png",
+      "SELECT": "../#DefaultDevices/XBOX ONE/Flat/Back.png",
+      "MODE": "../#DefaultDevices/XBOX ONE/Flat/Guide.png",
+      "`Axis 7-`": "../#DefaultDevices/XBOX ONE/Flat/Pad N.png",
+      "`Axis 7+`": "../#DefaultDevices/XBOX ONE/Flat/Pad S.png",
+      "`Axis 6-`": "../#DefaultDevices/XBOX ONE/Flat/Pad W.png",
+      "`Axis 6+`": "../#DefaultDevices/XBOX ONE/Flat/Pad E.png",
+      "`Axis 1-`": "../#DefaultDevices/XBOX ONE/Flat/Left Y+.png",
+      "`Axis 1+`": "../#DefaultDevices/XBOX ONE/Flat/Left Y-.png",
+      "`Axis 0+`": "../#DefaultDevices/XBOX ONE/Flat/Left X+.png",
+      "`Axis 0-`": "../#DefaultDevices/XBOX ONE/Flat/Left X-.png",
+      "THUMBR": "../#DefaultDevices/XBOX ONE/Flat/Thumb L.png",
+      "`Axis 4-`": "../#DefaultDevices/XBOX ONE/Flat/Right Y+.png",
+      "`Axis 4+`": "../#DefaultDevices/XBOX ONE/Flat/Right Y-.png",
+      "`Axis 3+`": "../#DefaultDevices/XBOX ONE/Flat/Right X+.png",
+      "`Axis 3-`": "../#DefaultDevices/XBOX ONE/Flat/Right X-.png",
+      "THUMBL": "../#DefaultDevices/XBOX ONE/Flat/Thumb R.png"
+    },
+    "evdev/0/Microsoft X-Box 360 pad": {
+      "evdev/0/Microsoft X-Box 360 pad": "../#DefaultDevices/XBOX ONE/Device/Icon.png",
+      "SOUTH": "../#DefaultDevices/XBOX ONE/Flat/Button A.png",
+      "EAST": "../#DefaultDevices/XBOX ONE/Flat/Button B.png",
+      "NORTH": "../#DefaultDevices/XBOX ONE/Flat/Button X.png",
+      "WEST": "../#DefaultDevices/XBOX ONE/Flat/Button Y.png",
+      "TL": "../#DefaultDevices/XBOX ONE/Flat/Shoulder L.png",
+      "TR": "../#DefaultDevices/XBOX ONE/Flat/Shoulder R.png",
+      "`Full Axis 2+`": "../#DefaultDevices/XBOX ONE/Flat/Trigger L.png",
+      "`Full Axis 5+`": "../#DefaultDevices/XBOX ONE/Flat/Trigger R.png",
+      "START": "../#DefaultDevices/XBOX ONE/Flat/Start.png",
+      "SELECT": "../#DefaultDevices/XBOX ONE/Flat/Back.png",
+      "MODE": "../#DefaultDevices/XBOX ONE/Flat/Guide.png",
+      "`Axis 7-`": "../#DefaultDevices/XBOX ONE/Flat/Pad N.png",
+      "`Axis 7+`": "../#DefaultDevices/XBOX ONE/Flat/Pad S.png",
+      "`Axis 6-`": "../#DefaultDevices/XBOX ONE/Flat/Pad W.png",
+      "`Axis 6+`": "../#DefaultDevices/XBOX ONE/Flat/Pad E.png",
+      "`Axis 1-`": "../#DefaultDevices/XBOX ONE/Flat/Left Y+.png",
+      "`Axis 1+`": "../#DefaultDevices/XBOX ONE/Flat/Left Y-.png",
+      "`Axis 0+`": "../#DefaultDevices/XBOX ONE/Flat/Left X+.png",
+      "`Axis 0-`": "../#DefaultDevices/XBOX ONE/Flat/Left X-.png",
+      "THUMBR": "../#DefaultDevices/XBOX ONE/Flat/Thumb L.png",
+      "`Axis 4-`": "../#DefaultDevices/XBOX ONE/Flat/Right Y+.png",
+      "`Axis 4+`": "../#DefaultDevices/XBOX ONE/Flat/Right Y-.png",
+      "`Axis 3+`": "../#DefaultDevices/XBOX ONE/Flat/Right X+.png",
+      "`Axis 3-`": "../#DefaultDevices/XBOX ONE/Flat/Right X-.png",
+      "THUMBL": "../#DefaultDevices/XBOX ONE/Flat/Thumb R.png"
+    },
+    "evdev/0/Wireless Controller": {
+      "evdev/0/Wireless Controller": "../#DefaultDevices/DualShock4/Device/Icon.png",
+      "SOUTH": "../#DefaultDevices/DualShock4/Flat/Cross.png",
+      "EAST": "../#DefaultDevices/DualShock4/Flat/Circle.png",
+      "WEST": "../#DefaultDevices/DualShock4/Flat/Square.png",
+      "NORTH": "../#DefaultDevices/DualShock4/Flat/Triangle.png",
+      "TL": "../#DefaultDevices/DualShock4/Flat/L1.png",
+      "TR": "../#DefaultDevices/DualShock4/Flat/R1.png",
+      "`TL2`": "../#DefaultDevices/DualShock4/Flat/L2.png",
+      "`TR2`": "../#DefaultDevices/DualShock4/Flat/R2.png",
+      "START": "../#DefaultDevices/DualShock4/Flat/Options.png",
+      "SELECT": "../#DefaultDevices/DualShock4/Flat/Share.png",
+      "MODE": "../#DefaultDevices/DualShock4/Flat/PS.png",
+      "LEFT": "../#DefaultDevices/DualShock4/Flat/Touchpad.png",
+      "`Axis 7-`": "../#DefaultDevices/DualShock4/Flat/Pad N.png",
+      "`Axis 7+`": "../#DefaultDevices/DualShock4/Flat/Pad S.png",
+      "`Axis 6+`": "../#DefaultDevices/DualShock4/Flat/Pad E.png",
+      "`Axis 6-`": "../#DefaultDevices/DualShock4/Flat/Pad W.png",
+      "`Axis 1+`": "../#DefaultDevices/DualShock4/Flat/Left Y-.png",
+      "`Axis 1-`": "../#DefaultDevices/DualShock4/Flat/Left Y+.png",
+      "`Axis 0+`": "../#DefaultDevices/DualShock4/Flat/Left X+.png",
+      "`Axis 0-`": "../#DefaultDevices/DualShock4/Flat/Left X-.png",
+      "THUMBL": "../#DefaultDevices/DualShock4/Flat/L3.png",
+      "`Axis 4+`": "../#DefaultDevices/DualShock4/Flat/Right Y-.png",
+      "`Axis 4-`": "../#DefaultDevices/DualShock4/Flat/Right Y+.png",
+      "`Axis 3+`": "../#DefaultDevices/DualShock4/Flat/Right X+.png",
+      "`Axis 3-`": "../#DefaultDevices/DualShock4/Flat/Right X-.png",
+      "THUMBR": "../#DefaultDevices/DualShock4/Flat/R3.png"
+    },
+    "evdev/0/Sony Interactive Entertainment Wireless Controller": {
+      "evdev/0/Sony Interactive Entertainment Wireless Controller": "../#DefaultDevices/DualShock4/Device/Icon.png",
+      "SOUTH": "../#DefaultDevices/DualShock4/Flat/Cross.png",
+      "EAST": "../#DefaultDevices/DualShock4/Flat/Circle.png",
+      "WEST": "../#DefaultDevices/DualShock4/Flat/Square.png",
+      "NORTH": "../#DefaultDevices/DualShock4/Flat/Triangle.png",
+      "TL": "../#DefaultDevices/DualShock4/Flat/L1.png",
+      "TR": "../#DefaultDevices/DualShock4/Flat/R1.png",
+      "`TL2`": "../#DefaultDevices/DualShock4/Flat/L2.png",
+      "`TR2`": "../#DefaultDevices/DualShock4/Flat/R2.png",
+      "START": "../#DefaultDevices/DualShock4/Flat/Options.png",
+      "SELECT": "../#DefaultDevices/DualShock4/Flat/Share.png",
+      "MODE": "../#DefaultDevices/DualShock4/Flat/PS.png",
+      "LEFT": "../#DefaultDevices/DualShock4/Flat/Touchpad.png",
+      "`Axis 7-`": "../#DefaultDevices/DualShock4/Flat/Pad N.png",
+      "`Axis 7+`": "../#DefaultDevices/DualShock4/Flat/Pad S.png",
+      "`Axis 6+`": "../#DefaultDevices/DualShock4/Flat/Pad E.png",
+      "`Axis 6-`": "../#DefaultDevices/DualShock4/Flat/Pad W.png",
+      "`Axis 1+`": "../#DefaultDevices/DualShock4/Flat/Left Y-.png",
+      "`Axis 1-`": "../#DefaultDevices/DualShock4/Flat/Left Y+.png",
+      "`Axis 0+`": "../#DefaultDevices/DualShock4/Flat/Left X+.png",
+      "`Axis 0-`": "../#DefaultDevices/DualShock4/Flat/Left X-.png",
+      "THUMBL": "../#DefaultDevices/DualShock4/Flat/L3.png",
+      "`Axis 4+`": "../#DefaultDevices/DualShock4/Flat/Right Y-.png",
+      "`Axis 4-`": "../#DefaultDevices/DualShock4/Flat/Right Y+.png",
+      "`Axis 3+`": "../#DefaultDevices/DualShock4/Flat/Right X+.png",
+      "`Axis 3-`": "../#DefaultDevices/DualShock4/Flat/Right X-.png",
+      "THUMBR": "../#DefaultDevices/DualShock4/Flat/R3.png"
+    },
+    "XInput2/0/Virtual core pointer": {
+      "`Click 1`": "../#DefaultDevices/Keyboard Mouse/Flat/Click 0.png",
+      "`Click 2`": "../#DefaultDevices/Keyboard Mouse/Flat/Click 2.png",
+      "`Click 3`": "../#DefaultDevices/Keyboard Mouse/Flat/Click 1.png",
+      "`Click 8`": "../#DefaultDevices/Keyboard Mouse/Flat/Click 3.png",
+      "`Click 9`": "../#DefaultDevices/Keyboard Mouse/Flat/Click 4.png",
+      "`Axis X-`": "../#DefaultDevices/Keyboard Mouse/Flat/Axis X-.png",
+      "`Axis X+`": "../#DefaultDevices/Keyboard Mouse/Flat/Axis X+.png",
+      "`Axis Y-`": "../#DefaultDevices/Keyboard Mouse/Flat/Axis Y-.png",
+      "`Axis Y+`": "../#DefaultDevices/Keyboard Mouse/Flat/Axis Y+.png",
+      "Down": "../#DefaultDevices/Keyboard Mouse/Flat/DOWN.png",
+      "Left": "../#DefaultDevices/Keyboard Mouse/Flat/LEFT.png",
+      "Right": "../#DefaultDevices/Keyboard Mouse/Flat/RIGHT.png",
+      "Up": "../#DefaultDevices/Keyboard Mouse/Flat/UP.png",
+      "`Alt_L`": "../#DefaultDevices/Keyboard Mouse/Flat/ALT.png",
+      "Alt": "../#DefaultDevices/Keyboard Mouse/Flat/ALT.png",
+      "`ISO_Level3_Shift`": "../#DefaultDevices/Keyboard Mouse/Flat/ALT GR.png",
+      "Menu": "../#DefaultDevices/Keyboard Mouse/Flat/APPS.png",
+      "apostrophe": "../#DefaultDevices/Keyboard Mouse/Flat/APOSTROPHE.png",
+      "BackSpace": "../#DefaultDevices/Keyboard Mouse/Flat/BACK.png",
+      "backslash": "../#DefaultDevices/Keyboard Mouse/Flat/BACKSLASH.png",
+      "comma": "../#DefaultDevices/Keyboard Mouse/Flat/COMMA.png",
+      "`Control_L`": "../#DefaultDevices/Keyboard Mouse/Flat/CONTROL.png",
+      "`Control_R`": "../#DefaultDevices/Keyboard Mouse/Flat/CONTROL.png",
+      "Ctrl": "../#DefaultDevices/Keyboard Mouse/Flat/CONTROL.png",
+      "Escape": "../#DefaultDevices/Keyboard Mouse/Flat/ESC.png",
+      "Tab": "../#DefaultDevices/Keyboard Mouse/Flat/TAB.png",
+      "equal": "../#DefaultDevices/Keyboard Mouse/Flat/EQUALS.png",
+      "grave": "../#DefaultDevices/Keyboard Mouse/Flat/GRAVE.png",
+      "bracketleft": "../#DefaultDevices/Keyboard Mouse/Flat/LBRACKET.png",
+      "bracketright": "../#DefaultDevices/Keyboard Mouse/Flat/RBRACKET.png",
+      "`Shift_L`": "../#DefaultDevices/Keyboard Mouse/Flat/SHIFT.png",
+      "`Shift_R`": "../#DefaultDevices/Keyboard Mouse/Flat/SHIFT.png",
+      "Shift": "../#DefaultDevices/Keyboard Mouse/Flat/SHIFT.png",
+      "minus": "../#DefaultDevices/Keyboard Mouse/Flat/MINUS.png",
+      "period": "../#DefaultDevices/Keyboard Mouse/Flat/PERIOD.png",
+      "Return": "../#DefaultDevices/Keyboard Mouse/Flat/RETURN.png",
+      "semicolon": "../#DefaultDevices/Keyboard Mouse/Flat/SEMICOLON.png",
+      "slash": "../#DefaultDevices/Keyboard Mouse/Flat/SLASH.png",
+      "space": "../#DefaultDevices/Keyboard Mouse/Flat/SPACE.png",
+      "`Super_L`": "../#DefaultDevices/Keyboard Mouse/Flat/OS.png",
+      "`Super_R`": "../#DefaultDevices/Keyboard Mouse/Flat/OS.png",
+      "less": "../#DefaultDevices/Keyboard Mouse/Flat/OEM_102.png",
+      "A": "../#DefaultDevices/Keyboard Mouse/Flat/A.png",
+      "B": "../#DefaultDevices/Keyboard Mouse/Flat/B.png",
+      "C": "../#DefaultDevices/Keyboard Mouse/Flat/C.png",
+      "D": "../#DefaultDevices/Keyboard Mouse/Flat/D.png",
+      "E": "../#DefaultDevices/Keyboard Mouse/Flat/E.png",
+      "F": "../#DefaultDevices/Keyboard Mouse/Flat/F.png",
+      "G": "../#DefaultDevices/Keyboard Mouse/Flat/G.png",
+      "H": "../#DefaultDevices/Keyboard Mouse/Flat/H.png",
+      "I": "../#DefaultDevices/Keyboard Mouse/Flat/I.png",
+      "J": "../#DefaultDevices/Keyboard Mouse/Flat/J.png",
+      "K": "../#DefaultDevices/Keyboard Mouse/Flat/K.png",
+      "L": "../#DefaultDevices/Keyboard Mouse/Flat/L.png",
+      "M": "../#DefaultDevices/Keyboard Mouse/Flat/M.png",
+      "N": "../#DefaultDevices/Keyboard Mouse/Flat/N.png",
+      "O": "../#DefaultDevices/Keyboard Mouse/Flat/O.png",
+      "P": "../#DefaultDevices/Keyboard Mouse/Flat/P.png",
+      "Q": "../#DefaultDevices/Keyboard Mouse/Flat/Q.png",
+      "R": "../#DefaultDevices/Keyboard Mouse/Flat/R.png",
+      "S": "../#DefaultDevices/Keyboard Mouse/Flat/S.png",
+      "T": "../#DefaultDevices/Keyboard Mouse/Flat/T.png",
+      "U": "../#DefaultDevices/Keyboard Mouse/Flat/U.png",
+      "V": "../#DefaultDevices/Keyboard Mouse/Flat/V.png",
+      "W": "../#DefaultDevices/Keyboard Mouse/Flat/W.png",
+      "X": "../#DefaultDevices/Keyboard Mouse/Flat/X.png",
+      "Y": "../#DefaultDevices/Keyboard Mouse/Flat/Y.png",
+      "Z": "../#DefaultDevices/Keyboard Mouse/Flat/Z.png",
+      "`0`": "../#DefaultDevices/Keyboard Mouse/Flat/0.png",
+      "`1`": "../#DefaultDevices/Keyboard Mouse/Flat/1.png",
+      "`2`": "../#DefaultDevices/Keyboard Mouse/Flat/2.png",
+      "`3`": "../#DefaultDevices/Keyboard Mouse/Flat/3.png",
+      "`4`": "../#DefaultDevices/Keyboard Mouse/Flat/4.png",
+      "`5`": "../#DefaultDevices/Keyboard Mouse/Flat/5.png",
+      "`6`": "../#DefaultDevices/Keyboard Mouse/Flat/6.png",
+      "`7`": "../#DefaultDevices/Keyboard Mouse/Flat/7.png",
+      "`8`": "../#DefaultDevices/Keyboard Mouse/Flat/8.png",
+      "`9`": "../#DefaultDevices/Keyboard Mouse/Flat/9.png",
+      "`F1`": "../#DefaultDevices/Keyboard Mouse/Flat/F1.png",
+      "`F2`": "../#DefaultDevices/Keyboard Mouse/Flat/F2.png",
+      "`F3`": "../#DefaultDevices/Keyboard Mouse/Flat/F3.png",
+      "`F4`": "../#DefaultDevices/Keyboard Mouse/Flat/F4.png",
+      "`F5`": "../#DefaultDevices/Keyboard Mouse/Flat/F5.png",
+      "`F6`": "../#DefaultDevices/Keyboard Mouse/Flat/F6.png",
+      "`F7`": "../#DefaultDevices/Keyboard Mouse/Flat/F7.png",
+      "`F8`": "../#DefaultDevices/Keyboard Mouse/Flat/F8.png",
+      "`F9`": "../#DefaultDevices/Keyboard Mouse/Flat/F9.png",
+      "`F10`": "../#DefaultDevices/Keyboard Mouse/Flat/F10.png",
+      "`F11`": "../#DefaultDevices/Keyboard Mouse/Flat/F11.png",
+      "`F12`": "../#DefaultDevices/Keyboard Mouse/Flat/F12.png",
+      "Delete": "../#DefaultDevices/Keyboard Mouse/Flat/DELETE.png",
+      "End": "../#DefaultDevices/Keyboard Mouse/Flat/END.png",
+      "Next": "../#DefaultDevices/Keyboard Mouse/Flat/NEXT.png",
+      "Insert": "../#DefaultDevices/Keyboard Mouse/Flat/INSERT.png",
+      "Home": "../#DefaultDevices/Keyboard Mouse/Flat/HOME.png",
+      "Prior": "../#DefaultDevices/Keyboard Mouse/Flat/PRIOR.png",
+      "Pause": "../#DefaultDevices/Keyboard Mouse/Flat/PAUSE.png",
+      "`KP_Insert`": "../#DefaultDevices/Keyboard Mouse/Flat/0.png",
+      "`KP_End`": "../#DefaultDevices/Keyboard Mouse/Flat/1.png",
+      "`KP_Down`": "../#DefaultDevices/Keyboard Mouse/Flat/2.png",
+      "`KP_Next`": "../#DefaultDevices/Keyboard Mouse/Flat/3.png",
+      "`KP_Left`": "../#DefaultDevices/Keyboard Mouse/Flat/4.png",
+      "`KP_Begin`": "../#DefaultDevices/Keyboard Mouse/Flat/5.png",
+      "`KP_Right`": "../#DefaultDevices/Keyboard Mouse/Flat/6.png",
+      "`KP_Home`": "../#DefaultDevices/Keyboard Mouse/Flat/7.png",
+      "`KP_Up`": "../#DefaultDevices/Keyboard Mouse/Flat/8.png",
+      "`KP_Prior`": "../#DefaultDevices/Keyboard Mouse/Flat/9.png",
+      "`KP_Add`": "../#DefaultDevices/Keyboard Mouse/Flat/ADD.png",
+      "`KP_Delete`": "../#DefaultDevices/Keyboard Mouse/Flat/DECIMAL.png",
+      "`KP_Divide`": "../#DefaultDevices/Keyboard Mouse/Flat/DIVIDE.png",
+      "`KP_Multiply`": "../#DefaultDevices/Keyboard Mouse/Flat/MULTIPLY.png",
+      "`KP_Enter`": "../#DefaultDevices/Keyboard Mouse/Flat/RETURN.png",
+      "`KP_Subtract`": "../#DefaultDevices/Keyboard Mouse/Flat/MINUS.png"
+    }
+  },
   "generated_folder_name": "#Generated_Star Fox Assault",
   "preserve_aspect_ratio": true,
   "output_textures": {
@@ -594,7 +802,7 @@
             [
               0.0,
               0.0,
-              87.51724137931039,
+              88.0,
               96.0
             ]
           ]
@@ -609,7 +817,7 @@
             [
               0.0,
               0.0,
-              87.60000000000005,
+              88.0,
               96.0
             ]
           ]
@@ -625,7 +833,7 @@
               0.0,
               0.0,
               192.0,
-              64.81818181818183
+              65.0
             ]
           ]
         }
@@ -640,7 +848,7 @@
               0.0,
               0.0,
               192.0,
-              64.53846153846155
+              65.0
             ]
           ]
         }
@@ -683,9 +891,9 @@
           "Buttons/X": [
             [
               0.0,
-              47.727272727272705,
+              48.0,
               192.0,
-              127.99999999999994
+              128.0
             ]
           ]
         }
@@ -745,7 +953,7 @@
               0.0,
               0.0,
               192.0,
-              63.909090909090914
+              64.0
             ]
           ]
         }
@@ -759,7 +967,7 @@
             [
               0.0,
               0.0,
-              68.76190476190482,
+              69.0,
               64.0
             ]
           ]
@@ -774,7 +982,7 @@
             [
               0.0,
               0.0,
-              88.76190476190482,
+              89.0,
               96.0
             ]
           ]
@@ -789,7 +997,7 @@
             [
               0.0,
               0.0,
-              83.7272727272728,
+              84.0,
               96.0
             ]
           ]
@@ -804,7 +1012,7 @@
             [
               0.0,
               0.0,
-              76.00000000000009,
+              76.0,
               96.0
             ]
           ]
@@ -819,7 +1027,7 @@
             [
               0.0,
               0.0,
-              90.50000000000007,
+              91.0,
               96.0
             ]
           ]
@@ -849,7 +1057,7 @@
             [
               0.0,
               0.0,
-              75.54545454545465,
+              76.0,
               96.0
             ]
           ]
@@ -864,8 +1072,8 @@
             [
               0.0,
               0.0,
-              111.05263157894744,
-              79.15789473684212
+              111.0,
+              79.0
             ]
           ]
         }
@@ -879,8 +1087,8 @@
             [
               0.0,
               0.0,
-              111.20000000000012,
-              80.8
+              111.0,
+              81.0
             ]
           ]
         }
@@ -894,8 +1102,8 @@
             [
               0.0,
               0.0,
-              110.8695652173914,
-              79.91304347826089
+              111.0,
+              80.0
             ]
           ]
         }
@@ -909,8 +1117,8 @@
             [
               0.0,
               0.0,
-              111.4814814814816,
-              78.59259259259258
+              111.0,
+              79.0
             ]
           ]
         }
@@ -924,8 +1132,8 @@
             [
               0.0,
               0.0,
-              115.7142857142858,
-              81.35714285714286
+              116.0,
+              81.0
             ]
           ]
         }
@@ -939,7 +1147,7 @@
             [
               0.0,
               0.0,
-              76.80000000000014,
+              77.0,
               96.0
             ]
           ]
@@ -954,8 +1162,8 @@
             [
               0.0,
               0.0,
-              112.43478260869576,
-              79.04347826086958
+              112.0,
+              79.0
             ]
           ]
         }
@@ -967,9 +1175,9 @@
         "GCPad1": {
           "Triggers/R": [
             [
-              102.85256410256407,
+              103.0,
               0.0,
-              210.5448717948717,
+              211.0,
               96.0
             ]
           ],
@@ -977,7 +1185,7 @@
             [
               0.0,
               0.0,
-              103.42948717948713,
+              103.0,
               96.0
             ]
           ]
@@ -992,15 +1200,15 @@
             [
               0.0,
               0.0,
-              103.52173913043474,
+              104.0,
               96.0
             ]
           ],
           "Triggers/R": [
             [
-              103.04347826086952,
+              103.0,
               0.0,
-              210.8695652173912,
+              211.0,
               96.0
             ]
           ]
@@ -1014,9 +1222,9 @@
           "Triggers/L": [
             [
               23.0,
-              11.079999999999998,
+              11.0,
               79.0,
-              76.08
+              76.0
             ]
           ]
         }
@@ -1030,15 +1238,15 @@
             [
               0.0,
               0.0,
-              104.30769230769226,
+              104.0,
               96.0
             ]
           ],
           "Triggers/R": [
             [
-              103.46153846153841,
+              103.0,
               0.0,
-              210.76923076923066,
+              211.0,
               96.0
             ]
           ]
@@ -1053,15 +1261,15 @@
             [
               0.0,
               0.0,
-              102.14285714285711,
+              102.0,
               96.0
             ]
           ],
           "Triggers/R": [
             [
-              101.71428571428565,
+              102.0,
               0.0,
-              212.85714285714272,
+              213.0,
               96.0
             ]
           ]
@@ -1076,7 +1284,7 @@
             [
               0.0,
               0.0,
-              114.11764705882347,
+              114.0,
               96.0
             ]
           ]
@@ -1091,7 +1299,7 @@
             [
               0.0,
               0.0,
-              99.95652173913042,
+              100.0,
               96.0
             ]
           ]
@@ -1106,7 +1314,7 @@
             [
               0.0,
               0.0,
-              130.90909090909085,
+              131.0,
               96.0
             ]
           ]
@@ -1121,7 +1329,7 @@
             [
               0.0,
               0.0,
-              133.70370370370364,
+              134.0,
               96.0
             ]
           ]
@@ -1151,7 +1359,7 @@
             [
               0.0,
               0.0,
-              104.34782608695647,
+              104.0,
               96.0
             ]
           ]
@@ -1166,7 +1374,7 @@
             [
               0.0,
               0.0,
-              96.08695652173908,
+              96.0,
               96.0
             ]
           ]
@@ -1181,7 +1389,7 @@
             [
               0.0,
               0.0,
-              209.5238095238094,
+              210.0,
               96.0
             ]
           ]
@@ -1196,7 +1404,7 @@
             [
               0.0,
               0.0,
-              101.11111111111109,
+              101.0,
               96.0
             ]
           ]
@@ -1211,7 +1419,7 @@
             [
               0.0,
               0.0,
-              122.56578947368416,
+              123.0,
               96.0
             ]
           ]
@@ -1224,9 +1432,9 @@
         "GCPad1": {
           "Buttons/Y": [
             [
-              7.336956521739136,
+              7.0,
               0.0,
-              129.58333333333331,
+              130.0,
               96.0
             ]
           ]
@@ -1239,9 +1447,9 @@
         "GCPad1": {
           "Buttons/Y": [
             [
-              7.727272727272717,
+              8.0,
               0.0,
-              126.81818181818176,
+              127.0,
               96.0
             ]
           ]
@@ -1256,7 +1464,7 @@
             [
               0.0,
               0.0,
-              98.66666666666661,
+              99.0,
               96.0
             ]
           ]
@@ -1271,7 +1479,7 @@
             [
               0.0,
               0.0,
-              116.08695652173907,
+              116.0,
               96.0
             ]
           ]
@@ -1286,7 +1494,7 @@
             [
               0.0,
               0.0,
-              106.19047619047613,
+              106.0,
               96.0
             ]
           ]
@@ -1299,9 +1507,9 @@
         "GCPad1": {
           "Buttons/Y": [
             [
-              7.599999999999996,
+              8.0,
               0.0,
-              127.59999999999994,
+              128.0,
               96.0
             ]
           ]
@@ -1316,7 +1524,7 @@
             [
               0.0,
               0.0,
-              96.95652173913038,
+              97.0,
               96.0
             ]
           ]
@@ -1331,7 +1539,7 @@
             [
               0.0,
               0.0,
-              99.99999999999997,
+              100.0,
               96.0
             ]
           ]
@@ -1346,7 +1554,7 @@
             [
               0.0,
               0.0,
-              106.92307692307686,
+              107.0,
               96.0
             ]
           ]
@@ -1361,7 +1569,7 @@
             [
               0.0,
               0.0,
-              115.71428571428567,
+              116.0,
               96.0
             ]
           ]
@@ -1376,7 +1584,7 @@
             [
               0.0,
               0.0,
-              103.7931034482758,
+              104.0,
               96.0
             ]
           ]
@@ -1391,7 +1599,7 @@
             [
               0.0,
               0.0,
-              124.64285714285707,
+              125.0,
               96.0
             ]
           ]
@@ -1406,7 +1614,7 @@
             [
               0.0,
               0.0,
-              112.91666666666661,
+              113.0,
               96.0
             ]
           ]
@@ -1421,7 +1629,7 @@
             [
               0.0,
               0.0,
-              99.25925925925921,
+              99.0,
               96.0
             ]
           ]
@@ -1436,7 +1644,7 @@
             [
               0.0,
               0.0,
-              98.51851851851846,
+              99.0,
               96.0
             ]
           ]
@@ -1451,7 +1659,7 @@
             [
               0.0,
               0.0,
-              143.49999999999994,
+              143.0,
               96.0
             ]
           ]
@@ -1466,7 +1674,7 @@
             [
               0.0,
               0.0,
-              116.6666666666666,
+              117.0,
               96.0
             ]
           ]
@@ -1481,7 +1689,7 @@
             [
               0.0,
               0.0,
-              142.63157894736835,
+              143.0,
               96.0
             ]
           ]
@@ -1496,7 +1704,7 @@
             [
               0.0,
               0.0,
-              141.90476190476184,
+              142.0,
               96.0
             ]
           ]
@@ -1511,7 +1719,7 @@
             [
               0.0,
               0.0,
-              102.85714285714278,
+              103.0,
               96.0
             ]
           ]
@@ -1545,9 +1753,9 @@
             ],
             [
               508.0,
-              1.0799999999999983,
-              508.0,
-              1.0799999999999983
+              1.0,
+              509.0,
+              2.0
             ]
           ],
           "Buttons/X": [
@@ -1601,7 +1809,7 @@
           "Buttons/Start": [
             [
               1190.0,
-              41.08,
+              41.0,
               1293.0,
               96.0
             ]
