@@ -690,7 +690,7 @@
   "preserve_aspect_ratio": true,
   "output_textures": {
     "tex1_24x16_78edcc699c815df4_372212ab97c6f521_8.png": {
-      "image": "tex1_16x16.png",
+      "image": "tex1_24x16_78edcc699c815df4_372212ab97c6f521_8.png",
       "emulated_controls": {
         "Wiimote1": {
           "Buttons/A": [
