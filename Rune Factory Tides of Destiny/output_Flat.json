@@ -823,6 +823,21 @@
           ]
         }
       }
+    },
+    "tex1_16x16_0a9c182a5c5fbcd5_d56c5db901e6fc03_8.png": {
+      "image": "tex1_16x16.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Nunchuk/Shake/X": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
     }
   }
 }
