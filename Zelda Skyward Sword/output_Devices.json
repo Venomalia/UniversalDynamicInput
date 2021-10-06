@@ -18,13 +18,13 @@
       },
       "host_controls": {
 		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Move.png"
+				"DSUClient/1/BetterJoy": "../#DefaultDevices/Switch_Joy-Con/Device/Move.png"
 			    },
 		      "XInput/0/Gamepad": {
-				"XInput/0/Gamepad": "..\\#DefaultDevices\\XBOX ONE\\Device\\Icon-Simple_90.png"
+				"XInput/0/Gamepad": "../#DefaultDevices/XBOX ONE/Device/Icon-Simple_90.png"
 			    },
 		      "DSUClient/0/DualShock4": {
-				"DSUClient/0/DualShock4": "..\\#DefaultDevices\\DualShock4\\Device\\Move.png"
+				"DSUClient/0/DualShock4": "../#DefaultDevices/DualShock4/Device/Move.png"
 			    }
 	    }
     },
@@ -44,10 +44,10 @@
       },
       "host_controls": {
 		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Move_Pointer_Up.png"
+				"DSUClient/1/BetterJoy": "../#DefaultDevices/Switch_Joy-Con/Device/Move_Pointer_Up.png"
 			    },
 		      "DSUClient/0/DualShock4": {
-				"DSUClient/0/DualShock4": "..\\#DefaultDevices\\DualShock4\\Device\\Move_Pointer_Up.png"
+				"DSUClient/0/DualShock4": "../#DefaultDevices/DualShock4/Device/Move_Pointer_Up.png"
 			    }
 	    }
     },
@@ -67,10 +67,10 @@
       },
       "host_controls": {
 		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Icon-Simple_Right.png"
+				"DSUClient/1/BetterJoy": "../#DefaultDevices/Switch_Joy-Con/Device/Icon-Simple_Right.png"
 			    },
 		      "DSUClient/0/DualShock4": {
-				"DSUClient/0/DualShock4": "..\\#DefaultDevices\\DualShock4\\Device\\Icon-Simple_90.png"
+				"DSUClient/0/DualShock4": "../#DefaultDevices/DualShock4/Device/Icon-Simple_90.png"
 			    }
 	    }
     },
@@ -90,10 +90,10 @@
       },
       "host_controls": {
 		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Move_Pointer_Right.png"
+				"DSUClient/1/BetterJoy": "../#DefaultDevices/Switch_Joy-Con/Device/Move_Pointer_Right.png"
 			    },
 		      "DSUClient/0/DualShock4": {
-				"DSUClient/0/DualShock4": "..\\#DefaultDevices\\DualShock4\\Device\\Move_Pointer_Right.png"
+				"DSUClient/0/DualShock4": "../#DefaultDevices/DualShock4/Device/Move_Pointer_Right.png"
 			    }
 	    }
     },
@@ -113,10 +113,10 @@
       },
       "host_controls": {
 		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Move_Pointer_Down.png"
+				"DSUClient/1/BetterJoy": "../#DefaultDevices/Switch_Joy-Con/Device/Move_Pointer_Down.png"
 			    },
 		      "DSUClient/0/DualShock4": {
-				"DSUClient/0/DualShock4": "..\\#DefaultDevices\\DualShock4\\Device\\Move_Pointer_Down.png"
+				"DSUClient/0/DualShock4": "../#DefaultDevices/DualShock4/Device/Move_Pointer_Down.png"
 			    }
 	    }
     },
@@ -136,10 +136,10 @@
       },
       "host_controls": {
 		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Move_Pointer_Center.png"
+				"DSUClient/1/BetterJoy": "../#DefaultDevices/Switch_Joy-Con/Device/Move_Pointer_Center.png"
 			    },
 		      "DSUClient/0/DualShock4": {
-				"DSUClient/0/DualShock4": "..\\#DefaultDevices\\DualShock4\\Device\\Move_Pointer_Center.png"
+				"DSUClient/0/DualShock4": "../#DefaultDevices/DualShock4/Device/Move_Pointer_Center.png"
 			    }
 	    }
     },
@@ -159,10 +159,10 @@
       },
       "host_controls": {
 		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Move_Pointer_Up.png"
+				"DSUClient/1/BetterJoy": "../#DefaultDevices/Switch_Joy-Con/Device/Move_Pointer_Up.png"
 			    },
 		      "DSUClient/0/DualShock4": {
-				"DSUClient/0/DualShock4": "..\\#DefaultDevices\\DualShock4\\Device\\Move_Pointer_Up.png"
+				"DSUClient/0/DualShock4": "../#DefaultDevices/DualShock4/Device/Move_Pointer_Up.png"
 			    }
 	    }
     },
@@ -182,10 +182,10 @@
       },
       "host_controls": {
 		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Move_Pointer_Left.png"
+				"DSUClient/1/BetterJoy": "../#DefaultDevices/Switch_Joy-Con/Device/Move_Pointer_Left.png"
 			    },
 		      "DSUClient/0/DualShock4": {
-				"DSUClient/0/DualShock4": "..\\#DefaultDevices\\DualShock4\\Device\\Move_Pointer_Left.png"
+				"DSUClient/0/DualShock4": "../#DefaultDevices/DualShock4/Device/Move_Pointer_Left.png"
 			    }
 	    }
     },
@@ -205,10 +205,10 @@
       },
       "host_controls": {
 		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Move_Pointer_RightUp.png"
+				"DSUClient/1/BetterJoy": "../#DefaultDevices/Switch_Joy-Con/Device/Move_Pointer_RightUp.png"
 			    },
 		      "DSUClient/0/DualShock4": {
-				"DSUClient/0/DualShock4": "..\\#DefaultDevices\\DualShock4\\Device\\Move_Pointer_RightUp.png"
+				"DSUClient/0/DualShock4": "../#DefaultDevices/DualShock4/Device/Move_Pointer_RightUp.png"
 			    }
 	    }
     },
@@ -228,10 +228,10 @@
       },
       "host_controls": {
 		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Move_Pointer_Right.png"
+				"DSUClient/1/BetterJoy": "../#DefaultDevices/Switch_Joy-Con/Device/Move_Pointer_Right.png"
 			    },
 		      "DSUClient/0/DualShock4": {
-				"DSUClient/0/DualShock4": "..\\#DefaultDevices\\DualShock4\\Device\\Move_Pointer_Right.png"
+				"DSUClient/0/DualShock4": "../#DefaultDevices/DualShock4/Device/Move_Pointer_Right.png"
 			    }
 	    }
     },
@@ -251,7 +251,7 @@
       },
       "host_controls": {
 		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Move_Extensions.png"
+				"DSUClient/1/BetterJoy": "../#DefaultDevices/Switch_Joy-Con/Device/Move_Extensions.png"
 			    }
 	    }
     },
@@ -271,7 +271,7 @@
       },
       "host_controls": {
 		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Move_Extensions.png"
+				"DSUClient/1/BetterJoy": "../#DefaultDevices/Switch_Joy-Con/Device/Move_Extensions.png"
 			    }
 	    }
     },
@@ -291,7 +291,7 @@
       },
       "host_controls": {
 		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Move_Extensions.png"
+				"DSUClient/1/BetterJoy": "../#DefaultDevices/Switch_Joy-Con/Device/Move_Extensions.png"
 			    }
 	    }
     },
@@ -311,7 +311,7 @@
       },
       "host_controls": {
 		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Move_Extensions2.png"
+				"DSUClient/1/BetterJoy": "../#DefaultDevices/Switch_Joy-Con/Device/Move_Extensions2.png"
 			    }
 	    }
     },
@@ -331,10 +331,10 @@
       },
       "host_controls": {
 		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Move_Deep_Down.png"
+				"DSUClient/1/BetterJoy": "../#DefaultDevices/Switch_Joy-Con/Device/Move_Deep_Down.png"
 			    },
 		      "DSUClient/0/DualShock4": {
-				"DSUClient/0/DualShock4": "..\\#DefaultDevices\\DualShock4\\Device\\Move_Deep_Down.png"
+				"DSUClient/0/DualShock4": "../#DefaultDevices/DualShock4/Device/Move_Deep_Down.png"
 			    }
 	    }
     },
@@ -354,10 +354,10 @@
       },
       "host_controls": {
 		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Move_Deep_Up.png"
+				"DSUClient/1/BetterJoy": "../#DefaultDevices/Switch_Joy-Con/Device/Move_Deep_Up.png"
 			    },
 		      "DSUClient/0/DualShock4": {
-				"DSUClient/0/DualShock4": "..\\#DefaultDevices\\DualShock4\\Device\\Move_Deep_Up.png"
+				"DSUClient/0/DualShock4": "../#DefaultDevices/DualShock4/Device/Move_Deep_Up.png"
 			    }
 	    }
     },
@@ -377,10 +377,10 @@
       },
       "host_controls": {
 		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Move_180.png"
+				"DSUClient/1/BetterJoy": "../#DefaultDevices/Switch_Joy-Con/Device/Move_180.png"
 			    },
 		      "DSUClient/0/DualShock4": {
-				"DSUClient/0/DualShock4": "..\\#DefaultDevices\\DualShock4\\Device\\Move_180.png"
+				"DSUClient/0/DualShock4": "../#DefaultDevices/DualShock4/Device/Move_180.png"
 			    }
 	    }
     },
@@ -400,10 +400,10 @@
       },
       "host_controls": {
 		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Move_90.png"
+				"DSUClient/1/BetterJoy": "../#DefaultDevices/Switch_Joy-Con/Device/Move_90.png"
 			    },
 		      "DSUClient/0/DualShock4": {
-				"DSUClient/0/DualShock4": "..\\#DefaultDevices\\DualShock4\\Device\\Move_90.png"
+				"DSUClient/0/DualShock4": "../#DefaultDevices/DualShock4/Device/Move_90.png"
 			    }
 	    }
     },
@@ -423,10 +423,10 @@
       },
       "host_controls": {
 		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Move_Roll_Left.png"
+				"DSUClient/1/BetterJoy": "../#DefaultDevices/Switch_Joy-Con/Device/Move_Roll_Left.png"
 			    },
 		      "DSUClient/0/DualShock4": {
-				"DSUClient/0/DualShock4": "..\\#DefaultDevices\\DualShock4\\Device\\Move_Roll_Left.png"
+				"DSUClient/0/DualShock4": "../#DefaultDevices/DualShock4/Device/Move_Roll_Left.png"
 			    }
 	    }
     },
@@ -446,10 +446,10 @@
       },
       "host_controls": {
 		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Move_Roll_Left.png"
+				"DSUClient/1/BetterJoy": "../#DefaultDevices/Switch_Joy-Con/Device/Move_Roll_Left.png"
 			    },
 		      "DSUClient/0/DualShock4": {
-				"DSUClient/0/DualShock4": "..\\#DefaultDevices\\DualShock4\\Device\\Move_Roll_Left.png"
+				"DSUClient/0/DualShock4": "../#DefaultDevices/DualShock4/Device/Move_Roll_Left.png"
 			    }
 	    }
     },
@@ -469,10 +469,10 @@
       },
       "host_controls": {
 		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Move_Roll_Left.png"
+				"DSUClient/1/BetterJoy": "../#DefaultDevices/Switch_Joy-Con/Device/Move_Roll_Left.png"
 			    },
 		      "DSUClient/0/DualShock4": {
-				"DSUClient/0/DualShock4": "..\\#DefaultDevices\\DualShock4\\Device\\Move_Roll_Left.png"
+				"DSUClient/0/DualShock4": "../#DefaultDevices/DualShock4/Device/Move_Roll_Left.png"
 			    }
 	    }
     }

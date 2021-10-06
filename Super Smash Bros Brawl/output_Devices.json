@@ -18,25 +18,25 @@
       },
       "host_controls": {
 		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\3D-front.png"
+				"DSUClient/1/BetterJoy": "../#DefaultDevices/Switch_Joy-Con/Device/3D-front.png"
 			    },
 		      "DSUClient/0/BetterJoy": {
-				"DSUClient/0/BetterJoy": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon.png"
+				"DSUClient/0/BetterJoy": "../#DefaultDevices/Switch_Pro Controller/Device/Icon.png"
 			    },
 		      "DInput/0/Wireless Gamepad": {
-				"DInput/0/Wireless Gamepad": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon.png"
+				"DInput/0/Wireless Gamepad": "../#DefaultDevices/Switch_Pro Controller/Device/Icon.png"
 			    },
 		      "XInput/0/Gamepad": {
-				"XInput/0/Gamepad": "..\\#DefaultDevices\\XBOX ONE\\Device\\3D-front.png"
+				"XInput/0/Gamepad": "../#DefaultDevices/XBOX ONE/Device/3D-front.png"
 			    },
 		      "DInput/0/Bluetooth LE XINPUT compatible input device": {
-				"DInput/0/Bluetooth LE XINPUT compatible input device": "..\\#DefaultDevices\\XBOX ONE\\Device\\3D-front.png"
+				"DInput/0/Bluetooth LE XINPUT compatible input device": "../#DefaultDevices/XBOX ONE/Device/3D-front.png"
 			    },
 		      "DSUClient/0/DualShock4": {
-				"DSUClient/0/DualShock4": "..\\#DefaultDevices\\DualShock4\\Device\\3D-front.png"
+				"DSUClient/0/DualShock4": "../#DefaultDevices/DualShock4/Device/3D-front.png"
 			    },
 		      "DInput/0/Wireless Controller": {
-				"DInput/0/Wireless Controller": "..\\#DefaultDevices\\DualShock4\\Device\\3D-front.png"
+				"DInput/0/Wireless Controller": "../#DefaultDevices/DualShock4/Device/3D-front.png"
 			    }
 	    }
     },
@@ -56,25 +56,25 @@
       },
       "host_controls": {
 		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Icon.png"
+				"DSUClient/1/BetterJoy": "../#DefaultDevices/Switch_Joy-Con/Device/Icon.png"
 			    },
 		      "DSUClient/0/BetterJoy": {
-				"DSUClient/0/BetterJoy": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon.png"
+				"DSUClient/0/BetterJoy": "../#DefaultDevices/Switch_Pro Controller/Device/Icon.png"
 			    },
 		      "DInput/0/Wireless Gamepad": {
-				"DInput/0/Wireless Gamepad": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon.png"
+				"DInput/0/Wireless Gamepad": "../#DefaultDevices/Switch_Pro Controller/Device/Icon.png"
 			    },
 		      "XInput/0/Gamepad": {
-				"XInput/0/Gamepad": "..\\#DefaultDevices\\XBOX ONE\\Device\\Icon.png"
+				"XInput/0/Gamepad": "../#DefaultDevices/XBOX ONE/Device/Icon.png"
 			    },
 		      "DInput/0/Bluetooth LE XINPUT compatible input device": {
-				"DInput/0/Bluetooth LE XINPUT compatible input device": "..\\#DefaultDevices\\XBOX ONE\\Device\\Icon.png"
+				"DInput/0/Bluetooth LE XINPUT compatible input device": "../#DefaultDevices/XBOX ONE/Device/Icon.png"
 			    },
 		      "DSUClient/0/DualShock4": {
-				"DSUClient/0/DualShock4": "..\\#DefaultDevices\\DualShock4\\Device\\Icon.png"
+				"DSUClient/0/DualShock4": "../#DefaultDevices/DualShock4/Device/Icon.png"
 			    },
 		      "DInput/0/Wireless Controller": {
-				"DInput/0/Wireless Controller": "..\\#DefaultDevices\\DualShock4\\Device\\Icon.png"
+				"DInput/0/Wireless Controller": "../#DefaultDevices/DualShock4/Device/Icon.png"
 			    }
 	    }
     },
@@ -94,25 +94,25 @@
       },
       "host_controls": {
 		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Icon-SimpleN.png"
+				"DSUClient/1/BetterJoy": "../#DefaultDevices/Switch_Joy-Con/Device/Icon-SimpleN.png"
 			    },
 		      "DSUClient/0/BetterJoy": {
-				"DSUClient/0/BetterJoy": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon-SimpleN.png"
+				"DSUClient/0/BetterJoy": "../#DefaultDevices/Switch_Pro Controller/Device/Icon-SimpleN.png"
 			    },
 		      "DInput/0/Wireless Gamepad": {
-				"DInput/0/Wireless Gamepad": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon-SimpleN.png"
+				"DInput/0/Wireless Gamepad": "../#DefaultDevices/Switch_Pro Controller/Device/Icon-SimpleN.png"
 			    },
 		      "XInput/0/Gamepad": {
-				"XInput/0/Gamepad": "..\\#DefaultDevices\\XBOX ONE\\Device\\Icon-SimpleN.png"
+				"XInput/0/Gamepad": "../#DefaultDevices/XBOX ONE/Device/Icon-SimpleN.png"
 			    },
 		      "DInput/0/Bluetooth LE XINPUT compatible input device": {
-				"DInput/0/Bluetooth LE XINPUT compatible input device": "..\\#DefaultDevices\\XBOX ONE\\Device\\Icon-SimpleN.png"
+				"DInput/0/Bluetooth LE XINPUT compatible input device": "../#DefaultDevices/XBOX ONE/Device/Icon-SimpleN.png"
 			    },
 		      "DSUClient/0/DualShock4": {
-				"DSUClient/0/DualShock4": "..\\#DefaultDevices\\DualShock4\\Device\\Icon-SimpleN.png"
+				"DSUClient/0/DualShock4": "../#DefaultDevices/DualShock4/Device/Icon-SimpleN.png"
 			    },
 		      "DInput/0/Wireless Controller": {
-				"DInput/0/Wireless Controller": "..\\#DefaultDevices\\DualShock4\\Device\\Icon-SimpleN.png"
+				"DInput/0/Wireless Controller": "../#DefaultDevices/DualShock4/Device/Icon-SimpleN.png"
 			    }
 	    }
     },
@@ -132,25 +132,25 @@
       },
       "host_controls": {
 		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\3D-front from above.png"
+				"DSUClient/1/BetterJoy": "../#DefaultDevices/Switch_Joy-Con/Device/3D-front from above.png"
 			    },
 		      "DSUClient/0/BetterJoy": {
-				"DSUClient/0/BetterJoy": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon.png"
+				"DSUClient/0/BetterJoy": "../#DefaultDevices/Switch_Pro Controller/Device/Icon.png"
 			    },
 		      "DInput/0/Wireless Gamepad": {
-				"DInput/0/Wireless Gamepad": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon.png"
+				"DInput/0/Wireless Gamepad": "../#DefaultDevices/Switch_Pro Controller/Device/Icon.png"
 			    },
 		      "XInput/0/Gamepad": {
-				"XInput/0/Gamepad": "..\\#DefaultDevices\\XBOX ONE\\Device\\3D-front from above.png"
+				"XInput/0/Gamepad": "../#DefaultDevices/XBOX ONE/Device/3D-front from above.png"
 			    },
 		      "DInput/0/Bluetooth LE XINPUT compatible input device": {
-				"XInput/0/Gamepad": "..\\#DefaultDevices\\XBOX ONE\\Device\\3D-front from above.png"
+				"XInput/0/Gamepad": "../#DefaultDevices/XBOX ONE/Device/3D-front from above.png"
 			    },
 		      "DSUClient/0/DualShock4": {
-				"DSUClient/0/DualShock4": "..\\#DefaultDevices\\DualShock4\\Device\\3D-front from above.png"
+				"DSUClient/0/DualShock4": "../#DefaultDevices/DualShock4/Device/3D-front from above.png"
 			    },
 		      "DInput/0/Wireless Controller": {
-				"DInput/0/Wireless Controller": "..\\#DefaultDevices\\DualShock4\\Device\\3D-front from above.png"
+				"DInput/0/Wireless Controller": "../#DefaultDevices/DualShock4/Device/3D-front from above.png"
 			    }
 	    }
     },
@@ -170,25 +170,25 @@
       },
       "host_controls": {
 		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Icon.png"
+				"DSUClient/1/BetterJoy": "../#DefaultDevices/Switch_Joy-Con/Device/Icon.png"
 			    },
 		      "DSUClient/0/BetterJoy": {
-				"DSUClient/0/BetterJoy": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon.png"
+				"DSUClient/0/BetterJoy": "../#DefaultDevices/Switch_Pro Controller/Device/Icon.png"
 			    },
 		      "DInput/0/Wireless Gamepad": {
-				"DInput/0/Wireless Gamepad": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon.png"
+				"DInput/0/Wireless Gamepad": "../#DefaultDevices/Switch_Pro Controller/Device/Icon.png"
 			    },
 		      "XInput/0/Gamepad": {
-				"XInput/0/Gamepad": "..\\#DefaultDevices\\XBOX ONE\\Device\\Icon.png"
+				"XInput/0/Gamepad": "../#DefaultDevices/XBOX ONE/Device/Icon.png"
 			    },
 		      "DInput/0/Bluetooth LE XINPUT compatible input device": {
-				"XInput/0/Gamepad": "..\\#DefaultDevices\\XBOX ONE\\Device\\Icon.png"
+				"XInput/0/Gamepad": "../#DefaultDevices/XBOX ONE/Device/Icon.png"
 			    },
 		      "DSUClient/0/DualShock4": {
-				"DSUClient/0/DualShock4": "..\\#DefaultDevices\\DualShock4\\Device\\Icon.png"
+				"DSUClient/0/DualShock4": "../#DefaultDevices/DualShock4/Device/Icon.png"
 			    },
 		      "DInput/0/Wireless Controller": {
-				"DInput/0/Wireless Controller": "..\\#DefaultDevices\\DualShock4\\Device\\Icon.png"
+				"DInput/0/Wireless Controller": "../#DefaultDevices/DualShock4/Device/Icon.png"
 			    }
 	    }
     },
@@ -208,25 +208,25 @@
       },
       "host_controls": {
 		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Icon.png"
+				"DSUClient/1/BetterJoy": "../#DefaultDevices/Switch_Joy-Con/Device/Icon.png"
 			    },
 		      "DSUClient/0/BetterJoy": {
-				"DSUClient/0/BetterJoy": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon.png"
+				"DSUClient/0/BetterJoy": "../#DefaultDevices/Switch_Pro Controller/Device/Icon.png"
 			    },
 		      "DInput/0/Wireless Gamepad": {
-				"DInput/0/Wireless Gamepad": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon.png"
+				"DInput/0/Wireless Gamepad": "../#DefaultDevices/Switch_Pro Controller/Device/Icon.png"
 			    },
 		      "XInput/0/Gamepad": {
-				"XInput/0/Gamepad": "..\\#DefaultDevices\\XBOX ONE\\Device\\Icon.png"
+				"XInput/0/Gamepad": "../#DefaultDevices/XBOX ONE/Device/Icon.png"
 			    },
 		      "DInput/0/Bluetooth LE XINPUT compatible input device": {
-				"XInput/0/Gamepad": "..\\#DefaultDevices\\XBOX ONE\\Device\\Icon.png"
+				"XInput/0/Gamepad": "../#DefaultDevices/XBOX ONE/Device/Icon.png"
 			    },
 		      "DSUClient/0/DualShock4": {
-				"DSUClient/0/DualShock4": "..\\#DefaultDevices\\DualShock4\\Device\\Icon.png"
+				"DSUClient/0/DualShock4": "../#DefaultDevices/DualShock4/Device/Icon.png"
 			    },
 		      "DInput/0/Wireless Controller": {
-				"DInput/0/Wireless Controller": "..\\#DefaultDevices\\DualShock4\\Device\\Icon.png"
+				"DInput/0/Wireless Controller": "../#DefaultDevices/DualShock4/Device/Icon.png"
 			    }
 	    }
     },
@@ -246,7 +246,7 @@
       },
       "host_controls": {
 		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Move_90.png"
+				"DSUClient/1/BetterJoy": "../#DefaultDevices/Switch_Joy-Con/Device/Move_90.png"
 			    }
 	    }
     },
@@ -266,7 +266,7 @@
       },
       "host_controls": {
 		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Move.png"
+				"DSUClient/1/BetterJoy": "../#DefaultDevices/Switch_Joy-Con/Device/Move.png"
 			    }
 	    }
     },
@@ -286,7 +286,7 @@
       },
       "host_controls": {
 		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Move_Extensions.png"
+				"DSUClient/1/BetterJoy": "../#DefaultDevices/Switch_Joy-Con/Device/Move_Extensions.png"
 			    }
 	    }
     },
@@ -306,7 +306,7 @@
       },
       "host_controls": {
 		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Move_90.png"
+				"DSUClient/1/BetterJoy": "../#DefaultDevices/Switch_Joy-Con/Device/Move_90.png"
 			    }
 	    }
     },
@@ -326,7 +326,7 @@
       },
       "host_controls": {
 		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Move_90.png"
+				"DSUClient/1/BetterJoy": "../#DefaultDevices/Switch_Joy-Con/Device/Move_90.png"
 			    }
 	    }
     },
@@ -346,7 +346,7 @@
       },
       "host_controls": {
 		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Icon.png"
+				"DSUClient/1/BetterJoy": "../#DefaultDevices/Switch_Joy-Con/Device/Icon.png"
 			    }
 	    }
     },
@@ -366,7 +366,7 @@
       },
       "host_controls": {
 		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\Icon.png"
+				"DSUClient/1/BetterJoy": "../#DefaultDevices/Switch_Joy-Con/Device/Icon.png"
 			    }
 	    }
     }
