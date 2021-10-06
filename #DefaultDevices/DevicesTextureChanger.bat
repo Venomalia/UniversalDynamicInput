@@ -94,6 +94,7 @@ ren "%%G\R3.png" "Thumb R.png"
 ren "%%G\Options.png" "Start.png"
 ren "%%G\Share.png" "Back.png"
 ren "%%G\PS.png" "Guide.png"
+ren "%%G\Touchpad.png" "Share.png"
 ) ELSE (
 FOR /D %%S IN ("%%G\*") DO (
 ren "%%S\Cross.png" "Button A.png"
@@ -109,6 +110,7 @@ ren "%%S\R3.png" "Thumb R.png"
 ren "%%S\Options.png" "Start.png"
 ren "%%S\Share.png" "Back.png"
 ren "%%S\PS.png" "Guide.png"
+ren "%%G\Touchpad.png" "Share.png"
 )
 )
 
