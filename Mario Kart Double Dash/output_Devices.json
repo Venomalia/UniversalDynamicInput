@@ -21,7 +21,7 @@
 				"DSUClient/1/BetterJoy": "../#DefaultDevices/Switch_Joy-Con/Device/IconN.png"
 			    },
 		      "DSUClient/0/BetterJoy": {
-				"DSUClient/0/BetterJoy": "../#DefaultDevices/Switch_Pro Controller/Device\\IconN.png"
+				"DSUClient/0/BetterJoy": "../#DefaultDevices/Switch_Pro Controller/Device/IconN.png"
 			    },
 		      "DInput/0/Wireless Gamepad": {
 				"DInput/0/Wireless Gamepad": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\IconN.png"
@@ -37,6 +37,12 @@
 			    },
 		      "DInput/0/Wireless Controller": {
 				"DInput/0/Wireless Controller": "..\\#DefaultDevices\\DualShock4\\Device\\IconN.png"
+			    },
+		      "evdev/0/Wireless Controller": {
+				"evdev/0/Wireless Controller": "../#DefaultDevices/DualShock4/Device/IconN.png"
+			    },
+		      "evdev/0/Sony Interactive Entertainment Wireless Controller": {
+				"evdev/0/Sony Interactive Entertainment Wireless Controller": "../#DefaultDevices/DualShock4/Device/IconN.png"
 			    }
 	    }
     },
@@ -56,10 +62,10 @@
       },
       "host_controls": {
 		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "..\\#DefaultDevices\\Switch_Joy-Con\\Device\\IconN.png"
+				"DSUClient/1/BetterJoy": "../#DefaultDevices/Switch_Joy-Con/Device/IconN.png"
 			    },
 		      "DSUClient/0/BetterJoy": {
-				"DSUClient/0/BetterJoy": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\IconN.png"
+				"DSUClient/0/BetterJoy": "../#DefaultDevices/Switch_Pro Controller/Device/IconN.png"
 			    },
 		      "DInput/0/Wireless Gamepad": {
 				"DInput/0/Wireless Gamepad": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\IconN.png"
@@ -71,10 +77,16 @@
 				"DInput/0/Bluetooth LE XINPUT compatible input device": "..\\#DefaultDevices\\XBOX ONE\\Device\\IconN.png"
 			    },
 		      "DSUClient/0/DualShock4": {
-				"DSUClient/0/DualShock4": "..\\#DefaultDevices\\DualShock4\\Device\\IconN.png"
+				"DSUClient/0/DualShock4": "../#DefaultDevices/DualShock4/Device/IconN.png"
 			    },
 		      "DInput/0/Wireless Controller": {
 				"DInput/0/Wireless Controller": "..\\#DefaultDevices\\DualShock4\\Device\\IconN.png"
+			    },
+		      "evdev/0/Wireless Controller": {
+				"evdev/0/Wireless Controller": "../#DefaultDevices/DualShock4/Device/IconN.png"
+			    },
+		      "evdev/0/Sony Interactive Entertainment Wireless Controller": {
+				"evdev/0/Sony Interactive Entertainment Wireless Controller": "../#DefaultDevices/DualShock4/Device/IconN.png"
 			    }
 	    }
     }

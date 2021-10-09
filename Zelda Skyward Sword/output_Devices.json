@@ -25,6 +25,12 @@
 			    },
 		      "DSUClient/0/DualShock4": {
 				"DSUClient/0/DualShock4": "../#DefaultDevices/DualShock4/Device/Move.png"
+			    },
+		      "evdev/0/Wireless Controller": {
+				"evdev/0/Wireless Controller": "../#DefaultDevices/DualShock4/Device/Move.png"
+			    },
+		      "evdev/0/Sony Interactive Entertainment Wireless Controller": {
+				"evdev/0/Sony Interactive Entertainment Wireless Controller": "../#DefaultDevices/DualShock4/Device/Move.png"
 			    }
 	    }
     },
@@ -48,6 +54,12 @@
 			    },
 		      "DSUClient/0/DualShock4": {
 				"DSUClient/0/DualShock4": "../#DefaultDevices/DualShock4/Device/Move_Pointer_Up.png"
+			    },
+		      "evdev/0/Wireless Controller": {
+				"evdev/0/Wireless Controller": "../#DefaultDevices/DualShock4/Device/Move_Pointer_Up.png"
+			    },
+		      "evdev/0/Sony Interactive Entertainment Wireless Controller": {
+				"evdev/0/Sony Interactive Entertainment Wireless Controller": "../#DefaultDevices/DualShock4/Device/Move_Pointer_Up.png"
 			    }
 	    }
     },
@@ -71,6 +83,12 @@
 			    },
 		      "DSUClient/0/DualShock4": {
 				"DSUClient/0/DualShock4": "../#DefaultDevices/DualShock4/Device/Icon-Simple_90.png"
+			    },
+		      "evdev/0/Wireless Controller": {
+				"evdev/0/Wireless Controller": "../#DefaultDevices/DualShock4/Device/Icon-Simple_90.png"
+			    },
+		      "evdev/0/Sony Interactive Entertainment Wireless Controller": {
+				"evdev/0/Sony Interactive Entertainment Wireless Controller": "../#DefaultDevices/DualShock4/Device/Icon-Simple_90.png"
 			    }
 	    }
     },
@@ -94,6 +112,12 @@
 			    },
 		      "DSUClient/0/DualShock4": {
 				"DSUClient/0/DualShock4": "../#DefaultDevices/DualShock4/Device/Move_Pointer_Right.png"
+			    },
+		      "evdev/0/Wireless Controller": {
+				"evdev/0/Wireless Controller": "../#DefaultDevices/DualShock4/Device/Move_Pointer_Right.png"
+			    },
+		      "evdev/0/Sony Interactive Entertainment Wireless Controller": {
+				"evdev/0/Sony Interactive Entertainment Wireless Controller": "../#DefaultDevices/DualShock4/Device/Move_Pointer_Right.png"
 			    }
 	    }
     },
@@ -117,6 +141,12 @@
 			    },
 		      "DSUClient/0/DualShock4": {
 				"DSUClient/0/DualShock4": "../#DefaultDevices/DualShock4/Device/Move_Pointer_Down.png"
+			    },
+		      "evdev/0/Wireless Controller": {
+				"evdev/0/Wireless Controller": "../#DefaultDevices/DualShock4/Device/Move_Pointer_Down.png"
+			    },
+		      "evdev/0/Sony Interactive Entertainment Wireless Controller": {
+				"evdev/0/Sony Interactive Entertainment Wireless Controller": "../#DefaultDevices/DualShock4/Device/Move_Pointer_Down.png"
 			    }
 	    }
     },
@@ -140,6 +170,12 @@
 			    },
 		      "DSUClient/0/DualShock4": {
 				"DSUClient/0/DualShock4": "../#DefaultDevices/DualShock4/Device/Move_Pointer_Center.png"
+			    },
+		      "evdev/0/Wireless Controller": {
+				"evdev/0/Wireless Controller": "../#DefaultDevices/DualShock4/Device/Move_Pointer_Center.png"
+			    },
+		      "evdev/0/Sony Interactive Entertainment Wireless Controller": {
+				"evdev/0/Sony Interactive Entertainment Wireless Controller": "../#DefaultDevices/DualShock4/Device/Move_Pointer_Center.png"
 			    }
 	    }
     },
@@ -163,6 +199,12 @@
 			    },
 		      "DSUClient/0/DualShock4": {
 				"DSUClient/0/DualShock4": "../#DefaultDevices/DualShock4/Device/Move_Pointer_Up.png"
+			    },
+		      "evdev/0/Wireless Controller": {
+				"evdev/0/Wireless Controller": "../#DefaultDevices/DualShock4/Device/Move_Pointer_Up.png"
+			    },
+		      "evdev/0/Sony Interactive Entertainment Wireless Controller": {
+				"evdev/0/Sony Interactive Entertainment Wireless Controller": "../#DefaultDevices/DualShock4/Device/Move_Pointer_Up.png"
 			    }
 	    }
     },
@@ -186,6 +228,12 @@
 			    },
 		      "DSUClient/0/DualShock4": {
 				"DSUClient/0/DualShock4": "../#DefaultDevices/DualShock4/Device/Move_Pointer_Left.png"
+			    },
+		      "evdev/0/Wireless Controller": {
+				"evdev/0/Wireless Controller": "../#DefaultDevices/DualShock4/Device/Move_Pointer_Left.png"
+			    },
+		      "evdev/0/Sony Interactive Entertainment Wireless Controller": {
+				"evdev/0/Sony Interactive Entertainment Wireless Controller": "../#DefaultDevices/DualShock4/Device/Move_Pointer_Left.png"
 			    }
 	    }
     },
@@ -209,6 +257,12 @@
 			    },
 		      "DSUClient/0/DualShock4": {
 				"DSUClient/0/DualShock4": "../#DefaultDevices/DualShock4/Device/Move_Pointer_RightUp.png"
+			    },
+		      "evdev/0/Wireless Controller": {
+				"evdev/0/Wireless Controller": "../#DefaultDevices/DualShock4/Device/Move_Pointer_RightUp.png"
+			    },
+		      "evdev/0/Sony Interactive Entertainment Wireless Controller": {
+				"evdev/0/Sony Interactive Entertainment Wireless Controller": "../#DefaultDevices/DualShock4/Device/Move_Pointer_RightUp.png"
 			    }
 	    }
     },
@@ -232,6 +286,12 @@
 			    },
 		      "DSUClient/0/DualShock4": {
 				"DSUClient/0/DualShock4": "../#DefaultDevices/DualShock4/Device/Move_Pointer_Right.png"
+			    },
+		      "evdev/0/Wireless Controller": {
+				"evdev/0/Wireless Controller": "../#DefaultDevices/DualShock4/Device/Move_Pointer_Right.png"
+			    },
+		      "evdev/0/Sony Interactive Entertainment Wireless Controller": {
+				"evdev/0/Sony Interactive Entertainment Wireless Controller": "../#DefaultDevices/DualShock4/Device/Move_Pointer_Right.png"
 			    }
 	    }
     },
@@ -335,6 +395,12 @@
 			    },
 		      "DSUClient/0/DualShock4": {
 				"DSUClient/0/DualShock4": "../#DefaultDevices/DualShock4/Device/Move_Deep_Down.png"
+			    },
+		      "evdev/0/Wireless Controller": {
+				"evdev/0/Wireless Controller": "../#DefaultDevices/DualShock4/Device/Move_Deep_Down.png"
+			    },
+		      "evdev/0/Sony Interactive Entertainment Wireless Controller": {
+				"evdev/0/Sony Interactive Entertainment Wireless Controller": "../#DefaultDevices/DualShock4/Device/Move_Deep_Down.png"
 			    }
 	    }
     },
@@ -358,6 +424,12 @@
 			    },
 		      "DSUClient/0/DualShock4": {
 				"DSUClient/0/DualShock4": "../#DefaultDevices/DualShock4/Device/Move_Deep_Up.png"
+			    },
+		      "evdev/0/Wireless Controller": {
+				"evdev/0/Wireless Controller": "../#DefaultDevices/DualShock4/Device/Move_Deep_Up.png"
+			    },
+		      "evdev/0/Sony Interactive Entertainment Wireless Controller": {
+				"evdev/0/Sony Interactive Entertainment Wireless Controller": "../#DefaultDevices/DualShock4/Device/Move_Deep_Up.png"
 			    }
 	    }
     },
@@ -381,6 +453,12 @@
 			    },
 		      "DSUClient/0/DualShock4": {
 				"DSUClient/0/DualShock4": "../#DefaultDevices/DualShock4/Device/Move_180.png"
+			    },
+		      "evdev/0/Wireless Controller": {
+				"evdev/0/Wireless Controller": "../#DefaultDevices/DualShock4/Device/Move_180.png"
+			    },
+		      "evdev/0/Sony Interactive Entertainment Wireless Controller": {
+				"evdev/0/Sony Interactive Entertainment Wireless Controller": "../#DefaultDevices/DualShock4/Device/Move_180.png"
 			    }
 	    }
     },
@@ -404,6 +482,12 @@
 			    },
 		      "DSUClient/0/DualShock4": {
 				"DSUClient/0/DualShock4": "../#DefaultDevices/DualShock4/Device/Move_90.png"
+			    },
+		      "evdev/0/Wireless Controller": {
+				"evdev/0/Wireless Controller": "../#DefaultDevices/DualShock4/Device/Move_90.png"
+			    },
+		      "evdev/0/Sony Interactive Entertainment Wireless Controller": {
+				"evdev/0/Sony Interactive Entertainment Wireless Controller": "../#DefaultDevices/DualShock4/Device/Move_90.png"
 			    }
 	    }
     },
@@ -427,6 +511,12 @@
 			    },
 		      "DSUClient/0/DualShock4": {
 				"DSUClient/0/DualShock4": "../#DefaultDevices/DualShock4/Device/Move_Roll_Left.png"
+			    },
+		      "evdev/0/Wireless Controller": {
+				"evdev/0/Wireless Controller": "../#DefaultDevices/DualShock4/Device/Move_Roll_Left.png"
+			    },
+		      "evdev/0/Sony Interactive Entertainment Wireless Controller": {
+				"evdev/0/Sony Interactive Entertainment Wireless Controller": "../#DefaultDevices/DualShock4/Device/Move_Roll_Left.png"
 			    }
 	    }
     },
@@ -450,6 +540,12 @@
 			    },
 		      "DSUClient/0/DualShock4": {
 				"DSUClient/0/DualShock4": "../#DefaultDevices/DualShock4/Device/Move_Roll_Left.png"
+			    },
+		      "evdev/0/Wireless Controller": {
+				"evdev/0/Wireless Controller": "../#DefaultDevices/DualShock4/Device/Move_Roll_Left.png"
+			    },
+		      "evdev/0/Sony Interactive Entertainment Wireless Controller": {
+				"evdev/0/Sony Interactive Entertainment Wireless Controller": "../#DefaultDevices/DualShock4/Device/Move_Roll_Left.png"
 			    }
 	    }
     },
@@ -473,6 +569,12 @@
 			    },
 		      "DSUClient/0/DualShock4": {
 				"DSUClient/0/DualShock4": "../#DefaultDevices/DualShock4/Device/Move_Roll_Left.png"
+			    },
+		      "evdev/0/Wireless Controller": {
+				"evdev/0/Wireless Controller": "../#DefaultDevices/DualShock4/Device/Move_Roll_Left.png"
+			    },
+		      "evdev/0/Sony Interactive Entertainment Wireless Controller": {
+				"evdev/0/Sony Interactive Entertainment Wireless Controller": "../#DefaultDevices/DualShock4/Device/Move_Roll_Left.png"
 			    }
 	    }
     }
