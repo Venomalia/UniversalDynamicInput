@@ -314,7 +314,7 @@
       "Triangle": "../#DefaultDevices/_Mirror/Switch_Joy-Con/Flat_Mask/Button X.png"
     },
     "DInput/0/Wireless Gamepad": {
-      "`Button 0`": "../#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat_Mask\\Button B.png",
+      "`Button 0`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat_Mask\\Button B.png",
       "`Button 1`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat_Mask\\Button A.png",
       "`Button 2`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat_Mask\\Button Y.png",
       "`Button 3`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat_Mask\\Button X.png",
