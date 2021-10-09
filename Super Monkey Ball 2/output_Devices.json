@@ -37,6 +37,12 @@
 			    },
 		      "DInput/0/Wireless Controller": {
 				"DInput/0/Wireless Controller": "..\\#DefaultDevices\\DualShock4\\Device\\Icon.png"
+			    },
+		      "evdev/0/Wireless Controller": {
+				"evdev/0/Wireless Controller": "../#DefaultDevices/DualShock4/Device/Icon.png"
+			    },
+		      "evdev/0/Sony Interactive Entertainment Wireless Controller": {
+				"evdev/0/Sony Interactive Entertainment Wireless Controller": "../#DefaultDevices/DualShock4/Device/Icon.png"
 			    }
 	    }
     },
@@ -75,6 +81,12 @@
 			    },
 		      "DInput/0/Wireless Controller": {
 				"DInput/0/Wireless Controller": "..\\#DefaultDevices\\DualShock4\\Device\\Icon-Simple.png"
+			    },
+		      "evdev/0/Wireless Controller": {
+				"evdev/0/Wireless Controller": "../#DefaultDevices/DualShock4/Device/Icon-Simple.png"
+			    },
+		      "evdev/0/Sony Interactive Entertainment Wireless Controller": {
+				"evdev/0/Sony Interactive Entertainment Wireless Controller": "../#DefaultDevices/DualShock4/Device/Icon-Simple.png"
 			    }
 	    }
     }
