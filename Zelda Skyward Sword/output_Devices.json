@@ -21,7 +21,7 @@
 				"DSUClient/1/BetterJoy": "../#DefaultDevices/Switch_Joy-Con/Device/Move.png"
 			    },
 		      "XInput/0/Gamepad": {
-				"XInput/0/Gamepad": "../#DefaultDevices/XBOX ONE/Device/Icon-Simple_90.png"
+				"XInput/0/Gamepad": "..\\#DefaultDevices\\XBOX ONE\\Device\\Icon-Simple_90.png"
 			    },
 		      "DSUClient/0/DualShock4": {
 				"DSUClient/0/DualShock4": "../#DefaultDevices/DualShock4/Device/Move.png"
