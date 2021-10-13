@@ -48,12 +48,12 @@ You can use [Discord](https://discord.gg/vEQYMPxgSR) or [this thread](https://fo
 ## Credits:
 ### [Contributors](https://github.com/Venomalia/UniversalDynamicInput/graphs/contributors)
 
+Super Mario Galaxy [1](https://forums.dolphin-emu.org/Thread-super-mario-galaxy-1-hd-texture-mod) & [2](https://forums.dolphin-emu.org/Thread-super-mario-galaxy-2-hd-texture-mod) UI assets created by **Razius**.
+
+Phantasy Star Online 1 & 2 UI assets created by [LutheeMajestic](https://forums.dolphin-emu.org/Thread-phantasy-star-online-episode-i-ii-hd-ui-project) Licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de).
+
 ### Special thanks:
 [iwubcode](https://github.com/iwubcode) for this great feature and to all helpers for beta-tests, feedback, texture-dumps and other improvements.
 
-Super Mario Galaxy [1](https://forums.dolphin-emu.org/Thread-super-mario-galaxy-1-hd-texture-mod) & [2](https://forums.dolphin-emu.org/Thread-super-mario-galaxy-2-hd-texture-mod) UI assets created by **Razius**.
-
-Phantasy Star Online 1 & 2 UI assets created by [LutheeMajestic](https://forums.dolphin-emu.org/Thread-phantasy-star-online-episode-i-ii-hd-ui-project).
-
-## License: CC BY 4.0
-[![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+## License: CC0
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/deed.de)
