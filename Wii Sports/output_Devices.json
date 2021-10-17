@@ -43,6 +43,12 @@
 			    },
 		      "evdev/0/Sony Interactive Entertainment Wireless Controller": {
 				"evdev/0/Sony Interactive Entertainment Wireless Controller": "../#DefaultDevices/DualShock4/Device/3D-front from above.png"
+			    },
+		      "evdev/0/Microsoft X-Box 360 pad": {
+				"evdev/0/Microsoft X-Box 360 pad": "../#DefaultDevices/XBOX ONE/Device/3D-front from above.png"
+			    },
+		      "evdev/0/Microsoft X-Box One S pad": {
+				"evdev/0/Microsoft X-Box One S pad": "../#DefaultDevices/XBOX ONE/Device/3D-front from above.png"
 			    }
 	    }
     }
