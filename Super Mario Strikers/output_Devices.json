@@ -30,7 +30,7 @@
 				"XInput/0/Gamepad": "..\\#DefaultDevices\\XBOX ONE\\Device\\IconN.png"
 			    },
 		      "DInput/0/Bluetooth LE XINPUT compatible input device": {
-				"DInput/0/Bluetooth LE XINPUT compatible input device": "../#DefaultDevices/XBOX ONE/Device/IconN.png"
+				"DInput/0/Bluetooth LE XINPUT compatible input device": "..\\#DefaultDevices\\XBOX ONE\\Device\\IconN.png"
 			    },
 		      "DSUClient/0/DualShock4": {
 				"DSUClient/0/DualShock4": "../#DefaultDevices/DualShock4/Device/IconN.png"
@@ -43,6 +43,12 @@
 			    },
 		      "evdev/0/Sony Interactive Entertainment Wireless Controller": {
 				"evdev/0/Sony Interactive Entertainment Wireless Controller": "../#DefaultDevices/DualShock4/Device/IconN.png"
+			    },
+		      "evdev/0/Microsoft X-Box 360 pad": {
+				"evdev/0/Microsoft X-Box 360 pad": "../#DefaultDevices/XBOX ONE/Device/IconN.png"
+			    },
+		      "evdev/0/Microsoft X-Box One S pad": {
+				"evdev/0/Microsoft X-Box One S pad": "../#DefaultDevices/XBOX ONE/Device/IconN.png"
 			    }
 	    }
     }
