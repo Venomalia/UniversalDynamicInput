@@ -1,0 +1,62 @@
+name: Bug report
+description: Create a report for a common problem.
+title: "[Bug]: "
+labels: [bug]
+body:
+
+  - type: input
+    id: game_name
+    attributes:
+      label: Game Name?
+      description: What is the name of the Game.
+      placeholder: Name
+    validations:
+      required: false
+      
+  - type: input
+    id: game_id
+    attributes:
+      label: Game ID?
+      description: Right click the game in the game list in dolphin, properties, info tab.
+      placeholder: GXXP01
+    validations:
+      required: false
+      
+  - type: input
+    id: devices
+    attributes:
+      label: Input device ID?
+      description: What device did you use.
+      placeholder: XInput/0/Gamepad
+    validations:
+      required: false
+      
+  - type: input
+    id: dolphin
+    attributes:
+      label: Dolphin version?
+      description: Which Dolphin version have you used?
+      placeholder: 5.0-15000
+    validations:
+      required: true
+      
+  - type: input
+    id: operating-systems
+    attributes:
+      label: Operating System?
+      description: Which operating systems have you used?
+      placeholder: Windows 10
+    validations:
+      required: true
+      
+  - type: textarea
+    id: describe
+    attributes:
+      label: Describe the bug.
+      description: A clear and concise description of what the bug is.
+      
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior.
+      description: A clear and concise description of what you expected to happen.
