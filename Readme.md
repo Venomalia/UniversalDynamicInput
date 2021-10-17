@@ -1,5 +1,5 @@
 # Universal Dynamic Input
-[Wiki](https://github.com/Venomalia/UniversalDynamicInput/wiki) | [Discord](https://discord.gg/vEQYMPxgSR) | [Changelog](https://github.com/Venomalia/UniversalDynamicInput/blob/main/Changelog.md) | [DynamicInputTextureCreator Tool](https://github.com/Venomalia/DolphinDynamicInputTextureCreator/releases) | [Dolphin Forum](https://forums.dolphin-emu.org/Thread-universal-dynamic-input-texture-pack)
+[Wiki](https://github.com/Venomalia/UniversalDynamicInput/wiki) | [Discord](https://discord.gg/vEQYMPxgSR) | [Changelog](https://github.com/Venomalia/UniversalDynamicInput/blob/main/Changelog.md) | [DynamicInputTextureCreator Tool](https://github.com/Venomalia/DolphinDynamicInputTextureCreator/releases) | [Dolphin Forum](https://forums.dolphin-emu.org/Thread-universal-dynamic-input-texture-pack) | [Requests](https://github.com/Venomalia/UniversalDynamicInput/issues/new/choose)
 
 **UniversalDynamicInput** is a custom button package for [Dolphin emulator](https://dolphin-emu.org/). It uses [dynamic input textures](https://forums.dolphin-emu.org/Thread-introducing-dynamic-input-textures-a-new-feature-for-controller-icons) to create custom buttons in real time. Unlike traditional button packages, you can change the control settings at any time and the in-game textures will change. There are also no problems with texture packages. Take a look at this [Dolphin progress report](https://dolphin-emu.org/blog/2020/12/10/dolphin-progress-report-october-2020/#50-12801-dynamic-input-textures-by-iwubcode) for more info.
 
@@ -27,20 +27,23 @@ If it does not work, try this [guide](https://github.com/Venomalia/UniversalDyna
 ## [Supported Devices](https://github.com/Venomalia/UniversalDynamicInput/wiki/Supported-Inputs-Devices)
 
 ## FAQ:
-#### Does it work with texture packs?
+### Does it work with texture packs?
 Yes, there are no known problems.
 
 ### Does it work with netplay?
 Yes, but there can be problems with wii games because only player 1 can use Wii Remote 1.
 
-### The textures are for the wrong controller
-Try the [DevicesTextureChanger](https://github.com/Venomalia/UniversalDynamicInput/wiki/Supported-Inputs-Devices#devicestexturechanger).
+### Do we accept game suggestions?
+Yes, but we need the [texture dumps](https://github.com/Venomalia/UniversalDynamicInput/wiki/Dumping-Textures) to implement it. Dumps can be sent to us via [Github](https://github.com/Venomalia/UniversalDynamicInput/issues/new/choose) or [Discord](https://discord.gg/vEQYMPxgSR).
 
-### Do you accept game suggestions?
-Yes, but I need the [texture dumps](https://github.com/Venomalia/UniversalDynamicInput/wiki/Dumping-Textures) to implement it. Dumps can be sent to me via [Discord](https://discord.gg/vEQYMPxgSR).
+### My controller is not supported?
+here you can make a [request](https://github.com/Venomalia/UniversalDynamicInput/issues/new/choose).
 
-### How to create a pack?
-Try this [guide](https://github.com/Venomalia/UniversalDynamicInput/wiki/Create-a-Package).
+### How to create a package for this project?
+Try this [guide](https://github.com/Venomalia/UniversalDynamicInput/wiki/Create-a-Package). make a [contribution](https://github.com/Venomalia/UniversalDynamicInput/wiki/Contributing)
+
+### The buttons that are displayed do not fit my controller!
+Try the [DevicesTextureChanger](https://github.com/Venomalia/UniversalDynamicInput/wiki/Supported-Inputs-Devices#devicestexturechanger) or create a [request](https://github.com/Venomalia/UniversalDynamicInput/issues/new/choose).
 
 ### Where can I ask questions?
 You can use [Discord](https://discord.gg/vEQYMPxgSR) or [this thread](https://forums.dolphin-emu.org/Thread-universal-dynamic-input-texture-pack) in the Dolphin forum.
