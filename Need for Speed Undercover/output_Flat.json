@@ -853,6 +853,51 @@
           ]
         }
       }
+    },
+    "tex1_32x32_m_3e5605ef8a7c4c58_5.png": {
+      "image": "tex1_32x32_m_3e5605ef8a7c4c58_5.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Classic/Buttons/Y": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_m_cb9950a7d19866ae_5.png": {
+      "image": "tex1_32x32_m_cb9950a7d19866ae_5.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Classic/Triggers/L": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_m_93a5e576ac054053_5.png": {
+      "image": "tex1_32x32_m_93a5e576ac054053_5.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Classic/Triggers/R": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
     }
   }
 }
