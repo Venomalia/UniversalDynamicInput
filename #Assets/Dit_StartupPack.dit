@@ -1,6 +1,5 @@
 {
   "Textures": [],
-  "ShouldGetHashFromTextureFilename": true,
   "EmulatedDevices": [
     {
       "$id": "1",
@@ -72,8 +71,7 @@
         {
           "Name": "Device"
         }
-      ],
-      "SelectedKey": null
+      ]
     },
     {
       "$id": "2",
@@ -189,9 +187,35 @@
         },
         {
           "Name": "Device"
+        },
+        {
+          "Name": "Swing/Up"
+        },
+        {
+          "Name": "Swing/Down"
+        },
+        {
+          "Name": "Swing/Left"
+        },
+        {
+          "Name": "Swing/Right"
+        },
+        {
+          "Name": "Swing/Forward"
+        },
+        {
+          "Name": "Shake/X"
+        },
+        {
+          "Name": "Shake/Z"
+        },
+        {
+          "Name": "Nunchuk/Shake/X"
+        },
+        {
+          "Name": "Nunchuk/Shake/Z"
         }
-      ],
-      "SelectedKey": null
+      ]
     },
     {
       "$id": "3",
@@ -233,22 +257,20 @@
         {
           "Name": "Device"
         }
-      ],
-      "SelectedKey": null
+      ]
     }
   ],
   "SelectedRegionBrush": {
     "SelectedEmulatedDevice": {
       "$ref": "1"
     },
-    "SelectedEmulatedKey": null,
-    "FillRegion": true
+    "UseDarkBackground": false,
+    "Subpixel": false
   },
-  "GeneratedFolderName": "#Generated_Name",
-  "PreserveAspectRatio": true,
   "HostDevices": [],
-  "SelectedHostDevice": null,
-  "SelectedEmulatedDevice": {
-    "$ref": "1"
-  }
+  "ShouldGetHashFromTextureFilename": true,
+  "GeneratedJsonName": "output",
+  "GeneratedFolderName": "#Generated_",
+  "PreserveAspectRatio": true,
+  "GameID": ""
 }
