@@ -1,9 +1,10 @@
 # Universal Dynamic Input
-[Wiki](https://github.com/Venomalia/UniversalDynamicInput/wiki) | [Discord](https://discord.gg/vEQYMPxgSR) | [Changelog](https://github.com/Venomalia/UniversalDynamicInput/blob/main/Changelog.md) | [DynamicInputTextureCreator Tool](https://github.com/Venomalia/DolphinDynamicInputTextureCreator/releases) | [Dolphin Forum](https://forums.dolphin-emu.org/Thread-universal-dynamic-input-texture-pack) | [Requests](https://github.com/Venomalia/UniversalDynamicInput/issues/new/choose)
+[![Wiki](https://img.shields.io/badge/Wiki-grey)](https://github.com/Venomalia/UniversalDynamicInput/wiki) [![Changelog](https://img.shields.io/badge/Changelog-grey)](https://github.com/Venomalia/UniversalDynamicInput/blob/main/Changelog.md) [![Requests](https://img.shields.io/badge/Requests-3a3)](https://github.com/Venomalia/UniversalDynamicInput/issues/new/choose) [![Discord](https://img.shields.io/badge/Discord-blue?logo=Discord&logoColor=fff)](https://discord.gg/vEQYMPxgSR) [![Dolphin](https://img.shields.io/badge/Dolphin-Forum-88e)](https://forums.dolphin-emu.org/Thread-universal-dynamic-input-texture-pack) [![DIT CreatorTool](https://img.shields.io/badge/Dolphin-DIT_Creator_Tool-999)](https://github.com/Venomalia/DolphinDynamicInputTextureCreator/releases) [![Downloads](https://img.shields.io/github/downloads/Venomalia/UniversalDynamicInput/total?label=Downloads)](https://github.com/Venomalia/UniversalDynamicInput/releases) [![Stars](https://img.shields.io/github/stars/Venomalia/UniversalDynamicInput?color=bb0&label=Stars)](https://github.com/Venomalia/UniversalDynamicInput/stargazers) [![license](https://img.shields.io/github/license/Venomalia/UniversalDynamicInput?label=License)](https://github.com/Venomalia/UniversalDynamicInput/blob/main/LICENSE)
 
 **UniversalDynamicInput** is a custom button package for [Dolphin emulator](https://dolphin-emu.org/). It uses [dynamic input textures](https://forums.dolphin-emu.org/Thread-introducing-dynamic-input-textures-a-new-feature-for-controller-icons) to create custom buttons in real time. Unlike traditional button packages, you can change the control settings at any time and the in-game textures will change. There are also no problems with texture packages. Take a look at this [Dolphin progress report](https://dolphin-emu.org/blog/2020/12/10/dolphin-progress-report-october-2020/#50-12801-dynamic-input-textures-by-iwubcode) for more info.
 
-### [Download](https://github.com/Venomalia/UniversalDynamicInput/releases)
+
+### [![Download](https://img.shields.io/github/v/release/Venomalia/UniversalDynamicInput?label=Download&style=for-the-badge)](https://github.com/Venomalia/UniversalDynamicInput/releases)
 
 ##  [Installation](https://github.com/Venomalia/UniversalDynamicInput/wiki/Installation):
 - Dolphin 5.0-13603 or [newer](https://de.dolphin-emu.org/download/).
@@ -24,7 +25,7 @@ If it does not work, try this [guide](https://github.com/Venomalia/UniversalDyna
 ![Image2](https://i.imgur.com/3pcxh5P.jpg "Image2")
 
 ## [Supported Games](https://github.com/Venomalia/UniversalDynamicInput/wiki/Supported-games)
-## [Supported Devices](https://github.com/Venomalia/UniversalDynamicInput/wiki/Supported-Inputs-Devices)
+## [Supported Devices](https://github.com/Venomalia/UniversalDynamicInput/wiki/Supported-Input-Devices)
 
 ## FAQ:
 ### Does it work with texture packs?
@@ -49,11 +50,11 @@ Try the [DevicesTextureChanger](https://github.com/Venomalia/UniversalDynamicInp
 You can use [Discord](https://discord.gg/vEQYMPxgSR) or [this thread](https://forums.dolphin-emu.org/Thread-universal-dynamic-input-texture-pack) in the Dolphin forum.
 
 ## Credits:
-### [Contributors](https://github.com/Venomalia/UniversalDynamicInput/graphs/contributors)
+### [![contributors](https://img.shields.io/github/contributors/Venomalia/UniversalDynamicInput?style=for-the-badge)](https://github.com/Venomalia/UniversalDynamicInput/graphs/contributors)
 
 Super Mario Galaxy [1](https://forums.dolphin-emu.org/Thread-super-mario-galaxy-1-hd-texture-mod) & [2](https://forums.dolphin-emu.org/Thread-super-mario-galaxy-2-hd-texture-mod) UI assets created by **Razius**.
 
-Phantasy Star Online 1 & 2 UI assets created by [LutheeMajestic](https://forums.dolphin-emu.org/Thread-phantasy-star-online-episode-i-ii-hd-ui-project) Licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de).
+Phantasy Star Online 1 & 2 UI assets created by [LutheeMajestic](https://forums.dolphin-emu.org/Thread-phantasy-star-online-episode-i-ii-hd-ui-project) Licensed under [![license](https://img.shields.io/badge/CC%20BY--SA%204.0-lightgrey)](https://creativecommons.org/licenses/by-sa/4.0/deed.de).
 
 ### Special thanks:
 [iwubcode](https://github.com/iwubcode) for this great feature and to all helpers for beta-tests, feedback, texture-dumps and other improvements.
