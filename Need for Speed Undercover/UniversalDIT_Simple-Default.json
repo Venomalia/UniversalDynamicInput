@@ -689,21 +689,6 @@
   "generated_folder_name": "#Generated_Need for Speed Undercover",
   "preserve_aspect_ratio": true,
   "output_textures": {
-    "tex1_32x32_m_1a65e723a9775a1f_5.png": {
-      "image": "tex1_32x32_S.png",
-      "emulated_controls": {
-        "GCPad1": {
-          "C-Stick/Up": [
-            [
-              0.0,
-              0.0,
-              128.0,
-              128.0
-            ]
-          ]
-        }
-      }
-    },
     "tex1_32x32_m_1ef4e60d75ed694a_5.png": {
       "image": "tex1_32x32_S.png",
       "emulated_controls": {
@@ -874,6 +859,21 @@
       "emulated_controls": {
         "Wiimote1": {
           "Nunchuk/Buttons/C": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_m_9bf8b83275bbb88b_5.png": {
+      "image": "tex1_32x32_m_9bf8b83275bbb88b_5.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Nunchuk/Stick/Up": [
             [
               0.0,
               0.0,
