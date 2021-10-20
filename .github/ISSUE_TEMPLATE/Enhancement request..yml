@@ -1,0 +1,40 @@
+name: Enhancement request.
+description: Create a request for an improvement that we should make.
+labels: [enhancement]
+body:
+
+- type: input
+  id: game_name
+  attributes:
+    label: For which game?
+    description: What is the name of the Game.
+    placeholder: Name
+  validations:
+    required: false
+      
+- type: input
+  id: game_id
+  attributes:
+    label: Game ID?
+    description: Right click the game in the game list in dolphin, properties, info tab.
+    placeholder: GXXP01
+  validations:
+    required: false
+      
+- type: input
+  id: devices
+  attributes:
+    label: For which device?
+    description: 'in dolphin under `Controllers` > `Configure` > **`Device`**.'
+    placeholder: XInput/0/Gamepad
+  validations:
+    required: false
+      
+- type: textarea
+  id: describe
+  attributes:
+    label: what should we do?
+    description: A clear and concise description.
+    placeholder: 'Tip: You can attach screenshots by clicking this area to highlight it and then dragging the files into it.'
+  validations:
+    required: true
