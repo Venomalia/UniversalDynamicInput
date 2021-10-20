@@ -1,32 +1,34 @@
 name: Game Request
 description: Create a request for a game we should add.
-title: "[Game Request]: "
 labels: [Game Request]
 body:
 
-  - type: input
-    id: game_name
-    attributes:
-      label: Game Name?
-      description: What is the name of the Game.
-      placeholder: Name
-    validations:
-      required: true
+- type: input
+  id: game_name
+  attributes:
+    label: Game Name?
+    description: What is the name of the Game.
+    placeholder: Name
+  validations:
+    required: true
       
-  - type: input
-    id: game_id
-    attributes:
-      label: Game ID?
-      description: Right click the game in the game list in dolphin, properties, info tab.
-      placeholder: GXXP01
-    validations:
-      required: true
+- type: input
+  id: game_id
+  attributes:
+    label: Game ID?
+    description: 'Right click the game in the game list in dolphin, `Properties` > `Info` tab > **`Game ID`**.'
+    placeholder: GXXP01
+  validations:
+    required: true
       
-  - type: textarea
-    id: source
-    attributes:
-      label: Upload the Textures dumps for the game.
-      description: Zip up the Textures files for the game and upload it here. How to [dump textures](https://github.com/Venomalia/UniversalDynamicInput/wiki/Dumping-Textures).
-      placeholder: Upload your ZIP file here.
-    validations:
-      required: true
+- type: textarea
+  id: source
+  attributes:
+    label: Upload the Textures dumps for the game.
+    description: Zip up the Textures files for the game and upload it here. How to [dump textures](https://github.com/Venomalia/UniversalDynamicInput/wiki/Dumping-Textures).
+    placeholder: |
+      Upload your ZIP file here.
+      
+      - Click on this area to select it, and then drag the file into it.
+  validations:
+    required: true

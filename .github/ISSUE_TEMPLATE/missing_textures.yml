@@ -1,23 +1,34 @@
 name: Missing textures Request
 description: Create a request for Textures we have overlooked.
-title: "[Missing textures]: "
 labels: [Missing textures]
 body:
 
-  - type: input
-    id: game_name
-    attributes:
-      label: Game name?
-      description: What is the name of the Game.
-      placeholder: Name
-    validations:
-      required: true
+- type: input
+  id: game_name
+  attributes:
+    label: Game name?
+    description: What is the name of the Game.
+    placeholder: Name
+  validations:
+    required: true
       
-  - type: textarea
-    id: source
-    attributes:
-      label: Upload the Textures dumps for the textures we have overlooked.
-      description: Zip up the Textures files and upload it here. How to [dump textures](https://github.com/Venomalia/UniversalDynamicInput/wiki/Dumping-Textures).
-      placeholder: Upload your ZIP file here.
-    validations:
-      required: true
+- type: input
+  id: game_id
+  attributes:
+    label: Game ID?
+    description: 'Right click the game in the game list in dolphin, `Properties` > `Info` tab > **`Game ID`**.'
+    placeholder: GXXP01
+  validations:
+    required: false
+      
+- type: textarea
+  id: source
+  attributes:
+    label: Upload the Textures dumps for the textures we have overlooked.
+    description: Zip up the Textures files and upload it here. How to [dump textures](https://github.com/Venomalia/UniversalDynamicInput/wiki/Dumping-Textures).
+    placeholder: |
+      Upload your ZIP file here.
+      
+      - Click on this area to select it, and then drag the file into it.
+  validations:
+    required: true
