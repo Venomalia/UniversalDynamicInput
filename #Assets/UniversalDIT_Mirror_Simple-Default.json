@@ -675,7 +675,6 @@
       "`KP_Subtract`": "../#DefaultDevices/_Mirror/Keyboard Mouse/Simple-Default/MINUS.png"
     },
     "SDL/0/Xbox Wireless Controller": {
-      "SDL/0/Xbox Wireless Controller": "../#DefaultDevices/_Mirror/XBOX ONE/Device/Icon.png",
       "`Button 0`": "../#DefaultDevices/_Mirror/XBOX ONE/Simple-Default/Button A.png",
       "`Button 1`": "../#DefaultDevices/_Mirror/XBOX ONE/Simple-Default/Button B.png",
       "`Button 2`": "../#DefaultDevices/_Mirror/XBOX ONE/Simple-Default/Button X.png",
@@ -703,7 +702,6 @@
       "`Full Axis 5+`": "../#DefaultDevices/_Mirror/XBOX ONE/Simple-Default/Trigger R.png"
     },
     "SDL/0/PS4 Controller": {
-      "SDL/0/PS4 Controller": "../#DefaultDevices/_Mirror/DualShock4/Device/Icon.png",
       "`Button 0`": "../#DefaultDevices/_Mirror/DualShock4/Simple-Default/Cross.png",
       "`Button 1`": "../#DefaultDevices/_Mirror/DualShock4/Simple-Default/Circle.png",
       "`Button 2`": "../#DefaultDevices/_Mirror/DualShock4/Simple-Default/Square.png",
