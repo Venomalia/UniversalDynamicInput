@@ -1,3 +1,44 @@
+# 10-22-2021 - UniversalDynamicInput_Pack 1.5
+
+## Support added:
+#### GC
+- GameCube BIOS Menu
+- Need for Speed Carbon
+- Pokémon Box: Ruby and Sapphire
+#### Wii
+- Dragon Ball Z Budokai Tenkaichi 3
+- Samurai Warriors Katana
+- The Bigs 2
+
+## Input Devices added:
+#### Linux
+- **Keyboard and Mouse** XInput2/0/Virtual core pointer
+- **X-Box 360 wired** evdev/0/Microsoft X-Box 360 pad
+- **X-Box One S wired** evdev/0/Microsoft X-Box One S pad
+- **DualShock4 wired** evdev/0/Sony Interactive Entertainment Wireless Controller
+- **DualShock4 via bluetooth** evdev/0/Wireless Controller
+- **DSUClient support**.
+#### MacOS
+- **Keyboard and Mouse** Quartz/0/Keyboard & Mouse
+- **X-Box One S via bluetooth** SDL/0/Xbox Wireless Controller
+- **DualShock4 wired or via bluetooth** SDL/0/PS4 Controller
+- **DSUClient support**.
+
+## Missing textures added:
+- NfS Undercover: add 2 Stick textures.
+- Rune Factory Tides: add nunchuk Knock texture.
+
+## Other Adjustments:
+- fix DualShock4 Left Stick Flat texture.
+- Rune Factory Tides: menu Buttons A is now displayed correctly.
+- the tab key is now recognized correctly.
+- text graphics are now displayed better
+- added missing text outlines.
+- Mirrored textures re-matched with originals.
+- Remove unnecessary temporary files
+
+## [Github generated Changelog](https://github.com/Venomalia/UniversalDynamicInput/compare/1.4...1.5).
+
 ---
 # 09-13-2021 - UniversalDynamicInput_Pack 1.4
 
