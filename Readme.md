@@ -24,7 +24,7 @@ Take a look at this [Dolphin progress report](https://dolphin-emu.org/blog/2020/
    - **macOS:** _`~/Library/Application Support/Dolphin/Load`_
 1. Open Dolphin, enter `Graphics` > `Advanced` tab > Check **`Load Custom Textures`**.
 1. As soon as you start a [supported game](../wiki/Supported-Games), Dolphin will generate and load the new button textures.  
-    > If you have any problems take a look at our [troubleshooting](../wiki/Problem-solving#troubleshooting) guide.
+    > If you have any problems take a look at our [troubleshooting](https://github.com/Venomalia/UniversalDynamicInput/wiki/Problem-solving#troubleshooting) guide.
 
 #### Clone
 It is also possible to **Clone** this repository to Dolphin's **Load** directory.
