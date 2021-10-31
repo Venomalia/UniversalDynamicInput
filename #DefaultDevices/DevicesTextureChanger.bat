@@ -1,5 +1,5 @@
 @echo off
-set Version=1.0
+set Version=1.1
 rem --------------------------------
 rem by Venomalia
 rem --------------------------------
@@ -34,12 +34,18 @@ set name=XBOX ONE
 cls
 echo which textures should be used for xinput devices?
 echo 0: Back
-echo 1: DualShock4
+echo 1: XBOX 360
+echo 2: DualShock4
+echo 3: Generic
+echo 4: Switch Pro Controller
 if exist "#DefaultDevices\%name%_backup" echo r: %name% (default)
 
 set /p answer=select an option: 
 if /I "%answer%"=="0" goto Start
-if /I "%answer%"=="1" goto XinputToPS4
+if /I "%answer%"=="1" goto XinputTo360
+if /I "%answer%"=="2" goto XinputToPS4
+if /I "%answer%"=="3" goto XinputToGeneric
+if /I "%answer%"=="4" goto XinputToPro
 if /I "%answer%"=="r" CALL :ResetX "%name%"
 
 goto AXinput
@@ -63,6 +69,35 @@ echo %1 restored to default values.
 ENDLOCAL
 EXIT /B 0
 
+:Error
+echo write error, try again with administrator rights!
+timeout /t 12
+exit
+:XinputTo360
+FOR /D /r %%G IN (*"%name%") DO (
+
+if not exist "%%G_backup" (
+ren "%%G" "%name%_backup"
+) ELSE (
+rmdir /Q /S "%%G"
+)
+if exist %%G goto Error
+
+if exist "%%G\..\XBOX 360_backup" (
+xcopy "%%G\..\XBOX 360_backup" "%%G\..\%name%" /s /e /q /i /y
+) ELSE (
+xcopy "%%G\..\XBOX 360" "%%G\..\%name%" /s /e /q /i /y
+)
+
+robocopy "%%G\..\%name%_backup" "%%G" /e /xc /xn /xo /njh /njs /ndl /nc /ns /np /nfl
+)
+
+
+cls
+echo %name%, Devices textures changed!
+timeout /t 10
+goto Start
+
 :XinputToPS4
 FOR /D /r %%G IN (*"%name%") DO (
 
@@ -71,7 +106,7 @@ ren "%%G" "%name%_backup"
 ) ELSE (
 rmdir /Q /S "%%G"
 )
-if exist %%G exit
+if exist %%G goto Error
 
 if exist "%%G\..\DualShock4_backup" (
 xcopy "%%G\..\DualShock4_backup" "%%G\..\%name%" /s /e /q /i /y
@@ -113,10 +148,123 @@ ren "%%S\PS.png" "Guide.png"
 ren "%%G\Touchpad.png" "Share.png"
 )
 )
+robocopy "%%G\..\%name%_backup" "%%G" /e /xc /xn /xo /njh /njs /ndl /nc /ns /np /nfl
 
 )
+
 cls
 echo %name%, Devices textures changed!
 timeout /t 10
 goto Start
 
+:XinputToGeneric
+FOR /D /r %%G IN (*"%name%") DO (
+
+if not exist "%%G_backup" (
+ren "%%G" "%name%_backup"
+) ELSE (
+rmdir /Q /S "%%G"
+)
+if exist %%G goto Error
+
+if exist "%%G\..\Generic_backup" (
+xcopy "%%G\..\Generic_backup" "%%G\..\%name%" /s /e /q /i /y
+) ELSE (
+xcopy "%%G\..\Generic" "%%G\..\%name%" /s /e /q /i /y
+)
+
+set string=%%~pG
+if "!string:#DefaultDevices\=!"=="!string!" (
+ren "%%G\SOUTH.png" "Button A.png"
+ren "%%G\EAST.png" "Button B.png"
+ren "%%G\WEST.png" "Button X.png"
+ren "%%G\NORTH.png" "Button Y.png"
+ren "%%G\TL.png" "Shoulder L.png"
+ren "%%G\TL2.png" "Trigger L.png"
+ren "%%G\TR.png" "Shoulder R.png"
+ren "%%G\TR2.png" "Trigger R.png"
+ren "%%G\START.png" "Start.png"
+ren "%%G\SELECT.png" "Back.png"
+ren "%%G\Dolphin.png" "Guide.png"
+ren "%%G\E1.png" "Share.png"
+) ELSE (
+FOR /D %%S IN ("%%G\*") DO (
+ren "%%S\SOUTH.png" "Button A.png"
+ren "%%S\EAST.png" "Button B.png"
+ren "%%S\WEST.png" "Button X.png"
+ren "%%S\NORTH.png" "Button Y.png"
+ren "%%S\TL.png" "Shoulder L.png"
+ren "%%S\TL2.png" "Trigger L.png"
+ren "%%S\TR.png" "Shoulder R.png"
+ren "%%S\TR2.png" "Trigger R.png"
+ren "%%S\START.png" "Start.png"
+ren "%%S\SELECT.png" "Back.png"
+ren "%%S\Dolphin.png" "Guide.png"
+ren "%%S\E1.png" "Share.png"
+)
+xcopy "%%G\Flat" "%%G\Defaultstyle" /s /e /q /i /y
+xcopy "%%G\Flat_Pressed" "%%G\Defaultstyle_Pressed" /s /e /q /i /y
+xcopy "%%G\Simple-Default" "%%G\Text-Default" /s /e /q /i /y
+xcopy "%%G\Simple-Default" "%%G\Text-Outlines" /s /e /q /i /y
+)
+robocopy "%%G\..\%name%_backup" "%%G" /e /xc /xn /xo /njh /njs /ndl /nc /ns /np /nfl
+
+)
+
+cls
+echo %name%, Devices textures changed!
+timeout /t 10
+goto Start
+
+:XinputToPro
+FOR /D /r %%G IN (*"%name%") DO (
+
+if not exist "%%G_backup" (
+ren "%%G" "%name%_backup"
+) ELSE (
+rmdir /Q /S "%%G"
+)
+if exist %%G goto Error
+
+if exist "%%G\..\Switch_Pro Controller_backup" (
+xcopy "%%G\..\Switch_Pro Controller_backup" "%%G\..\%name%" /s /e /q /i /y
+) ELSE (
+xcopy "%%G\..\Switch_Pro Controller" "%%G\..\%name%" /s /e /q /i /y
+)
+
+set string=%%~pG
+if "!string:#DefaultDevices\=!"=="!string!" (
+ren "%%G\Button B.png" "Button A.png"
+ren "%%G\Button A.png" "Button B.png"
+ren "%%G\Button Y.png" "Button X.png"
+ren "%%G\Button X.png" "Button Y.png"
+ren "%%G\L.png" "Shoulder L.png"
+ren "%%G\ZL.png" "Trigger L.png"
+ren "%%G\R.png" "Shoulder R.png"
+ren "%%G\ZR.png" "Trigger R.png"
+ren "%%G\Button +.png" "Start.png"
+ren "%%G\Button -.png" "Back.png"
+ren "%%G\Home.png" "Guide.png"
+) ELSE (
+FOR /D %%S IN ("%%G\*") DO (
+ren "%%S\Button B.png" "Button A.png"
+ren "%%S\Button A.png" "Button B.png"
+ren "%%S\Button Y.png" "Button X.png"
+ren "%%S\Button X.png" "Button Y.png"
+ren "%%S\L.png" "Shoulder L.png"
+ren "%%S\ZL.png" "Trigger L.png"
+ren "%%S\R.png" "Shoulder R.png"
+ren "%%S\ZR.png" "Trigger R.png"
+ren "%%S\Button +.png" "Start.png"
+ren "%%S\Button -.png" "Back.png"
+ren "%%S\Home.png" "Guide.png"
+)
+)
+robocopy "%%G\..\%name%_backup" "%%G" /e /xc /xn /xo /njh /njs /ndl /nc /ns /np /nfl
+
+)
+
+cls
+echo %name%, Devices textures changed!
+timeout /t 10
+goto Start
