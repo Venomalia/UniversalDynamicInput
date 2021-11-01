@@ -58,6 +58,62 @@
 			    }
 	    }
     },
+	"tex1_72x56_3286389232967050_388fabd6e5dc689e_9.png": {
+      "image": "tex1_72x56_3286389232967050_388fabd6e5dc689e_9.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Device": [
+            [
+              0.0,
+              0.0,
+              288.0,
+              224.0
+            ]
+          ]
+        }
+      },
+      "host_controls": {
+		      "DSUClient/1/BetterJoy": {
+				"DSUClient/1/BetterJoy": "../#DefaultDevices/Switch_Joy-Con/Device/3D-front.png"
+			    },
+		      "DSUClient/0/BetterJoy": {
+				"DSUClient/0/BetterJoy": "../#DefaultDevices/Switch_Pro Controller/Device/Icon.png"
+			    },
+		      "DInput/0/Wireless Gamepad": {
+				"DInput/0/Wireless Gamepad": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon.png"
+			    },
+		      "XInput/0/Gamepad": {
+				"XInput/0/Gamepad": "..\\#DefaultDevices\\XBOX ONE\\Device\\3D-front.png"
+			    },
+		      "DInput/0/Bluetooth LE XINPUT compatible input device": {
+				"DInput/0/Bluetooth LE XINPUT compatible input device": "..\\#DefaultDevices\\XBOX ONE\\Device\\3D-front.png"
+			    },
+		      "DSUClient/0/DualShock4": {
+				"DSUClient/0/DualShock4": "../#DefaultDevices/DualShock4/Device/3D-front.png"
+			    },
+		      "DInput/0/Wireless Controller": {
+				"DInput/0/Wireless Controller": "..\\#DefaultDevices\\DualShock4\\Device\\3D-front.png"
+			    },
+		      "evdev/0/Wireless Controller": {
+				"evdev/0/Wireless Controller": "../#DefaultDevices/DualShock4/Device/3D-front.png"
+			    },
+		      "evdev/0/Sony Interactive Entertainment Wireless Controller": {
+				"evdev/0/Sony Interactive Entertainment Wireless Controller": "../#DefaultDevices/DualShock4/Device/3D-front.png"
+			    },
+		      "evdev/0/Microsoft X-Box 360 pad": {
+				"evdev/0/Microsoft X-Box 360 pad": "../#DefaultDevices/XBOX ONE/Device/3D-front.png"
+			    },
+		      "evdev/0/Microsoft X-Box One S pad": {
+				"evdev/0/Microsoft X-Box One S pad": "../#DefaultDevices/XBOX ONE/Device/3D-front.png"
+			    },
+		      "SDL/0/PS4 Controller": {
+				"SDL/0/PS4 Controller": "../#DefaultDevices/DualShock4/Device/3D-front.png"
+			    },
+		      "SDL/0/Xbox Wireless Controller": {
+				"SDL/0/Xbox Wireless Controller": "../#DefaultDevices/XBOX ONE/Device/3D-front.png"
+			    }
+	    }
+    },
     "tex1_40x32_456a4718b4456ffc_688fec5fb12f2df4_9.png": {
       "image": "tex1_40x32_456a4718b4456ffc_688fec5fb12f2df4_9.png",
       "emulated_controls": {
