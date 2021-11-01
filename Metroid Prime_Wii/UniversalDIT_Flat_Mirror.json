@@ -837,6 +837,21 @@
   "generated_folder_name": "#Generated_Metroid Prime_Wii",
   "preserve_aspect_ratio": true,
   "output_textures": {
+    "tex1_32x32_f00e0e837140250a_6.png": {
+      "image": "tex1_32x32.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/A": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
     "tex1_32x32_1b7367b593278835_14.png": {
       "image": "tex1_32x32.png",
       "emulated_controls": {
@@ -858,10 +873,10 @@
         "Wiimote1": {
           "Buttons/A": [
             [
-              8.0,
-              8.0,
-              120.0,
-              120.0
+              4.0,
+              14.0,
+              124.0,
+              112.0
             ]
           ]
         }
@@ -904,9 +919,9 @@
           "Nunchuk/Buttons/Z": [
             [
               0.0,
-              0.0,
+              18.0,
               128.0,
-              128.0
+              108.0
             ]
           ]
         }
@@ -918,10 +933,10 @@
         "Wiimote1": {
           "Buttons/+": [
             [
-              8.0,
-              8.0,
-              120.0,
-              120.0
+              12.0,
+              14.0,
+              116.0,
+              112.0
             ]
           ]
         }
@@ -934,8 +949,23 @@
           "Nunchuk/Buttons/Z": [
             [
               0.0,
-              0.0,
+              18.0,
               128.0,
+              108.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_128x115_05ace719b52918bb_6.png": {
+      "image": "tex1_128x115_05ace719b52918bb_6.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Nunchuk/Buttons/Z": [
+            [
+              0.0,
+              0.0,
+              256.0,
               128.0
             ]
           ]
@@ -963,9 +993,9 @@
         "Wiimote1": {
           "Buttons/B": [
             [
+              22.0,
               0.0,
-              0.0,
-              128.0,
+              110.0,
               128.0
             ]
           ]
@@ -1047,21 +1077,6 @@
         }
       }
     },
-    "tex1_32x32_701e7c156583abfc_5.png": {
-      "image": "tex1_32x32.png",
-      "emulated_controls": {
-        "Wiimote1": {
-          "Buttons/-": [
-            [
-              8.0,
-              8.0,
-              120.0,
-              120.0
-            ]
-          ]
-        }
-      }
-    },
     "tex1_32x32_877ac67dc3c23f97_6.png": {
       "image": "tex1_32x32.png",
       "emulated_controls": {
@@ -1128,10 +1143,10 @@
         "Wiimote1": {
           "Buttons/1": [
             [
-              8.0,
-              8.0,
-              120.0,
-              120.0
+              12.0,
+              14.0,
+              118.0,
+              112.0
             ]
           ]
         }
@@ -1188,10 +1203,10 @@
         "Wiimote1": {
           "Buttons/-": [
             [
-              8.0,
-              8.0,
-              120.0,
-              120.0
+              12.0,
+              14.0,
+              116.0,
+              112.0
             ]
           ]
         }
@@ -1227,21 +1242,6 @@
         }
       }
     },
-    "tex1_32x32_bb3467a83b7dad05_5.png": {
-      "image": "tex1_32x32.png",
-      "emulated_controls": {
-        "Wiimote1": {
-          "Buttons/+": [
-            [
-              8.0,
-              8.0,
-              120.0,
-              120.0
-            ]
-          ]
-        }
-      }
-    },
     "tex1_32x32_c3af34349deab463_6.png": {
       "image": "tex1_32x32.png",
       "emulated_controls": {
@@ -1263,10 +1263,10 @@
         "Wiimote1": {
           "Buttons/2": [
             [
-              8.0,
-              8.0,
-              120.0,
-              120.0
+              12.0,
+              14.0,
+              116.0,
+              112.0
             ]
           ]
         }
@@ -1369,9 +1369,9 @@
           "Buttons/B": [
             [
               0.0,
-              0.0,
+              14.0,
               128.0,
-              128.0
+              112.0
             ]
           ]
         }
@@ -1459,9 +1459,9 @@
           "D-Pad/Down": [
             [
               0.0,
-              0.0,
+              10.0,
               256.0,
-              128.0
+              118.0
             ]
           ]
         }
