@@ -848,9 +848,9 @@
     }
   },
   "generated_folder_name": "#Generated_Zelda Wind Waker",
-  "preserve_aspect_ratio": false,
+  "preserve_aspect_ratio": true,
   "output_textures": {
-    "tex1_48x24_c07e25b9bca86b7e_$_8.png": {
+    "tex1_48x24_c07e25b9bca86b7e_ce3f64d5da874475_8.png": {
       "image": "tex1_48x24_c07e25b9bca86b7e_ce3f64d5da874475_8.png",
       "emulated_controls": {
         "GCPad1": {
@@ -859,13 +859,43 @@
               0.0,
               0.0,
               192.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_24x24_2c8476ec0c54301b_532709965b890d24_8.png": {
+      "image": "tex1_24x24.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Triggers/R": [
+            [
+              0.0,
+              0.0,
+              96.0,
               96.0
             ]
           ]
         }
       }
     },
-    "tex1_128x32_523124ff1f96d4bc_$_9.png": {
+    "tex1_24x24_dcda11193c4368a1_0773499c79b8de07_8.png": {
+      "image": "tex1_24x24.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Triggers/L": [
+            [
+              0.0,
+              0.0,
+              96.0,
+              96.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_128x32_523124ff1f96d4bc_e7820c87ebbc4db4_9.png": {
       "image": "tex1_128x32_523124ff1f96d4bc_e7820c87ebbc4db4_9.png",
       "emulated_controls": {
         "GCPad1": {
