@@ -876,5 +876,6 @@
       "`Keypad =`": "../#DefaultDevices/Keyboard Mouse/Text-Outlines/EQUALS.png"
     }
   },
+  "preserve_aspect_ratio": true,
   "output_textures": {}
 }
