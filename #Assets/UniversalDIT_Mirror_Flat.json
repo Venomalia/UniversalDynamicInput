@@ -341,6 +341,34 @@
       "`Axis Yr+`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Right Y-.png",
       "`Axis Yr-`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Right Y+.png"
     },
+    "DInput/0/Core (Plus) Wired Controller": {
+      "`Button 1`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Button B.png",
+      "`Button 2`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Button A.png",
+      "`Button 0`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Button Y.png",
+      "`Button 3`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Button X.png",
+      "`Button 7`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\R.png",
+      "`Button 6`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\L.png",
+      "`Button 4`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\ZL.png",
+      "`Button 5`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\ZR.png",
+      "`Button 8`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Button -.png",
+      "`Button 9`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Button +.png",
+      "`Button 10`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Thumb L.png",
+      "`Button 11`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Thumb R.png",
+      "`Button 12`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Home.png",
+      "`Button 13`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Share.png",
+      "`Axis X-`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Left X-.png",
+      "`Axis X+`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Left X+.png",
+      "`Axis Y+`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Left Y-.png",
+      "`Axis Y-`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Left Y+.png",
+      "`Hat 0 E`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Pad E.png",
+      "`Hat 0 N`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Pad N.png",
+      "`Hat 0 S`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Pad S.png",
+      "`Hat 0 W`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Pad W.png",
+      "`Axis Xr-`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Right X-.png",
+      "`Axis Xr+`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Right X+.png",
+      "`Axis Yr+`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Right Y-.png",
+      "`Axis Yr-`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Right Y+.png"
+    },
     "DInput/0/Wireless Controller": {
       "`Button 0`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Square.png",
       "`Button 1`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Flat\\Cross.png",
@@ -834,6 +862,5 @@
       "`Keypad =`": "../#DefaultDevices/_Mirror/Keyboard Mouse/Flat/EQUALS.png"
     }
   },
-  "preserve_aspect_ratio": true,
   "output_textures": {}
 }

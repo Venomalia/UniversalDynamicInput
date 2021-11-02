@@ -341,6 +341,34 @@
       "`Axis Yr+`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Text-Default\\Right Y-.png",
       "`Axis Yr-`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Text-Default\\Right Y+.png"
     },
+    "DInput/0/Core (Plus) Wired Controller": {
+      "`Button 1`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Text-Default\\Button B.png",
+      "`Button 2`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Text-Default\\Button A.png",
+      "`Button 0`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Text-Default\\Button Y.png",
+      "`Button 3`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Text-Default\\Button X.png",
+      "`Button 7`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Text-Default\\R.png",
+      "`Button 6`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Text-Default\\L.png",
+      "`Button 4`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Text-Default\\ZL.png",
+      "`Button 5`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Text-Default\\ZR.png",
+      "`Button 8`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Text-Default\\Button -.png",
+      "`Button 9`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Text-Default\\Button +.png",
+      "`Button 10`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Text-Default\\Thumb L.png",
+      "`Button 11`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Text-Default\\Thumb R.png",
+      "`Button 12`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Text-Default\\Home.png",
+      "`Button 13`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Text-Default\\Share.png",
+      "`Axis X-`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Text-Default\\Left X-.png",
+      "`Axis X+`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Text-Default\\Left X+.png",
+      "`Axis Y+`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Text-Default\\Left Y-.png",
+      "`Axis Y-`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Text-Default\\Left Y+.png",
+      "`Hat 0 E`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Text-Default\\Pad E.png",
+      "`Hat 0 N`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Text-Default\\Pad N.png",
+      "`Hat 0 S`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Text-Default\\Pad S.png",
+      "`Hat 0 W`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Text-Default\\Pad W.png",
+      "`Axis Xr-`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Text-Default\\Right X-.png",
+      "`Axis Xr+`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Text-Default\\Right X+.png",
+      "`Axis Yr+`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Text-Default\\Right Y-.png",
+      "`Axis Yr-`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Text-Default\\Right Y+.png"
+    },
     "DInput/0/Wireless Controller": {
       "`Button 0`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Text-Default\\Square.png",
       "`Button 1`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Text-Default\\Cross.png",
@@ -834,6 +862,5 @@
       "`Keypad =`": "../#DefaultDevices/_Mirror/Keyboard Mouse/Text-Default/EQUALS.png"
     }
   },
-  "preserve_aspect_ratio": true,
   "output_textures": {}
 }
