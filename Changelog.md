@@ -1,3 +1,35 @@
+# 11-03-2021 - UniversalDynamicInput_Pack 1.6
+## Update input texture:
+- add XBOX 360
+- add Generic controller.
+- XBOX ONE: resolution increased, no longer look like xbox 360 buttons.
+- Simple-Default style: are now thicker and more readable.
+
+## Support added:
+#### Wii
+- Newer Super Mario Bros. Wii (Hack)
+
+#### Wii Ware
+- Sin and Punishment
+
+## Windows Input Devices added:
+- **PowerA Controller Switch** DInput/0/Core (Plus) Wired Controller
+
+## Missing textures added:
+- Zelda Wind Waker: Add missing a and b buttons in equipment menu.
+- Super Smash Bros Brawl: Add 3 missing textures.
+- Metroid Prime: add nunchuk Z textures, add press 1 texture.
+- Metroid Prime 1-2: add beam C-Stick textures.
+- Mii Channel: add wii Remote texture.
+- Super Mario Sunshine: add B butten.
+
+## Other Adjustments:
+- Rayman Raving Rabbids 1+2.
+- Wii Menu: resolution increased.
+- Update Zelda Twilight Princess GC: improved the display of the exchange textures
+- Metroid prime series: improved the display of the exchange textures
+- Update DevicesTextureChanger: add XBOX ONE to Generic, XBOX ONE to Switch Pro Controller and XBOX ONE to XBOX 360.
+
 # 10-22-2021 - UniversalDynamicInput_Pack 1.5
 
 ## Support added:
