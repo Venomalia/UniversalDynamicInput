@@ -1039,6 +1039,51 @@
           ]
         }
       }
+    },
+    "tex1_160x104_0be5ce4a0aaf6c4d_09e5facda52c5c67_9.png": {
+      "image": "tex1_160x104_0be5ce4a0aaf6c4d_09e5facda52c5c67_9.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Device": [
+            [
+              0.0,
+              0.0,
+              320.0,
+              208.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_160x104_9a581fd1fe50100d_03f5fef6050faa82_9.png": {
+      "image": "tex1_160x104_9a581fd1fe50100d_03f5fef6050faa82_9.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Device": [
+            [
+              0.0,
+              0.0,
+              320.0,
+              208.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_160x104_4869d195b9f2fdfa_2e9ced9da4bc2ccf_9.png": {
+      "image": "tex1_160x104_4869d195b9f2fdfa_2e9ced9da4bc2ccf_9.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Device": [
+            [
+              0.0,
+              0.0,
+              320.0,
+              208.0
+            ]
+          ]
+        }
+      }
     }
   }
 }
