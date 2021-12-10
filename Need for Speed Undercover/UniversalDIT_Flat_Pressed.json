@@ -1,6 +1,7 @@
 {
   "default_host_controls": {
     "XInput/0/Gamepad": {
+      "XInput/0/Gamepad": "..\\#DefaultDevices\\XBOX ONE\\Device\\Icon.png",
       "`Button A`": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Button A.png",
       "`Button B`": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Button B.png",
       "`Button X`": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Button X.png",
@@ -37,6 +38,7 @@
       "Button Back": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Back.png"
     },
     "DInput/0/Bluetooth LE XINPUT compatible input device": {
+      "DInput/0/Bluetooth LE XINPUT compatible input device": "..\\#DefaultDevices\\XBOX ONE\\Device\\Icon.png",
       "`Button 0`": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Button A.png",
       "`Button 1`": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Button B.png",
       "`Button 2`": "..\\#DefaultDevices\\XBOX ONE\\Flat_Pressed\\Button X.png",
@@ -192,6 +194,7 @@
       "SUBTRACT": "..\\#DefaultDevices\\Keyboard Mouse\\Flat_Pressed\\MINUS.png"
     },
     "DSUClient/0/DualShock4": {
+      "DSUClient/0/DualShock4": "../#DefaultDevices/DualShock4/Device/Icon.png",
       "`Circle`": "../#DefaultDevices/DualShock4/Flat_Pressed/Circle.png",
       "`Cross`": "../#DefaultDevices/DualShock4/Flat_Pressed/Cross.png",
       "`L1`": "../#DefaultDevices/DualShock4/Flat_Pressed/L1.png",
@@ -234,6 +237,7 @@
       "Touch Button": "../#DefaultDevices/DualShock4/Flat_Pressed/Touchpad.png"
     },
     "DSUClient/0/BetterJoy": {
+      "DSUClient/0/BetterJoy": "../#DefaultDevices/Switch_Pro Controller/Device/Icon.png",
       "`Circle`": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Button A.png",
       "`Cross`": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Button B.png",
       "`L1`": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/L.png",
@@ -274,6 +278,7 @@
       "Triangle": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Button X.png"
     },
     "DSUClient/1/BetterJoy": {
+      "DSUClient/1/BetterJoy": "../#DefaultDevices/Switch_Joy-Con/Device/Icon.png",
       "`Circle`": "../#DefaultDevices/Switch_Joy-Con/Flat_Pressed/Button A.png",
       "`Cross`": "../#DefaultDevices/Switch_Joy-Con/Flat_Pressed/Button B.png",
       "`L1`": "../#DefaultDevices/Switch_Joy-Con/Flat_Pressed/L.png",
@@ -314,6 +319,7 @@
       "Triangle": "../#DefaultDevices/Switch_Joy-Con/Flat_Pressed/Button X.png"
     },
     "DInput/0/Wireless Gamepad": {
+      "DInput/0/Wireless Gamepad": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon.png",
       "`Button 0`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Button B.png",
       "`Button 1`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Button A.png",
       "`Button 2`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Button Y.png",
@@ -371,6 +377,7 @@
       "`Axis Yr-`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Right Stick.png"
     },
     "DInput/0/Wireless Controller": {
+      "DInput/0/Wireless Controller": "..\\#DefaultDevices\\DualShock4\\Device\\Icon.png",
       "`Button 0`": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Square.png",
       "`Button 1`": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Cross.png",
       "`Button 2`": "..\\#DefaultDevices\\DualShock4\\Flat_Pressed\\Circle.png",
@@ -479,6 +486,7 @@
       "`Classic Right Y+`": "..\\#DefaultDevices\\Wii_Remote\\Flat_Pressed\\Classic Right Stick.png"
     },
     "evdev/0/Microsoft X-Box One S pad": {
+      "evdev/0/Microsoft X-Box One S pad": "../#DefaultDevices/XBOX ONE/Device/Icon.png",
       "SOUTH": "../#DefaultDevices/XBOX ONE/Flat_Pressed/Button A.png",
       "EAST": "../#DefaultDevices/XBOX ONE/Flat_Pressed/Button B.png",
       "NORTH": "../#DefaultDevices/XBOX ONE/Flat_Pressed/Button X.png",
@@ -506,6 +514,7 @@
       "THUMBL": "../#DefaultDevices/XBOX ONE/Flat_Pressed/Thumb R.png"
     },
     "evdev/0/Microsoft X-Box 360 pad": {
+      "evdev/0/Microsoft X-Box 360 pad": "../#DefaultDevices/XBOX ONE/Device/Icon.png",
       "SOUTH": "../#DefaultDevices/XBOX 360/Flat_Pressed/Button A.png",
       "EAST": "../#DefaultDevices/XBOX 360/Flat_Pressed/Button B.png",
       "NORTH": "../#DefaultDevices/XBOX 360/Flat_Pressed/Button X.png",
@@ -533,6 +542,7 @@
       "THUMBL": "../#DefaultDevices/XBOX 360/Flat_Pressed/Thumb R.png"
     },
     "evdev/0/Wireless Controller": {
+      "evdev/0/Wireless Controller": "../#DefaultDevices/DualShock4/Device/Icon.png",
       "SOUTH": "../#DefaultDevices/DualShock4/Flat_Pressed/Cross.png",
       "EAST": "../#DefaultDevices/DualShock4/Flat_Pressed/Circle.png",
       "WEST": "../#DefaultDevices/DualShock4/Flat_Pressed/Square.png",
@@ -561,6 +571,7 @@
       "THUMBR": "../#DefaultDevices/DualShock4/Flat_Pressed/R3.png"
     },
     "evdev/0/Sony Interactive Entertainment Wireless Controller": {
+      "evdev/0/Sony Interactive Entertainment Wireless Controller": "../#DefaultDevices/DualShock4/Device/Icon.png",
       "SOUTH": "../#DefaultDevices/DualShock4/Flat_Pressed/Cross.png",
       "EAST": "../#DefaultDevices/DualShock4/Flat_Pressed/Circle.png",
       "WEST": "../#DefaultDevices/DualShock4/Flat_Pressed/Square.png",
@@ -893,6 +904,116 @@
               0.0,
               128.0,
               128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_256x256_m_6a0f111e7d637d04_5.png": {
+      "image": "tex1_256x256_m_6a0f111e7d637d04_5.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Device": [
+            [
+              260.0,
+              248.0,
+              764.0,
+              864.0
+            ]
+          ],
+          "Triggers/R": [
+            [
+              828.0,
+              248.0,
+              892.0,
+              312.0
+            ]
+          ],
+          "Buttons/Z": [
+            [
+              828.0,
+              312.0,
+              892.0,
+              376.0
+            ]
+          ],
+          "Buttons/Y": [
+            [
+              828.0,
+              376.0,
+              892.0,
+              440.0
+            ]
+          ],
+          "Buttons/X": [
+            [
+              828.0,
+              440.0,
+              892.0,
+              504.0
+            ]
+          ],
+          "Buttons/A": [
+            [
+              828.0,
+              504.0,
+              892.0,
+              568.0
+            ]
+          ],
+          "Buttons/B": [
+            [
+              828.0,
+              568.0,
+              892.0,
+              632.0
+            ]
+          ],
+          "C-Stick/Up": [
+            [
+              828.0,
+              760.0,
+              892.0,
+              824.0
+            ]
+          ],
+          "Triggers/L": [
+            [
+              132.0,
+              248.0,
+              196.0,
+              312.0
+            ]
+          ],
+          "Main Stick/Up": [
+            [
+              132.0,
+              376.0,
+              196.0,
+              440.0
+            ]
+          ],
+          "Buttons/Start": [
+            [
+              132.0,
+              531.0,
+              196.0,
+              595.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_256x256_m_c658e9ae029eadf1_5.png": {
+      "image": "tex1_256x256_m_c658e9ae029eadf1_5.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Device": [
+            [
+              52.0,
+              200.0,
+              911.0,
+              981.0
             ]
           ]
         }
