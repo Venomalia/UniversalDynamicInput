@@ -968,6 +968,21 @@
           ]
         }
       }
+    },
+    "tex1_32x32_m_d2d37bdef21ce0c0_9b097357cea8d8d7_9.png": {
+      "image": "tex1_32x32_m_d2d37bdef21ce0c0_9b097357cea8d8d7_9.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/Y": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
     }
   }
 }
