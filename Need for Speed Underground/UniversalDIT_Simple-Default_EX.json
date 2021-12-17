@@ -865,6 +865,7 @@
       "`Keypad =`": "../#DefaultDevices/Keyboard Mouse/Simple-Default/EQUALS.png"
     }
   },
+  "generated_folder_name": "#Generated_Need for Speed Underground",
   "preserve_aspect_ratio": true,
   "output_textures": {
     "tex1_32x32_m_4d210bea40ab98b0_e8e7974e4e09e526_9.png": {
