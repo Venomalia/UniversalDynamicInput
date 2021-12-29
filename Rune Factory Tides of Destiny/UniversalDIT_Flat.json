@@ -1043,6 +1043,21 @@
           ]
         }
       }
+    },
+    "tex1_16x16_d049ab067d59e4e5_ba598d3df7a8d74e_8.png": {
+      "image": "tex1_16x16_d049ab067d59e4e5_ba598d3df7a8d74e_8.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Nunchuk/Buttons/C": [
+            [
+              0.0,
+              0.0,
+              64.0,
+              64.0
+            ]
+          ]
+        }
+      }
     }
   }
 }
