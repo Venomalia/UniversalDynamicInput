@@ -469,12 +469,12 @@
       "`Axis 1+`": "Simple-Speed/XBOX ONE/Left Y-.png",
       "`Axis 0+`": "Simple-Speed/XBOX ONE/Left X+.png",
       "`Axis 0-`": "Simple-Speed/XBOX ONE/Left X-.png",
-      "THUMBR": "Simple-Speed/XBOX ONE/Thumb L.png",
+      "THUMBR": "Simple-Speed/XBOX ONE/Thumb R.png",
       "`Axis 4-`": "Simple-Speed/XBOX ONE/Right Y+.png",
       "`Axis 4+`": "Simple-Speed/XBOX ONE/Right Y-.png",
       "`Axis 3+`": "Simple-Speed/XBOX ONE/Right X+.png",
       "`Axis 3-`": "Simple-Speed/XBOX ONE/Right X-.png",
-      "THUMBL": "Simple-Speed/XBOX ONE/Thumb R.png"
+      "THUMBL": "Simple-Speed/XBOX ONE/Thumb L.png"
     },
     "evdev/0/Microsoft X-Box 360 pad": {
       "SOUTH": "Simple-Speed/XBOX ONE/Button A.png",
@@ -496,12 +496,12 @@
       "`Axis 1+`": "Simple-Speed/XBOX ONE/Left Y-.png",
       "`Axis 0+`": "Simple-Speed/XBOX ONE/Left X+.png",
       "`Axis 0-`": "Simple-Speed/XBOX ONE/Left X-.png",
-      "THUMBR": "Simple-Speed/XBOX ONE/Thumb L.png",
+      "THUMBR": "Simple-Speed/XBOX ONE/Thumb R.png",
       "`Axis 4-`": "Simple-Speed/XBOX ONE/Right Y+.png",
       "`Axis 4+`": "Simple-Speed/XBOX ONE/Right Y-.png",
       "`Axis 3+`": "Simple-Speed/XBOX ONE/Right X+.png",
       "`Axis 3-`": "Simple-Speed/XBOX ONE/Right X-.png",
-      "THUMBL": "Simple-Speed/XBOX ONE/Thumb R.png"
+      "THUMBL": "Simple-Speed/XBOX ONE/Thumb L.png"
     },
     "evdev/0/Wireless Controller": {
       "SOUTH": "Simple-Speed/DualShock4/Cross.png",

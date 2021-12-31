@@ -469,12 +469,12 @@
       "`Axis 1+`": "BombBattle/XBOX ONE/Left Y-.png",
       "`Axis 0+`": "BombBattle/XBOX ONE/Left X+.png",
       "`Axis 0-`": "BombBattle/XBOX ONE/Left X-.png",
-      "THUMBR": "BombBattle/XBOX ONE/Thumb L.png",
+      "THUMBR": "BombBattle/XBOX ONE/Thumb R.png",
       "`Axis 4-`": "BombBattle/XBOX ONE/Right Y+.png",
       "`Axis 4+`": "BombBattle/XBOX ONE/Right Y-.png",
       "`Axis 3+`": "BombBattle/XBOX ONE/Right X+.png",
       "`Axis 3-`": "BombBattle/XBOX ONE/Right X-.png",
-      "THUMBL": "BombBattle/XBOX ONE/Thumb R.png"
+      "THUMBL": "BombBattle/XBOX ONE/Thumb L.png"
     },
     "evdev/0/Microsoft X-Box 360 pad": {
       "SOUTH": "BombBattle/XBOX ONE/Button A.png",
@@ -496,12 +496,12 @@
       "`Axis 1+`": "BombBattle/XBOX ONE/Left Y-.png",
       "`Axis 0+`": "BombBattle/XBOX ONE/Left X+.png",
       "`Axis 0-`": "BombBattle/XBOX ONE/Left X-.png",
-      "THUMBR": "BombBattle/XBOX ONE/Thumb L.png",
+      "THUMBR": "BombBattle/XBOX ONE/Thumb R.png",
       "`Axis 4-`": "BombBattle/XBOX ONE/Right Y+.png",
       "`Axis 4+`": "BombBattle/XBOX ONE/Right Y-.png",
       "`Axis 3+`": "BombBattle/XBOX ONE/Right X+.png",
       "`Axis 3-`": "BombBattle/XBOX ONE/Right X-.png",
-      "THUMBL": "BombBattle/XBOX ONE/Thumb R.png"
+      "THUMBL": "BombBattle/XBOX ONE/Thumb L.png"
     },
     "evdev/0/Wireless Controller": {
       "SOUTH": "BombBattle/DualShock4/Cross.png",

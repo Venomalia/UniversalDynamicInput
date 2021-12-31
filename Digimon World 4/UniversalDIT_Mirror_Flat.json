@@ -497,12 +497,12 @@
       "`Axis 1+`": "../#DefaultDevices/_Mirror/XBOX ONE/Defaultstyle/Left Y-.png",
       "`Axis 0+`": "../#DefaultDevices/_Mirror/XBOX ONE/Defaultstyle/Left X+.png",
       "`Axis 0-`": "../#DefaultDevices/_Mirror/XBOX ONE/Defaultstyle/Left X-.png",
-      "THUMBR": "../#DefaultDevices/_Mirror/XBOX ONE/Defaultstyle/Thumb L.png",
+      "THUMBR": "../#DefaultDevices/_Mirror/XBOX ONE/Defaultstyle/Thumb R.png",
       "`Axis 4-`": "../#DefaultDevices/_Mirror/XBOX ONE/Defaultstyle/Right Y+.png",
       "`Axis 4+`": "../#DefaultDevices/_Mirror/XBOX ONE/Defaultstyle/Right Y-.png",
       "`Axis 3+`": "../#DefaultDevices/_Mirror/XBOX ONE/Defaultstyle/Right X+.png",
       "`Axis 3-`": "../#DefaultDevices/_Mirror/XBOX ONE/Defaultstyle/Right X-.png",
-      "THUMBL": "../#DefaultDevices/_Mirror/XBOX ONE/Defaultstyle/Thumb R.png"
+      "THUMBL": "../#DefaultDevices/_Mirror/XBOX ONE/Defaultstyle/Thumb L.png"
     },
     "evdev/0/Microsoft X-Box 360 pad": {
       "SOUTH": "../#DefaultDevices/_Mirror/XBOX 360/Defaultstyle/Button A.png",
@@ -524,12 +524,12 @@
       "`Axis 1+`": "../#DefaultDevices/_Mirror/XBOX 360/Defaultstyle/Left Y-.png",
       "`Axis 0+`": "../#DefaultDevices/_Mirror/XBOX 360/Defaultstyle/Left X+.png",
       "`Axis 0-`": "../#DefaultDevices/_Mirror/XBOX 360/Defaultstyle/Left X-.png",
-      "THUMBR": "../#DefaultDevices/_Mirror/XBOX 360/Defaultstyle/Thumb L.png",
+      "THUMBR": "../#DefaultDevices/_Mirror/XBOX 360/Defaultstyle/Thumb R.png",
       "`Axis 4-`": "../#DefaultDevices/_Mirror/XBOX 360/Defaultstyle/Right Y+.png",
       "`Axis 4+`": "../#DefaultDevices/_Mirror/XBOX 360/Defaultstyle/Right Y-.png",
       "`Axis 3+`": "../#DefaultDevices/_Mirror/XBOX 360/Defaultstyle/Right X+.png",
       "`Axis 3-`": "../#DefaultDevices/_Mirror/XBOX 360/Defaultstyle/Right X-.png",
-      "THUMBL": "../#DefaultDevices/_Mirror/XBOX 360/Defaultstyle/Thumb R.png"
+      "THUMBL": "../#DefaultDevices/_Mirror/XBOX 360/Defaultstyle/Thumb L.png"
     },
     "evdev/0/Wireless Controller": {
       "SOUTH": "../#DefaultDevices/_Mirror/DualShock4/Defaultstyle/Cross.png",
