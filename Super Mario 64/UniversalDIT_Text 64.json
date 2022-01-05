@@ -471,12 +471,12 @@
       "`Axis 1+`": "Text 64/XBOX ONE/Left Y-.png",
       "`Axis 0+`": "Text 64/XBOX ONE/Left X+.png",
       "`Axis 0-`": "Text 64/XBOX ONE/Left X-.png",
-      "THUMBR": "Text 64/XBOX ONE/Thumb L.png",
+      "THUMBR": "Text 64/XBOX ONE/Thumb R.png",
       "`Axis 4-`": "Text 64/XBOX ONE/Right Y+.png",
       "`Axis 4+`": "Text 64/XBOX ONE/Right Y-.png",
       "`Axis 3+`": "Text 64/XBOX ONE/Right X+.png",
       "`Axis 3-`": "Text 64/XBOX ONE/Right X-.png",
-      "THUMBL": "Text 64/XBOX ONE/Thumb R.png"
+      "THUMBL": "Text 64/XBOX ONE/Thumb L.png"
     },
     "evdev/0/Microsoft X-Box 360 pad": {
       "SOUTH": "Text 64/XBOX ONE/Button A.png",
@@ -498,12 +498,12 @@
       "`Axis 1+`": "Text 64/XBOX ONE/Left Y-.png",
       "`Axis 0+`": "Text 64/XBOX ONE/Left X+.png",
       "`Axis 0-`": "Text 64/XBOX ONE/Left X-.png",
-      "THUMBR": "Text 64/XBOX ONE/Thumb L.png",
+      "THUMBR": "Text 64/XBOX ONE/Thumb R.png",
       "`Axis 4-`": "Text 64/XBOX ONE/Right Y+.png",
       "`Axis 4+`": "Text 64/XBOX ONE/Right Y-.png",
       "`Axis 3+`": "Text 64/XBOX ONE/Right X+.png",
       "`Axis 3-`": "Text 64/XBOX ONE/Right X-.png",
-      "THUMBL": "Text 64/XBOX ONE/Thumb R.png"
+      "THUMBL": "Text 64/XBOX ONE/Thumb L.png"
     },
     "evdev/0/Wireless Controller": {
       "SOUTH": "Text 64/DualShock4/Cross.png",

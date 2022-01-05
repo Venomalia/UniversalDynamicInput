@@ -469,12 +469,12 @@
       "`Axis 1+`": "ShyGuy_White/XBOX ONE/Left Y-.png",
       "`Axis 0+`": "ShyGuy_White/XBOX ONE/Left X+.png",
       "`Axis 0-`": "ShyGuy_White/XBOX ONE/Left X-.png",
-      "THUMBR": "ShyGuy_White/XBOX ONE/Thumb L.png",
+      "THUMBR": "ShyGuy_White/XBOX ONE/Thumb R.png",
       "`Axis 4-`": "ShyGuy_White/XBOX ONE/Right Y+.png",
       "`Axis 4+`": "ShyGuy_White/XBOX ONE/Right Y-.png",
       "`Axis 3+`": "ShyGuy_White/XBOX ONE/Right X+.png",
       "`Axis 3-`": "ShyGuy_White/XBOX ONE/Right X-.png",
-      "THUMBL": "ShyGuy_White/XBOX ONE/Thumb R.png"
+      "THUMBL": "ShyGuy_White/XBOX ONE/Thumb L.png"
     },
     "evdev/0/Microsoft X-Box 360 pad": {
       "SOUTH": "ShyGuy_White/XBOX ONE/Button A.png",
@@ -496,12 +496,12 @@
       "`Axis 1+`": "ShyGuy_White/XBOX ONE/Left Y-.png",
       "`Axis 0+`": "ShyGuy_White/XBOX ONE/Left X+.png",
       "`Axis 0-`": "ShyGuy_White/XBOX ONE/Left X-.png",
-      "THUMBR": "ShyGuy_White/XBOX ONE/Thumb L.png",
+      "THUMBR": "ShyGuy_White/XBOX ONE/Thumb R.png",
       "`Axis 4-`": "ShyGuy_White/XBOX ONE/Right Y+.png",
       "`Axis 4+`": "ShyGuy_White/XBOX ONE/Right Y-.png",
       "`Axis 3+`": "ShyGuy_White/XBOX ONE/Right X+.png",
       "`Axis 3-`": "ShyGuy_White/XBOX ONE/Right X-.png",
-      "THUMBL": "ShyGuy_White/XBOX ONE/Thumb R.png"
+      "THUMBL": "ShyGuy_White/XBOX ONE/Thumb L.png"
     },
     "evdev/0/Wireless Controller": {
       "SOUTH": "ShyGuy_White/DualShock4/Cross.png",

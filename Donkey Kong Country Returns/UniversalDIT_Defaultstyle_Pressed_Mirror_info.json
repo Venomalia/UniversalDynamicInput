@@ -497,12 +497,12 @@
       "`Axis 1+`": "../#DefaultDevices/_Mirror/XBOX ONE/Defaultstyle_Pressed/Left Stick.png",
       "`Axis 0+`": "../#DefaultDevices/_Mirror/XBOX ONE/Defaultstyle_Pressed/Left Stick.png",
       "`Axis 0-`": "../#DefaultDevices/_Mirror/XBOX ONE/Defaultstyle_Pressed/Left Stick.png",
-      "THUMBR": "../#DefaultDevices/_Mirror/XBOX ONE/Defaultstyle_Pressed/Thumb L.png",
+      "THUMBR": "../#DefaultDevices/_Mirror/XBOX ONE/Defaultstyle_Pressed/Thumb R.png",
       "`Axis 4-`": "../#DefaultDevices/_Mirror/XBOX ONE/Defaultstyle_Pressed/Right Stick.png",
       "`Axis 4+`": "../#DefaultDevices/_Mirror/XBOX ONE/Defaultstyle_Pressed/Right Stick.png",
       "`Axis 3+`": "../#DefaultDevices/_Mirror/XBOX ONE/Defaultstyle_Pressed/Right Stick.png",
       "`Axis 3-`": "../#DefaultDevices/_Mirror/XBOX ONE/Defaultstyle_Pressed/Right Stick.png",
-      "THUMBL": "../#DefaultDevices/_Mirror/XBOX ONE/Defaultstyle_Pressed/Thumb R.png"
+      "THUMBL": "../#DefaultDevices/_Mirror/XBOX ONE/Defaultstyle_Pressed/Thumb L.png"
     },
     "evdev/0/Microsoft X-Box 360 pad": {
       "SOUTH": "../#DefaultDevices/_Mirror/XBOX 360/Defaultstyle_Pressed/Button A.png",
@@ -524,12 +524,12 @@
       "`Axis 1+`": "../#DefaultDevices/_Mirror/XBOX 360/Defaultstyle_Pressed/Left Stick.png",
       "`Axis 0+`": "../#DefaultDevices/_Mirror/XBOX 360/Defaultstyle_Pressed/Left Stick.png",
       "`Axis 0-`": "../#DefaultDevices/_Mirror/XBOX 360/Defaultstyle_Pressed/Left Stick.png",
-      "THUMBR": "../#DefaultDevices/_Mirror/XBOX 360/Defaultstyle_Pressed/Thumb L.png",
+      "THUMBR": "../#DefaultDevices/_Mirror/XBOX 360/Defaultstyle_Pressed/Thumb R.png",
       "`Axis 4-`": "../#DefaultDevices/_Mirror/XBOX 360/Defaultstyle_Pressed/Right Stick.png",
       "`Axis 4+`": "../#DefaultDevices/_Mirror/XBOX 360/Defaultstyle_Pressed/Right Stick.png",
       "`Axis 3+`": "../#DefaultDevices/_Mirror/XBOX 360/Defaultstyle_Pressed/Right Stick.png",
       "`Axis 3-`": "../#DefaultDevices/_Mirror/XBOX 360/Defaultstyle_Pressed/Right Stick.png",
-      "THUMBL": "../#DefaultDevices/_Mirror/XBOX 360/Defaultstyle_Pressed/Thumb R.png"
+      "THUMBL": "../#DefaultDevices/_Mirror/XBOX 360/Defaultstyle_Pressed/Thumb L.png"
     },
     "evdev/0/Wireless Controller": {
       "SOUTH": "../#DefaultDevices/_Mirror/DualShock4/Defaultstyle_Pressed/Cross.png",

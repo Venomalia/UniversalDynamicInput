@@ -498,12 +498,12 @@
       "`Axis 1+`": "../#DefaultDevices/XBOX ONE/Simple-Default/Left Stick.png",
       "`Axis 0+`": "../#DefaultDevices/XBOX ONE/Simple-Default/Left Stick.png",
       "`Axis 0-`": "../#DefaultDevices/XBOX ONE/Simple-Default/Left Stick.png",
-      "THUMBR": "../#DefaultDevices/XBOX ONE/Simple-Default/Thumb L.png",
+      "THUMBR": "../#DefaultDevices/XBOX ONE/Simple-Default/Thumb R.png",
       "`Axis 4-`": "../#DefaultDevices/XBOX ONE/Simple-Default/Right Stick.png",
       "`Axis 4+`": "../#DefaultDevices/XBOX ONE/Simple-Default/Right Stick.png",
       "`Axis 3+`": "../#DefaultDevices/XBOX ONE/Simple-Default/Right Stick.png",
       "`Axis 3-`": "../#DefaultDevices/XBOX ONE/Simple-Default/Right Stick.png",
-      "THUMBL": "../#DefaultDevices/XBOX ONE/Simple-Default/Thumb R.png"
+      "THUMBL": "../#DefaultDevices/XBOX ONE/Simple-Default/Thumb L.png"
     },
     "evdev/0/Microsoft X-Box 360 pad": {
       "SOUTH": "../#DefaultDevices/XBOX 360/Simple-Default/Button A.png",
@@ -525,12 +525,12 @@
       "`Axis 1+`": "../#DefaultDevices/XBOX 360/Simple-Default/Left Stick.png",
       "`Axis 0+`": "../#DefaultDevices/XBOX 360/Simple-Default/Left Stick.png",
       "`Axis 0-`": "../#DefaultDevices/XBOX 360/Simple-Default/Left Stick.png",
-      "THUMBR": "../#DefaultDevices/XBOX 360/Simple-Default/Thumb L.png",
+      "THUMBR": "../#DefaultDevices/XBOX 360/Simple-Default/Thumb R.png",
       "`Axis 4-`": "../#DefaultDevices/XBOX 360/Simple-Default/Right Stick.png",
       "`Axis 4+`": "../#DefaultDevices/XBOX 360/Simple-Default/Right Stick.png",
       "`Axis 3+`": "../#DefaultDevices/XBOX 360/Simple-Default/Right Stick.png",
       "`Axis 3-`": "../#DefaultDevices/XBOX 360/Simple-Default/Right Stick.png",
-      "THUMBL": "../#DefaultDevices/XBOX 360/Simple-Default/Thumb R.png"
+      "THUMBL": "../#DefaultDevices/XBOX 360/Simple-Default/Thumb L.png"
     },
     "evdev/0/Wireless Controller": {
       "SOUTH": "../#DefaultDevices/DualShock4/Simple-Default/Cross.png",

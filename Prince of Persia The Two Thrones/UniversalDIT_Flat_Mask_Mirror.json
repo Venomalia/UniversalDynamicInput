@@ -497,12 +497,12 @@
       "`Axis 1+`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Left Y-.png",
       "`Axis 0+`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Left X+.png",
       "`Axis 0-`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Left X-.png",
-      "THUMBR": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Thumb L.png",
+      "THUMBR": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Thumb R.png",
       "`Axis 4-`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Right Y+.png",
       "`Axis 4+`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Right Y-.png",
       "`Axis 3+`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Right X+.png",
       "`Axis 3-`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Right X-.png",
-      "THUMBL": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Thumb R.png"
+      "THUMBL": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Thumb L.png"
     },
     "evdev/0/Microsoft X-Box 360 pad": {
       "SOUTH": "../#DefaultDevices/_Mirror/XBOX 360/Flat_Mask/Button A.png",
@@ -524,12 +524,12 @@
       "`Axis 1+`": "../#DefaultDevices/_Mirror/XBOX 360/Flat_Mask/Left Y-.png",
       "`Axis 0+`": "../#DefaultDevices/_Mirror/XBOX 360/Flat_Mask/Left X+.png",
       "`Axis 0-`": "../#DefaultDevices/_Mirror/XBOX 360/Flat_Mask/Left X-.png",
-      "THUMBR": "../#DefaultDevices/_Mirror/XBOX 360/Flat_Mask/Thumb L.png",
+      "THUMBR": "../#DefaultDevices/_Mirror/XBOX 360/Flat_Mask/Thumb R.png",
       "`Axis 4-`": "../#DefaultDevices/_Mirror/XBOX 360/Flat_Mask/Right Y+.png",
       "`Axis 4+`": "../#DefaultDevices/_Mirror/XBOX 360/Flat_Mask/Right Y-.png",
       "`Axis 3+`": "../#DefaultDevices/_Mirror/XBOX 360/Flat_Mask/Right X+.png",
       "`Axis 3-`": "../#DefaultDevices/_Mirror/XBOX 360/Flat_Mask/Right X-.png",
-      "THUMBL": "../#DefaultDevices/_Mirror/XBOX 360/Flat_Mask/Thumb R.png"
+      "THUMBL": "../#DefaultDevices/_Mirror/XBOX 360/Flat_Mask/Thumb L.png"
     },
     "evdev/0/Wireless Controller": {
       "SOUTH": "../#DefaultDevices/_Mirror/DualShock4/Flat_Mask/Cross.png",

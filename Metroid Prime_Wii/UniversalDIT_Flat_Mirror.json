@@ -497,12 +497,12 @@
       "`Axis 1+`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat/Left Y-.png",
       "`Axis 0+`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat/Left X+.png",
       "`Axis 0-`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat/Left X-.png",
-      "THUMBR": "../#DefaultDevices/_Mirror/XBOX ONE/Flat/Thumb L.png",
+      "THUMBR": "../#DefaultDevices/_Mirror/XBOX ONE/Flat/Thumb R.png",
       "`Axis 4-`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat/Right Y+.png",
       "`Axis 4+`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat/Right Y-.png",
       "`Axis 3+`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat/Right X+.png",
       "`Axis 3-`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat/Right X-.png",
-      "THUMBL": "../#DefaultDevices/_Mirror/XBOX ONE/Flat/Thumb R.png"
+      "THUMBL": "../#DefaultDevices/_Mirror/XBOX ONE/Flat/Thumb L.png"
     },
     "evdev/0/Microsoft X-Box 360 pad": {
       "SOUTH": "../#DefaultDevices/_Mirror/XBOX 360/Flat/Button A.png",
@@ -524,12 +524,12 @@
       "`Axis 1+`": "../#DefaultDevices/_Mirror/XBOX 360/Flat/Left Y-.png",
       "`Axis 0+`": "../#DefaultDevices/_Mirror/XBOX 360/Flat/Left X+.png",
       "`Axis 0-`": "../#DefaultDevices/_Mirror/XBOX 360/Flat/Left X-.png",
-      "THUMBR": "../#DefaultDevices/_Mirror/XBOX 360/Flat/Thumb L.png",
+      "THUMBR": "../#DefaultDevices/_Mirror/XBOX 360/Flat/Thumb R.png",
       "`Axis 4-`": "../#DefaultDevices/_Mirror/XBOX 360/Flat/Right Y+.png",
       "`Axis 4+`": "../#DefaultDevices/_Mirror/XBOX 360/Flat/Right Y-.png",
       "`Axis 3+`": "../#DefaultDevices/_Mirror/XBOX 360/Flat/Right X+.png",
       "`Axis 3-`": "../#DefaultDevices/_Mirror/XBOX 360/Flat/Right X-.png",
-      "THUMBL": "../#DefaultDevices/_Mirror/XBOX 360/Flat/Thumb R.png"
+      "THUMBL": "../#DefaultDevices/_Mirror/XBOX 360/Flat/Thumb L.png"
     },
     "evdev/0/Wireless Controller": {
       "SOUTH": "../#DefaultDevices/_Mirror/DualShock4/Flat/Cross.png",
