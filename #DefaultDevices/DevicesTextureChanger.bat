@@ -1,5 +1,5 @@
 @echo off
-set Version=1.1
+set Version=1.3
 rem --------------------------------
 rem by Venomalia
 rem --------------------------------
@@ -19,14 +19,16 @@ cls
 echo UniversalDynamicInput - Devices texture changer %Version%
 echo Which device textures should be exchanged?
 echo 0: Exit
-echo 1: Xinput
-echo 2: DualShock
+echo 1: Xinput (XBOX ONE)
+echo 2: Xinput (Linux-XBOX 360)
+echo 3: DualShock
 if exist "#DefaultDevices\*_backup" echo r: reset all to default
 
 set /p answer=select an option: 
 if /I "%answer%"=="0" exit
 if /I "%answer%"=="1" goto AXinput
-if /I "%answer%"=="2" goto ADualShock
+if /I "%answer%"=="2" goto AXinput360
+if /I "%answer%"=="3" goto ADualShock
 if /I "%answer%"=="r" if exist "#DefaultDevices\*_backup" goto :ResetAll
 
 goto Start
@@ -50,6 +52,27 @@ if /I "%answer%"=="2" goto XinputToPS3
 if /I "%answer%"=="3" goto XinputToPS4
 if /I "%answer%"=="4" goto XinputToGeneric
 if /I "%answer%"=="5" goto XinputToPro
+if /I "%answer%"=="r" CALL :ResetX "%name%"
+
+goto AXinput
+
+:AXinput360
+set name=XBOX 360
+cls
+echo which textures should be used for xinput devices?
+echo 0: Back
+echo 1: DualShock3
+echo 2: DualShock4
+echo 3: Generic
+echo 4: Switch Pro Controller ( A=B, B=A, Y=X, X=Y")
+if exist "#DefaultDevices\%name%_backup" echo r: %name% (default)
+
+set /p answer=select an option: 
+if /I "%answer%"=="0" goto Start
+if /I "%answer%"=="1" goto XinputToPS3
+if /I "%answer%"=="2" goto XinputToPS4
+if /I "%answer%"=="3" goto XinputToGeneric
+if /I "%answer%"=="4" goto XinputToPro
 if /I "%answer%"=="r" CALL :ResetX "%name%"
 
 goto AXinput
