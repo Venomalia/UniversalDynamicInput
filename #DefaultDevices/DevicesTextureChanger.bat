@@ -39,19 +39,21 @@ cls
 echo which textures should be used for xinput devices?
 echo 0: Back
 echo 1: XBOX 360
-echo 2: DualShock3
-echo 3: DualShock4
-echo 4: Generic
-echo 5: Switch Pro Controller ( A=B, B=A, Y=X, X=Y")
+echo 2: XBOX Series X
+echo 3: DualShock3
+echo 4: DualShock4
+echo 5: Generic
+echo 6: Switch Pro Controller ( A=B, B=A, Y=X, X=Y")
 if exist "#DefaultDevices\%name%_backup" echo r: %name% (default)
 
 set /p answer=select an option: 
 if /I "%answer%"=="0" goto Start
 if /I "%answer%"=="1" goto XinputTo360
-if /I "%answer%"=="2" goto XinputToPS3
-if /I "%answer%"=="3" goto XinputToPS4
-if /I "%answer%"=="4" goto XinputToGeneric
-if /I "%answer%"=="5" goto XinputToPro
+if /I "%answer%"=="2" goto XinputToSX
+if /I "%answer%"=="3" goto XinputToPS3
+if /I "%answer%"=="4" goto XinputToPS4
+if /I "%answer%"=="5" goto XinputToGeneric
+if /I "%answer%"=="6" goto XinputToPro
 if /I "%answer%"=="r" CALL :ResetX "%name%"
 
 goto AXinput
@@ -154,6 +156,32 @@ if exist "%%G\..\XBOX 360_backup" (
 xcopy "%%G\..\XBOX 360_backup" "%%G\..\%name%" /s /e /q /i /y
 ) ELSE (
 xcopy "%%G\..\XBOX 360" "%%G\..\%name%" /s /e /q /i /y
+)
+
+robocopy "%%G\..\%name%_backup" "%%G" /e /xc /xn /xo /njh /njs /ndl /nc /ns /np /nfl
+)
+
+
+cls
+echo %name%, Devices textures changed!
+timeout /t 10
+goto Start
+
+
+:XinputToSX
+FOR /D /r %%G IN (*"%name%") DO (
+
+if not exist "%%G_backup" (
+ren "%%G" "%name%_backup"
+) ELSE (
+rmdir /Q /S "%%G"
+)
+if exist %%G goto Error
+
+if exist "%%G\..\XBOX ONE Series X_backup" (
+xcopy "%%G\..\XBOX ONE Series X_backup" "%%G\..\%name%" /s /e /q /i /y
+) ELSE (
+xcopy "%%G\..\XBOX ONE Series X" "%%G\..\%name%" /s /e /q /i /y
 )
 
 robocopy "%%G\..\%name%_backup" "%%G" /e /xc /xn /xo /njh /njs /ndl /nc /ns /np /nfl
