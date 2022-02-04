@@ -50,6 +50,9 @@
 		      "evdev/0/Microsoft X-Box One S pad": {
 				"evdev/0/Microsoft X-Box One S pad": "../#DefaultDevices/XBOX ONE/Device/3D-front from above.png"
 			    },
+			  "evdev/0/Xbox Wireless Controller": {
+				"evdev/0/Xbox Wireless Controller": "../#DefaultDevices/XBOX ONE/Device/3D-front from above.png"
+				},
 		      "SDL/0/PS4 Controller": {
 				"SDL/0/PS4 Controller": "../#DefaultDevices/DualShock4/Device/3D-front from above.png"
 			    },
@@ -107,6 +110,9 @@
 		      "evdev/0/Microsoft X-Box One S pad": {
 				"evdev/0/Microsoft X-Box One S pad": "../#DefaultDevices/XBOX ONE/Device/3D-front from above.png"
 			    },
+			  "evdev/0/Xbox Wireless Controller": {
+				"evdev/0/Xbox Wireless Controller": "../#DefaultDevices/XBOX ONE/Device/3D-front from above.png"
+				},
 		      "SDL/0/PS4 Controller": {
 				"SDL/0/PS4 Controller": "../#DefaultDevices/DualShock4/Device/3D-front from above.png"
 			    },
@@ -164,6 +170,9 @@
 		      "evdev/0/Microsoft X-Box One S pad": {
 				"evdev/0/Microsoft X-Box One S pad": "../#DefaultDevices/XBOX ONE/Device/3D-front from above.png"
 			    },
+			  "evdev/0/Xbox Wireless Controller": {
+				"evdev/0/Xbox Wireless Controller": "../#DefaultDevices/XBOX ONE/Device/3D-front from above.png"
+				},
 		      "SDL/0/PS4 Controller": {
 				"SDL/0/PS4 Controller": "../#DefaultDevices/DualShock4/Device/3D-front from above.png"
 			    },
@@ -221,6 +230,9 @@
 		      "evdev/0/Microsoft X-Box One S pad": {
 				"evdev/0/Microsoft X-Box One S pad": "../#DefaultDevices/XBOX ONE/Device/3D-front from above.png"
 			    },
+			  "evdev/0/Xbox Wireless Controller": {
+				"evdev/0/Xbox Wireless Controller": "../#DefaultDevices/XBOX ONE/Device/3D-front from above.png"
+				},
 		      "SDL/0/PS4 Controller": {
 				"SDL/0/PS4 Controller": "../#DefaultDevices/DualShock4/Device/3D-front from above.png"
 			    },
@@ -278,6 +290,9 @@
 		      "evdev/0/Microsoft X-Box One S pad": {
 				"evdev/0/Microsoft X-Box One S pad": "../#DefaultDevices/XBOX ONE/Device/3D-front from above.png"
 			    },
+			  "evdev/0/Xbox Wireless Controller": {
+				"evdev/0/Xbox Wireless Controller": "../#DefaultDevices/XBOX ONE/Device/3D-front from above.png"
+				},
 		      "SDL/0/PS4 Controller": {
 				"SDL/0/PS4 Controller": "../#DefaultDevices/DualShock4/Device/3D-front from above.png"
 			    },
