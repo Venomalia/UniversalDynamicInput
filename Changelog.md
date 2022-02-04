@@ -1,3 +1,9 @@
+# Unreleased
+
+## Input Devices added:
+#### Linux
+- **X-Box One S wireless** evdev/0/Xbox Wireless Controller
+
 # 11-03-2021 - UniversalDynamicInput_Pack 1.6
 ## Update input texture:
 - add XBOX 360
