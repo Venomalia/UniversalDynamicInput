@@ -1,3 +1,9 @@
+# Unreleased
+
+## Input Devices added:
+#### Linux
+- **X-Box One S wireless** evdev/0/Xbox Wireless Controller
+
 # 11-03-2021 - UniversalDynamicInput_Pack 1.6
 ## Update input texture:
 - add XBOX 360
@@ -21,7 +27,7 @@
 - Metroid Prime: add nunchuk Z textures, add press 1 texture.
 - Metroid Prime 1-2: add beam C-Stick textures.
 - Mii Channel: add wii Remote texture.
-- Super Mario Sunshine: add B butten.
+- Super Mario Sunshine: add B button.
 
 ## Other Adjustments:
 - Rayman Raving Rabbids 1+2.
@@ -102,7 +108,7 @@
 - Need for Speed Most Wanted: updated.
 - XBOX ONE\Defaultstyle Dpad graphics are now all 256x256
 - New Super Mario Wii: Correct devices to Wiimote
-- Animal Crossing Wii add missing butten 1
+- Animal Crossing Wii add missing button 1
 - Corrected a lot of small errors
 
 ---

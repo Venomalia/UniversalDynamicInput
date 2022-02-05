@@ -50,6 +50,9 @@
 		      "evdev/0/Microsoft X-Box One S pad": {
 				"evdev/0/Microsoft X-Box One S pad": "../#DefaultDevices/XBOX ONE/Device/Icon.png"
 			    },
+			  "evdev/0/Xbox Wireless Controller": {
+				"evdev/0/Xbox Wireless Controller": "../#DefaultDevices/XBOX ONE/Device/Icon.png"
+				},
 		      "SDL/0/PS4 Controller": {
 				"SDL/0/PS4 Controller": "../#DefaultDevices/DualShock4/Device/Icon.png"
 			    },
@@ -106,6 +109,9 @@
 		      "evdev/0/Microsoft X-Box One S pad": {
 				"evdev/0/Microsoft X-Box One S pad": "../#DefaultDevices/XBOX ONE/Device/Icon-Simple.png"
 			    },
+			  "evdev/0/Xbox Wireless Controller": {
+				"evdev/0/Xbox Wireless Controller": "../#DefaultDevices/XBOX ONE/Device/Icon-Simple.png"
+				},
 		      "SDL/0/PS4 Controller": {
 				"SDL/0/PS4 Controller": "../#DefaultDevices/DualShock4/Device/Icon-Simple.png"
 			    },
