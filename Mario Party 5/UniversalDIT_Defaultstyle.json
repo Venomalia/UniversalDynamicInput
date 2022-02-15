@@ -1258,6 +1258,52 @@
           ]
         }
       }
+    },
+    "tex1_178x100_5488dd4bfdef05ce_5.png": {
+      "image": "tex1_178x100_5488dd4bfdef05ce_5.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/Z": [
+            [
+              148.0,
+              230.0,
+              274.0,
+              324.0
+            ]
+          ],
+          "Buttons/Start": [
+            [
+              446.0,
+              106.0,
+              572.0,
+              200.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_178x122_08d6adbde6f3e4b8_5.png": {
+      "image": "tex1_178x122_08d6adbde6f3e4b8_5.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/Z": [
+            [
+              148.0,
+              319.0,
+              274.0,
+              413.0
+            ]
+          ],
+          "Buttons/Start": [
+            [
+              446.0,
+              194.0,
+              572.0,
+              288.0
+            ]
+          ]
+        }
+      }
     }
   }
 }
