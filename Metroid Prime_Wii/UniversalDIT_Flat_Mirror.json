@@ -1760,6 +1760,51 @@
           ]
         }
       }
+    },
+    "tex1_64x115_2bef27ce9ea026b3_6.png": {
+      "image": "tex1_64x115_2bef27ce9ea026b3_6.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "PrimeHack/Grapple Lasso": [
+            [
+              0.0,
+              0.0,
+              64.0,
+              64.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_64x115_3f3c18a7f7032fe8_6.png": {
+      "image": "tex1_64x115_3f3c18a7f7032fe8_6.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "PrimeHack/Grapple Lasso": [
+            [
+              0.0,
+              0.0,
+              64.0,
+              64.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_64x115_9f387704685b71b5_6.png": {
+      "image": "tex1_64x115_9f387704685b71b5_6.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "PrimeHack/Grapple Lasso": [
+            [
+              0.0,
+              0.0,
+              64.0,
+              64.0
+            ]
+          ]
+        }
+      }
     }
   }
 }
