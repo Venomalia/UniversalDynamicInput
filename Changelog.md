@@ -1,8 +1,39 @@
-# Unreleased
+# 04-24-2022 - UniversalDynamicInput_Pack 1.7
 
 ## Input Devices added:
 #### Linux
 - **X-Box One S wireless** evdev/0/Xbox Wireless Controller
+- **Google Stadia Controller** DInput/0/Stadia Controller rev. A
+
+## Support added:
+#### GC
+- Billy Hatcher and the Giant Egg
+- Digimon World 4 
+- Harvest Moon A Proud Life
+- Harvest Moon Another Proud Life
+- Harvest Moon Another Wonderful Life
+- Looney Tunes Acme Arsenal
+- Need for Speed Underground
+- Teenage Mutant Ninja Turtles: Smash-Up
+- Tom And Jerry in War Of The Whiskers
+
+#### Wii
+- Kirby's Epic Yarn
+- Rabbids Go Home
+- Skylanders Spyro's Adventure
+
+## Other Adjustments:
+- Metroid Prime_Wii: add "PrimeHack/Grapple Lasso" Input.
+- Dragon Ball Revenge of King Piccolo: Add device textures.
+- Need for Speed Carbon: Add device textures.
+- Need for Speed Underground: Add missing Y-button.
+- Dragon Ball Z Sagas: Add missing D-Pad texture.
+- Rune Factory Tides of Destiny: Adds textures.
+- Fix Thumb L/R for Xbox pads on Linux.
+- add XBOX Series X Dpad Textures and devicestexturechanger options.
+- Mario Party 5+7: Add unuse textures.
+- Shrek SuperSlam: fixes texture clipping errors. 
+- Super Mario Galaxy 1+2: fixes texture clipping errors. 
 
 # 11-03-2021 - UniversalDynamicInput_Pack 1.6
 ## Update input texture:
