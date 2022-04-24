@@ -65,6 +65,7 @@
       "`Axis Yr-`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat_Pressed\\Right Stick.png"
     },
     "DInput/0/Keyboard Mouse": {
+      "`Click 0` | RETURN": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat_Pressed\\Click 0.png",
       "`Click 0`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat_Pressed\\Click 0.png",
       "`Click 1`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat_Pressed\\Click 1.png",
       "`Click 2`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat_Pressed\\Click 2.png",
@@ -985,7 +986,7 @@
       "image": "tex1_32x32.png",
       "emulated_controls": {
         "Wiimote1": {
-          "D-Pad/UP": [
+          "D-Pad/Down": [
             [
               0.0,
               0.0,
@@ -1015,7 +1016,7 @@
       "image": "tex1_64x32.png",
       "emulated_controls": {
         "Wiimote1": {
-          "D-Pad/UP": [
+          "D-Pad/Down": [
             [
               0.0,
               0.0,
@@ -1030,7 +1031,7 @@
       "image": "tex1_64x32.png",
       "emulated_controls": {
         "Wiimote1": {
-          "D-Pad/UP": [
+          "D-Pad/Down": [
             [
               0.0,
               10.0,
@@ -1045,7 +1046,7 @@
       "image": "tex1_64x32.png",
       "emulated_controls": {
         "Wiimote1": {
-          "D-Pad/UP": [
+          "D-Pad/Down": [
             [
               0.0,
               0.0,
@@ -1060,7 +1061,7 @@
       "image": "tex1_64x32.png",
       "emulated_controls": {
         "Wiimote1": {
-          "D-Pad/UP": [
+          "D-Pad/Down": [
             [
               10.0,
               10.0,
@@ -1075,7 +1076,7 @@
       "image": "tex1_64x64_0d59748c8a094e23_1.png",
       "emulated_controls": {
         "Wiimote1": {
-          "D-Pad/UP": [
+          "D-Pad/Down": [
             [
               0.0,
               0.0,
