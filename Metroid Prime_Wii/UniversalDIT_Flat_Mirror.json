@@ -923,6 +923,51 @@
   "generated_folder_name": "#Generated_Metroid Prime_Wii",
   "preserve_aspect_ratio": true,
   "output_textures": {
+    "tex1_32x32_d3576576ea854c06_4.png": {
+      "image": "tex1_32x32_OV.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Blank": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_70a90df632629730_4.png": {
+      "image": "tex1_32x32_OV.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Blank": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_128x64_e35a8cc0ba6accf6_5.png": {
+      "image": "tex1_128x64_e35a8cc0ba6accf6_5.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Blank": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              64.0
+            ]
+          ]
+        }
+      }
+    },
     "tex1_32x32_f00e0e837140250a_6.png": {
       "image": "tex1_32x32.png",
       "emulated_controls": {
@@ -989,10 +1034,10 @@
         "Wiimote1": {
           "Buttons/A": [
             [
-              0.0,
-              0.0,
-              128.0,
-              128.0
+              12.0,
+              12.0,
+              116.0,
+              116.0
             ]
           ]
         }
@@ -1289,9 +1334,9 @@
         "Wiimote1": {
           "Buttons/-": [
             [
-              12.0,
-              14.0,
-              116.0,
+              16.0,
+              16.0,
+              112.0,
               112.0
             ]
           ]
@@ -1319,10 +1364,10 @@
         "Wiimote1": {
           "Buttons/+": [
             [
-              8.0,
-              8.0,
-              120.0,
-              120.0
+              16.0,
+              16.0,
+              112.0,
+              112.0
             ]
           ]
         }
@@ -1529,10 +1574,10 @@
         "Wiimote1": {
           "Buttons/1": [
             [
+              64.0,
               0.0,
-              0.0,
-              256.0,
-              128.0
+              192.0,
+              106.0
             ]
           ]
         }
