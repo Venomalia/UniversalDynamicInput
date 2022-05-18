@@ -65,7 +65,6 @@
       "`Axis Yr-`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat\\Right Y+.png"
     },
     "DInput/0/Keyboard Mouse": {
-		
       "`Click 0` | RETURN": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\Click 0.png",
       "`Click 0`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\Click 0.png",
       "`Click 1`": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Flat\\Click 1.png",
@@ -1634,9 +1633,9 @@
         "Wiimote1": {
           "Buttons/1": [
             [
+              70.0,
               0.0,
-              0.0,
-              256.0,
+              188.0,
               128.0
             ]
           ]
