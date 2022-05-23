@@ -951,6 +951,21 @@
         }
       }
     },
+    "tex1_32x32_m_7a49be0e828a6d9a_14_arb.png": {
+      "image": "tex1_32x32.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/A": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
     "tex1_32x32_7a49be0e828a6d9a_14.png": {
       "image": "tex1_32x32.png",
       "emulated_controls": {
