@@ -1010,6 +1010,71 @@
           ]
         }
       }
+    },
+    "tex1_32x32_5bc7fe0e1900a768_2.png": {
+      "image": "tex1_32x32_c08a9fe0f578e519_2.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/A": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        },
+        "GBA1": {
+          "Buttons/A": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_5f0712778e1309a6_2.png": {
+      "image": "tex1_32x32_76024cba8de38d70_2.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/B": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        },
+        "GBA1": {
+          "Buttons/B": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_48x24_425609d90075f2e6_5.png": {
+      "image": "tex1_48x24_425609d90075f2e6_5.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/Z": [
+            [
+              0.0,
+              0.0,
+              192.0,
+              96.0
+            ]
+          ]
+        }
+      }
     }
   }
 }
