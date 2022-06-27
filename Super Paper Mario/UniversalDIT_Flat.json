@@ -966,6 +966,21 @@
         }
       }
     },
+    "tex1_40x40_c4a6d5884f8e8519_5.png": {
+      "image": "tex1_40x40.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/1": [
+            [
+              0.0,
+              0.0,
+              160.0,
+              160.0
+            ]
+          ]
+        }
+      }
+    },
     "tex1_40x40_341c9fd2189acc61_5.png": {
       "image": "tex1_40x40.png",
       "emulated_controls": {
