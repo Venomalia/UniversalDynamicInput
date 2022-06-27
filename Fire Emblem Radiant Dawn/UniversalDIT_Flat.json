@@ -936,6 +936,51 @@
   "generated_folder_name": "#Generated_Fire Emblem Radiant Dawn",
   "preserve_aspect_ratio": false,
   "output_textures": {
+    "tex1_272x24_3a0e4891d95f7cda_5.png": {
+      "image": "tex1_272x24_3a0e4891d95f7cda_5.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/+": [
+            [
+              903.0,
+              0.0,
+              999.0,
+              96.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_352x24_b93a769ce864c1d5_5.png": {
+      "image": "tex1_272x24_3a0e4891d95f7cda_5.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Classic/Buttons/+": [
+            [
+              903.0,
+              0.0,
+              999.0,
+              96.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_272x24_ee3e22b7ef290ebe_5.png": {
+      "image": "tex1_272x24_3a0e4891d95f7cda_5.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/Start": [
+            [
+              903.0,
+              0.0,
+              999.0,
+              96.0
+            ]
+          ]
+        }
+      }
+    },
     "tex1_272x24_05bb8e36bb9c2f48_5.png": {
       "image": "tex1_272x24_05bb8e36bb9c2f48_5.png",
       "emulated_controls": {
@@ -951,15 +996,30 @@
         }
       }
     },
-    "tex1_272x24_693a103a4385f226_5.png": {
-      "image": "tex1_272x24_693a103a4385f226_5.png",
+    "tex1_352x24_05421d396420c81a_5.png": {
+      "image": "tex1_272x24_05bb8e36bb9c2f48_5.png",
       "emulated_controls": {
         "Wiimote1": {
-          "Buttons/+": [
+          "Classic/Buttons/+": [
             [
-              280.0,
+              639.0,
               0.0,
-              376.0,
+              735.0,
+              96.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_272x24_d7ef89d5539b972e_5.png": {
+      "image": "tex1_272x24_05bb8e36bb9c2f48_5.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/Start": [
+            [
+              639.0,
+              0.0,
+              735.0,
               96.0
             ]
           ]
@@ -971,6 +1031,36 @@
       "emulated_controls": {
         "Wiimote1": {
           "Buttons/+": [
+            [
+              456.0,
+              0.0,
+              552.0,
+              96.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_272x24_693a103a4385f226_5.png": {
+      "image": "tex1_272x24_a463bfd38d5ab21b_5.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Classic/Buttons/+": [
+            [
+              456.0,
+              0.0,
+              552.0,
+              96.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_272x24_b2c285a88bf6a070_5.png": {
+      "image": "tex1_272x24_a463bfd38d5ab21b_5.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/Start": [
             [
               456.0,
               0.0,
@@ -996,6 +1086,36 @@
         }
       }
     },
+    "tex1_352x24_7217ab7ba579a07b_5.png": {
+      "image": "tex1_272x24_b6a7b24872b3d454_5.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Classic/Buttons/+": [
+            [
+              802.0,
+              0.0,
+              898.0,
+              96.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_272x24_353b8d1ddeb649b7_5.png": {
+      "image": "tex1_272x24_b6a7b24872b3d454_5.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/Start": [
+            [
+              802.0,
+              0.0,
+              898.0,
+              96.0
+            ]
+          ]
+        }
+      }
+    },
     "tex1_280x24_61ff7b011001f7b5_5.png": {
       "image": "tex1_280x24_61ff7b011001f7b5_5.png",
       "emulated_controls": {
@@ -1011,30 +1131,30 @@
         }
       }
     },
-    "tex1_352x24_05421d396420c81a_5.png": {
-      "image": "tex1_352x24_05421d396420c81a_5.png",
+    "tex1_376x24_bcfd7699dab76452_5.png": {
+      "image": "tex1_280x24_61ff7b011001f7b5_5.png",
       "emulated_controls": {
         "Wiimote1": {
-          "Buttons/+": [
+          "Classic/Buttons/+": [
             [
-              609.0,
+              637.0,
               0.0,
-              705.0,
+              733.0,
               96.0
             ]
           ]
         }
       }
     },
-    "tex1_376x24_bcfd7699dab76452_5.png": {
-      "image": "tex1_376x24_bcfd7699dab76452_5.png",
+    "tex1_272x24_8c936c6d6798f22b_5.png": {
+      "image": "tex1_280x24_61ff7b011001f7b5_5.png",
       "emulated_controls": {
-        "Wiimote1": {
-          "Buttons/+": [
+        "GCPad1": {
+          "Buttons/Start": [
             [
-              629.0,
+              637.0,
               0.0,
-              725.0,
+              733.0,
               96.0
             ]
           ]
@@ -1154,7 +1274,238 @@
               108.0,
               144.0,
               144.0,
-              145.0
+              192.0
+            ]
+          ],
+          "Buttons/B": [
+            [
+              36.0,
+              144.0,
+              72.0,
+              192.0
+            ]
+          ],
+          "Buttons/A": [
+            [
+              0.0,
+              144.0,
+              36.0,
+              192.0
+            ]
+          ],
+          "Nunchuk/Buttons/Z": [
+            [
+              288.0,
+              144.0,
+              324.0,
+              192.0
+            ]
+          ],
+          "Buttons/+": [
+            [
+              360.0,
+              144.0,
+              396.0,
+              192.0
+            ]
+          ],
+          "Classic/Buttons/+": [
+            [
+              360.0,
+              96.0,
+              396.0,
+              144.0
+            ]
+          ],
+          "Nunchuk/Buttons/C": [
+            [
+              576.0,
+              144.0,
+              612.0,
+              192.0
+            ]
+          ],
+          "Classic/Buttons/ZR": [
+            [
+              324.0,
+              96.0,
+              360.0,
+              144.0
+            ]
+          ],
+          "Classic/Buttons/ZL": [
+            [
+              288.0,
+              96.0,
+              324.0,
+              144.0
+            ]
+          ],
+          "Classic/Triggers/R": [
+            [
+              216.0,
+              96.0,
+              288.0,
+              144.0
+            ]
+          ],
+          "Classic/Triggers/L": [
+            [
+              144.0,
+              96.0,
+              216.0,
+              144.0
+            ]
+          ],
+          "Classic/Buttons/Y": [
+            [
+              108.0,
+              96.0,
+              144.0,
+              144.0
+            ]
+          ],
+          "Classic/Buttons/X": [
+            [
+              72.0,
+              96.0,
+              108.0,
+              144.0
+            ]
+          ],
+          "Classic/Buttons/B": [
+            [
+              36.0,
+              96.0,
+              72.0,
+              144.0
+            ]
+          ],
+          "Classic/Buttons/A": [
+            [
+              0.0,
+              96.0,
+              36.0,
+              144.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_576x288_48a0fd69afc9eadf_$_9.png": {
+      "image": "tex1_576x288_48a0fd69afc9eadf_$_9.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/A": [
+            [
+              0.0,
+              48.0,
+              36.0,
+              96.0
+            ]
+          ],
+          "Buttons/B": [
+            [
+              36.0,
+              48.0,
+              72.0,
+              96.0
+            ]
+          ],
+          "Buttons/Start": [
+            [
+              360.0,
+              48.0,
+              396.0,
+              96.0
+            ]
+          ],
+          "Buttons/X": [
+            [
+              72.0,
+              48.0,
+              108.0,
+              96.0
+            ]
+          ],
+          "Buttons/Y": [
+            [
+              108.0,
+              48.0,
+              144.0,
+              96.0
+            ]
+          ],
+          "Buttons/Z": [
+            [
+              288.0,
+              48.0,
+              360.0,
+              96.0
+            ]
+          ],
+          "Triggers/L": [
+            [
+              144.0,
+              48.0,
+              216.0,
+              96.0
+            ]
+          ],
+          "Triggers/R": [
+            [
+              216.0,
+              48.0,
+              288.0,
+              96.0
+            ]
+          ]
+        },
+        "Wiimote1": {
+          "Buttons/Home": [
+            [
+              720.0,
+              144.0,
+              756.0,
+              192.0
+            ],
+            [
+              720.0,
+              96.0,
+              756.0,
+              144.0
+            ]
+          ],
+          "Buttons/-": [
+            [
+              684.0,
+              144.0,
+              720.0,
+              192.0
+            ]
+          ],
+          "Classic/Buttons/-": [
+            [
+              684.0,
+              96.0,
+              720.0,
+              144.0
+            ]
+          ],
+          "Buttons/1": [
+            [
+              72.0,
+              144.0,
+              108.0,
+              192.0
+            ]
+          ],
+          "Buttons/2": [
+            [
+              108.0,
+              144.0,
+              144.0,
+              192.0
             ]
           ],
           "Buttons/B": [
@@ -1385,7 +1736,238 @@
               108.0,
               144.0,
               144.0,
-              145.0
+              192.0
+            ]
+          ],
+          "Buttons/B": [
+            [
+              36.0,
+              144.0,
+              72.0,
+              192.0
+            ]
+          ],
+          "Buttons/A": [
+            [
+              0.0,
+              144.0,
+              36.0,
+              192.0
+            ]
+          ],
+          "Nunchuk/Buttons/Z": [
+            [
+              288.0,
+              144.0,
+              324.0,
+              192.0
+            ]
+          ],
+          "Buttons/+": [
+            [
+              360.0,
+              144.0,
+              396.0,
+              192.0
+            ]
+          ],
+          "Classic/Buttons/+": [
+            [
+              360.0,
+              96.0,
+              396.0,
+              144.0
+            ]
+          ],
+          "Nunchuk/Buttons/C": [
+            [
+              576.0,
+              144.0,
+              612.0,
+              192.0
+            ]
+          ],
+          "Classic/Buttons/ZR": [
+            [
+              324.0,
+              96.0,
+              360.0,
+              144.0
+            ]
+          ],
+          "Classic/Buttons/ZL": [
+            [
+              288.0,
+              96.0,
+              324.0,
+              144.0
+            ]
+          ],
+          "Classic/Triggers/R": [
+            [
+              216.0,
+              96.0,
+              288.0,
+              144.0
+            ]
+          ],
+          "Classic/Triggers/L": [
+            [
+              144.0,
+              96.0,
+              216.0,
+              144.0
+            ]
+          ],
+          "Classic/Buttons/Y": [
+            [
+              108.0,
+              96.0,
+              144.0,
+              144.0
+            ]
+          ],
+          "Classic/Buttons/X": [
+            [
+              72.0,
+              96.0,
+              108.0,
+              144.0
+            ]
+          ],
+          "Classic/Buttons/B": [
+            [
+              36.0,
+              96.0,
+              72.0,
+              144.0
+            ]
+          ],
+          "Classic/Buttons/A": [
+            [
+              0.0,
+              96.0,
+              36.0,
+              144.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_576x288_ca8174af6946fda9_$_9.png": {
+      "image": "tex1_576x288_ca8174af6946fda9_$_9.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/A": [
+            [
+              0.0,
+              48.0,
+              36.0,
+              96.0
+            ]
+          ],
+          "Buttons/B": [
+            [
+              36.0,
+              48.0,
+              72.0,
+              96.0
+            ]
+          ],
+          "Buttons/Start": [
+            [
+              360.0,
+              48.0,
+              396.0,
+              96.0
+            ]
+          ],
+          "Buttons/X": [
+            [
+              72.0,
+              48.0,
+              108.0,
+              96.0
+            ]
+          ],
+          "Buttons/Y": [
+            [
+              108.0,
+              48.0,
+              144.0,
+              96.0
+            ]
+          ],
+          "Buttons/Z": [
+            [
+              288.0,
+              48.0,
+              360.0,
+              96.0
+            ]
+          ],
+          "Triggers/L": [
+            [
+              144.0,
+              48.0,
+              216.0,
+              96.0
+            ]
+          ],
+          "Triggers/R": [
+            [
+              216.0,
+              48.0,
+              288.0,
+              96.0
+            ]
+          ]
+        },
+        "Wiimote1": {
+          "Buttons/Home": [
+            [
+              720.0,
+              144.0,
+              756.0,
+              192.0
+            ],
+            [
+              720.0,
+              96.0,
+              756.0,
+              144.0
+            ]
+          ],
+          "Buttons/-": [
+            [
+              684.0,
+              144.0,
+              720.0,
+              192.0
+            ]
+          ],
+          "Classic/Buttons/-": [
+            [
+              684.0,
+              96.0,
+              720.0,
+              144.0
+            ]
+          ],
+          "Buttons/1": [
+            [
+              72.0,
+              144.0,
+              108.0,
+              192.0
+            ]
+          ],
+          "Buttons/2": [
+            [
+              108.0,
+              144.0,
+              144.0,
+              192.0
             ]
           ],
           "Buttons/B": [
@@ -1616,7 +2198,7 @@
               108.0,
               144.0,
               144.0,
-              145.0
+              192.0
             ]
           ],
           "Buttons/B": [
