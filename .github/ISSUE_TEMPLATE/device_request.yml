@@ -36,6 +36,7 @@ body:
     label: What is the key assignment.
     description: What are the keys named in dolphin and what would be the understandable name. [Templates](https://github.com/Venomalia/UniversalDynamicInput/wiki/Device-Templates)
     placeholder: |
+      '"`Key ID`" = Description'
       '"`Button 1`" = A Button'
       '"`Button 2`" = B Button'
       '"`Axis Z+`" = Trigger L'
