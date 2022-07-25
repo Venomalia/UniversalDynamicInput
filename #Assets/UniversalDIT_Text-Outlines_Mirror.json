@@ -897,7 +897,6 @@
       "`Full Axis 5+`": "../#DefaultDevices/_Mirror/DualShock4/Text-Outlines/R2.png"
     },
     "SDL/0/Controller (Xbox One For Windows)": {
-      "SDL/0/Controller (Xbox One For Windows)": "../#DefaultDevices/_Mirror/XBOX ONE/Device/Icon.png",
       "`Button 0`": "../#DefaultDevices/_Mirror/XBOX ONE/Text-Outlines/Button A.png",
       "`Button 1`": "../#DefaultDevices/_Mirror/XBOX ONE/Text-Outlines/Button B.png",
       "`Button 2`": "../#DefaultDevices/_Mirror/XBOX ONE/Text-Outlines/Button X.png",
@@ -925,7 +924,6 @@
       "`Full Axis 5+`": "../#DefaultDevices/_Mirror/XBOX ONE/Text-Outlines/Trigger R.png"
     },
     " SDL/0/PS5 Controller": {
-      "SDL/0/PS5 Controller": "../#DefaultDevices/_Mirror/DualShock4/Device/Icon.png",
       "`Button 0`": "../#DefaultDevices/_Mirror/DualShock4/Text-Outlines/Cross.png",
       "`Button 1`": "../#DefaultDevices/_Mirror/DualShock4/Text-Outlines/Circle.png",
       "`Button 2`": "../#DefaultDevices/_Mirror/DualShock4/Text-Outlines/Square.png",
@@ -954,7 +952,6 @@
       "`Full Axis 5+`": "../#DefaultDevices/_Mirror/DualShock4/Text-Outlines/R2.png"
     },
     "SDL/0/Switch Pro Controller": {
-      "SDL/0/Switch Pro Controller": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Device/Icon.png",
       "`Button 0`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Text-Outlines/Button A.png",
       "`Button 1`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Text-Outlines/Button B.png",
       "`Button 2`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Text-Outlines/Button X.png",
