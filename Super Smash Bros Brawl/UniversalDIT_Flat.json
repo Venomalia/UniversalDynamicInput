@@ -1837,6 +1837,81 @@
           ]
         }
       }
+    },
+    "tex1_40x36_9ceffd0f1fae7131_59a78f70a511483d_9.png": {
+      "image": "tex1_40x36_9ceffd0f1fae7131_59a78f70a511483d_9.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/A": [
+            [
+              0.0,
+              0.0,
+              160.0,
+              144.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_40x36_900213d55eb68682_8329912412220973_9.png": {
+      "image": "tex1_40x36_900213d55eb68682_8329912412220973_9.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/2": [
+            [
+              0.0,
+              0.0,
+              160.0,
+              144.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_40x36_a1279a4bdbf60d73_7242d6aafafa1fc7_9.png": {
+      "image": "tex1_40x36_a1279a4bdbf60d73_7242d6aafafa1fc7_9.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Classic/Buttons/A": [
+            [
+              0.0,
+              0.0,
+              160.0,
+              144.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_48x32_926ab381d0ac088c_ec8f9b094429ea3b_9.png": {
+      "image": "tex1_48x32_926ab381d0ac088c_ec8f9b094429ea3b_9.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Classic/Buttons/ZR": [
+            [
+              0.0,
+              0.0,
+              192.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_48x32_d2d08316c010fce0_d8145c321ae28b13_9.png": {
+      "image": "tex1_48x32_d2d08316c010fce0_d8145c321ae28b13_9.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/B": [
+            [
+              0.0,
+              0.0,
+              192.0,
+              128.0
+            ]
+          ]
+        }
+      }
     }
   }
 }
