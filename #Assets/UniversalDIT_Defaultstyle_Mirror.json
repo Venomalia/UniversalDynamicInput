@@ -373,9 +373,9 @@
 	"DInput/0/Pro Controller": {
       "DInput/0/Pro Controller": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Device\\Icon.png",
       "`Button 0`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Defaultstyle\\Button B.png",
-      "`Button 1`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Defaultstyle\\Button X.png",
-      "`Button 2`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Defaultstyle\\Button A.png",
-      "`Button 3`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Defaultstyle\\Button Y.png",
+      "`Button 1`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Defaultstyle\\Button A.png",
+      "`Button 2`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Defaultstyle\\Button Y.png",
+      "`Button 3`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Defaultstyle\\Button X.png",
       "`Button 4`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Defaultstyle\\L.png",
       "`Button 5`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Defaultstyle\\R.png",
       "`Button 6`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Defaultstyle\\ZL.png",
