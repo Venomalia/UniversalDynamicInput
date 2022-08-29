@@ -237,6 +237,49 @@
       "Triangle": "../#DefaultDevices/DualShock4/Defaultstyle/Triangle.png",
       "Touch Button": "../#DefaultDevices/DualShock4/Defaultstyle/Touchpad.png"
     },
+    "DSUClient/0/": {
+      "DSUClient/0/": "../#DefaultDevices/DualShock4/Device/Icon.png",
+      "`Circle`": "../#DefaultDevices/DualShock4/Defaultstyle/Circle.png",
+      "`Cross`": "../#DefaultDevices/DualShock4/Defaultstyle/Cross.png",
+      "`L1`": "../#DefaultDevices/DualShock4/Defaultstyle/L1.png",
+      "`L2`": "../#DefaultDevices/DualShock4/Defaultstyle/L2.png",
+      "`L3`": "../#DefaultDevices/DualShock4/Defaultstyle/L3.png",
+      "`Left X-`": "../#DefaultDevices/DualShock4/Defaultstyle/Left X-.png",
+      "`Left X+`": "../#DefaultDevices/DualShock4/Defaultstyle/Left X+.png",
+      "`Left Y-`": "../#DefaultDevices/DualShock4/Defaultstyle/Left Y-.png",
+      "`Left Y+`": "../#DefaultDevices/DualShock4/Defaultstyle/Left Y+.png",
+      "`Options`": "../#DefaultDevices/DualShock4/Defaultstyle/Options.png",
+      "`Pad E`": "../#DefaultDevices/DualShock4/Defaultstyle/Pad E.png",
+      "`Pad N`": "../#DefaultDevices/DualShock4/Defaultstyle/Pad N.png",
+      "`Pad S`": "../#DefaultDevices/DualShock4/Defaultstyle/Pad S.png",
+      "`Pad W`": "../#DefaultDevices/DualShock4/Defaultstyle/Pad W.png",
+      "`PS`": "../#DefaultDevices/DualShock4/Defaultstyle/PS.png",
+      "`R1`": "../#DefaultDevices/DualShock4/Defaultstyle/R1.png",
+      "`R2`": "../#DefaultDevices/DualShock4/Defaultstyle/R2.png",
+      "`R3`": "../#DefaultDevices/DualShock4/Defaultstyle/R3.png",
+      "`Right X-`": "../#DefaultDevices/DualShock4/Defaultstyle/Right X-.png",
+      "`Right X+`": "../#DefaultDevices/DualShock4/Defaultstyle/Right X+.png",
+      "`Right Y-`": "../#DefaultDevices/DualShock4/Defaultstyle/Right Y-.png",
+      "`Right Y+`": "../#DefaultDevices/DualShock4/Defaultstyle/Right Y+.png",
+      "`Share`": "../#DefaultDevices/DualShock4/Defaultstyle/Share.png",
+      "`Square`": "../#DefaultDevices/DualShock4/Defaultstyle/Square.png",
+      "`Triangle`": "../#DefaultDevices/DualShock4/Defaultstyle/Triangle.png",
+      "`Touch Button`": "../#DefaultDevices/DualShock4/Defaultstyle/Touchpad.png",
+      "Circle": "../#DefaultDevices/DualShock4/Defaultstyle/Circle.png",
+      "Cross": "../#DefaultDevices/DualShock4/Defaultstyle/Cross.png",
+      "L1": "../#DefaultDevices/DualShock4/Defaultstyle/L1.png",
+      "L2": "../#DefaultDevices/DualShock4/Defaultstyle/L2.png",
+      "L3": "../#DefaultDevices/DualShock4/Defaultstyle/L3.png",
+      "Options": "../#DefaultDevices/DualShock4/Defaultstyle/Options.png",
+      "PS": "../#DefaultDevices/DualShock4/Defaultstyle/PS.png",
+      "R1": "../#DefaultDevices/DualShock4/Defaultstyle/R1.png",
+      "R2": "../#DefaultDevices/DualShock4/Defaultstyle/R2.png",
+      "R3": "../#DefaultDevices/DualShock4/Defaultstyle/R3.png",
+      "Share": "../#DefaultDevices/DualShock4/Defaultstyle/Share.png",
+      "Square": "../#DefaultDevices/DualShock4/Defaultstyle/Square.png",
+      "Triangle": "../#DefaultDevices/DualShock4/Defaultstyle/Triangle.png",
+      "Touch Button": "../#DefaultDevices/DualShock4/Defaultstyle/Touchpad.png"
+    },
     "DSUClient/0/BetterJoy": {
       "DSUClient/0/BetterJoy": "../#DefaultDevices/Switch_Pro Controller/Device/Icon.png",
       "`Circle`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button A.png",
@@ -377,7 +420,7 @@
       "`Axis Yr+`": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Right Y-.png",
       "`Axis Yr-`": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Right Y+.png"
     },
-    "DInput/0/Pro Controller": {
+	"DInput/0/Pro Controller": {
       "DInput/0/Pro Controller": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon.png",
       "`Button 0`": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Button B.png",
       "`Button 1`": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Button A.png",
@@ -660,7 +703,7 @@
       "evdev/0/Bensussen Deutsch & Associates,Inc.(BDA) NSW Spectra Wired Controller": "../#DefaultDevices/Switch_Pro Controller/Device/Icon.png",
       "C": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button A.png",
       "EAST": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button B.png",
-      "SOUTH": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button Y.png",
+	  "SOUTH": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button Y.png",
       "NORTH": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button X.png",
       "WEST": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/L.png",
       "Z": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/R.png",
@@ -691,8 +734,8 @@
       "EAST": "../#DefaultDevices/DualShock4/Defaultstyle/Circle.png",
       "WEST": "../#DefaultDevices/DualShock4/Defaultstyle/Square.png",
       "NORTH": "../#DefaultDevices/DualShock4/Defaultstyle/Triangle.png",
-      "TL": "../#DefaultDevices/DualShock4/Defaultstyle/L1.png",
-      "TR": "../#DefaultDevices/DualShock4/Defaultstyle/R1.png",
+      "Full Axis 2+": "../#DefaultDevices/DualShock4/Defaultstyle/L1.png",
+      "Full Axis 5+": "../#DefaultDevices/DualShock4/Defaultstyle/R1.png",
       "`TL2`": "../#DefaultDevices/DualShock4/Defaultstyle/L2.png",
       "`TR2`": "../#DefaultDevices/DualShock4/Defaultstyle/R2.png",
       "START": "../#DefaultDevices/DualShock4/Defaultstyle/Options.png",
@@ -722,8 +765,8 @@
       "NORTH": "../#DefaultDevices/DualShock4/Defaultstyle/Triangle.png",
       "TL": "../#DefaultDevices/DualShock4/Defaultstyle/L1.png",
       "TR": "../#DefaultDevices/DualShock4/Defaultstyle/R1.png",
-      "`TL2`": "../#DefaultDevices/DualShock4/Defaultstyle/L2.png",
-      "`TR2`": "../#DefaultDevices/DualShock4/Defaultstyle/R2.png",
+      "`Full Axis 2+`": "../#DefaultDevices/DualShock4/Defaultstyle/L2.png",
+      "`Full Axis 5+`": "../#DefaultDevices/DualShock4/Defaultstyle/R2.png",
       "START": "../#DefaultDevices/DualShock4/Defaultstyle/Options.png",
       "SELECT": "../#DefaultDevices/DualShock4/Defaultstyle/Share.png",
       "MODE": "../#DefaultDevices/DualShock4/Defaultstyle/PS.png",
@@ -977,7 +1020,7 @@
       "`Button 0`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button A.png",
       "`Button 1`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button B.png",
       "`Button 2`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button X.png",
-      "`Button 3`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button Y.png",
+	  "`Button 3`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button Y.png",
       "`Button 4`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button -.png",
       "`Button 5`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Home.png",
       "`Button 6`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button +.png",
@@ -999,7 +1042,7 @@
       "`Axis 3+`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Right Y-.png",
       "`Axis 3-`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Right Y+.png",
       "`Full Axis 4+`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/ZL.png",
-      "`Full Axis 5+`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/ZR.png"
+      "`Full Axis 5+`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/ZR.png",
     },
     "Quartz/0/Keyboard & Mouse": {
       "`Left Click`": "../#DefaultDevices/Keyboard Mouse/Defaultstyle/Click 0.png",
@@ -1106,278 +1149,6 @@
       "`Keypad =`": "../#DefaultDevices/Keyboard Mouse/Defaultstyle/EQUALS.png"
     }
   },
-  "generated_folder_name": "#Generated_Dragon Ball Z Budokai Tenkaichi 3",
   "preserve_aspect_ratio": true,
-  "output_textures": {
-    "tex1_32x32_02fa21d9fbaecd08_d893efb50b7e18ed_8.png": {
-      "image": "tex1_32x32_02fa21d9fbaecd08_d893efb50b7e18ed_8.png",
-      "emulated_controls": {
-        "Wiimote1": {
-          "Classic/Left Stick/Up": [
-            [
-              -0.0,
-              8.0,
-              116.0,
-              124.0
-            ]
-          ]
-        }
-      }
-    },
-    "tex1_32x32_2b41ccb1ba0839d1_5cd1c2bddf313084_8.png": {
-      "image": "tex1_32x32_2b41ccb1ba0839d1_5cd1c2bddf313084_8.png",
-      "emulated_controls": {
-        "Wiimote1": {
-          "Classic/Buttons/X": [
-            [
-              0.0,
-              16.0,
-              100.0,
-              116.0
-            ]
-          ]
-        }
-      }
-    },
-    "tex1_32x32_6a57df2ea4e71094_eb41f554afdfbc82_8.png": {
-      "image": "tex1_32x32_6a57df2ea4e71094_eb41f554afdfbc82_8.png",
-      "emulated_controls": {
-        "Wiimote1": {
-          "Classic/Left Stick/Left": [
-            [
-              0.0,
-              8.0,
-              116.0,
-              124.0
-            ]
-          ]
-        }
-      }
-    },
-    "tex1_32x32_10f4e813d60b46a3_3be74edcd381885d_8.png": {
-      "image": "tex1_32x32_10f4e813d60b46a3_3be74edcd381885d_8.png",
-      "emulated_controls": {
-        "Wiimote1": {
-          "Classic/Buttons/ZL": [
-            [
-              0.0,
-              14.0,
-              100.0,
-              114.0
-            ]
-          ]
-        }
-      }
-    },
-    "tex1_32x32_8616a2b87f411380_b5e3186c7e46b555_8.png": {
-      "image": "tex1_32x32_8616a2b87f411380_b5e3186c7e46b555_8.png",
-      "emulated_controls": {
-        "Wiimote1": {
-          "Classic/Buttons/A": [
-            [
-              0.0,
-              16.0,
-              100.0,
-              116.0
-            ]
-          ]
-        }
-      }
-    },
-    "tex1_32x32_30795f6e7315bcfe_467ca66cf25da14c_8.png": {
-      "image": "tex1_32x32_30795f6e7315bcfe_467ca66cf25da14c_8.png",
-      "emulated_controls": {
-        "Wiimote1": {
-          "Classic/Left Stick/Right": [
-            [
-              0.0,
-              8.0,
-              116.0,
-              124.0
-            ]
-          ]
-        }
-      }
-    },
-    "tex1_32x32_76104441020c72e3_12eb951484f2871c_8.png": {
-      "image": "tex1_32x32_76104441020c72e3_12eb951484f2871c_8.png",
-      "emulated_controls": {
-        "Wiimote1": {
-          "Classic/Left Stick/Right": [
-            [
-              0.0,
-              8.0,
-              116.0,
-              124.0
-            ]
-          ]
-        }
-      }
-    },
-    "tex1_32x32_a387a21aa0198fc8_421a2f090601c665_8.png": {
-      "image": "tex1_32x32_a387a21aa0198fc8_421a2f090601c665_8.png",
-      "emulated_controls": {
-        "Wiimote1": {
-          "Classic/Buttons/B": [
-            [
-              0.0,
-              16.0,
-              100.0,
-              116.0
-            ]
-          ]
-        }
-      }
-    },
-    "tex1_32x32_f82f21fa2dbc0f44_6a8804aa7f263cc2_8.png": {
-      "image": "tex1_32x32_f82f21fa2dbc0f44_6a8804aa7f263cc2_8.png",
-      "emulated_controls": {
-        "Wiimote1": {
-          "Classic/Buttons/Y": [
-            [
-              0.0,
-              16.0,
-              100.0,
-              116.0
-            ]
-          ]
-        }
-      }
-    },
-    "tex1_32x32_4a3ce686c4d7d216_d9a6c961c9883e00_8.png": {
-      "image": "tex1_32x32_4a3ce686c4d7d216_d9a6c961c9883e00_8.png",
-      "emulated_controls": {
-        "GCPad1": {
-          "Main Stick/Right": [
-            [
-              0.0,
-              6.0,
-              116.0,
-              122.0
-            ]
-          ]
-        }
-      }
-    },
-    "tex1_32x32_4f6911885cbfd6b7_b01602f981cf7194_8.png": {
-      "image": "tex1_32x32_4f6911885cbfd6b7_b01602f981cf7194_8.png",
-      "emulated_controls": {
-        "GCPad1": {
-          "Main Stick/Down": [
-            [
-              0.0,
-              6.0,
-              116.0,
-              122.0
-            ]
-          ]
-        }
-      }
-    },
-    "tex1_32x32_15f350b2b7f46481_66860824280a89bf_8.png": {
-      "image": "tex1_32x32_15f350b2b7f46481_66860824280a89bf_8.png",
-      "emulated_controls": {
-        "GCPad1": {
-          "Buttons/Y": [
-            [
-              0.0,
-              14.0,
-              108.0,
-              122.0
-            ]
-          ]
-        }
-      }
-    },
-    "tex1_32x32_56eb18736158692a_831cb2dcaee7d9c7_8.png": {
-      "image": "tex1_32x32_56eb18736158692a_831cb2dcaee7d9c7_8.png",
-      "emulated_controls": {
-        "GCPad1": {
-          "Main Stick/Up": [
-            [
-              0.0,
-              6.0,
-              116.0,
-              122.0
-            ]
-          ]
-        }
-      }
-    },
-    "tex1_32x32_630cfa888a9d005a_d95570935377e345_8.png": {
-      "image": "tex1_32x32_630cfa888a9d005a_d95570935377e345_8.png",
-      "emulated_controls": {
-        "GCPad1": {
-          "Buttons/X": [
-            [
-              0.0,
-              4.0,
-              120.0,
-              124.0
-            ]
-          ]
-        }
-      }
-    },
-    "tex1_32x32_936430ddac385f15_f6282023fcd9b208_8.png": {
-      "image": "tex1_32x32_936430ddac385f15_f6282023fcd9b208_8.png",
-      "emulated_controls": {
-        "GCPad1": {
-          "Buttons/Z": [
-            [
-              0.0,
-              4.0,
-              120.0,
-              124.0
-            ]
-          ]
-        }
-      }
-    },
-    "tex1_32x32_b52817e68be0e2d7_d1b283ce04ce1c7c_8.png": {
-      "image": "tex1_32x32_b52817e68be0e2d7_d1b283ce04ce1c7c_8.png",
-      "emulated_controls": {
-        "GCPad1": {
-          "Buttons/B": [
-            [
-              0.0,
-              16.0,
-              100.0,
-              116.0
-            ]
-          ]
-        }
-      }
-    },
-    "tex1_32x32_ce62786fc1170192_70b585e07941e91c_8.png": {
-      "image": "tex1_32x32_ce62786fc1170192_70b585e07941e91c_8.png",
-      "emulated_controls": {
-        "GCPad1": {
-          "Buttons/A": [
-            [
-              0.0,
-              16.0,
-              100.0,
-              116.0
-            ]
-          ]
-        }
-      }
-    },
-    "tex1_32x32_de66fb7b17f39fb2_723568783ce8af39_8.png": {
-      "image": "tex1_32x32_de66fb7b17f39fb2_723568783ce8af39_8.png",
-      "emulated_controls": {
-        "GCPad1": {
-          "Main Stick/Up": [
-            [
-              0.0,
-              6.0,
-              116.0,
-              122.0
-            ]
-          ]
-        }
-      }
-    }
-  }
+  "output_textures": {}
 }

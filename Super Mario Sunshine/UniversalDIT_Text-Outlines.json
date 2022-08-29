@@ -236,6 +236,49 @@
       "Triangle": "../#DefaultDevices/DualShock4/Text-Outlines/Triangle.png",
       "Touch Button": "../#DefaultDevices/DualShock4/Text-Outlines/Touchpad.png"
     },
+    "DSUClient/0/": {
+      "DSUClient/0/": "../#DefaultDevices/DualShock4/Device/Icon.png",
+      "`Circle`": "../#DefaultDevices/DualShock4/Text-Outlines/Circle.png",
+      "`Cross`": "../#DefaultDevices/DualShock4/Text-Outlines/Cross.png",
+      "`L1`": "../#DefaultDevices/DualShock4/Text-Outlines/L1.png",
+      "`L2`": "../#DefaultDevices/DualShock4/Text-Outlines/L2.png",
+      "`L3`": "../#DefaultDevices/DualShock4/Text-Outlines/L3.png",
+      "`Left X-`": "../#DefaultDevices/DualShock4/Text-Outlines/Left X-.png",
+      "`Left X+`": "../#DefaultDevices/DualShock4/Text-Outlines/Left X+.png",
+      "`Left Y-`": "../#DefaultDevices/DualShock4/Text-Outlines/Left Y-.png",
+      "`Left Y+`": "../#DefaultDevices/DualShock4/Text-Outlines/Left Y+.png",
+      "`Options`": "../#DefaultDevices/DualShock4/Text-Outlines/Options.png",
+      "`Pad E`": "../#DefaultDevices/DualShock4/Text-Outlines/Pad E.png",
+      "`Pad N`": "../#DefaultDevices/DualShock4/Text-Outlines/Pad N.png",
+      "`Pad S`": "../#DefaultDevices/DualShock4/Text-Outlines/Pad S.png",
+      "`Pad W`": "../#DefaultDevices/DualShock4/Text-Outlines/Pad W.png",
+      "`PS`": "../#DefaultDevices/DualShock4/Text-Outlines/PS.png",
+      "`R1`": "../#DefaultDevices/DualShock4/Text-Outlines/R1.png",
+      "`R2`": "../#DefaultDevices/DualShock4/Text-Outlines/R2.png",
+      "`R3`": "../#DefaultDevices/DualShock4/Text-Outlines/R3.png",
+      "`Right X-`": "../#DefaultDevices/DualShock4/Text-Outlines/Right X-.png",
+      "`Right X+`": "../#DefaultDevices/DualShock4/Text-Outlines/Right X+.png",
+      "`Right Y-`": "../#DefaultDevices/DualShock4/Text-Outlines/Right Y-.png",
+      "`Right Y+`": "../#DefaultDevices/DualShock4/Text-Outlines/Right Y+.png",
+      "`Share`": "../#DefaultDevices/DualShock4/Text-Outlines/Share.png",
+      "`Square`": "../#DefaultDevices/DualShock4/Text-Outlines/Square.png",
+      "`Triangle`": "../#DefaultDevices/DualShock4/Text-Outlines/Triangle.png",
+      "`Touch Button`": "../#DefaultDevices/DualShock4/Text-Outlines/Touchpad.png",
+      "Circle": "../#DefaultDevices/DualShock4/Text-Outlines/Circle.png",
+      "Cross": "../#DefaultDevices/DualShock4/Text-Outlines/Cross.png",
+      "L1": "../#DefaultDevices/DualShock4/Text-Outlines/L1.png",
+      "L2": "../#DefaultDevices/DualShock4/Text-Outlines/L2.png",
+      "L3": "../#DefaultDevices/DualShock4/Text-Outlines/L3.png",
+      "Options": "../#DefaultDevices/DualShock4/Text-Outlines/Options.png",
+      "PS": "../#DefaultDevices/DualShock4/Text-Outlines/PS.png",
+      "R1": "../#DefaultDevices/DualShock4/Text-Outlines/R1.png",
+      "R2": "../#DefaultDevices/DualShock4/Text-Outlines/R2.png",
+      "R3": "../#DefaultDevices/DualShock4/Text-Outlines/R3.png",
+      "Share": "../#DefaultDevices/DualShock4/Text-Outlines/Share.png",
+      "Square": "../#DefaultDevices/DualShock4/Text-Outlines/Square.png",
+      "Triangle": "../#DefaultDevices/DualShock4/Text-Outlines/Triangle.png",
+      "Touch Button": "../#DefaultDevices/DualShock4/Text-Outlines/Touchpad.png"
+    },
     "DSUClient/0/BetterJoy": {
       "DSUClient/0/BetterJoy": "../#DefaultDevices/Switch_Pro Controller/Device/Icon.png",
       "`Circle`": "../#DefaultDevices/Switch_Pro Controller/Text-Outlines/Button A.png",
@@ -376,7 +419,7 @@
       "`Axis Yr+`": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Outlines\\Right Y-.png",
       "`Axis Yr-`": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Outlines\\Right Y+.png"
     },
-    "DInput/0/Pro Controller": {
+	"DInput/0/Pro Controller": {
       "DInput/0/Pro Controller": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon.png",
       "`Button 0`": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Outlines\\Button B.png",
       "`Button 1`": "..\\#DefaultDevices\\Switch_Pro Controller\\Text-Outlines\\Button A.png",
@@ -659,7 +702,7 @@
       "evdev/0/Bensussen Deutsch & Associates,Inc.(BDA) NSW Spectra Wired Controller": "../#DefaultDevices/Switch_Pro Controller/Device/Icon.png",
       "C": "../#DefaultDevices/Switch_Pro Controller/Text-Outlines/Button A.png",
       "EAST": "../#DefaultDevices/Switch_Pro Controller/Text-Outlines/Button B.png",
-      "SOUTH": "../#DefaultDevices/Switch_Pro Controller/Text-Outlines/Button Y.png",
+	  "SOUTH": "../#DefaultDevices/Switch_Pro Controller/Text-Outlines/Button Y.png",
       "NORTH": "../#DefaultDevices/Switch_Pro Controller/Text-Outlines/Button X.png",
       "WEST": "../#DefaultDevices/Switch_Pro Controller/Text-Outlines/L.png",
       "Z": "../#DefaultDevices/Switch_Pro Controller/Text-Outlines/R.png",
@@ -692,8 +735,8 @@
       "NORTH": "../#DefaultDevices/DualShock4/Text-Outlines/Triangle.png",
       "TL": "../#DefaultDevices/DualShock4/Text-Outlines/L1.png",
       "TR": "../#DefaultDevices/DualShock4/Text-Outlines/R1.png",
-      "`TL2`": "../#DefaultDevices/DualShock4/Text-Outlines/L2.png",
-      "`TR2`": "../#DefaultDevices/DualShock4/Text-Outlines/R2.png",
+      "`Full Axis 2+`": "../#DefaultDevices/DualShock4/Text-Outlines/L2.png",
+      "`Full Axis 5+`": "../#DefaultDevices/DualShock4/Text-Outlines/R2.png",
       "START": "../#DefaultDevices/DualShock4/Text-Outlines/Options.png",
       "SELECT": "../#DefaultDevices/DualShock4/Text-Outlines/Share.png",
       "MODE": "../#DefaultDevices/DualShock4/Text-Outlines/PS.png",
@@ -721,8 +764,8 @@
       "NORTH": "../#DefaultDevices/DualShock4/Text-Outlines/Triangle.png",
       "TL": "../#DefaultDevices/DualShock4/Text-Outlines/L1.png",
       "TR": "../#DefaultDevices/DualShock4/Text-Outlines/R1.png",
-      "`TL2`": "../#DefaultDevices/DualShock4/Text-Outlines/L2.png",
-      "`TR2`": "../#DefaultDevices/DualShock4/Text-Outlines/R2.png",
+      "`Full Axis 2+`": "../#DefaultDevices/DualShock4/Text-Outlines/L2.png",
+      "`Full Axis 5+`": "../#DefaultDevices/DualShock4/Text-Outlines/R2.png",
       "START": "../#DefaultDevices/DualShock4/Text-Outlines/Options.png",
       "SELECT": "../#DefaultDevices/DualShock4/Text-Outlines/Share.png",
       "MODE": "../#DefaultDevices/DualShock4/Text-Outlines/PS.png",
@@ -976,7 +1019,7 @@
       "`Button 0`": "../#DefaultDevices/Switch_Pro Controller/Text-Outlines/Button A.png",
       "`Button 1`": "../#DefaultDevices/Switch_Pro Controller/Text-Outlines/Button B.png",
       "`Button 2`": "../#DefaultDevices/Switch_Pro Controller/Text-Outlines/Button X.png",
-      "`Button 3`": "../#DefaultDevices/Switch_Pro Controller/Text-Outlines/Button Y.png",
+	  "`Button 3`": "../#DefaultDevices/Switch_Pro Controller/Text-Outlines/Button Y.png",
       "`Button 4`": "../#DefaultDevices/Switch_Pro Controller/Text-Outlines/Button -.png",
       "`Button 5`": "../#DefaultDevices/Switch_Pro Controller/Text-Outlines/Home.png",
       "`Button 6`": "../#DefaultDevices/Switch_Pro Controller/Text-Outlines/Button +.png",
@@ -998,7 +1041,7 @@
       "`Axis 3+`": "../#DefaultDevices/Switch_Pro Controller/Text-Outlines/Right Y-.png",
       "`Axis 3-`": "../#DefaultDevices/Switch_Pro Controller/Text-Outlines/Right Y+.png",
       "`Full Axis 4+`": "../#DefaultDevices/Switch_Pro Controller/Text-Outlines/ZL.png",
-      "`Full Axis 5+`": "../#DefaultDevices/Switch_Pro Controller/Text-Outlines/ZR.png"
+      "`Full Axis 5+`": "../#DefaultDevices/Switch_Pro Controller/Text-Outlines/ZR.png",
     },
     "Quartz/0/Keyboard & Mouse": {
       "`Left Click`": "../#DefaultDevices/Keyboard Mouse/Text-Outlines/Click 0.png",
@@ -1105,23 +1148,6 @@
       "`Keypad =`": "../#DefaultDevices/Keyboard Mouse/Text-Outlines/EQUALS.png"
     }
   },
-  "generated_folder_name": "#Generated_Super Mario Sunshine",
   "preserve_aspect_ratio": true,
-  "output_textures": {
-    "tex1_34x44_c9717b966554213f_2.png": {
-      "image": "tex1_34x44_c9717b966554213f_2.png",
-      "emulated_controls": {
-        "GCPad1": {
-          "Buttons/X": [
-            [
-              26.0,
-              28.0,
-              110.0,
-              112.0
-            ]
-          ]
-        }
-      }
-    }
-  }
+  "output_textures": {}
 }
