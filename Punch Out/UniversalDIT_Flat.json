@@ -420,7 +420,7 @@
       "`Axis Yr+`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Right Y-.png",
       "`Axis Yr-`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Right Y+.png"
     },
-	"DInput/0/Pro Controller": {
+    "DInput/0/Pro Controller": {
       "DInput/0/Pro Controller": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon.png",
       "`Button 0`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button B.png",
       "`Button 1`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button A.png",
@@ -703,7 +703,7 @@
       "evdev/0/Bensussen Deutsch & Associates,Inc.(BDA) NSW Spectra Wired Controller": "../#DefaultDevices/Switch_Pro Controller/Device/Icon.png",
       "C": "../#DefaultDevices/Switch_Pro Controller/Flat/Button A.png",
       "EAST": "../#DefaultDevices/Switch_Pro Controller/Flat/Button B.png",
-	  "SOUTH": "../#DefaultDevices/Switch_Pro Controller/Flat/Button Y.png",
+      "SOUTH": "../#DefaultDevices/Switch_Pro Controller/Flat/Button Y.png",
       "NORTH": "../#DefaultDevices/Switch_Pro Controller/Flat/Button X.png",
       "WEST": "../#DefaultDevices/Switch_Pro Controller/Flat/L.png",
       "Z": "../#DefaultDevices/Switch_Pro Controller/Flat/R.png",
@@ -1020,7 +1020,7 @@
       "`Button 0`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button A.png",
       "`Button 1`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button B.png",
       "`Button 2`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button X.png",
-	  "`Button 3`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button Y.png",
+      "`Button 3`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button Y.png",
       "`Button 4`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button -.png",
       "`Button 5`": "../#DefaultDevices/Switch_Pro Controller/Flat/Home.png",
       "`Button 6`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button +.png",
@@ -1042,7 +1042,7 @@
       "`Axis 3+`": "../#DefaultDevices/Switch_Pro Controller/Flat/Right Y-.png",
       "`Axis 3-`": "../#DefaultDevices/Switch_Pro Controller/Flat/Right Y+.png",
       "`Full Axis 4+`": "../#DefaultDevices/Switch_Pro Controller/Flat/ZL.png",
-      "`Full Axis 5+`": "../#DefaultDevices/Switch_Pro Controller/Flat/ZR.png",
+      "`Full Axis 5+`": "../#DefaultDevices/Switch_Pro Controller/Flat/ZR.png"
     },
     "Quartz/0/Keyboard & Mouse": {
       "`Left Click`": "../#DefaultDevices/Keyboard Mouse/Flat/Click 0.png",
@@ -1149,6 +1149,158 @@
       "`Keypad =`": "../#DefaultDevices/Keyboard Mouse/Flat/EQUALS.png"
     }
   },
+  "generated_folder_name": "#Generated_Punch Out",
   "preserve_aspect_ratio": true,
-  "output_textures": {}
+  "output_textures": {
+    "tex1_128x128_m_2a6f353beffd1d2c_5.png": {
+      "image": "tex1_128x128.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/A": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_128x128_m_3d4a5d03f15582d5_5.png": {
+      "image": "tex1_128x128_m_3d4a5d03f15582d5_5.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Shake/Y": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_128x128_m_5dba80b101ceb791_5.png": {
+      "image": "tex1_128x128_m_5dba80b101ceb791_5.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Nunchuk/Shake/Y": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_128x128_m_8b82137469b0c6fc_85084dde54608354_9.png": {
+      "image": "tex1_128x128.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/B": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_128x128_m_948c1efbb62242c4_bac5ba66f36d4e36_9.png": {
+      "image": "tex1_128x128.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/A": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_128x128_m_6150a782d87e506b_ef58c6d3a3c22c18_9.png": {
+      "image": "tex1_128x128.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/2": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_128x128_m_cacbbb9e8ba51b5d_df1246123290a86b_9.png": {
+      "image": "tex1_128x128.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Nunchuk/Buttons/Z": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_128x128_m_ce0511765aacb987_486da9c81632fd0d_9.png": {
+      "image": "tex1_128x128.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Nunchuk/Buttons/C": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_128x128_m_ddd9ddf2bd4a780a_8661b913b85a8720_9.png": {
+      "image": "tex1_128x128.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/-": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_128x128_m_ff0d42747046b66c_4d71081cc1d2542b_9.png": {
+      "image": "tex1_128x128.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/1": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    }
+  }
 }

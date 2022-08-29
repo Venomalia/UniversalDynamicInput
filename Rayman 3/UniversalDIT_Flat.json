@@ -420,7 +420,7 @@
       "`Axis Yr+`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Right Y-.png",
       "`Axis Yr-`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Right Y+.png"
     },
-	"DInput/0/Pro Controller": {
+    "DInput/0/Pro Controller": {
       "DInput/0/Pro Controller": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon.png",
       "`Button 0`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button B.png",
       "`Button 1`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button A.png",
@@ -703,7 +703,7 @@
       "evdev/0/Bensussen Deutsch & Associates,Inc.(BDA) NSW Spectra Wired Controller": "../#DefaultDevices/Switch_Pro Controller/Device/Icon.png",
       "C": "../#DefaultDevices/Switch_Pro Controller/Flat/Button A.png",
       "EAST": "../#DefaultDevices/Switch_Pro Controller/Flat/Button B.png",
-	  "SOUTH": "../#DefaultDevices/Switch_Pro Controller/Flat/Button Y.png",
+      "SOUTH": "../#DefaultDevices/Switch_Pro Controller/Flat/Button Y.png",
       "NORTH": "../#DefaultDevices/Switch_Pro Controller/Flat/Button X.png",
       "WEST": "../#DefaultDevices/Switch_Pro Controller/Flat/L.png",
       "Z": "../#DefaultDevices/Switch_Pro Controller/Flat/R.png",
@@ -1020,7 +1020,7 @@
       "`Button 0`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button A.png",
       "`Button 1`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button B.png",
       "`Button 2`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button X.png",
-	  "`Button 3`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button Y.png",
+      "`Button 3`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button Y.png",
       "`Button 4`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button -.png",
       "`Button 5`": "../#DefaultDevices/Switch_Pro Controller/Flat/Home.png",
       "`Button 6`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button +.png",
@@ -1042,7 +1042,7 @@
       "`Axis 3+`": "../#DefaultDevices/Switch_Pro Controller/Flat/Right Y-.png",
       "`Axis 3-`": "../#DefaultDevices/Switch_Pro Controller/Flat/Right Y+.png",
       "`Full Axis 4+`": "../#DefaultDevices/Switch_Pro Controller/Flat/ZL.png",
-      "`Full Axis 5+`": "../#DefaultDevices/Switch_Pro Controller/Flat/ZR.png",
+      "`Full Axis 5+`": "../#DefaultDevices/Switch_Pro Controller/Flat/ZR.png"
     },
     "Quartz/0/Keyboard & Mouse": {
       "`Left Click`": "../#DefaultDevices/Keyboard Mouse/Flat/Click 0.png",
@@ -1149,6 +1149,87 @@
       "`Keypad =`": "../#DefaultDevices/Keyboard Mouse/Flat/EQUALS.png"
     }
   },
+  "generated_folder_name": "#Generated_Rayman 3",
   "preserve_aspect_ratio": true,
-  "output_textures": {}
+  "output_textures": {
+    "tex1_256x256_m_80cb370b2dfb06b2_6.png": {
+      "image": "tex1_256x256_m_80cb370b2dfb06b2_6.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "C-Stick/Up": [
+            [
+              4.0,
+              784.0,
+              112.0,
+              892.0
+            ]
+          ],
+          "Main Stick/Up": [
+            [
+              116.0,
+              784.0,
+              236.0,
+              892.0
+            ]
+          ],
+          "Buttons/Z": [
+            [
+              236.0,
+              812.0,
+              340.0,
+              868.0
+            ]
+          ],
+          "Triggers/L": [
+            [
+              348.0,
+              784.0,
+              492.0,
+              876.0
+            ]
+          ],
+          "Triggers/R": [
+            [
+              500.0,
+              784.0,
+              644.0,
+              876.0
+            ]
+          ],
+          "Buttons/A": [
+            [
+              4.0,
+              900.0,
+              120.0,
+              1016.0
+            ]
+          ],
+          "Buttons/B": [
+            [
+              120.0,
+              912.0,
+              216.0,
+              1008.0
+            ]
+          ],
+          "Buttons/X": [
+            [
+              226.0,
+              904.0,
+              322.0,
+              1016.0
+            ]
+          ],
+          "Buttons/Y": [
+            [
+              330.0,
+              916.0,
+              442.0,
+              1012.0
+            ]
+          ]
+        }
+      }
+    }
+  }
 }

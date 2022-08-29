@@ -412,7 +412,7 @@
       "`Axis Yr+`": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Right Stick.png",
       "`Axis Yr-`": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Right Stick.png"
     },
-	"DInput/0/Pro Controller": {
+    "DInput/0/Pro Controller": {
       "`Button 0`": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Button B.png",
       "`Button 1`": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Button A.png",
       "`Button 2`": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Button Y.png",
@@ -688,7 +688,7 @@
     "evdev/0/Bensussen Deutsch & Associates,Inc.(BDA) NSW Spectra Wired Controller": {
       "C": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle_Pressed/Button A.png",
       "EAST": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle_Pressed/Button B.png",
-	  "SOUTH": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle_Pressed/Button Y.png",
+      "SOUTH": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle_Pressed/Button Y.png",
       "NORTH": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle_Pressed/Button X.png",
       "WEST": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle_Pressed/L.png",
       "Z": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle_Pressed/R.png",
@@ -998,7 +998,7 @@
       "`Button 0`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle_Pressed/Button A.png",
       "`Button 1`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle_Pressed/Button B.png",
       "`Button 2`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle_Pressed/Button X.png",
-	  "`Button 3`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle_Pressed/Button Y.png",
+      "`Button 3`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle_Pressed/Button Y.png",
       "`Button 4`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle_Pressed/Button -.png",
       "`Button 5`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle_Pressed/Home.png",
       "`Button 6`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle_Pressed/Button +.png",
@@ -1020,7 +1020,7 @@
       "`Axis 3+`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle_Pressed/Right Stick.png",
       "`Axis 3-`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle_Pressed/Right Stick.png",
       "`Full Axis 4+`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle_Pressed/ZL.png",
-      "`Full Axis 5+`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle_Pressed/ZR.png",
+      "`Full Axis 5+`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle_Pressed/ZR.png"
     },
     "Quartz/0/Keyboard & Mouse": {
       "`Left Click`": "../#DefaultDevices/Keyboard Mouse/Defaultstyle_Pressed/Click 0.png",
@@ -1127,6 +1127,68 @@
       "`Keypad =`": "../#DefaultDevices/Keyboard Mouse/Defaultstyle_Pressed/EQUALS.png"
     }
   },
+  "generated_folder_name": "#Generated_Dragon Ball Z Budokai Tenkaichi 3",
   "preserve_aspect_ratio": true,
-  "output_textures": {}
+  "output_textures": {
+    "tex1_32x32_82cbd8fa63128d81_b7d53eb3b07da751_8.png": {
+      "image": "tex1_32x32_82cbd8fa63128d81_b7d53eb3b07da751_8.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Classic/Buttons/Y": [
+            [
+              0.0,
+              12.0,
+              104.0,
+              116.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_384944481fb09a8c_5bbccfc426b6ea0f_8.png": {
+      "image": "tex1_32x32_384944481fb09a8c_5bbccfc426b6ea0f_8.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Classic/Buttons/X": [
+            [
+              0.0,
+              12.0,
+              104.0,
+              116.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_00d2fb316a25d017_a889bebad6535a02_8.png": {
+      "image": "tex1_32x32_00d2fb316a25d017_a889bebad6535a02_8.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/Y": [
+            [
+              0.0,
+              4.0,
+              112.0,
+              116.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_2841b917a7c23834_bdbd0425eb2f4b52_8.png": {
+      "image": "tex1_32x32_2841b917a7c23834_bdbd0425eb2f4b52_8.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/A": [
+            [
+              0.0,
+              12.0,
+              104.0,
+              116.0
+            ]
+          ]
+        }
+      }
+    }
+  }
 }

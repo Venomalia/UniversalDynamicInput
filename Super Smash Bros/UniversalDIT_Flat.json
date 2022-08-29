@@ -420,7 +420,7 @@
       "`Axis Yr+`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Right Y-.png",
       "`Axis Yr-`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Right Y+.png"
     },
-	"DInput/0/Pro Controller": {
+    "DInput/0/Pro Controller": {
       "DInput/0/Pro Controller": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon.png",
       "`Button 0`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button B.png",
       "`Button 1`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button A.png",
@@ -703,7 +703,7 @@
       "evdev/0/Bensussen Deutsch & Associates,Inc.(BDA) NSW Spectra Wired Controller": "../#DefaultDevices/Switch_Pro Controller/Device/Icon.png",
       "C": "../#DefaultDevices/Switch_Pro Controller/Flat/Button A.png",
       "EAST": "../#DefaultDevices/Switch_Pro Controller/Flat/Button B.png",
-	  "SOUTH": "../#DefaultDevices/Switch_Pro Controller/Flat/Button Y.png",
+      "SOUTH": "../#DefaultDevices/Switch_Pro Controller/Flat/Button Y.png",
       "NORTH": "../#DefaultDevices/Switch_Pro Controller/Flat/Button X.png",
       "WEST": "../#DefaultDevices/Switch_Pro Controller/Flat/L.png",
       "Z": "../#DefaultDevices/Switch_Pro Controller/Flat/R.png",
@@ -1020,7 +1020,7 @@
       "`Button 0`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button A.png",
       "`Button 1`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button B.png",
       "`Button 2`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button X.png",
-	  "`Button 3`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button Y.png",
+      "`Button 3`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button Y.png",
       "`Button 4`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button -.png",
       "`Button 5`": "../#DefaultDevices/Switch_Pro Controller/Flat/Home.png",
       "`Button 6`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button +.png",
@@ -1042,7 +1042,7 @@
       "`Axis 3+`": "../#DefaultDevices/Switch_Pro Controller/Flat/Right Y-.png",
       "`Axis 3-`": "../#DefaultDevices/Switch_Pro Controller/Flat/Right Y+.png",
       "`Full Axis 4+`": "../#DefaultDevices/Switch_Pro Controller/Flat/ZL.png",
-      "`Full Axis 5+`": "../#DefaultDevices/Switch_Pro Controller/Flat/ZR.png",
+      "`Full Axis 5+`": "../#DefaultDevices/Switch_Pro Controller/Flat/ZR.png"
     },
     "Quartz/0/Keyboard & Mouse": {
       "`Left Click`": "../#DefaultDevices/Keyboard Mouse/Flat/Click 0.png",
@@ -1149,6 +1149,83 @@
       "`Keypad =`": "../#DefaultDevices/Keyboard Mouse/Flat/EQUALS.png"
     }
   },
+  "generated_folder_name": "#Generated_Super Smash Bros",
   "preserve_aspect_ratio": true,
-  "output_textures": {}
+  "output_textures": {
+    "tex1_16x12_7531c84396d35c8b_2.png": {
+      "image": "tex1_16x12_7531c84396d35c8b_2.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Triggers/R": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              96.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_16x16_1d1b498cc80e9d8a_2.png": {
+      "image": "tex1_16x16_1d1b498cc80e9d8a_2.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/B": [
+            [
+              0.0,
+              0.0,
+              104.0,
+              104.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_16x16_51b9e49f1d19a932_2.png": {
+      "image": "tex1_16x16_51b9e49f1d19a932_2.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/Z": [
+            [
+              0.0,
+              0.0,
+              72.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_16x16_161709e812523d6a_2.png": {
+      "image": "tex1_16x16_161709e812523d6a_2.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/A": [
+            [
+              0.0,
+              0.0,
+              104.0,
+              104.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_24x24_8819ed583cd7b9ae_2.png": {
+      "image": "tex1_24x24_8819ed583cd7b9ae_2.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "C-Stick/Up": [
+            [
+              0.0,
+              0.0,
+              192.0,
+              192.0
+            ]
+          ]
+        }
+      }
+    }
+  }
 }

@@ -420,7 +420,7 @@
       "`Axis Yr+`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Right Y-.png",
       "`Axis Yr-`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Right Y+.png"
     },
-	"DInput/0/Pro Controller": {
+    "DInput/0/Pro Controller": {
       "DInput/0/Pro Controller": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon.png",
       "`Button 0`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button B.png",
       "`Button 1`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button A.png",
@@ -703,7 +703,7 @@
       "evdev/0/Bensussen Deutsch & Associates,Inc.(BDA) NSW Spectra Wired Controller": "../#DefaultDevices/Switch_Pro Controller/Device/Icon.png",
       "C": "../#DefaultDevices/Switch_Pro Controller/Flat/Button A.png",
       "EAST": "../#DefaultDevices/Switch_Pro Controller/Flat/Button B.png",
-	  "SOUTH": "../#DefaultDevices/Switch_Pro Controller/Flat/Button Y.png",
+      "SOUTH": "../#DefaultDevices/Switch_Pro Controller/Flat/Button Y.png",
       "NORTH": "../#DefaultDevices/Switch_Pro Controller/Flat/Button X.png",
       "WEST": "../#DefaultDevices/Switch_Pro Controller/Flat/L.png",
       "Z": "../#DefaultDevices/Switch_Pro Controller/Flat/R.png",
@@ -1020,7 +1020,7 @@
       "`Button 0`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button A.png",
       "`Button 1`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button B.png",
       "`Button 2`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button X.png",
-	  "`Button 3`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button Y.png",
+      "`Button 3`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button Y.png",
       "`Button 4`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button -.png",
       "`Button 5`": "../#DefaultDevices/Switch_Pro Controller/Flat/Home.png",
       "`Button 6`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button +.png",
@@ -1042,7 +1042,7 @@
       "`Axis 3+`": "../#DefaultDevices/Switch_Pro Controller/Flat/Right Y-.png",
       "`Axis 3-`": "../#DefaultDevices/Switch_Pro Controller/Flat/Right Y+.png",
       "`Full Axis 4+`": "../#DefaultDevices/Switch_Pro Controller/Flat/ZL.png",
-      "`Full Axis 5+`": "../#DefaultDevices/Switch_Pro Controller/Flat/ZR.png",
+      "`Full Axis 5+`": "../#DefaultDevices/Switch_Pro Controller/Flat/ZR.png"
     },
     "Quartz/0/Keyboard & Mouse": {
       "`Left Click`": "../#DefaultDevices/Keyboard Mouse/Flat/Click 0.png",
@@ -1149,6 +1149,223 @@
       "`Keypad =`": "../#DefaultDevices/Keyboard Mouse/Flat/EQUALS.png"
     }
   },
+  "generated_folder_name": "#Generated_Phantasy Star Online 1&2",
   "preserve_aspect_ratio": true,
-  "output_textures": {}
+  "output_textures": {
+    "tex1_256x256_9a8106e4e7b524b8_5.png": {
+      "image": "tex1_256x256_9a8106e4e7b524b8_5.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/B": [
+            [
+              484.0,
+              835.0,
+              581.0,
+              934.0
+            ]
+          ],
+          "Buttons/A": [
+            [
+              580.0,
+              834.0,
+              675.0,
+              936.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_256x256_58a92a20d2d18945_5.png": {
+      "image": "tex1_256x256_58a92a20d2d18945_5.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/B": [
+            [
+              755.0,
+              307.0,
+              844.0,
+              397.0
+            ]
+          ],
+          "Buttons/A": [
+            [
+              843.0,
+              307.0,
+              933.0,
+              398.0
+            ]
+          ],
+          "Buttons/Z": [
+            [
+              755.0,
+              397.0,
+              845.0,
+              485.0
+            ]
+          ],
+          "Buttons/X": [
+            [
+              931.0,
+              307.0,
+              1022.0,
+              399.0
+            ]
+          ],
+          "C-Stick/Up": [
+            [
+              731.0,
+              484.0,
+              822.0,
+              574.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_256x256_c5ea265e56b05256_5.png": {
+      "image": "tex1_256x256_c5ea265e56b05256_5.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/B": [
+            [
+              707.0,
+              358.0,
+              805.0,
+              453.0
+            ]
+          ],
+          "Buttons/A": [
+            [
+              610.0,
+              355.0,
+              705.0,
+              448.0
+            ]
+          ],
+          "Buttons/X": [
+            [
+              805.0,
+              356.0,
+              898.0,
+              450.0
+            ]
+          ],
+          "Buttons/Y": [
+            [
+              897.0,
+              353.0,
+              993.0,
+              449.0
+            ]
+          ],
+          "Triggers/L": [
+            [
+              415.0,
+              538.0,
+              491.0,
+              635.0
+            ]
+          ],
+          "Triggers/R": [
+            [
+              490.0,
+              539.0,
+              566.0,
+              635.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_256x256_c8becd24623f1b78_c34e0c2475e68c13_9.png": {
+      "image": "tex1_256x256_c8becd24623f1b78_c34e0c2475e68c13_9.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Triggers/R": [
+            [
+              573.0,
+              105.0,
+              639.0,
+              176.0
+            ],
+            [
+              864.0,
+              407.0,
+              924.0,
+              466.0
+            ]
+          ],
+          "Triggers/L": [
+            [
+              571.0,
+              327.0,
+              636.0,
+              396.0
+            ],
+            [
+              805.0,
+              407.0,
+              865.0,
+              466.0
+            ]
+          ],
+          "Buttons/B": [
+            [
+              709.0,
+              808.0,
+              790.0,
+              890.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_256x256_f4f7d06cc8139132_3c43ba74053c8012_9.png": {
+      "image": "tex1_256x256_f4f7d06cc8139132_3c43ba74053c8012_9.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/A": [
+            [
+              865.0,
+              280.0,
+              926.0,
+              344.0
+            ]
+          ],
+          "Buttons/X": [
+            [
+              864.0,
+              344.0,
+              930.0,
+              408.0
+            ]
+          ],
+          "Buttons/Y": [
+            [
+              865.0,
+              407.0,
+              929.0,
+              472.0
+            ]
+          ],
+          "Triggers/L": [
+            [
+              865.0,
+              471.0,
+              928.0,
+              537.0
+            ]
+          ],
+          "Triggers/R": [
+            [
+              865.0,
+              537.0,
+              928.0,
+              600.0
+            ]
+          ]
+        }
+      }
+    }
+  }
 }

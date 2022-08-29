@@ -412,7 +412,7 @@
       "`Axis Yr+`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Right Y-.png",
       "`Axis Yr-`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Right Y+.png"
     },
-	"DInput/0/Pro Controller": {
+    "DInput/0/Pro Controller": {
       "`Button 0`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Button B.png",
       "`Button 1`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Button A.png",
       "`Button 2`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Button Y.png",
@@ -688,7 +688,7 @@
     "evdev/0/Bensussen Deutsch & Associates,Inc.(BDA) NSW Spectra Wired Controller": {
       "C": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/Button A.png",
       "EAST": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/Button B.png",
-	  "SOUTH": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/Button Y.png",
+      "SOUTH": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/Button Y.png",
       "NORTH": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/Button X.png",
       "WEST": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/L.png",
       "Z": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/R.png",
@@ -998,7 +998,7 @@
       "`Button 0`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/Button A.png",
       "`Button 1`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/Button B.png",
       "`Button 2`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/Button X.png",
-	  "`Button 3`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/Button Y.png",
+      "`Button 3`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/Button Y.png",
       "`Button 4`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/Button -.png",
       "`Button 5`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/Home.png",
       "`Button 6`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/Button +.png",
@@ -1020,7 +1020,7 @@
       "`Axis 3+`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/Right Y-.png",
       "`Axis 3-`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/Right Y+.png",
       "`Full Axis 4+`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/ZL.png",
-      "`Full Axis 5+`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/ZR.png",
+      "`Full Axis 5+`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/ZR.png"
     },
     "Quartz/0/Keyboard & Mouse": {
       "`Left Click`": "../#DefaultDevices/_Mirror/Keyboard Mouse/Flat/Click 0.png",
@@ -1127,5 +1127,103 @@
       "`Keypad =`": "../#DefaultDevices/_Mirror/Keyboard Mouse/Flat/EQUALS.png"
     }
   },
-  "output_textures": {}
+  "generated_folder_name": "#Generated_Prince of Persia The Sands of Time",
+  "preserve_aspect_ratio": true,
+  "output_textures": {
+    "tex1_256x256_579d6fca6fb0ddbd_e845e30dea8af287_9.png": {
+      "image": "tex1_256x256_579d6fca6fb0ddbd_e845e30dea8af287_9.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/B": [
+            [
+              29.0,
+              13.0,
+              117.0,
+              104.0
+            ]
+          ],
+          "Buttons/Start": [
+            [
+              130.0,
+              12.0,
+              336.0,
+              103.0
+            ]
+          ],
+          "Buttons/A": [
+            [
+              378.0,
+              2.0,
+              495.0,
+              122.0
+            ]
+          ],
+          "Buttons/Z": [
+            [
+              516.0,
+              18.0,
+              682.0,
+              95.0
+            ]
+          ],
+          "Buttons/Y": [
+            [
+              699.0,
+              18.0,
+              845.0,
+              117.0
+            ]
+          ],
+          "Buttons/X": [
+            [
+              883.0,
+              8.0,
+              982.0,
+              162.0
+            ]
+          ],
+          "C-Stick/Up": [
+            [
+              857.0,
+              201.0,
+              1009.0,
+              352.0
+            ]
+          ],
+          "D-Pad/Right": [
+            [
+              866.0,
+              383.0,
+              1004.0,
+              528.0
+            ]
+          ],
+          "Main Stick/Up": [
+            [
+              867.0,
+              563.0,
+              1001.0,
+              697.0
+            ]
+          ],
+          "Triggers/R": [
+            [
+              850.0,
+              734.0,
+              1005.0,
+              866.0
+            ]
+          ],
+          "Triggers/L": [
+            [
+              851.0,
+              884.0,
+              1003.0,
+              1015.0
+            ]
+          ]
+        }
+      }
+    }
+  }
 }

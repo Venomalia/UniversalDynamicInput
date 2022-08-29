@@ -420,7 +420,7 @@
       "`Axis Yr+`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Right Y-.png",
       "`Axis Yr-`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Right Y+.png"
     },
-	"DInput/0/Pro Controller": {
+    "DInput/0/Pro Controller": {
       "DInput/0/Pro Controller": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon.png",
       "`Button 0`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button B.png",
       "`Button 1`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button A.png",
@@ -703,7 +703,7 @@
       "evdev/0/Bensussen Deutsch & Associates,Inc.(BDA) NSW Spectra Wired Controller": "../#DefaultDevices/Switch_Pro Controller/Device/Icon.png",
       "C": "../#DefaultDevices/Switch_Pro Controller/Flat/Button A.png",
       "EAST": "../#DefaultDevices/Switch_Pro Controller/Flat/Button B.png",
-	  "SOUTH": "../#DefaultDevices/Switch_Pro Controller/Flat/Button Y.png",
+      "SOUTH": "../#DefaultDevices/Switch_Pro Controller/Flat/Button Y.png",
       "NORTH": "../#DefaultDevices/Switch_Pro Controller/Flat/Button X.png",
       "WEST": "../#DefaultDevices/Switch_Pro Controller/Flat/L.png",
       "Z": "../#DefaultDevices/Switch_Pro Controller/Flat/R.png",
@@ -1020,7 +1020,7 @@
       "`Button 0`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button A.png",
       "`Button 1`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button B.png",
       "`Button 2`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button X.png",
-	  "`Button 3`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button Y.png",
+      "`Button 3`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button Y.png",
       "`Button 4`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button -.png",
       "`Button 5`": "../#DefaultDevices/Switch_Pro Controller/Flat/Home.png",
       "`Button 6`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button +.png",
@@ -1042,7 +1042,7 @@
       "`Axis 3+`": "../#DefaultDevices/Switch_Pro Controller/Flat/Right Y-.png",
       "`Axis 3-`": "../#DefaultDevices/Switch_Pro Controller/Flat/Right Y+.png",
       "`Full Axis 4+`": "../#DefaultDevices/Switch_Pro Controller/Flat/ZL.png",
-      "`Full Axis 5+`": "../#DefaultDevices/Switch_Pro Controller/Flat/ZR.png",
+      "`Full Axis 5+`": "../#DefaultDevices/Switch_Pro Controller/Flat/ZR.png"
     },
     "Quartz/0/Keyboard & Mouse": {
       "`Left Click`": "../#DefaultDevices/Keyboard Mouse/Flat/Click 0.png",
@@ -1149,6 +1149,68 @@
       "`Keypad =`": "../#DefaultDevices/Keyboard Mouse/Flat/EQUALS.png"
     }
   },
+  "generated_folder_name": "#Generated_Zelda Wind Waker",
   "preserve_aspect_ratio": true,
-  "output_textures": {}
+  "output_textures": {
+    "tex1_48x24_c07e25b9bca86b7e_ce3f64d5da874475_8.png": {
+      "image": "tex1_48x24_c07e25b9bca86b7e_ce3f64d5da874475_8.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/Z": [
+            [
+              0.0,
+              0.0,
+              192.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_24x24_2c8476ec0c54301b_532709965b890d24_8.png": {
+      "image": "tex1_24x24.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Triggers/R": [
+            [
+              0.0,
+              0.0,
+              96.0,
+              96.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_24x24_dcda11193c4368a1_0773499c79b8de07_8.png": {
+      "image": "tex1_24x24.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Triggers/L": [
+            [
+              0.0,
+              0.0,
+              96.0,
+              96.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_128x32_523124ff1f96d4bc_e7820c87ebbc4db4_9.png": {
+      "image": "tex1_128x32_523124ff1f96d4bc_e7820c87ebbc4db4_9.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "C-Stick/Up": [
+            [
+              106.0,
+              0.0,
+              214.0,
+              108.0
+            ]
+          ]
+        }
+      }
+    }
+  }
 }

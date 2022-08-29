@@ -412,7 +412,7 @@
       "`Axis Yr+`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Right Stick.png",
       "`Axis Yr-`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Right Stick.png"
     },
-	"DInput/0/Pro Controller": {
+    "DInput/0/Pro Controller": {
       "`Button 0`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Button B.png",
       "`Button 1`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Button A.png",
       "`Button 2`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Button Y.png",
@@ -688,7 +688,7 @@
     "evdev/0/Bensussen Deutsch & Associates,Inc.(BDA) NSW Spectra Wired Controller": {
       "C": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Button A.png",
       "EAST": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Button B.png",
-	  "SOUTH": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Button Y.png",
+      "SOUTH": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Button Y.png",
       "NORTH": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Button X.png",
       "WEST": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/L.png",
       "Z": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/R.png",
@@ -998,7 +998,7 @@
       "`Button 0`": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Button A.png",
       "`Button 1`": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Button B.png",
       "`Button 2`": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Button X.png",
-	  "`Button 3`": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Button Y.png",
+      "`Button 3`": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Button Y.png",
       "`Button 4`": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Button -.png",
       "`Button 5`": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Home.png",
       "`Button 6`": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Button +.png",
@@ -1020,7 +1020,7 @@
       "`Axis 3+`": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Right Stick.png",
       "`Axis 3-`": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Right Stick.png",
       "`Full Axis 4+`": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/ZL.png",
-      "`Full Axis 5+`": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/ZR.png",
+      "`Full Axis 5+`": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/ZR.png"
     },
     "Quartz/0/Keyboard & Mouse": {
       "`Left Click`": "../#DefaultDevices/Keyboard Mouse/Flat_Pressed/Click 0.png",
@@ -1127,6 +1127,68 @@
       "`Keypad =`": "../#DefaultDevices/Keyboard Mouse/Flat_Pressed/EQUALS.png"
     }
   },
+  "generated_folder_name": "#Generated_Mario Party 9",
   "preserve_aspect_ratio": true,
-  "output_textures": {}
+  "output_textures": {
+    "tex1_32x36_8e3eeb9fa033b135_f622af85251e3800_9.png": {
+      "image": "tex1_32x36.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/A": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              144.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x36_347d4b4ef94aa107_2fd9d079b8305178_9.png": {
+      "image": "tex1_32x36.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/1": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              144.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x36_5598d3ca4a9e59b5_7d18a26b7daba68a_9.png": {
+      "image": "tex1_32x36.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/2": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              144.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x40_608df082ab4545ff_8db6e49dc1a2d072_9.png": {
+      "image": "tex1_32x40.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/B": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              160.0
+            ]
+          ]
+        }
+      }
+    }
+  }
 }

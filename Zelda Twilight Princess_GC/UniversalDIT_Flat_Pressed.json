@@ -412,7 +412,7 @@
       "`Axis Yr+`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Right Stick.png",
       "`Axis Yr-`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Right Stick.png"
     },
-	"DInput/0/Pro Controller": {
+    "DInput/0/Pro Controller": {
       "`Button 0`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Button B.png",
       "`Button 1`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Button A.png",
       "`Button 2`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Button Y.png",
@@ -688,7 +688,7 @@
     "evdev/0/Bensussen Deutsch & Associates,Inc.(BDA) NSW Spectra Wired Controller": {
       "C": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Button A.png",
       "EAST": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Button B.png",
-	  "SOUTH": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Button Y.png",
+      "SOUTH": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Button Y.png",
       "NORTH": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Button X.png",
       "WEST": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/L.png",
       "Z": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/R.png",
@@ -998,7 +998,7 @@
       "`Button 0`": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Button A.png",
       "`Button 1`": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Button B.png",
       "`Button 2`": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Button X.png",
-	  "`Button 3`": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Button Y.png",
+      "`Button 3`": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Button Y.png",
       "`Button 4`": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Button -.png",
       "`Button 5`": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Home.png",
       "`Button 6`": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Button +.png",
@@ -1020,7 +1020,7 @@
       "`Axis 3+`": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Right Stick.png",
       "`Axis 3-`": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Right Stick.png",
       "`Full Axis 4+`": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/ZL.png",
-      "`Full Axis 5+`": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/ZR.png",
+      "`Full Axis 5+`": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/ZR.png"
     },
     "Quartz/0/Keyboard & Mouse": {
       "`Left Click`": "../#DefaultDevices/Keyboard Mouse/Flat_Pressed/Click 0.png",
@@ -1127,6 +1127,68 @@
       "`Keypad =`": "../#DefaultDevices/Keyboard Mouse/Flat_Pressed/EQUALS.png"
     }
   },
+  "generated_folder_name": "#Generated_Zelda Twilight Princess_GC",
   "preserve_aspect_ratio": true,
-  "output_textures": {}
+  "output_textures": {
+    "tex1_24x24_fb460b6cfcecb726_$_8.png": {
+      "image": "tex1_24x24.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "C-Stick/Up": [
+            [
+              0.0,
+              0.0,
+              96.0,
+              96.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_18b050b57efa0865_2.png": {
+      "image": "tex1_32x32_18b050b57efa0865_2.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Main Stick/Up": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_24x24_a5cfcf59d288b024_$_8.png": {
+      "image": "tex1_24x24.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Main Stick/Up": [
+            [
+              0.0,
+              0.0,
+              96.0,
+              96.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_56x56_b21b4aecb21fe068_3.png": {
+      "image": "tex1_56x56_b21b4aecb21fe068_3.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "C-Stick/Up": [
+            [
+              0.0,
+              0.0,
+              224.0,
+              224.0
+            ]
+          ]
+        }
+      }
+    }
+  }
 }

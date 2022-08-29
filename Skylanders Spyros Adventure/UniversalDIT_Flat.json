@@ -420,7 +420,7 @@
       "`Axis Yr+`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Right Y-.png",
       "`Axis Yr-`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Right Y+.png"
     },
-	"DInput/0/Pro Controller": {
+    "DInput/0/Pro Controller": {
       "DInput/0/Pro Controller": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon.png",
       "`Button 0`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button B.png",
       "`Button 1`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button A.png",
@@ -703,7 +703,7 @@
       "evdev/0/Bensussen Deutsch & Associates,Inc.(BDA) NSW Spectra Wired Controller": "../#DefaultDevices/Switch_Pro Controller/Device/Icon.png",
       "C": "../#DefaultDevices/Switch_Pro Controller/Flat/Button A.png",
       "EAST": "../#DefaultDevices/Switch_Pro Controller/Flat/Button B.png",
-	  "SOUTH": "../#DefaultDevices/Switch_Pro Controller/Flat/Button Y.png",
+      "SOUTH": "../#DefaultDevices/Switch_Pro Controller/Flat/Button Y.png",
       "NORTH": "../#DefaultDevices/Switch_Pro Controller/Flat/Button X.png",
       "WEST": "../#DefaultDevices/Switch_Pro Controller/Flat/L.png",
       "Z": "../#DefaultDevices/Switch_Pro Controller/Flat/R.png",
@@ -1020,7 +1020,7 @@
       "`Button 0`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button A.png",
       "`Button 1`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button B.png",
       "`Button 2`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button X.png",
-	  "`Button 3`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button Y.png",
+      "`Button 3`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button Y.png",
       "`Button 4`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button -.png",
       "`Button 5`": "../#DefaultDevices/Switch_Pro Controller/Flat/Home.png",
       "`Button 6`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button +.png",
@@ -1042,7 +1042,7 @@
       "`Axis 3+`": "../#DefaultDevices/Switch_Pro Controller/Flat/Right Y-.png",
       "`Axis 3-`": "../#DefaultDevices/Switch_Pro Controller/Flat/Right Y+.png",
       "`Full Axis 4+`": "../#DefaultDevices/Switch_Pro Controller/Flat/ZL.png",
-      "`Full Axis 5+`": "../#DefaultDevices/Switch_Pro Controller/Flat/ZR.png",
+      "`Full Axis 5+`": "../#DefaultDevices/Switch_Pro Controller/Flat/ZR.png"
     },
     "Quartz/0/Keyboard & Mouse": {
       "`Left Click`": "../#DefaultDevices/Keyboard Mouse/Flat/Click 0.png",
@@ -1149,6 +1149,197 @@
       "`Keypad =`": "../#DefaultDevices/Keyboard Mouse/Flat/EQUALS.png"
     }
   },
+  "generated_folder_name": "#Generated_Skylanders Spyros Adventure",
   "preserve_aspect_ratio": true,
-  "output_textures": {}
+  "output_textures": {
+    "tex1_1024x1024_10c911d3e6c73687_14.png": {
+      "image": "tex1_1024x1024_10c911d3e6c73687_14.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/A": [
+            [
+              56.0,
+              1822.0,
+              240.0,
+              2006.0
+            ]
+          ],
+          "Buttons/B": [
+            [
+              260.0,
+              1822.0,
+              384.0,
+              2006.0
+            ]
+          ],
+          "Nunchuk/Buttons/Z": [
+            [
+              420.0,
+              1824.0,
+              591.0,
+              2006.0
+            ]
+          ],
+          "Nunchuk/Buttons/C": [
+            [
+              624.0,
+              1852.0,
+              795.0,
+              1996.0
+            ]
+          ],
+          "Buttons/+": [
+            [
+              1630.0,
+              1834.0,
+              1796.0,
+              2000.0
+            ]
+          ],
+          "Buttons/-": [
+            [
+              1809.0,
+              1834.0,
+              1975.0,
+              2000.0
+            ]
+          ],
+          "Nunchuk/Stick/Up": [
+            [
+              1448.0,
+              1834.0,
+              1614.0,
+              2000.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_1024x1024_ebfa2d36da6d9d7d_14.png": {
+      "image": "tex1_1024x1024_ebfa2d36da6d9d7d_14.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/A": [
+            [
+              56.0,
+              1822.0,
+              240.0,
+              2006.0
+            ]
+          ],
+          "Buttons/B": [
+            [
+              260.0,
+              1822.0,
+              384.0,
+              2006.0
+            ]
+          ],
+          "Nunchuk/Buttons/Z": [
+            [
+              420.0,
+              1824.0,
+              591.0,
+              2006.0
+            ]
+          ],
+          "Nunchuk/Buttons/C": [
+            [
+              624.0,
+              1852.0,
+              795.0,
+              1996.0
+            ]
+          ],
+          "Buttons/+": [
+            [
+              1630.0,
+              1834.0,
+              1796.0,
+              2000.0
+            ]
+          ],
+          "Buttons/-": [
+            [
+              1809.0,
+              1834.0,
+              1975.0,
+              2000.0
+            ]
+          ],
+          "Nunchuk/Stick/Up": [
+            [
+              1448.0,
+              1834.0,
+              1614.0,
+              2000.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_512x512_fecd86ff8c9ec8ab_14.png": {
+      "image": "tex1_512x512_fecd86ff8c9ec8ab_14.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/A": [
+            [
+              0.0,
+              1798.0,
+              179.0,
+              1978.0
+            ]
+          ],
+          "Buttons/B": [
+            [
+              208.0,
+              1798.0,
+              342.0,
+              1978.0
+            ]
+          ],
+          "Nunchuk/Buttons/Z": [
+            [
+              380.0,
+              1798.0,
+              561.0,
+              1978.0
+            ]
+          ],
+          "Nunchuk/Buttons/C": [
+            [
+              594.0,
+              1819.0,
+              776.0,
+              1975.0
+            ]
+          ],
+          "Nunchuk/Stick/Up": [
+            [
+              1468.0,
+              1797.0,
+              1655.0,
+              1982.0
+            ]
+          ],
+          "Buttons/+": [
+            [
+              1662.0,
+              1798.0,
+              1847.0,
+              1982.0
+            ]
+          ],
+          "Buttons/-": [
+            [
+              1849.0,
+              1798.0,
+              2035.0,
+              1982.0
+            ]
+          ]
+        }
+      }
+    }
+  }
 }

@@ -412,7 +412,7 @@
       "`Axis Yr+`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Right Stick.png",
       "`Axis Yr-`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Right Stick.png"
     },
-	"DInput/0/Pro Controller": {
+    "DInput/0/Pro Controller": {
       "`Button 0`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Button B.png",
       "`Button 1`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Button A.png",
       "`Button 2`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat_Pressed\\Button Y.png",
@@ -688,7 +688,7 @@
     "evdev/0/Bensussen Deutsch & Associates,Inc.(BDA) NSW Spectra Wired Controller": {
       "C": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Button A.png",
       "EAST": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Button B.png",
-	  "SOUTH": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Button Y.png",
+      "SOUTH": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Button Y.png",
       "NORTH": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Button X.png",
       "WEST": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/L.png",
       "Z": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/R.png",
@@ -998,7 +998,7 @@
       "`Button 0`": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Button A.png",
       "`Button 1`": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Button B.png",
       "`Button 2`": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Button X.png",
-	  "`Button 3`": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Button Y.png",
+      "`Button 3`": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Button Y.png",
       "`Button 4`": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Button -.png",
       "`Button 5`": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Home.png",
       "`Button 6`": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Button +.png",
@@ -1020,7 +1020,7 @@
       "`Axis 3+`": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Right Stick.png",
       "`Axis 3-`": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/Right Stick.png",
       "`Full Axis 4+`": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/ZL.png",
-      "`Full Axis 5+`": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/ZR.png",
+      "`Full Axis 5+`": "../#DefaultDevices/Switch_Pro Controller/Flat_Pressed/ZR.png"
     },
     "Quartz/0/Keyboard & Mouse": {
       "`Left Click`": "../#DefaultDevices/Keyboard Mouse/Flat_Pressed/Click 0.png",
@@ -1127,6 +1127,190 @@
       "`Keypad =`": "../#DefaultDevices/Keyboard Mouse/Flat_Pressed/EQUALS.png"
     }
   },
+  "generated_folder_name": "#Generated_Tom Clancy's Rainbow Six Lockdown",
   "preserve_aspect_ratio": true,
-  "output_textures": {}
+  "output_textures": {
+    "tex1_256x128_0a418d1aeabc64e4_14.png": {
+      "image": "tex1_256x128_0a418d1aeabc64e4_14.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/B": [
+            [
+              12.0,
+              76.0,
+              108.0,
+              172.0
+            ]
+          ],
+          "Buttons/Z": [
+            [
+              156.0,
+              82.0,
+              328.0,
+              170.0
+            ]
+          ],
+          "Buttons/A": [
+            [
+              364.0,
+              12.0,
+              484.0,
+              132.0
+            ]
+          ],
+          "Triggers/L": [
+            [
+              200.0,
+              192.0,
+              372.0,
+              292.0
+            ]
+          ],
+          "Triggers/R": [
+            [
+              388.0,
+              192.0,
+              560.0,
+              292.0
+            ]
+          ],
+          "Buttons/Y": [
+            [
+              760.0,
+              132.0,
+              880.0,
+              220.0
+            ]
+          ],
+          "Buttons/X": [
+            [
+              792.0,
+              248.0,
+              888.0,
+              388.0
+            ]
+          ],
+          "Buttons/Start": [
+            [
+              832.0,
+              440.0,
+              888.0,
+              496.0
+            ]
+          ],
+          "D-Pad/Up": [
+            [
+              12.0,
+              204.0,
+              168.0,
+              360.0
+            ]
+          ],
+          "Main Stick/Up": [
+            [
+              404.0,
+              364.0,
+              520.0,
+              492.0
+            ]
+          ],
+          "C-Stick/Up": [
+            [
+              568.0,
+              364.0,
+              700.0,
+              496.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_256x256_729d95e439d1c3c4_14.png": {
+      "image": "tex1_256x256_729d95e439d1c3c4_14.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/A": [
+            [
+              806.0,
+              924.0,
+              898.0,
+              1016.0
+            ]
+          ],
+          "Buttons/B": [
+            [
+              700.0,
+              904.0,
+              792.0,
+              996.0
+            ]
+          ],
+          "Buttons/X": [
+            [
+              904.0,
+              868.0,
+              996.0,
+              960.0
+            ]
+          ],
+          "Buttons/Y": [
+            [
+              788.0,
+              784.0,
+              880.0,
+              876.0
+            ]
+          ],
+          "Buttons/Z": [
+            [
+              386.0,
+              499.0,
+              482.0,
+              595.0
+            ]
+          ],
+          "Buttons/Start": [
+            [
+              708.0,
+              56.0,
+              804.0,
+              152.0
+            ]
+          ],
+          "Device": [
+            [
+              12.0,
+              16.0,
+              684.0,
+              456.0
+            ]
+          ],
+          "D-Pad/Up": [
+            [
+              292.0,
+              832.0,
+              468.0,
+              1008.0
+            ]
+          ],
+          "C-Stick/Up": [
+            [
+              52.0,
+              860.0,
+              204.0,
+              1012.0
+            ]
+          ],
+          "Main Stick/Up": [
+            [
+              620.0,
+              518.0,
+              780.0,
+              678.0
+            ]
+          ]
+        }
+      }
+    }
+  }
 }

@@ -412,7 +412,7 @@
       "`Axis Yr+`": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Right Stick.png",
       "`Axis Yr-`": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Right Stick.png"
     },
-	"DInput/0/Pro Controller": {
+    "DInput/0/Pro Controller": {
       "`Button 0`": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Button B.png",
       "`Button 1`": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Button A.png",
       "`Button 2`": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle_Pressed\\Button Y.png",
@@ -688,7 +688,7 @@
     "evdev/0/Bensussen Deutsch & Associates,Inc.(BDA) NSW Spectra Wired Controller": {
       "C": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle_Pressed/Button A.png",
       "EAST": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle_Pressed/Button B.png",
-	  "SOUTH": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle_Pressed/Button Y.png",
+      "SOUTH": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle_Pressed/Button Y.png",
       "NORTH": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle_Pressed/Button X.png",
       "WEST": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle_Pressed/L.png",
       "Z": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle_Pressed/R.png",
@@ -998,7 +998,7 @@
       "`Button 0`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle_Pressed/Button A.png",
       "`Button 1`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle_Pressed/Button B.png",
       "`Button 2`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle_Pressed/Button X.png",
-	  "`Button 3`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle_Pressed/Button Y.png",
+      "`Button 3`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle_Pressed/Button Y.png",
       "`Button 4`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle_Pressed/Button -.png",
       "`Button 5`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle_Pressed/Home.png",
       "`Button 6`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle_Pressed/Button +.png",
@@ -1020,7 +1020,7 @@
       "`Axis 3+`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle_Pressed/Right Stick.png",
       "`Axis 3-`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle_Pressed/Right Stick.png",
       "`Full Axis 4+`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle_Pressed/ZL.png",
-      "`Full Axis 5+`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle_Pressed/ZR.png",
+      "`Full Axis 5+`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle_Pressed/ZR.png"
     },
     "Quartz/0/Keyboard & Mouse": {
       "`Left Click`": "../#DefaultDevices/Keyboard Mouse/Defaultstyle_Pressed/Click 0.png",
@@ -1127,6 +1127,98 @@
       "`Keypad =`": "../#DefaultDevices/Keyboard Mouse/Defaultstyle_Pressed/EQUALS.png"
     }
   },
+  "generated_folder_name": "#Generated_Zelda Skyward Sword",
   "preserve_aspect_ratio": true,
-  "output_textures": {}
+  "output_textures": {
+    "tex1_42x42_5d323ade07594f5c_3.png": {
+      "image": "tex1_42x42.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/A": [
+            [
+              0.0,
+              0.0,
+              168.0,
+              168.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_56x56_3fa3d6c9afbaebdf_2.png": {
+      "image": "tex1_56x56_3fa3d6c9afbaebdf_2.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "D-Pad/Up": [
+            [
+              0.0,
+              0.0,
+              224.0,
+              224.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_40x40_b2c023ae127a0cbd_3.png": {
+      "image": "tex1_40x40.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Nunchuk/Buttons/Z": [
+            [
+              0.0,
+              0.0,
+              160.0,
+              160.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_44x44_7e42dc83351200ea_3.png": {
+      "image": "tex1_44x44.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Nunchuk/Buttons/C": [
+            [
+              0.0,
+              0.0,
+              176.0,
+              176.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_44x44_c9e8db955e805402_3.png": {
+      "image": "tex1_44x44.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/A": [
+            [
+              8.0,
+              8.0,
+              168.0,
+              168.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_44x44_e387636bf6aa1472_3.png": {
+      "image": "tex1_44x44.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Nunchuk/Stick/Up": [
+            [
+              0.0,
+              0.0,
+              176.0,
+              176.0
+            ]
+          ]
+        }
+      }
+    }
+  }
 }

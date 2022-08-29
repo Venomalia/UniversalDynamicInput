@@ -420,7 +420,7 @@
       "`Axis Yr+`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Right Y-.png",
       "`Axis Yr-`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Right Y+.png"
     },
-	"DInput/0/Pro Controller": {
+    "DInput/0/Pro Controller": {
       "DInput/0/Pro Controller": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon.png",
       "`Button 0`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button B.png",
       "`Button 1`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button A.png",
@@ -703,7 +703,7 @@
       "evdev/0/Bensussen Deutsch & Associates,Inc.(BDA) NSW Spectra Wired Controller": "../#DefaultDevices/Switch_Pro Controller/Device/Icon.png",
       "C": "../#DefaultDevices/Switch_Pro Controller/Flat/Button A.png",
       "EAST": "../#DefaultDevices/Switch_Pro Controller/Flat/Button B.png",
-	  "SOUTH": "../#DefaultDevices/Switch_Pro Controller/Flat/Button Y.png",
+      "SOUTH": "../#DefaultDevices/Switch_Pro Controller/Flat/Button Y.png",
       "NORTH": "../#DefaultDevices/Switch_Pro Controller/Flat/Button X.png",
       "WEST": "../#DefaultDevices/Switch_Pro Controller/Flat/L.png",
       "Z": "../#DefaultDevices/Switch_Pro Controller/Flat/R.png",
@@ -1020,7 +1020,7 @@
       "`Button 0`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button A.png",
       "`Button 1`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button B.png",
       "`Button 2`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button X.png",
-	  "`Button 3`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button Y.png",
+      "`Button 3`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button Y.png",
       "`Button 4`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button -.png",
       "`Button 5`": "../#DefaultDevices/Switch_Pro Controller/Flat/Home.png",
       "`Button 6`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button +.png",
@@ -1042,7 +1042,7 @@
       "`Axis 3+`": "../#DefaultDevices/Switch_Pro Controller/Flat/Right Y-.png",
       "`Axis 3-`": "../#DefaultDevices/Switch_Pro Controller/Flat/Right Y+.png",
       "`Full Axis 4+`": "../#DefaultDevices/Switch_Pro Controller/Flat/ZL.png",
-      "`Full Axis 5+`": "../#DefaultDevices/Switch_Pro Controller/Flat/ZR.png",
+      "`Full Axis 5+`": "../#DefaultDevices/Switch_Pro Controller/Flat/ZR.png"
     },
     "Quartz/0/Keyboard & Mouse": {
       "`Left Click`": "../#DefaultDevices/Keyboard Mouse/Flat/Click 0.png",
@@ -1149,6 +1149,203 @@
       "`Keypad =`": "../#DefaultDevices/Keyboard Mouse/Flat/EQUALS.png"
     }
   },
+  "generated_folder_name": "#Generated_Teenage Mutant Ninja Turtles",
   "preserve_aspect_ratio": true,
-  "output_textures": {}
+  "output_textures": {
+    "tex1_128x32_0c0f9e9faeefc014_b0219e5b99364743_9.png": {
+      "image": "tex1_128x32_0c0f9e9faeefc014_b0219e5b99364743_9.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/A": [
+            [
+              56.0,
+              8.0,
+              140.0,
+              112.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_128x32_7f89e68bad3fd536_b0219e5b99364743_9.png": {
+      "image": "tex1_128x32_7f89e68bad3fd536_b0219e5b99364743_9.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/A": [
+            [
+              56.0,
+              8.0,
+              140.0,
+              112.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_128x32_846d87fbe72691c6_b0219e5b99364743_9.png": {
+      "image": "tex1_128x32_846d87fbe72691c6_b0219e5b99364743_9.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/A": [
+            [
+              56.0,
+              8.0,
+              140.0,
+              112.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_128x32_0950fc0951271ecd_0de093d1039443d9_9.png": {
+      "image": "tex1_128x32_0950fc0951271ecd_0de093d1039443d9_9.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/A": [
+            [
+              56.0,
+              8.0,
+              140.0,
+              112.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_128x32_5712c977da686265_b0219e5b99364743_9.png": {
+      "image": "tex1_128x32_5712c977da686265_b0219e5b99364743_9.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/A": [
+            [
+              56.0,
+              8.0,
+              140.0,
+              112.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_16x16_355b5a4f49af2f7b_ce46485793cc4df1_9.png": {
+      "image": "tex1_16x16_355b5a4f49af2f7b_ce46485793cc4df1_9.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "blank": [
+            [
+              0.0,
+              0.0,
+              16.0,
+              16.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x16_d7d01b1f157415a9_fc184ac1c5da7bd1_9.png": {
+      "image": "tex1_32x16_d7d01b1f157415a9_fc184ac1c5da7bd1_9.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "blank": [
+            [
+              0.0,
+              0.0,
+              32.0,
+              16.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_4ef97e1ca8293ea5_fa6087d88a531b89_9.png": {
+      "image": "tex1_32x32_4ef97e1ca8293ea5_fa6087d88a531b89_9.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "blank": [
+            [
+              0.0,
+              0.0,
+              32.0,
+              32.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_8cc2b4f110a4f5d6_0fd98ff7841ce4eb_9.png": {
+      "image": "tex1_32x32_8cc2b4f110a4f5d6_0fd98ff7841ce4eb_9.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "blank": [
+            [
+              0.0,
+              0.0,
+              32.0,
+              32.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_885e9b1eb230d223_5703010e626b495b_9.png": {
+      "image": "tex1_32x32_885e9b1eb230d223_5703010e626b495b_9.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "blank": [
+            [
+              0.0,
+              0.0,
+              32.0,
+              32.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_4790427feaa33722_fc27a01947ed2916_9.png": {
+      "image": "tex1_32x32_4790427feaa33722_fc27a01947ed2916_9.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "blank": [
+            [
+              0.0,
+              0.0,
+              32.0,
+              32.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_16191186d29dee07_316ef0c59b9c22b2_9.png": {
+      "image": "tex1_32x32_16191186d29dee07_316ef0c59b9c22b2_9.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "blank": [
+            [
+              0.0,
+              0.0,
+              32.0,
+              32.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_c33b58297874ef63_11dba505ea3e2200_9.png": {
+      "image": "tex1_32x32_c33b58297874ef63_11dba505ea3e2200_9.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "blank": [
+            [
+              0.0,
+              0.0,
+              32.0,
+              32.0
+            ]
+          ]
+        }
+      }
+    }
+  }
 }

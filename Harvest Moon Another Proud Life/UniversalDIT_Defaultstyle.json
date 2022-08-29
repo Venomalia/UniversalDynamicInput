@@ -420,7 +420,7 @@
       "`Axis Yr+`": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Right Y-.png",
       "`Axis Yr-`": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Right Y+.png"
     },
-	"DInput/0/Pro Controller": {
+    "DInput/0/Pro Controller": {
       "DInput/0/Pro Controller": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon.png",
       "`Button 0`": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Button B.png",
       "`Button 1`": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Button A.png",
@@ -703,7 +703,7 @@
       "evdev/0/Bensussen Deutsch & Associates,Inc.(BDA) NSW Spectra Wired Controller": "../#DefaultDevices/Switch_Pro Controller/Device/Icon.png",
       "C": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button A.png",
       "EAST": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button B.png",
-	  "SOUTH": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button Y.png",
+      "SOUTH": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button Y.png",
       "NORTH": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button X.png",
       "WEST": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/L.png",
       "Z": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/R.png",
@@ -1020,7 +1020,7 @@
       "`Button 0`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button A.png",
       "`Button 1`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button B.png",
       "`Button 2`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button X.png",
-	  "`Button 3`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button Y.png",
+      "`Button 3`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button Y.png",
       "`Button 4`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button -.png",
       "`Button 5`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Home.png",
       "`Button 6`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button +.png",
@@ -1042,7 +1042,7 @@
       "`Axis 3+`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Right Y-.png",
       "`Axis 3-`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Right Y+.png",
       "`Full Axis 4+`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/ZL.png",
-      "`Full Axis 5+`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/ZR.png",
+      "`Full Axis 5+`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/ZR.png"
     },
     "Quartz/0/Keyboard & Mouse": {
       "`Left Click`": "../#DefaultDevices/Keyboard Mouse/Defaultstyle/Click 0.png",
@@ -1149,6 +1149,78 @@
       "`Keypad =`": "../#DefaultDevices/Keyboard Mouse/Defaultstyle/EQUALS.png"
     }
   },
+  "generated_folder_name": "#Generated_Harvest Moon Another Proud Life",
   "preserve_aspect_ratio": true,
-  "output_textures": {}
+  "output_textures": {
+    "tex1_256x150_c9e949ef08fa0b05_5.png": {
+      "image": "tex1_256x150_c9e949ef08fa0b05_5.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/X": [
+            [
+              0.0,
+              372.0,
+              150.0,
+              600.0
+            ]
+          ],
+          "Buttons/Y": [
+            [
+              163.0,
+              436.0,
+              392.0,
+              583.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_374x128_acf0cae951cc4704_5.png": {
+      "image": "tex1_374x128_acf0cae951cc4704_5.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Main Stick/Up": [
+            [
+              0.0,
+              0.0,
+              195.0,
+              188.0
+            ]
+          ],
+          "Buttons/A": [
+            [
+              205.0,
+              20.0,
+              398.0,
+              190.0
+            ]
+          ],
+          "Buttons/Y": [
+            [
+              419.0,
+              34.0,
+              652.0,
+              178.0
+            ]
+          ],
+          "Buttons/B": [
+            [
+              1374.0,
+              11.0,
+              1496.0,
+              153.0
+            ]
+          ],
+          "Buttons/X": [
+            [
+              1348.0,
+              293.0,
+              1496.0,
+              511.0
+            ]
+          ]
+        }
+      }
+    }
+  }
 }

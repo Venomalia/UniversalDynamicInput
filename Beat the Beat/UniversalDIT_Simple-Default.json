@@ -420,7 +420,7 @@
       "`Axis Yr+`": "..\\#DefaultDevices\\Switch_Pro Controller\\Simple-Default\\Right Y-.png",
       "`Axis Yr-`": "..\\#DefaultDevices\\Switch_Pro Controller\\Simple-Default\\Right Y+.png"
     },
-	"DInput/0/Pro Controller": {
+    "DInput/0/Pro Controller": {
       "DInput/0/Pro Controller": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon.png",
       "`Button 0`": "..\\#DefaultDevices\\Switch_Pro Controller\\Simple-Default\\Button B.png",
       "`Button 1`": "..\\#DefaultDevices\\Switch_Pro Controller\\Simple-Default\\Button A.png",
@@ -703,7 +703,7 @@
       "evdev/0/Bensussen Deutsch & Associates,Inc.(BDA) NSW Spectra Wired Controller": "../#DefaultDevices/Switch_Pro Controller/Device/Icon.png",
       "C": "../#DefaultDevices/Switch_Pro Controller/Simple-Default/Button A.png",
       "EAST": "../#DefaultDevices/Switch_Pro Controller/Simple-Default/Button B.png",
-	  "SOUTH": "../#DefaultDevices/Switch_Pro Controller/Simple-Default/Button Y.png",
+      "SOUTH": "../#DefaultDevices/Switch_Pro Controller/Simple-Default/Button Y.png",
       "NORTH": "../#DefaultDevices/Switch_Pro Controller/Simple-Default/Button X.png",
       "WEST": "../#DefaultDevices/Switch_Pro Controller/Simple-Default/L.png",
       "Z": "../#DefaultDevices/Switch_Pro Controller/Simple-Default/R.png",
@@ -1020,7 +1020,7 @@
       "`Button 0`": "../#DefaultDevices/Switch_Pro Controller/Simple-Default/Button A.png",
       "`Button 1`": "../#DefaultDevices/Switch_Pro Controller/Simple-Default/Button B.png",
       "`Button 2`": "../#DefaultDevices/Switch_Pro Controller/Simple-Default/Button X.png",
-	  "`Button 3`": "../#DefaultDevices/Switch_Pro Controller/Simple-Default/Button Y.png",
+      "`Button 3`": "../#DefaultDevices/Switch_Pro Controller/Simple-Default/Button Y.png",
       "`Button 4`": "../#DefaultDevices/Switch_Pro Controller/Simple-Default/Button -.png",
       "`Button 5`": "../#DefaultDevices/Switch_Pro Controller/Simple-Default/Home.png",
       "`Button 6`": "../#DefaultDevices/Switch_Pro Controller/Simple-Default/Button +.png",
@@ -1042,7 +1042,7 @@
       "`Axis 3+`": "../#DefaultDevices/Switch_Pro Controller/Simple-Default/Right Y-.png",
       "`Axis 3-`": "../#DefaultDevices/Switch_Pro Controller/Simple-Default/Right Y+.png",
       "`Full Axis 4+`": "../#DefaultDevices/Switch_Pro Controller/Simple-Default/ZL.png",
-      "`Full Axis 5+`": "../#DefaultDevices/Switch_Pro Controller/Simple-Default/ZR.png",
+      "`Full Axis 5+`": "../#DefaultDevices/Switch_Pro Controller/Simple-Default/ZR.png"
     },
     "Quartz/0/Keyboard & Mouse": {
       "`Left Click`": "../#DefaultDevices/Keyboard Mouse/Simple-Default/Click 0.png",
@@ -1149,6 +1149,183 @@
       "`Keypad =`": "../#DefaultDevices/Keyboard Mouse/Simple-Default/EQUALS.png"
     }
   },
+  "generated_folder_name": "#Generated_Beat the Beat",
   "preserve_aspect_ratio": true,
-  "output_textures": {}
+  "output_textures": {
+    "tex1_32x1024_b2d783a48cf093ff_0.png": {
+      "image": "tex1_32x1024_b2d783a48cf093ff_0.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "D-Pad": [
+            [
+              0.0,
+              164.0,
+              124.0,
+              296.0
+            ]
+          ],
+          "Buttons/A": [
+            [
+              0.0,
+              312.0,
+              124.0,
+              444.0
+            ]
+          ],
+          "Buttons/B": [
+            [
+              0.0,
+              460.0,
+              116.0,
+              592.0
+            ]
+          ],
+          "Buttons/Home": [
+            [
+              0.0,
+              608.0,
+              124.0,
+              740.0
+            ]
+          ],
+          "Buttons/+": [
+            [
+              0.0,
+              756.0,
+              124.0,
+              888.0
+            ]
+          ],
+          "Buttons/-": [
+            [
+              0.0,
+              904.0,
+              124.0,
+              1036.0
+            ]
+          ],
+          "Buttons/1": [
+            [
+              0.0,
+              1052.0,
+              124.0,
+              1184.0
+            ]
+          ],
+          "Buttons/2": [
+            [
+              0.0,
+              1200.0,
+              124.0,
+              1332.0
+            ]
+          ],
+          "Nunchuk/Stick": [
+            [
+              0.0,
+              1348.0,
+              124.0,
+              1480.0
+            ]
+          ],
+          "Nunchuk/Buttons/C": [
+            [
+              0.0,
+              1496.0,
+              124.0,
+              1628.0
+            ]
+          ],
+          "Nunchuk/Buttons/Z": [
+            [
+              0.0,
+              1644.0,
+              124.0,
+              1776.0
+            ]
+          ],
+          "Classic/Buttons/A": [
+            [
+              0.0,
+              1792.0,
+              124.0,
+              1924.0
+            ]
+          ],
+          "Classic/Buttons/B": [
+            [
+              0.0,
+              1940.0,
+              124.0,
+              2072.0
+            ]
+          ],
+          "Classic/Buttons/X": [
+            [
+              0.0,
+              2088.0,
+              124.0,
+              2220.0
+            ]
+          ],
+          "Classic/Buttons/Y": [
+            [
+              0.0,
+              2236.0,
+              124.0,
+              2368.0
+            ]
+          ],
+          "Classic/Left Stick": [
+            [
+              0.0,
+              2384.0,
+              124.0,
+              2516.0
+            ]
+          ],
+          "Classic/Right Stick": [
+            [
+              0.0,
+              2532.0,
+              124.0,
+              2664.0
+            ]
+          ],
+          "Classic/Triggers/L": [
+            [
+              0.0,
+              2680.0,
+              124.0,
+              2812.0
+            ]
+          ],
+          "Classic/Triggers/R": [
+            [
+              0.0,
+              2828.0,
+              124.0,
+              2960.0
+            ]
+          ],
+          "Classic/Buttons/ZL": [
+            [
+              0.0,
+              2976.0,
+              124.0,
+              3108.0
+            ]
+          ],
+          "Classic/Buttons/ZR": [
+            [
+              0.0,
+              3124.0,
+              124.0,
+              3256.0
+            ]
+          ]
+        }
+      }
+    }
+  }
 }

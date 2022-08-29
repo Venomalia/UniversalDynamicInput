@@ -412,7 +412,7 @@
       "`Axis Yr+`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Simple-Default\\Right Y-.png",
       "`Axis Yr-`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Simple-Default\\Right Y+.png"
     },
-	"DInput/0/Pro Controller": {
+    "DInput/0/Pro Controller": {
       "`Button 0`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Simple-Default\\Button B.png",
       "`Button 1`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Simple-Default\\Button A.png",
       "`Button 2`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Simple-Default\\Button Y.png",
@@ -688,7 +688,7 @@
     "evdev/0/Bensussen Deutsch & Associates,Inc.(BDA) NSW Spectra Wired Controller": {
       "C": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Simple-Default/Button A.png",
       "EAST": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Simple-Default/Button B.png",
-	  "SOUTH": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Simple-Default/Button Y.png",
+      "SOUTH": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Simple-Default/Button Y.png",
       "NORTH": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Simple-Default/Button X.png",
       "WEST": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Simple-Default/L.png",
       "Z": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Simple-Default/R.png",
@@ -998,7 +998,7 @@
       "`Button 0`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Simple-Default/Button A.png",
       "`Button 1`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Simple-Default/Button B.png",
       "`Button 2`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Simple-Default/Button X.png",
-	  "`Button 3`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Simple-Default/Button Y.png",
+      "`Button 3`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Simple-Default/Button Y.png",
       "`Button 4`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Simple-Default/Button -.png",
       "`Button 5`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Simple-Default/Home.png",
       "`Button 6`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Simple-Default/Button +.png",
@@ -1020,7 +1020,7 @@
       "`Axis 3+`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Simple-Default/Right Y-.png",
       "`Axis 3-`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Simple-Default/Right Y+.png",
       "`Full Axis 4+`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Simple-Default/ZL.png",
-      "`Full Axis 5+`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Simple-Default/ZR.png",
+      "`Full Axis 5+`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Simple-Default/ZR.png"
     },
     "Quartz/0/Keyboard & Mouse": {
       "`Left Click`": "../#DefaultDevices/_Mirror/Keyboard Mouse/Simple-Default/Click 0.png",
@@ -1127,5 +1127,71 @@
       "`Keypad =`": "../#DefaultDevices/_Mirror/Keyboard Mouse/Simple-Default/EQUALS.png"
     }
   },
-  "output_textures": {}
+  "generated_folder_name": "#Generated_Rabbids Go Home",
+  "preserve_aspect_ratio": true,
+  "output_textures": {
+    "tex1_256x512_e25599ab4fdbfbf0_1.png": {
+      "image": "tex1_256x512_e25599ab4fdbfbf0_1.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/2": [
+            [
+              2.0,
+              282.0,
+              124.0,
+              404.0
+            ]
+          ],
+          "Buttons/1": [
+            [
+              130.0,
+              680.0,
+              244.0,
+              806.0
+            ]
+          ],
+          "Buttons/A": [
+            [
+              0.0,
+              1080.0,
+              128.0,
+              1205.0
+            ]
+          ],
+          "Buttons/+": [
+            [
+              0.0,
+              1286.0,
+              135.0,
+              1407.0
+            ]
+          ],
+          "Nunchuk/Buttons/C": [
+            [
+              0.0,
+              1485.0,
+              149.0,
+              1610.0
+            ]
+          ],
+          "Buttons/B": [
+            [
+              151.0,
+              1479.0,
+              258.0,
+              1606.0
+            ]
+          ],
+          "Nunchuk/Buttons/Z": [
+            [
+              0.0,
+              1686.0,
+              157.0,
+              1810.0
+            ]
+          ]
+        }
+      }
+    }
+  }
 }

@@ -420,7 +420,7 @@
       "`Axis Yr+`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Right Y-.png",
       "`Axis Yr-`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Right Y+.png"
     },
-	"DInput/0/Pro Controller": {
+    "DInput/0/Pro Controller": {
       "DInput/0/Pro Controller": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon.png",
       "`Button 0`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button B.png",
       "`Button 1`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button A.png",
@@ -703,7 +703,7 @@
       "evdev/0/Bensussen Deutsch & Associates,Inc.(BDA) NSW Spectra Wired Controller": "../#DefaultDevices/Switch_Pro Controller/Device/Icon.png",
       "C": "../#DefaultDevices/Switch_Pro Controller/Flat/Button A.png",
       "EAST": "../#DefaultDevices/Switch_Pro Controller/Flat/Button B.png",
-	  "SOUTH": "../#DefaultDevices/Switch_Pro Controller/Flat/Button Y.png",
+      "SOUTH": "../#DefaultDevices/Switch_Pro Controller/Flat/Button Y.png",
       "NORTH": "../#DefaultDevices/Switch_Pro Controller/Flat/Button X.png",
       "WEST": "../#DefaultDevices/Switch_Pro Controller/Flat/L.png",
       "Z": "../#DefaultDevices/Switch_Pro Controller/Flat/R.png",
@@ -1020,7 +1020,7 @@
       "`Button 0`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button A.png",
       "`Button 1`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button B.png",
       "`Button 2`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button X.png",
-	  "`Button 3`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button Y.png",
+      "`Button 3`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button Y.png",
       "`Button 4`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button -.png",
       "`Button 5`": "../#DefaultDevices/Switch_Pro Controller/Flat/Home.png",
       "`Button 6`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button +.png",
@@ -1042,7 +1042,7 @@
       "`Axis 3+`": "../#DefaultDevices/Switch_Pro Controller/Flat/Right Y-.png",
       "`Axis 3-`": "../#DefaultDevices/Switch_Pro Controller/Flat/Right Y+.png",
       "`Full Axis 4+`": "../#DefaultDevices/Switch_Pro Controller/Flat/ZL.png",
-      "`Full Axis 5+`": "../#DefaultDevices/Switch_Pro Controller/Flat/ZR.png",
+      "`Full Axis 5+`": "../#DefaultDevices/Switch_Pro Controller/Flat/ZR.png"
     },
     "Quartz/0/Keyboard & Mouse": {
       "`Left Click`": "../#DefaultDevices/Keyboard Mouse/Flat/Click 0.png",
@@ -1149,6 +1149,278 @@
       "`Keypad =`": "../#DefaultDevices/Keyboard Mouse/Flat/EQUALS.png"
     }
   },
+  "generated_folder_name": "#Generated_Mario Superstar Baseball",
   "preserve_aspect_ratio": true,
-  "output_textures": {}
+  "output_textures": {
+    "tex1_23x22_0208e211a098258e_e6f1a9262dc40e6c_8.png": {
+      "image": "tex1_23x22_0208e211a098258e_e6f1a9262dc40e6c_8.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/B": [
+            [
+              0.0,
+              0.0,
+              92.0,
+              88.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_23x23_1a92a1b4e97494ab_4ae1fa1f28631c05_8.png": {
+      "image": "tex1_23x23_1a92a1b4e97494ab_4ae1fa1f28631c05_8.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/A": [
+            [
+              0.0,
+              0.0,
+              92.0,
+              92.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_27x22_2d5093dc7377cbb2_65cbccc242e5d38d_8.png": {
+      "image": "tex1_27x22.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/Z": [
+            [
+              0.0,
+              0.0,
+              108.0,
+              88.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_27x22_405ff10cc5290cd1_e31b88d4f5478fa7_8.png": {
+      "image": "tex1_27x22.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/A": [
+            [
+              0.0,
+              0.0,
+              108.0,
+              88.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_27x22_991612b68050d6a3_8b136273cca87dda_8.png": {
+      "image": "tex1_27x22.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Triggers/R": [
+            [
+              0.0,
+              0.0,
+              108.0,
+              88.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_27x22_bfd2f1f4d5cafd31_67476f67a66f7620_8.png": {
+      "image": "tex1_27x22.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/X": [
+            [
+              0.0,
+              0.0,
+              108.0,
+              88.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_27x22_dedc2766c2d7f68e_d758765da1643141_8.png": {
+      "image": "tex1_27x22.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Triggers/L": [
+            [
+              0.0,
+              0.0,
+              108.0,
+              88.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_28x30_0f11beb8edb8706e_bc70c88e1daaab69_8.png": {
+      "image": "tex1_28x30_0f11beb8edb8706e_bc70c88e1daaab69_8.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Triggers/R": [
+            [
+              0.0,
+              0.0,
+              112.0,
+              120.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_30x31_fe1d5de649219f5b_5888dee6f6d036d0_8.png": {
+      "image": "tex1_30x31_fe1d5de649219f5b_5888dee6f6d036d0_8.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/Y": [
+            [
+              0.0,
+              0.0,
+              120.0,
+              124.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_34x36_3957412fbfee2b0c_6ce061058d1bbd18_8.png": {
+      "image": "tex1_34x36_3957412fbfee2b0c_6ce061058d1bbd18_8.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Triggers/L": [
+            [
+              0.0,
+              0.0,
+              136.0,
+              144.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_34x36_c3488dd36f1f69c5_a981b5db33f4cab3_8.png": {
+      "image": "tex1_34x36_c3488dd36f1f69c5_a981b5db33f4cab3_8.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Triggers/R": [
+            [
+              0.0,
+              0.0,
+              136.0,
+              144.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_34x40_9d2b4a9eefbdcd0b_f8ccb05a80152bd4_8.png": {
+      "image": "tex1_34x40.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/Y": [
+            [
+              0.0,
+              0.0,
+              136.0,
+              160.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_34x40_3176d3cc8dcc7858_388e3de9b34229dc_8.png": {
+      "image": "tex1_34x40.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/A": [
+            [
+              0.0,
+              0.0,
+              136.0,
+              160.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_34x40_7523feed2b20ab03_a9cf43bb37d800b3_8.png": {
+      "image": "tex1_34x40.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Triggers/R": [
+            [
+              0.0,
+              0.0,
+              136.0,
+              160.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_34x40_3817652f4aeae6c2_427aabeeb094c6a5_8.png": {
+      "image": "tex1_34x40.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/X": [
+            [
+              0.0,
+              0.0,
+              136.0,
+              160.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_34x40_a1932d4791e64f1e_3132f8813326300c_8.png": {
+      "image": "tex1_34x40.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Triggers/L": [
+            [
+              0.0,
+              0.0,
+              136.0,
+              160.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_34x40_d450fe40f0b78c2b_07ae85b7fd8a5313_8.png": {
+      "image": "tex1_34x40.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/B": [
+            [
+              0.0,
+              0.0,
+              136.0,
+              160.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_89x49_2749cc9ac8e9cf0d_1218d92d7096828e_8.png": {
+      "image": "tex1_89x49_2749cc9ac8e9cf0d_1218d92d7096828e_8.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/A": [
+            [
+              108.0,
+              76.0,
+              227.0,
+              190.0
+            ]
+          ]
+        }
+      }
+    }
+  }
 }

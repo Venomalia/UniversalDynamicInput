@@ -412,7 +412,7 @@
       "`Axis Yr+`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Right Y-.png",
       "`Axis Yr-`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Right Y+.png"
     },
-	"DInput/0/Pro Controller": {
+    "DInput/0/Pro Controller": {
       "`Button 0`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Button B.png",
       "`Button 1`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Button A.png",
       "`Button 2`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Button Y.png",
@@ -688,7 +688,7 @@
     "evdev/0/Bensussen Deutsch & Associates,Inc.(BDA) NSW Spectra Wired Controller": {
       "C": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/Button A.png",
       "EAST": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/Button B.png",
-	  "SOUTH": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/Button Y.png",
+      "SOUTH": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/Button Y.png",
       "NORTH": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/Button X.png",
       "WEST": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/L.png",
       "Z": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/R.png",
@@ -998,7 +998,7 @@
       "`Button 0`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/Button A.png",
       "`Button 1`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/Button B.png",
       "`Button 2`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/Button X.png",
-	  "`Button 3`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/Button Y.png",
+      "`Button 3`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/Button Y.png",
       "`Button 4`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/Button -.png",
       "`Button 5`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/Home.png",
       "`Button 6`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/Button +.png",
@@ -1020,7 +1020,7 @@
       "`Axis 3+`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/Right Y-.png",
       "`Axis 3-`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/Right Y+.png",
       "`Full Axis 4+`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/ZL.png",
-      "`Full Axis 5+`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/ZR.png",
+      "`Full Axis 5+`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/ZR.png"
     },
     "Quartz/0/Keyboard & Mouse": {
       "`Left Click`": "../#DefaultDevices/_Mirror/Keyboard Mouse/Flat/Click 0.png",
@@ -1127,5 +1127,101 @@
       "`Keypad =`": "../#DefaultDevices/_Mirror/Keyboard Mouse/Flat/EQUALS.png"
     }
   },
-  "output_textures": {}
+  "generated_folder_name": "#Generated_Digimon World 4",
+  "preserve_aspect_ratio": true,
+  "output_textures": {
+    "tex1_512x512_38dbb14aaf216201_3e25af75842572c5_9.png": {
+      "image": "tex1_512x512_38dbb14aaf216201_3e25af75842572c5_9.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/A": [
+            [
+              724.0,
+              96.0,
+              804.0,
+              180.0
+            ]
+          ],
+          "Buttons/B": [
+            [
+              812.0,
+              104.0,
+              880.0,
+              176.0
+            ],
+            [
+              944.0,
+              860.0,
+              1012.0,
+              932.0
+            ]
+          ],
+          "Buttons/Start": [
+            [
+              940.0,
+              428.0,
+              1020.0,
+              516.0
+            ]
+          ],
+          "Main Stick/Up": [
+            [
+              940.0,
+              316.0,
+              1020.0,
+              404.0
+            ]
+          ],
+          "Buttons/X": [
+            [
+              944.0,
+              640.0,
+              1024.0,
+              734.0
+            ]
+          ],
+          "Buttons/Y": [
+            [
+              936.0,
+              968.0,
+              1024.0,
+              1044.0
+            ]
+          ],
+          "Triggers/L": [
+            [
+              936.0,
+              1080.0,
+              1024.0,
+              1164.0
+            ]
+          ],
+          "Triggers/R": [
+            [
+              936.0,
+              1188.0,
+              1024.0,
+              1272.0
+            ]
+          ],
+          "Buttons/Z": [
+            [
+              936.0,
+              1300.0,
+              1024.0,
+              1364.0
+            ]
+          ],
+          "C-Stick/Up": [
+            [
+              948.0,
+              1396.0,
+              1020.0,
+              1480.0
+            ]
+          ]
+        }
+      }
+    }
+  }
 }

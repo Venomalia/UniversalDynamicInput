@@ -420,7 +420,7 @@
       "`Axis Yr+`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Right Y-.png",
       "`Axis Yr-`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Right Y+.png"
     },
-	"DInput/0/Pro Controller": {
+    "DInput/0/Pro Controller": {
       "DInput/0/Pro Controller": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon.png",
       "`Button 0`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button B.png",
       "`Button 1`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button A.png",
@@ -703,7 +703,7 @@
       "evdev/0/Bensussen Deutsch & Associates,Inc.(BDA) NSW Spectra Wired Controller": "../#DefaultDevices/Switch_Pro Controller/Device/Icon.png",
       "C": "../#DefaultDevices/Switch_Pro Controller/Flat/Button A.png",
       "EAST": "../#DefaultDevices/Switch_Pro Controller/Flat/Button B.png",
-	  "SOUTH": "../#DefaultDevices/Switch_Pro Controller/Flat/Button Y.png",
+      "SOUTH": "../#DefaultDevices/Switch_Pro Controller/Flat/Button Y.png",
       "NORTH": "../#DefaultDevices/Switch_Pro Controller/Flat/Button X.png",
       "WEST": "../#DefaultDevices/Switch_Pro Controller/Flat/L.png",
       "Z": "../#DefaultDevices/Switch_Pro Controller/Flat/R.png",
@@ -1020,7 +1020,7 @@
       "`Button 0`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button A.png",
       "`Button 1`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button B.png",
       "`Button 2`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button X.png",
-	  "`Button 3`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button Y.png",
+      "`Button 3`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button Y.png",
       "`Button 4`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button -.png",
       "`Button 5`": "../#DefaultDevices/Switch_Pro Controller/Flat/Home.png",
       "`Button 6`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button +.png",
@@ -1042,7 +1042,7 @@
       "`Axis 3+`": "../#DefaultDevices/Switch_Pro Controller/Flat/Right Y-.png",
       "`Axis 3-`": "../#DefaultDevices/Switch_Pro Controller/Flat/Right Y+.png",
       "`Full Axis 4+`": "../#DefaultDevices/Switch_Pro Controller/Flat/ZL.png",
-      "`Full Axis 5+`": "../#DefaultDevices/Switch_Pro Controller/Flat/ZR.png",
+      "`Full Axis 5+`": "../#DefaultDevices/Switch_Pro Controller/Flat/ZR.png"
     },
     "Quartz/0/Keyboard & Mouse": {
       "`Left Click`": "../#DefaultDevices/Keyboard Mouse/Flat/Click 0.png",
@@ -1149,6 +1149,788 @@
       "`Keypad =`": "../#DefaultDevices/Keyboard Mouse/Flat/EQUALS.png"
     }
   },
+  "generated_folder_name": "#Generated_Pokemon Colosseum",
   "preserve_aspect_ratio": true,
-  "output_textures": {}
+  "output_textures": {
+    "tex1_256x239_e80bdceb267a5661_6.png": {
+      "image": "tex1_256x239_e80bdceb267a5661_6.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "D-Pad/Up": [
+            [
+              437.0,
+              185.0,
+              508.0,
+              255.0
+            ]
+          ],
+          "D-Pad/Right": [
+            [
+              437.0,
+              109.0,
+              508.0,
+              179.0
+            ]
+          ],
+          "D-Pad/Down": [
+            [
+              437.0,
+              9.0,
+              508.0,
+              79.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_256x239_592cd77b475e4a80_5.png": {
+      "image": "tex1_256x239_592cd77b475e4a80_5.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "D-Pad/Up": [
+            [
+              437.0,
+              185.0,
+              508.0,
+              255.0
+            ]
+          ],
+          "D-Pad/Right": [
+            [
+              437.0,
+              109.0,
+              508.0,
+              179.0
+            ]
+          ],
+          "D-Pad/Down": [
+            [
+              437.0,
+              9.0,
+              508.0,
+              79.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_256x239_a8aa1f9c1196722e_6.png": {
+      "image": "tex1_256x239_a8aa1f9c1196722e_6.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "D-Pad/Up": [
+            [
+              437.0,
+              185.0,
+              508.0,
+              255.0
+            ]
+          ],
+          "D-Pad/Right": [
+            [
+              437.0,
+              109.0,
+              508.0,
+              179.0
+            ]
+          ],
+          "D-Pad/Down": [
+            [
+              437.0,
+              9.0,
+              508.0,
+              79.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_256x239_cf1d12886d0f748c_6.png": {
+      "image": "tex1_256x239_cf1d12886d0f748c_6.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "D-Pad/Up": [
+            [
+              437.0,
+              185.0,
+              508.0,
+              255.0
+            ]
+          ],
+          "D-Pad/Right": [
+            [
+              437.0,
+              109.0,
+              508.0,
+              179.0
+            ]
+          ],
+          "D-Pad/Down": [
+            [
+              437.0,
+              9.0,
+              508.0,
+              79.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_256x239_cf69e0e0a6389f6d_6.png": {
+      "image": "tex1_256x239_cf69e0e0a6389f6d_6.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "D-Pad/Up": [
+            [
+              437.0,
+              185.0,
+              508.0,
+              255.0
+            ]
+          ],
+          "D-Pad/Right": [
+            [
+              437.0,
+              109.0,
+              508.0,
+              179.0
+            ]
+          ],
+          "D-Pad/Down": [
+            [
+              437.0,
+              9.0,
+              508.0,
+              79.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_371x240_391062ebb460d03d_6.png": {
+      "image": "tex1_371x240_391062ebb460d03d_6.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/B": [
+            [
+              9.0,
+              344.0,
+              76.0,
+              415.0
+            ]
+          ],
+          "Buttons/X": [
+            [
+              219.0,
+              262.0,
+              290.0,
+              343.0
+            ]
+          ],
+          "Buttons/Start": [
+            [
+              110.0,
+              372.0,
+              150.0,
+              410.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_512x512_ee2fd1c14849655a_5.png": {
+      "image": "tex1_512x512_ee2fd1c14849655a_5.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/A": [
+            [
+              588.0,
+              228.0,
+              650.0,
+              290.0
+            ]
+          ],
+          "Buttons/B": [
+            [
+              652.0,
+              228.0,
+              714.0,
+              290.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_512x512_952ba8302413e30c_5.png": {
+      "image": "tex1_512x512_952ba8302413e30c_5.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/A": [
+            [
+              588.0,
+              228.0,
+              650.0,
+              290.0
+            ]
+          ],
+          "Buttons/B": [
+            [
+              652.0,
+              228.0,
+              714.0,
+              290.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_512x512_6381323984552060_5.png": {
+      "image": "tex1_512x512_6381323984552060_5.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/A": [
+            [
+              588.0,
+              228.0,
+              650.0,
+              290.0
+            ]
+          ],
+          "Buttons/B": [
+            [
+              652.0,
+              228.0,
+              714.0,
+              290.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_512x512_b6d65891d54e6af3_5.png": {
+      "image": "tex1_512x512_b6d65891d54e6af3_5.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/A": [
+            [
+              588.0,
+              228.0,
+              650.0,
+              290.0
+            ]
+          ],
+          "Buttons/B": [
+            [
+              652.0,
+              228.0,
+              714.0,
+              290.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_512x512_b38b24619f2bb10b_5.png": {
+      "image": "tex1_512x512_b38b24619f2bb10b_5.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/A": [
+            [
+              588.0,
+              228.0,
+              650.0,
+              290.0
+            ]
+          ],
+          "Buttons/B": [
+            [
+              652.0,
+              228.0,
+              714.0,
+              290.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_546x336_e3c96560c36de5a1_5.png": {
+      "image": "tex1_546x336_e3c96560c36de5a1_5.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/A": [
+            [
+              342.0,
+              476.0,
+              417.0,
+              550.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_546x336_4a8ef9cee26b2a4b_5.png": {
+      "image": "tex1_546x336_4a8ef9cee26b2a4b_5.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/A": [
+            [
+              342.0,
+              476.0,
+              417.0,
+              550.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_546x336_91aeab21d7c04a48_6.png": {
+      "image": "tex1_546x336_91aeab21d7c04a48_6.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/A": [
+            [
+              342.0,
+              476.0,
+              417.0,
+              550.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_546x336_131ebbc3d4576ea4_6.png": {
+      "image": "tex1_546x336_131ebbc3d4576ea4_6.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/A": [
+            [
+              342.0,
+              476.0,
+              417.0,
+              550.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_546x336_28679ec1d18d08d2_6.png": {
+      "image": "tex1_546x336_28679ec1d18d08d2_6.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/A": [
+            [
+              342.0,
+              476.0,
+              417.0,
+              550.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_558x601_473dd8e84cb9d101_6.png": {
+      "image": "tex1_558x601_473dd8e84cb9d101_6.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/B": [
+            [
+              527.0,
+              855.0,
+              587.0,
+              913.0
+            ]
+          ],
+          "Triggers/L": [
+            [
+              815.0,
+              1098.0,
+              935.0,
+              1183.0
+            ]
+          ],
+          "Triggers/R": [
+            [
+              946.0,
+              1098.0,
+              1064.0,
+              1182.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_640x176_799f46b5d19db07f_5.png": {
+      "image": "tex1_640x176_799f46b5d19db07f_5.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/X": [
+            [
+              859.0,
+              205.0,
+              920.0,
+              270.0
+            ]
+          ],
+          "Buttons/B": [
+            [
+              791.0,
+              211.0,
+              848.0,
+              265.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_640x347_d18705658d249259_6.png": {
+      "image": "tex1_640x347_d18705658d249259_6.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/B": [
+            [
+              612.0,
+              6.0,
+              671.0,
+              65.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_640x347_1a2c9b52bbeb7a6d_6.png": {
+      "image": "tex1_640x347_1a2c9b52bbeb7a6d_6.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/B": [
+            [
+              612.0,
+              6.0,
+              671.0,
+              65.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_640x347_05c6066be280d5f9_6.png": {
+      "image": "tex1_640x347_05c6066be280d5f9_6.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/B": [
+            [
+              612.0,
+              6.0,
+              671.0,
+              65.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_640x347_6ecc9275b06703d7_6.png": {
+      "image": "tex1_640x347_6ecc9275b06703d7_6.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/B": [
+            [
+              612.0,
+              6.0,
+              671.0,
+              65.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_640x347_96a07dad51f1591a_6.png": {
+      "image": "tex1_640x347_96a07dad51f1591a_6.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/B": [
+            [
+              612.0,
+              6.0,
+              671.0,
+              65.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_650x314_a99f62cbc0e31c65_6.png": {
+      "image": "tex1_650x314_a99f62cbc0e31c65_6.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "D-Pad/Up": [
+            [
+              1080.0,
+              500.0,
+              1132.0,
+              552.0
+            ]
+          ],
+          "D-Pad/Right": [
+            [
+              1184.0,
+              500.0,
+              1236.0,
+              552.0
+            ]
+          ],
+          "D-Pad/Left": [
+            [
+              1132.0,
+              500.0,
+              1184.0,
+              552.0
+            ]
+          ],
+          "D-Pad/Down": [
+            [
+              1236.0,
+              500.0,
+              1288.0,
+              552.0
+            ]
+          ],
+          "Buttons/Y": [
+            [
+              1176.0,
+              390.0,
+              1236.0,
+              438.0
+            ]
+          ],
+          "Buttons/X": [
+            [
+              1248.0,
+              390.0,
+              1296.0,
+              450.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_650x314_3a821f6145b80318_6.png": {
+      "image": "tex1_650x314_3a821f6145b80318_6.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "D-Pad/Up": [
+            [
+              1080.0,
+              500.0,
+              1132.0,
+              552.0
+            ]
+          ],
+          "D-Pad/Right": [
+            [
+              1184.0,
+              500.0,
+              1236.0,
+              552.0
+            ]
+          ],
+          "D-Pad/Left": [
+            [
+              1132.0,
+              500.0,
+              1184.0,
+              552.0
+            ]
+          ],
+          "D-Pad/Down": [
+            [
+              1236.0,
+              500.0,
+              1288.0,
+              552.0
+            ]
+          ],
+          "Buttons/Y": [
+            [
+              1176.0,
+              390.0,
+              1236.0,
+              438.0
+            ]
+          ],
+          "Buttons/X": [
+            [
+              1248.0,
+              390.0,
+              1296.0,
+              450.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_650x314_7bcec66781e8d16c_6.png": {
+      "image": "tex1_650x314_7bcec66781e8d16c_6.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "D-Pad/Up": [
+            [
+              1080.0,
+              500.0,
+              1132.0,
+              552.0
+            ]
+          ],
+          "D-Pad/Right": [
+            [
+              1184.0,
+              500.0,
+              1236.0,
+              552.0
+            ]
+          ],
+          "D-Pad/Left": [
+            [
+              1132.0,
+              500.0,
+              1184.0,
+              552.0
+            ]
+          ],
+          "D-Pad/Down": [
+            [
+              1236.0,
+              500.0,
+              1288.0,
+              552.0
+            ]
+          ],
+          "Buttons/Y": [
+            [
+              1176.0,
+              390.0,
+              1236.0,
+              438.0
+            ]
+          ],
+          "Buttons/X": [
+            [
+              1248.0,
+              390.0,
+              1296.0,
+              450.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_650x314_849efa7c81f78d1f_6.png": {
+      "image": "tex1_650x314_849efa7c81f78d1f_6.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "D-Pad/Up": [
+            [
+              1080.0,
+              500.0,
+              1132.0,
+              552.0
+            ]
+          ],
+          "D-Pad/Right": [
+            [
+              1184.0,
+              500.0,
+              1236.0,
+              552.0
+            ]
+          ],
+          "D-Pad/Left": [
+            [
+              1132.0,
+              500.0,
+              1184.0,
+              552.0
+            ]
+          ],
+          "D-Pad/Down": [
+            [
+              1236.0,
+              500.0,
+              1288.0,
+              552.0
+            ]
+          ],
+          "Buttons/Y": [
+            [
+              1176.0,
+              390.0,
+              1236.0,
+              438.0
+            ]
+          ],
+          "Buttons/X": [
+            [
+              1248.0,
+              390.0,
+              1296.0,
+              450.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_650x314_18451b49c7561b19_6.png": {
+      "image": "tex1_650x314_18451b49c7561b19_6.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "D-Pad/Up": [
+            [
+              1080.0,
+              500.0,
+              1132.0,
+              552.0
+            ]
+          ],
+          "D-Pad/Right": [
+            [
+              1184.0,
+              500.0,
+              1236.0,
+              552.0
+            ]
+          ],
+          "D-Pad/Left": [
+            [
+              1132.0,
+              500.0,
+              1184.0,
+              552.0
+            ]
+          ],
+          "D-Pad/Down": [
+            [
+              1236.0,
+              500.0,
+              1288.0,
+              552.0
+            ]
+          ],
+          "Buttons/Y": [
+            [
+              1176.0,
+              390.0,
+              1236.0,
+              438.0
+            ]
+          ],
+          "Buttons/X": [
+            [
+              1248.0,
+              390.0,
+              1296.0,
+              450.0
+            ]
+          ]
+        }
+      }
+    }
+  }
 }

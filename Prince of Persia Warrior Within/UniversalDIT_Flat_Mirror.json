@@ -412,7 +412,7 @@
       "`Axis Yr+`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Right Y-.png",
       "`Axis Yr-`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Right Y+.png"
     },
-	"DInput/0/Pro Controller": {
+    "DInput/0/Pro Controller": {
       "`Button 0`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Button B.png",
       "`Button 1`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Button A.png",
       "`Button 2`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Flat\\Button Y.png",
@@ -688,7 +688,7 @@
     "evdev/0/Bensussen Deutsch & Associates,Inc.(BDA) NSW Spectra Wired Controller": {
       "C": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/Button A.png",
       "EAST": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/Button B.png",
-	  "SOUTH": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/Button Y.png",
+      "SOUTH": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/Button Y.png",
       "NORTH": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/Button X.png",
       "WEST": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/L.png",
       "Z": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/R.png",
@@ -998,7 +998,7 @@
       "`Button 0`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/Button A.png",
       "`Button 1`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/Button B.png",
       "`Button 2`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/Button X.png",
-	  "`Button 3`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/Button Y.png",
+      "`Button 3`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/Button Y.png",
       "`Button 4`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/Button -.png",
       "`Button 5`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/Home.png",
       "`Button 6`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/Button +.png",
@@ -1020,7 +1020,7 @@
       "`Axis 3+`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/Right Y-.png",
       "`Axis 3-`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/Right Y+.png",
       "`Full Axis 4+`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/ZL.png",
-      "`Full Axis 5+`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/ZR.png",
+      "`Full Axis 5+`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Flat/ZR.png"
     },
     "Quartz/0/Keyboard & Mouse": {
       "`Left Click`": "../#DefaultDevices/_Mirror/Keyboard Mouse/Flat/Click 0.png",
@@ -1127,5 +1127,184 @@
       "`Keypad =`": "../#DefaultDevices/_Mirror/Keyboard Mouse/Flat/EQUALS.png"
     }
   },
-  "output_textures": {}
+  "generated_folder_name": "#Generated_Prince of Persia Warrior Within",
+  "preserve_aspect_ratio": true,
+  "output_textures": {
+    "tex1_256x256_9f1f6dddc5794e91_14.png": {
+      "image": "tex1_256x256_9f1f6dddc5794e91_14.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "C-Stick/Up": [
+            [
+              51.0,
+              45.0,
+              177.0,
+              168.0
+            ]
+          ],
+          "Buttons/A": [
+            [
+              843.0,
+              40.0,
+              960.0,
+              162.0
+            ]
+          ],
+          "D-Pad/Down": [
+            [
+              57.0,
+              255.0,
+              169.0,
+              369.0
+            ]
+          ],
+          "D-Pad/Up": [
+            [
+              52.0,
+              665.0,
+              169.0,
+              777.0
+            ]
+          ],
+          "Main Stick/Up": [
+            [
+              66.0,
+              459.0,
+              174.0,
+              565.0
+            ]
+          ],
+          "Buttons/Y": [
+            [
+              861.0,
+              257.0,
+              943.0,
+              377.0
+            ],
+            [
+              838.0,
+              473.0,
+              958.0,
+              565.0
+            ]
+          ],
+          "Buttons/B": [
+            [
+              857.0,
+              679.0,
+              948.0,
+              771.0
+            ]
+          ],
+          "Triggers/L": [
+            [
+              52.0,
+              867.0,
+              183.0,
+              979.0
+            ]
+          ],
+          "Triggers/R": [
+            [
+              836.0,
+              868.0,
+              960.0,
+              981.0
+            ],
+            [
+              65.0,
+              61.0,
+              66.0,
+              62.0
+            ],
+            [
+              856.0,
+              56.0,
+              857.0,
+              57.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_512x128_ffcc2058933f5b32_14.png": {
+      "image": "tex1_512x128_ffcc2058933f5b32_14.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/A": [
+            [
+              180.0,
+              0.0,
+              276.0,
+              96.0
+            ]
+          ],
+          "Buttons/B": [
+            [
+              280.0,
+              0.0,
+              376.0,
+              96.0
+            ]
+          ],
+          "Buttons/X": [
+            [
+              380.0,
+              0.0,
+              476.0,
+              96.0
+            ]
+          ],
+          "Buttons/Y": [
+            [
+              480.0,
+              0.0,
+              576.0,
+              96.0
+            ]
+          ],
+          "Triggers/L": [
+            [
+              580.0,
+              0.0,
+              676.0,
+              96.0
+            ]
+          ],
+          "Triggers/R": [
+            [
+              680.0,
+              0.0,
+              776.0,
+              96.0
+            ]
+          ],
+          "D-Pad/Down": [
+            [
+              780.0,
+              0.0,
+              876.0,
+              96.0
+            ]
+          ],
+          "D-Pad/Up": [
+            [
+              880.0,
+              0.0,
+              976.0,
+              96.0
+            ]
+          ],
+          "Buttons/Z": [
+            [
+              1960.0,
+              0.0,
+              2048.0,
+              96.0
+            ]
+          ]
+        }
+      }
+    }
+  }
 }

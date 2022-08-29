@@ -420,7 +420,7 @@
       "`Axis Yr+`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Right Y-.png",
       "`Axis Yr-`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Right Y+.png"
     },
-	"DInput/0/Pro Controller": {
+    "DInput/0/Pro Controller": {
       "DInput/0/Pro Controller": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon.png",
       "`Button 0`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button B.png",
       "`Button 1`": "..\\#DefaultDevices\\Switch_Pro Controller\\Flat\\Button A.png",
@@ -703,7 +703,7 @@
       "evdev/0/Bensussen Deutsch & Associates,Inc.(BDA) NSW Spectra Wired Controller": "../#DefaultDevices/Switch_Pro Controller/Device/Icon.png",
       "C": "../#DefaultDevices/Switch_Pro Controller/Flat/Button A.png",
       "EAST": "../#DefaultDevices/Switch_Pro Controller/Flat/Button B.png",
-	  "SOUTH": "../#DefaultDevices/Switch_Pro Controller/Flat/Button Y.png",
+      "SOUTH": "../#DefaultDevices/Switch_Pro Controller/Flat/Button Y.png",
       "NORTH": "../#DefaultDevices/Switch_Pro Controller/Flat/Button X.png",
       "WEST": "../#DefaultDevices/Switch_Pro Controller/Flat/L.png",
       "Z": "../#DefaultDevices/Switch_Pro Controller/Flat/R.png",
@@ -1020,7 +1020,7 @@
       "`Button 0`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button A.png",
       "`Button 1`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button B.png",
       "`Button 2`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button X.png",
-	  "`Button 3`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button Y.png",
+      "`Button 3`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button Y.png",
       "`Button 4`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button -.png",
       "`Button 5`": "../#DefaultDevices/Switch_Pro Controller/Flat/Home.png",
       "`Button 6`": "../#DefaultDevices/Switch_Pro Controller/Flat/Button +.png",
@@ -1042,7 +1042,7 @@
       "`Axis 3+`": "../#DefaultDevices/Switch_Pro Controller/Flat/Right Y-.png",
       "`Axis 3-`": "../#DefaultDevices/Switch_Pro Controller/Flat/Right Y+.png",
       "`Full Axis 4+`": "../#DefaultDevices/Switch_Pro Controller/Flat/ZL.png",
-      "`Full Axis 5+`": "../#DefaultDevices/Switch_Pro Controller/Flat/ZR.png",
+      "`Full Axis 5+`": "../#DefaultDevices/Switch_Pro Controller/Flat/ZR.png"
     },
     "Quartz/0/Keyboard & Mouse": {
       "`Left Click`": "../#DefaultDevices/Keyboard Mouse/Flat/Click 0.png",
@@ -1149,6 +1149,310 @@
       "`Keypad =`": "../#DefaultDevices/Keyboard Mouse/Flat/EQUALS.png"
     }
   },
+  "generated_folder_name": "#Generated_Boom Street",
   "preserve_aspect_ratio": true,
-  "output_textures": {}
+  "output_textures": {
+    "tex1_32x64_ddd51e1937843c96_5.png": {
+      "image": "tex1_32x64_ddd51e1937843c96_5.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/A": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ],
+            [
+              10.0,
+              138.0,
+              118.0,
+              246.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x64_e4f19286b9b677ee_5.png": {
+      "image": "tex1_32x64_e4f19286b9b677ee_5.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/2": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ],
+            [
+              10.0,
+              138.0,
+              118.0,
+              246.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_96x64_0104228094aae1ec_3.png": {
+      "image": "tex1_96x64_0104228094aae1ec_3.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/+": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ],
+          "Buttons/-": [
+            [
+              128.0,
+              0.0,
+              256.0,
+              128.0
+            ]
+          ],
+          "Buttons/A": [
+            [
+              256.0,
+              0.0,
+              384.0,
+              128.0
+            ]
+          ],
+          "Buttons/1": [
+            [
+              0.0,
+              128.0,
+              128.0,
+              256.0
+            ]
+          ],
+          "Buttons/2": [
+            [
+              128.0,
+              128.0,
+              256.0,
+              256.0
+            ]
+          ],
+          "Buttons/B": [
+            [
+              256.0,
+              128.0,
+              384.0,
+              256.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_256x256_83e9efeeb7b5e6ad_5.png": {
+      "image": "tex1_256x256_83e9efeeb7b5e6ad_5.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/A": [
+            [
+              256.0,
+              564.0,
+              384.0,
+              705.0
+            ]
+          ],
+          "Buttons/B": [
+            [
+              384.0,
+              564.0,
+              512.0,
+              705.0
+            ]
+          ],
+          "Buttons/1": [
+            [
+              512.0,
+              564.0,
+              640.0,
+              705.0
+            ]
+          ],
+          "Buttons/2": [
+            [
+              640.0,
+              564.0,
+              768.0,
+              705.0
+            ]
+          ],
+          "Buttons/+": [
+            [
+              768.0,
+              564.0,
+              896.0,
+              705.0
+            ]
+          ],
+          "Buttons/-": [
+            [
+              896.0,
+              564.0,
+              1024.0,
+              705.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_400x50_2a0d23b3da12f185_5.png": {
+      "image": "tex1_400x50_EN.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/2": [
+            [
+              876.0,
+              38.0,
+              1004.0,
+              166.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_400x50_27bed0dc6fdc5940_5.png": {
+      "image": "tex1_400x50_ES.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/A": [
+            [
+              912.0,
+              38.0,
+              1040.0,
+              166.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_400x50_41f906e2760abbf9_5.png": {
+      "image": "tex1_400x50_IT.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/A": [
+            [
+              908.0,
+              38.0,
+              1036.0,
+              166.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_400x50_91b4a0aee4a4d94e_5.png": {
+      "image": "tex1_400x50_IT.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/2": [
+            [
+              908.0,
+              38.0,
+              1036.0,
+              166.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_400x50_96c5267580b38a25_5.png": {
+      "image": "tex1_400x50_ES.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/2": [
+            [
+              912.0,
+              38.0,
+              1040.0,
+              166.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_400x50_879cf84d36a9b080_5.png": {
+      "image": "tex1_400x50_FE.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/A": [
+            [
+              1038.0,
+              38.0,
+              1166.0,
+              166.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_400x50_4064fdb4fed2106c_5.png": {
+      "image": "tex1_400x50_DE.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/A": [
+            [
+              928.0,
+              38.0,
+              1056.0,
+              166.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_400x50_dafe58e455e1e831_5.png": {
+      "image": "tex1_400x50_DE.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/2": [
+            [
+              928.0,
+              38.0,
+              1056.0,
+              166.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_400x50_e44cbba4a8843e92_5.png": {
+      "image": "tex1_400x50_FE.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/2": [
+            [
+              1038.0,
+              38.0,
+              1166.0,
+              166.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_400x50_f4c173b569d309d7_5.png": {
+      "image": "tex1_400x50_EN.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/A": [
+            [
+              876.0,
+              38.0,
+              1004.0,
+              166.0
+            ]
+          ]
+        }
+      }
+    }
+  }
 }
