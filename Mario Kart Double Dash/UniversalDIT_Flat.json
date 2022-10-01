@@ -1341,6 +1341,21 @@
           ]
         }
       }
+    },
+    "tex1_8x8_4824ca7918f700ba_0.png": {
+      "image": "tex1_8x8_4824ca7918f700ba_0.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "blank": [
+            [
+              0.0,
+              0.0,
+              32.0,
+              32.0
+            ]
+          ]
+        }
+      }
     }
   }
 }
