@@ -629,7 +629,7 @@
       "THUMBL": "../#DefaultDevices/XBOX ONE/Flat_Pressed/Thumb L.png"
     },
     "evdev/0/Microsoft X-Box 360 pad": {
-      "evdev/0/Microsoft X-Box One S pad": "../#DefaultDevices/XBOX ONE/Device/Icon.png",
+      "evdev/0/Microsoft X-Box 360 pad": "../#DefaultDevices/XBOX ONE/Device/Icon.png",
       "SOUTH": "../#DefaultDevices/XBOX 360/Flat_Pressed/Button A.png",
       "EAST": "../#DefaultDevices/XBOX 360/Flat_Pressed/Button B.png",
       "NORTH": "../#DefaultDevices/XBOX 360/Flat_Pressed/Button X.png",
