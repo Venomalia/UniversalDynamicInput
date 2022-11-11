@@ -1477,6 +1477,126 @@
           ]
         }
       }
+    },
+    "tex1_32x32_2ec65a3722f0c658_3e27bb4a827843a0_9.png": {
+      "image": "tex1_32x32_2ec65a3722f0c658_3e27bb4a827843a0_9.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/B": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_2ec65a3722f0c658_c8c6fbc54fedb1db_9.png": {
+      "image": "tex1_32x32_2ec65a3722f0c658_c8c6fbc54fedb1db_9.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/B": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_110bddc90001fca4_5bf97d26ed76aac5_9.png": {
+      "image": "tex1_32x32_110bddc90001fca4_5bf97d26ed76aac5_9.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/Y": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_110bddc90001fca4_8127e68f7ad6277e_9.png": {
+      "image": "tex1_32x32_110bddc90001fca4_8127e68f7ad6277e_9.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/Y": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_6785a6d7c68e328e_0ef267bcdf94e7bc_9.png": {
+      "image": "tex1_32x32_6785a6d7c68e328e_0ef267bcdf94e7bc_9.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/A": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_6785a6d7c68e328e_c7fb38022a34b30f_9.png": {
+      "image": "tex1_32x32_6785a6d7c68e328e_c7fb38022a34b30f_9.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/A": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_bb702beac9d273f5_6b6465a31fe93f3f_9.png": {
+      "image": "tex1_32x32_bb702beac9d273f5_6b6465a31fe93f3f_9.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/X": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_32x32_bb702beac9d273f5_91910d2aa4f11a28_9.png": {
+      "image": "tex1_32x32_bb702beac9d273f5_91910d2aa4f11a28_9.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/X": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
     }
   }
 }
