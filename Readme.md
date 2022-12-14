@@ -54,7 +54,7 @@ here you can make a [request](https://github.com/Venomalia/UniversalDynamicInput
 Try this [guide](https://github.com/Venomalia/UniversalDynamicInput/wiki/Create-a-Package). make a [contribution](https://github.com/Venomalia/UniversalDynamicInput/wiki/Contributing)
 
 ### The buttons that are displayed do not fit my controller!
-Try the [DevicesTextureChanger](https://github.com/Venomalia/UniversalDynamicInput/wiki/Supported-Inputs-Devices#devicestexturechanger) or create a [request](https://github.com/Venomalia/UniversalDynamicInput/issues/new/choose).
+Try the [DevicesTextureChanger](https://github.com/Venomalia/UniversalDynamicInput/wiki/Windows-Supported-Input-Devices#devicestexturechanger) or create a [request](https://github.com/Venomalia/UniversalDynamicInput/issues/new/choose).
 
 ### Where can I ask questions?
 You can use [Discord](https://discord.gg/vEQYMPxgSR) or [this thread](https://forums.dolphin-emu.org/Thread-universal-dynamic-input-texture-pack) in the Dolphin forum.
