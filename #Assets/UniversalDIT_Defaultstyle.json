@@ -321,6 +321,16 @@
       "Square": "../#DefaultDevices/Switch_Joy-Con/Defaultstyle/Button Y.png",
       "Triangle": "../#DefaultDevices/Switch_Joy-Con/Defaultstyle/Button X.png"
     },
+    "SDL/0/Nintendo Switch Joy-Con (L/R)": {
+      "SDL/0/Nintendo Switch Joy-Con (L/R)": "../#DefaultDevices/Switch_Joy-Con/Device/Icon.png",
+      "`Button 0`": "../#DefaultDevices/Switch_Joy-Con/Defaultstyle/Button A.png",
+      "`Button 1`": "../#DefaultDevices/Switch_Joy-Con/Defaultstyle/Button B.png",
+      "`Button 9`": "../#DefaultDevices/Switch_Joy-Con/Defaultstyle/L.png",
+      "`Full Axis 4+`": "../#DefaultDevices/Switch_Joy-Con/Defaultstyle/ZL.png",
+      "`Button 7`": "../#DefaultDevices/Switch_Joy-Con/Defaultstyle/Thumb L.png",
+      "`Axis 0-`": "../#DefaultDevices/Switch_Joy-Con/Defaultstyle/Left X-.png",
+      "`Axis 0+`": "../#DefaultDevices/Switch_Joy-Con/Defaultstyle/Left X+.png",
+      "`Axis 1+`": "../#DefaultDevices/Switch_Joy-Con/Defaultstyle/Left Y-.png",
       "`Axis 1-`": "../#DefaultDevices/Switch_Joy-Con/Defaultstyle/Left Y+.png",
       "`Button 6`": "../#DefaultDevices/Switch_Joy-Con/Defaultstyle/Button +.png",
       "`Button 14`": "../#DefaultDevices/Switch_Joy-Con/Defaultstyle/Pad E.png",
