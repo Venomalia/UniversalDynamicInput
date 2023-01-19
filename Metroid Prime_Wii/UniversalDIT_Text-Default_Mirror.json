@@ -1,6 +1,7 @@
 {
   "default_host_controls": {
     "XInput/0/Gamepad": {
+      "XInput/0/Gamepad": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Device\\Icon.png",
       "`Button A`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Text-Default\\Button A.png",
       "`Button B`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Text-Default\\Button B.png",
       "`Button X`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Text-Default\\Button X.png",
@@ -37,6 +38,7 @@
       "Button Back": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Text-Default\\Back.png"
     },
     "DInput/0/Bluetooth LE XINPUT compatible input device": {
+      "DInput/0/Bluetooth LE XINPUT compatible input device": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Device\\Icon.png",
       "`Button 0`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Text-Default\\Button A.png",
       "`Button 1`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Text-Default\\Button B.png",
       "`Button 2`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Text-Default\\Button X.png",
@@ -192,6 +194,7 @@
       "SUBTRACT": "..\\#DefaultDevices\\_Mirror\\Keyboard Mouse\\Text-Default\\MINUS.png"
     },
     "DSUClient/0/DualShock4": {
+      "DSUClient/0/DualShock4": "../#DefaultDevices/_Mirror/DualShock4/Device/Icon.png",
       "`Circle`": "../#DefaultDevices/_Mirror/DualShock4/Text-Default/Circle.png",
       "`Cross`": "../#DefaultDevices/_Mirror/DualShock4/Text-Default/Cross.png",
       "`L1`": "../#DefaultDevices/_Mirror/DualShock4/Text-Default/L1.png",
@@ -234,6 +237,7 @@
       "Touch Button": "../#DefaultDevices/_Mirror/DualShock4/Text-Default/Touchpad.png"
     },
     "DSUClient/0/BetterJoy": {
+      "DSUClient/0/BetterJoy": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Device/Icon.png",
       "`Circle`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Text-Default/Button A.png",
       "`Cross`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Text-Default/Button B.png",
       "`L1`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Text-Default/L.png",
@@ -275,6 +279,7 @@
       "Triangle": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Text-Default/Button X.png"
     },
     "DSUClient/1/BetterJoy": {
+      "DSUClient/1/BetterJoy": "../#DefaultDevices/_Mirror/Switch_Joy-Con/Device/Icon.png",
       "`Circle`": "../#DefaultDevices/_Mirror/Switch_Joy-Con/Text-Default/Button A.png",
       "`Cross`": "../#DefaultDevices/_Mirror/Switch_Joy-Con/Text-Default/Button B.png",
       "`L1`": "../#DefaultDevices/_Mirror/Switch_Joy-Con/Text-Default/L.png",
@@ -345,6 +350,7 @@
       "`Button 2`": "../#DefaultDevices/_Mirror/Switch_Joy-Con/Text-Default/Button X.png"
     },
     "DInput/0/Wireless Gamepad": {
+      "DInput/0/Wireless Gamepad": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Device\\Icon.png",
       "`Button 0`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Text-Default\\Button B.png",
       "`Button 1`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Text-Default\\Button A.png",
       "`Button 2`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Text-Default\\Button Y.png",
@@ -373,6 +379,7 @@
       "`Axis Yr-`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Text-Default\\Right Y+.png"
     },
     "DInput/0/Core (Plus) Wired Controller": {
+      "DInput/0/Core (Plus) Wired Controller": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Device\\Icon.png",
       "`Button 1`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Text-Default\\Button B.png",
       "`Button 2`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Text-Default\\Button A.png",
       "`Button 0`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Text-Default\\Button Y.png",
@@ -430,6 +437,7 @@
       "`Axis Yr-`": "..\\#DefaultDevices\\_Mirror\\Switch_Pro Controller\\Text-Default\\Right Y+.png"
     },
     "DInput/0/Twin USB Joystick": {
+      "DInput/0/Twin USB Joystick": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Device\\Icon.png",
       "`Button 0`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Text-Default\\Triangle.png",
       "`Button 1`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Text-Default\\Circle.png",
       "`Button 2`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Text-Default\\Cross.png",
@@ -438,8 +446,8 @@
       "`Button 5`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Text-Default\\R2.png",
       "`Button 6`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Text-Default\\L1.png",
       "`Button 7`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Text-Default\\R1.png",
-      "`Button 8`": "..\\#DefaultDevices\\DualShock3\\Text-Default\\Share.png",
-      "`Button 9`": "..\\#DefaultDevices\\DualShock3\\Text-Default\\Options.png",
+      "`Button 8`": "..\\#DefaultDevices\\_Mirror\\DualShock3\\Text-Default\\Share.png",
+      "`Button 9`": "..\\#DefaultDevices\\_Mirror\\DualShock3\\Text-Default\\Options.png",
       "`Button 10`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Text-Default\\L3.png",
       "`Button 11`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Text-Default\\R3.png",
       "`Button 12`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Text-Default\\PS.png",
@@ -457,6 +465,7 @@
       "`Axis Zr-`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Text-Default\\Right X-.png"
     },
     "DInput/0/Wireless Controller": {
+      "DInput/0/Wireless Controller": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Device\\Icon.png",
       "`Button 0`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Text-Default\\Square.png",
       "`Button 1`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Text-Default\\Cross.png",
       "`Button 2`": "..\\#DefaultDevices\\_Mirror\\DualShock4\\Text-Default\\Circle.png",
@@ -542,6 +551,35 @@
       "`Axis Z+`": "..\\#DefaultDevices\\_Mirror\\Stadia\\Text-Default\\Right X+.png",
       "`Axis Z-`": "..\\#DefaultDevices\\_Mirror\\Stadia\\Text-Default\\Right X-.png"
     },
+    "SDL/0/Google Stadia Controller": {
+      "`Button 0`": "..\\#DefaultDevices\\_Mirror\\Stadia\\Text-Default\\Button A.png",
+      "`Button 1`": "..\\#DefaultDevices\\_Mirror\\Stadia\\Text-Default\\Button B.png",
+      "`Button 2`": "..\\#DefaultDevices\\_Mirror\\Stadia\\Text-Default\\Button X.png",
+      "`Button 3`": "..\\#DefaultDevices\\_Mirror\\Stadia\\Text-Default\\Button Y.png",
+      "`Button 4`": "..\\#DefaultDevices\\_Mirror\\Stadia\\Text-Default\\Options.png",
+      "`Button 5`": "..\\#DefaultDevices\\_Mirror\\Stadia\\Text-Default\\Guide.png",
+      "`Button 6`": "..\\#DefaultDevices\\_Mirror\\Stadia\\Text-Default\\Menu.png",
+      "`Button 7`": "..\\#DefaultDevices\\_Mirror\\Stadia\\Text-Default\\L3.png",
+      "`Button 8`": "..\\#DefaultDevices\\_Mirror\\Stadia\\Text-Default\\R3.png",
+      "`Button 9`": "..\\#DefaultDevices\\_Mirror\\Stadia\\Text-Default\\L1.png",
+      "`Button 10`": "..\\#DefaultDevices\\_Mirror\\Stadia\\Text-Default\\R1.png",
+      "`Button 11`": "..\\#DefaultDevices\\_Mirror\\Stadia\\Text-Default\\Pad N.png",
+      "`Button 12`": "..\\#DefaultDevices\\_Mirror\\Stadia\\Text-Default\\Pad S.png",
+      "`Button 13`": "..\\#DefaultDevices\\_Mirror\\Stadia\\Text-Default\\Pad W.png",
+      "`Button 14`": "..\\#DefaultDevices\\_Mirror\\Stadia\\Text-Default\\Pad E.png",
+      "`Button 15`": "..\\#DefaultDevices\\_Mirror\\Stadia\\Text-Default\\Capture.png",
+      "`Button 16`": "..\\#DefaultDevices\\_Mirror\\Stadia\\Text-Default\\Assistant.png",
+      "`Axis 0-`": "..\\#DefaultDevices\\_Mirror\\Stadia\\Text-Default\\Left X-.png",
+      "`Axis 0+`": "..\\#DefaultDevices\\_Mirror\\Stadia\\Text-Default\\Left X+.png",
+      "`Axis 1+`": "..\\#DefaultDevices\\_Mirror\\Stadia\\Text-Default\\Left Y-.png",
+      "`Axis 1-`": "..\\#DefaultDevices\\_Mirror\\Stadia\\Text-Default\\Left Y+.png",
+      "`Axis 3-`": "..\\#DefaultDevices\\_Mirror\\Stadia\\Text-Default\\Right Y+.png",
+      "`Axis 3+`": "..\\#DefaultDevices\\_Mirror\\Stadia\\Text-Default\\Right Y-.png",
+      "`Axis 2+`": "..\\#DefaultDevices\\_Mirror\\Stadia\\Text-Default\\Right X+.png",
+      "`Axis 2-`": "..\\#DefaultDevices\\_Mirror\\Stadia\\Text-Default\\Right X-.png",
+      "`Full Axis 5+`": "..\\#DefaultDevices\\_Mirror\\Stadia\\Text-Default\\R2.png",
+      "`Full Axis 4+`": "..\\#DefaultDevices\\_Mirror\\Stadia\\Text-Default\\L2.png"
+    },
     "Bluetooth/0/Wii Remote": {
       "A": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Text-Default\\Button A.png",
       "B": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Text-Default\\Button B.png",
@@ -594,6 +632,7 @@
       "`Classic Right Y+`": "..\\#DefaultDevices\\_Mirror\\Wii_Remote\\Text-Default\\Classic Right Y+.png"
     },
     "evdev/0/Microsoft X-Box One S pad": {
+      "evdev/0/Microsoft X-Box One S pad": "../#DefaultDevices/_Mirror/XBOX ONE/Device/Icon.png",
       "SOUTH": "../#DefaultDevices/_Mirror/XBOX ONE/Text-Default/Button A.png",
       "EAST": "../#DefaultDevices/_Mirror/XBOX ONE/Text-Default/Button B.png",
       "NORTH": "../#DefaultDevices/_Mirror/XBOX ONE/Text-Default/Button X.png",
@@ -621,6 +660,7 @@
       "THUMBL": "../#DefaultDevices/_Mirror/XBOX ONE/Text-Default/Thumb L.png"
     },
     "evdev/0/Xbox Wireless Controller": {
+      "evdev/0/Xbox Wireless Controller": "../#DefaultDevices/_Mirror/XBOX ONE/Device/Icon.png",
       "SOUTH": "../#DefaultDevices/_Mirror/XBOX ONE/Text-Default/Button A.png",
       "EAST": "../#DefaultDevices/_Mirror/XBOX ONE/Text-Default/Button B.png",
       "NORTH": "../#DefaultDevices/_Mirror/XBOX ONE/Text-Default/Button X.png",
@@ -648,6 +688,7 @@
       "THUMBL": "../#DefaultDevices/_Mirror/XBOX ONE/Text-Default/Thumb L.png"
     },
     "evdev/0/Microsoft X-Box 360 pad": {
+      "evdev/0/Microsoft X-Box 360 pad": "../#DefaultDevices/_Mirror/XBOX ONE/Device/Icon.png",
       "SOUTH": "../#DefaultDevices/_Mirror/XBOX 360/Text-Default/Button A.png",
       "EAST": "../#DefaultDevices/_Mirror/XBOX 360/Text-Default/Button B.png",
       "NORTH": "../#DefaultDevices/_Mirror/XBOX 360/Text-Default/Button X.png",
@@ -675,6 +716,7 @@
       "THUMBL": "../#DefaultDevices/_Mirror/XBOX 360/Text-Default/Thumb L.png"
     },
     "evdev/0/Bensussen Deutsch & Associates,Inc.(BDA) NSW Spectra Wired Controller": {
+      "evdev/0/Bensussen Deutsch & Associates,Inc.(BDA) NSW Spectra Wired Controller": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Device/Icon.png",
       "C": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Text-Default/Button A.png",
       "EAST": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Text-Default/Button B.png",
       "SOUTH": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Text-Default/Button Y.png",
@@ -703,6 +745,7 @@
       "`Axis 2-`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Text-Default/Right X-.png"
     },
     "evdev/0/Wireless Controller": {
+      "evdev/0/Wireless Controller": "../#DefaultDevices/_Mirror/DualShock4/Device/Icon.png",
       "SOUTH": "../#DefaultDevices/_Mirror/DualShock4/Text-Default/Cross.png",
       "EAST": "../#DefaultDevices/_Mirror/DualShock4/Text-Default/Circle.png",
       "WEST": "../#DefaultDevices/_Mirror/DualShock4/Text-Default/Square.png",
@@ -731,6 +774,7 @@
       "THUMBR": "../#DefaultDevices/_Mirror/DualShock4/Text-Default/R3.png"
     },
     "evdev/0/Sony Interactive Entertainment Wireless Controller": {
+      "evdev/0/Sony Interactive Entertainment Wireless Controller": "../#DefaultDevices/_Mirror/DualShock4/Device/Icon.png",
       "SOUTH": "../#DefaultDevices/_Mirror/DualShock4/Text-Default/Cross.png",
       "EAST": "../#DefaultDevices/_Mirror/DualShock4/Text-Default/Circle.png",
       "WEST": "../#DefaultDevices/_Mirror/DualShock4/Text-Default/Square.png",
@@ -874,6 +918,7 @@
       "`KP_Subtract`": "../#DefaultDevices/_Mirror/Keyboard Mouse/Text-Default/MINUS.png"
     },
     "SDL/0/Xbox Wireless Controller": {
+      "SDL/0/Xbox Wireless Controller": "../#DefaultDevices/_Mirror/XBOX ONE/Device/Icon.png",
       "`Button 0`": "../#DefaultDevices/_Mirror/XBOX ONE/Text-Default/Button A.png",
       "`Button 1`": "../#DefaultDevices/_Mirror/XBOX ONE/Text-Default/Button B.png",
       "`Button 2`": "../#DefaultDevices/_Mirror/XBOX ONE/Text-Default/Button X.png",
@@ -901,6 +946,7 @@
       "`Full Axis 5+`": "../#DefaultDevices/_Mirror/XBOX ONE/Text-Default/Trigger R.png"
     },
     "SDL/0/PS4 Controller": {
+      "SDL/0/PS4 Controller": "../#DefaultDevices/_Mirror/DualShock4/Device/Icon.png",
       "`Button 0`": "../#DefaultDevices/_Mirror/DualShock4/Text-Default/Cross.png",
       "`Button 1`": "../#DefaultDevices/_Mirror/DualShock4/Text-Default/Circle.png",
       "`Button 2`": "../#DefaultDevices/_Mirror/DualShock4/Text-Default/Square.png",
@@ -929,6 +975,7 @@
       "`Full Axis 5+`": "../#DefaultDevices/_Mirror/DualShock4/Text-Default/R2.png"
     },
     "SDL/0/Controller (Xbox One For Windows)": {
+      "SDL/0/Controller (Xbox One For Windows)": "../#DefaultDevices/_Mirror/XBOX ONE/Device/Icon.png",
       "`Button 0`": "../#DefaultDevices/_Mirror/XBOX ONE/Text-Default/Button A.png",
       "`Button 1`": "../#DefaultDevices/_Mirror/XBOX ONE/Text-Default/Button B.png",
       "`Button 2`": "../#DefaultDevices/_Mirror/XBOX ONE/Text-Default/Button X.png",
@@ -956,6 +1003,7 @@
       "`Full Axis 5+`": "../#DefaultDevices/_Mirror/XBOX ONE/Text-Default/Trigger R.png"
     },
     " SDL/0/PS5 Controller": {
+      "SDL/0/PS5 Controller": "../#DefaultDevices/_Mirror/DualShock4/Device/Icon.png",
       "`Button 0`": "../#DefaultDevices/_Mirror/DualShock4/Text-Default/Cross.png",
       "`Button 1`": "../#DefaultDevices/_Mirror/DualShock4/Text-Default/Circle.png",
       "`Button 2`": "../#DefaultDevices/_Mirror/DualShock4/Text-Default/Square.png",
@@ -972,7 +1020,7 @@
       "`Button 13`": "../#DefaultDevices/_Mirror/DualShock4/Text-Default/Pad W.png",
       "`Button 14`": "../#DefaultDevices/_Mirror/DualShock4/Text-Default/Pad E.png",
       "`Button 15`": "../#DefaultDevices/_Mirror/DualShock4/Text-Default/Touchpad.png",
-      "`Button 16`": "../#DefaultDevices/DualShock4/Text-Default/Mute.png",
+      "`Button 16`": "../#DefaultDevices/_Mirror/DualShock4/Text-Default/Mute.png",
       "`Axis 0-`": "../#DefaultDevices/_Mirror/DualShock4/Text-Default/Left X-.png",
       "`Axis 0+`": "../#DefaultDevices/_Mirror/DualShock4/Text-Default/Left X+.png",
       "`Axis 1-`": "../#DefaultDevices/_Mirror/DualShock4/Text-Default/Left Y+.png",
@@ -985,6 +1033,7 @@
       "`Full Axis 5+`": "../#DefaultDevices/_Mirror/DualShock4/Text-Default/R2.png"
     },
     "SDL/0/Switch Pro Controller": {
+      "SDL/0/Switch Pro Controller": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Device/Icon.png",
       "`Button 0`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Text-Default/Button A.png",
       "`Button 1`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Text-Default/Button B.png",
       "`Button 2`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Text-Default/Button X.png",
@@ -1013,6 +1062,7 @@
       "`Full Axis 5+`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Text-Default/ZR.png"
     },
     "evdev/0/Microsoft X-Box 360 pad 0": {
+      "evdev/0/Microsoft X-Box 360 pad 0": "../#DefaultDevices/_Mirror/XBOX ONE/Device/Icon.png",
       "SOUTH": "../#DefaultDevices/_Mirror/XBOX ONE/Text-Default/Button A.png",
       "EAST": "../#DefaultDevices/_Mirror/XBOX ONE/Text-Default/Button B.png",
       "NORTH": "../#DefaultDevices/_Mirror/XBOX ONE/Text-Default/Button X.png",
@@ -1040,6 +1090,7 @@
       "THUMBL": "../#DefaultDevices/_Mirror/XBOX ONE/Text-Default/Thumb L.png"
     },
     "evdev/0/8BitDo Pro 2": {
+      "evdev/0/8BitDo Pro 2": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Device/Icon.png",
       "C": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Text-Default/Button Y.png",
       "EAST": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Text-Default/Button A.png",
       "SOUTH": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Text-Default/Button B.png",
@@ -1072,6 +1123,7 @@
       "`Axis 3-`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Text-Default/Right X-.png"
     },
     "SDL/0/Logitech Gamepad F710": {
+      "SDL/0/Logitech Gamepad F710": "../#DefaultDevices/_Mirror/XBOX ONE/Device/Icon.png",
       "`Button 0`": "../#DefaultDevices/_Mirror/XBOX ONE/Text-Default/Button A.png",
       "`Button 1`": "../#DefaultDevices/_Mirror/XBOX ONE/Text-Default/Button B.png",
       "`Button 2`": "../#DefaultDevices/_Mirror/XBOX ONE/Text-Default/Button X.png",
@@ -1165,6 +1217,7 @@
       "`Trigger R`": "../#DefaultDevices/_Mirror/XBOX ONE/Text-Default/Trigger R.png"
     },
     "SDL/0/Nintendo Switch Pro Controller": {
+      "SDL/0/Nintendo Switch Pro Controller": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Device/Icon.png",
       "`Button 0`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Text-Default/Button A.png",
       "`Button 1`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Text-Default/Button B.png",
       "`Button 2`": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Text-Default/Button X.png",
