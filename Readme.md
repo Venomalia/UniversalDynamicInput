@@ -45,7 +45,7 @@ Yes, there are no known problems.
 Yes, but there can be problems with wii games because only player 1 can use Wii Remote 1.
 
 ### Do we accept game suggestions?
-Yes, but we need the [texture dumps](https://github.com/Venomalia/UniversalDynamicInput/wiki/Dumping-Textures) to implement it. Dumps can be sent to us via [Github](https://github.com/Venomalia/UniversalDynamicInput/issues/new/choose) or [Discord](https://discord.gg/vEQYMPxgSR).
+Yes, but we need the [texture dumps](https://github.com/Venomalia/UniversalDynamicInput/wiki/Dumping-Textures) to implement it. Dumps can be sent to us via [Github](https://github.com/Venomalia/UniversalDynamicInput/issues/new/choose) or [Discord](https://discord.gg/q9RtF4Tm9E).
 
 ### My controller is not supported?
 here you can make a [request](https://github.com/Venomalia/UniversalDynamicInput/issues/new/choose).
@@ -57,7 +57,7 @@ Try this [guide](https://github.com/Venomalia/UniversalDynamicInput/wiki/Create-
 Try the [DevicesTextureChanger](https://github.com/Venomalia/UniversalDynamicInput/wiki/Windows-Supported-Input-Devices#devicestexturechanger) or create a [request](https://github.com/Venomalia/UniversalDynamicInput/issues/new/choose).
 
 ### Where can I ask questions?
-You can use [Discord](https://discord.gg/vEQYMPxgSR) or [this thread](https://forums.dolphin-emu.org/Thread-universal-dynamic-input-texture-pack) in the Dolphin forum.
+You can use [Discord](https://discord.gg/q9RtF4Tm9E) or [this thread](https://forums.dolphin-emu.org/Thread-universal-dynamic-input-texture-pack) in the Dolphin forum.
 
 ## Credits:
 ### [![contributors](https://img.shields.io/github/contributors/Venomalia/UniversalDynamicInput?style=for-the-badge)](https://github.com/Venomalia/UniversalDynamicInput/graphs/contributors)
