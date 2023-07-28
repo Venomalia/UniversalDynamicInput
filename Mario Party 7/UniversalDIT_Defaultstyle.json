@@ -1861,6 +1861,237 @@
           ]
         }
       }
+    },
+	"tex1_220x120_f64a0c2ab90e06d4_5.png": {
+      "image": "tex1_220x120_f64a0c2ab90e06d4_5.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/Start": [
+            [
+              380.0,
+              286.0,
+              480.0,
+              386.0
+            ]
+          ],
+          "Buttons/Z": [
+            [
+              124.0,
+              198.0,
+              249.0,
+              298.0
+            ]
+          ],
+          "Buttons/B": [
+            [
+              638.0,
+              150.0,
+              738.0,
+              250.0
+            ]
+          ]
+        }
+      }
+    },
+	"tex1_220x120_c20467fcbca0b414_5.png": {
+      "image": "tex1_220x120_c20467fcbca0b414_5.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/Start": [
+            [
+              380.0,
+              286.0,
+              480.0,
+              386.0
+            ]
+          ],
+          "Buttons/Z": [
+            [
+              124.0,
+              198.0,
+              249.0,
+              298.0
+            ]
+          ],
+          "Buttons/B": [
+            [
+              638.0,
+              150.0,
+              738.0,
+              250.0
+            ]
+          ]
+        }
+      }
+    },
+	"tex1_220x120_935338d271bf081a_5.png": {
+      "image": "tex1_220x120_935338d271bf081a_5.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/Start": [
+            [
+              380.0,
+              286.0,
+              480.0,
+              386.0
+            ]
+          ],
+          "Buttons/Z": [
+            [
+              124.0,
+              198.0,
+              249.0,
+              298.0
+            ]
+          ],
+          "Buttons/B": [
+            [
+              638.0,
+              150.0,
+              738.0,
+              250.0
+            ]
+          ]
+        }
+      }
+    },
+	"tex1_220x120_caff4470461efee1_5.png": {
+      "image": "tex1_220x120_caff4470461efee1_5.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/Start": [
+            [
+              380.0,
+              286.0,
+              480.0,
+              386.0
+            ]
+          ],
+          "Buttons/Z": [
+            [
+              124.0,
+              198.0,
+              249.0,
+              298.0
+            ]
+          ],
+          "Buttons/B": [
+            [
+              638.0,
+              150.0,
+              738.0,
+              250.0
+            ]
+          ]
+        }
+      }
+    },
+	"tex1_220x120_08e218b0ebc1eb38_5.png": {
+      "image": "tex1_220x120_08e218b0ebc1eb38_5.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/Start": [
+            [
+              380.0,
+              286.0,
+              480.0,
+              386.0
+            ]
+          ],
+          "Buttons/Z": [
+            [
+              124.0,
+              198.0,
+              249.0,
+              298.0
+            ]
+          ],
+          "Buttons/B": [
+            [
+              638.0,
+              150.0,
+              738.0,
+              250.0
+            ]
+          ]
+        }
+      }
+    },
+	"tex1_220x120_bf59abc698a8cb88_5.png": {
+      "image": "tex1_220x120_bf59abc698a8cb88_5.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/Start": [
+            [
+              380.0,
+              286.0,
+              480.0,
+              386.0
+            ]
+          ],
+          "Buttons/Z": [
+            [
+              124.0,
+              198.0,
+              249.0,
+              298.0
+            ]
+          ]
+        }
+      }
+    },
+	"tex1_320x42_3071555df7db1cb6_5.png": {
+      "image": "tex1_320x42_3071555df7db1cb6_5.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/Z": [
+            [
+              126.0,
+              0.0,
+              294.0,
+              168.0
+            ]
+          ]
+        }
+      }
+    },
+	"tex1_320x42_ae6d9585b5fae1fb_5.png": {
+      "image": "tex1_320x42_3071555df7db1cb6_5.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/Z": [
+            [
+              126.0,
+              0.0,
+              294.0,
+              168.0
+            ]
+          ]
+        }
+      }
+    },
+	"tex1_46x92_9e00640f140a1391_5.png": {
+      "image": "tex1_46x92_9e00640f140a1391_5.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Triggers/L": [
+            [
+              0.0,
+              0.0,
+              184.0,
+              184.0
+            ]
+          ],
+          "Triggers/R": [
+            [
+              0.0,
+              184.0,
+              184.0,
+              368.0
+            ]
+          ]
+        }
+      }
     }
   }
 }
