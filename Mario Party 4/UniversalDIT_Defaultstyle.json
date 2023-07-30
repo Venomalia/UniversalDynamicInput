@@ -1273,7 +1273,32 @@
       "`Right Y-`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Right Y-.png",
       "`Right Y+`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Right Y+.png",
       "`Trigger L`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Trigger L.png",
-      "`Trigger R`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Trigger R.png"
+      "`Trigger R`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Trigger R.png",
+      "`WGInput/0/Xbox One Game Controller:Button A`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Button A.png",
+      "`WGInput/0/Xbox One Game Controller:Button B`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Button B.png",
+      "`WGInput/0/Xbox One Game Controller:Button X`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Button X.png",
+      "`WGInput/0/Xbox One Game Controller:Button Y`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Button Y.png",
+      "`WGInput/0/Xbox One Game Controller:Bumper L`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Shoulder L.png",
+      "`WGInput/0/Xbox One Game Controller:Bumper R`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Shoulder R.png",
+      "`WGInput/0/Xbox One Game Controller:View`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Back.png",
+      "`WGInput/0/Xbox One Game Controller:Menu`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Start.png",
+      "`WGInput/0/Xbox One Game Controller:Thumb L`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Thumb L.png",
+      "`WGInput/0/Xbox One Game Controller:Thumb R`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Thumb R.png",
+      "`WGInput/0/Xbox One Game Controller:Guide`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Guide.png",
+      "`WGInput/0/Xbox One Game Controller:Pad N`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Pad N.png",
+      "`WGInput/0/Xbox One Game Controller:Pad S`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Pad S.png",
+      "`WGInput/0/Xbox One Game Controller:Pad E`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Pad E.png",
+      "`WGInput/0/Xbox One Game Controller:Pad W`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Pad W.png",
+      "`WGInput/0/Xbox One Game Controller:Left X-`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Left X-.png",
+      "`WGInput/0/Xbox One Game Controller:Left X+`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Left X+.png",
+      "`WGInput/0/Xbox One Game Controller:Left Y+`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Left Y+.png",
+      "`WGInput/0/Xbox One Game Controller:Left Y-`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Left Y-.png",
+      "`WGInput/0/Xbox One Game Controller:Right X-`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Right X-.png",
+      "`WGInput/0/Xbox One Game Controller:Right X+`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Right X+.png",
+      "`WGInput/0/Xbox One Game Controller:Right Y-`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Right Y-.png",
+      "`WGInput/0/Xbox One Game Controller:Right Y+`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Right Y+.png",
+      "`WGInput/0/Xbox One Game Controller:Trigger L`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Trigger L.png",
+      "`WGInput/0/Xbox One Game Controller:Trigger R`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Trigger R.png"
     },
     "SDL/0/Nintendo Switch Pro Controller": {
       "SDL/0/Nintendo Switch Pro Controller": "../#DefaultDevices/Switch_Pro Controller/Device/Icon.png",
@@ -1407,6 +1432,122 @@
       "`Keypad Enter`": "../#DefaultDevices/Keyboard Mouse/Defaultstyle/RETURN.png",
       "`Keypad -`": "../#DefaultDevices/Keyboard Mouse/Defaultstyle/MINUS.png",
       "`Keypad =`": "../#DefaultDevices/Keyboard Mouse/Defaultstyle/EQUALS.png"
+    },
+    "SDL/0/Xbox One S Controller": {
+      "SDL/0/Xbox One S Controller": "../#DefaultDevices/XBOX ONE/Device/Icon.png",
+      "`Button 0`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Button A.png",
+      "`Button 1`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Button B.png",
+      "`Button 2`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Button X.png",
+      "`Button 3`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Button Y.png",
+      "`Button 4`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Shoulder L.png",
+      "`Button 5`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Shoulder R.png",
+      "`Button 6`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Back.png",
+      "`Button 7`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Start.png",
+      "`Button 8`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Thumb L.png",
+      "`Button 9`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Thumb R.png",
+      "`Button 10`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Guide.png",
+      "`Hat 0 N`": "../#DefaultDevices/XBOX ONE Series X/Defaultstyle/Pad N.png",
+      "`Hat 0 S`": "../#DefaultDevices/XBOX ONE Series X/Defaultstyle/Pad S.png",
+      "`Hat 0 E`": "../#DefaultDevices/XBOX ONE Series X/Defaultstyle/Pad E.png",
+      "`Hat 0 W`": "../#DefaultDevices/XBOX ONE Series X/Defaultstyle/Pad W.png",
+      "`Button 15`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Share.png",
+      "`Axis 0-`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Left X-.png",
+      "`Axis 0+`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Left X+.png",
+      "`Axis 1-`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Left Y+.png",
+      "`Axis 1+`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Left Y-.png",
+      "`Axis 3-`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Right X-.png",
+      "`Axis 3+`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Right X+.png",
+      "`Axis 4+`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Right Y-.png",
+      "`Axis 4-`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Right Y+.png",
+      "`Full Axis 2+`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Trigger L.png",
+      "`Full Axis 5+`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Trigger R.png"
+    },
+    "SDL/0/Xbox Series X Controller": {
+      "SDL/0/Xbox Series X Controller": "../#DefaultDevices/XBOX ONE/Device/Icon.png",
+      "`Button 0`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Button A.png",
+      "`Button 1`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Button B.png",
+      "`Button 2`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Button X.png",
+      "`Button 3`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Button Y.png",
+      "`Button 4`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Back.png",
+      "`Button 5`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Guide.png",
+      "`Button 6`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Start.png",
+      "`Button 7`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Thumb L.png",
+      "`Button 8`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Thumb R.png",
+      "`Button 9`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Shoulder L.png",
+      "`Button 10`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Shoulder R.png",
+      "`Button 11`": "../#DefaultDevices/XBOX ONE Series X/Defaultstyle/Pad N.png",
+      "`Button 12`": "../#DefaultDevices/XBOX ONE Series X/Defaultstyle/Pad S.png",
+      "`Button 13`": "../#DefaultDevices/XBOX ONE Series X/Defaultstyle/Pad W.png",
+      "`Button 14`": "../#DefaultDevices/XBOX ONE Series X/Defaultstyle/Pad E.png",
+      "`Button 15`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Share.png",
+      "`Axis 0-`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Left X-.png",
+      "`Axis 0+`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Left X+.png",
+      "`Axis 1-`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Left Y+.png",
+      "`Axis 1+`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Left Y-.png",
+      "`Axis 3-`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Right X-.png",
+      "`Axis 3+`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Right X+.png",
+      "`Axis 4+`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Right Y-.png",
+      "`Axis 4-`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Right Y+.png",
+      "`Full Axis 2+`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Trigger L.png",
+      "`Full Axis 5+`": "../#DefaultDevices/XBOX ONE/Defaultstyle/Trigger R.png"
+    },
+    "SDL/0/HORIPAD mini4r": {
+      "SDL/0/HORIPAD mini4": "../#DefaultDevices/DualShock4/Device/Icon.png",
+      "`Button 0`": "../#DefaultDevices/DualShock4/Defaultstyle/Cross.png",
+      "`Button 1`": "../#DefaultDevices/DualShock4/Defaultstyle/Circle.png",
+      "`Button 2`": "../#DefaultDevices/DualShock4/Defaultstyle/Square.png",
+      "`Button 3`": "../#DefaultDevices/DualShock4/Defaultstyle/Triangle.png",
+      "`Button 4`": "../#DefaultDevices/DualShock4/Defaultstyle/Share.png",
+      "`Button 5`": "../#DefaultDevices/DualShock4/Defaultstyle/PS.png",
+      "`Button 6`": "../#DefaultDevices/DualShock4/Defaultstyle/Options.png",
+      "`Button 7`": "../#DefaultDevices/DualShock4/Defaultstyle/L3.png",
+      "`Button 8`": "../#DefaultDevices/DualShock4/Defaultstyle/R3.png",
+      "`Button 9`": "../#DefaultDevices/DualShock4/Defaultstyle/L1.png",
+      "`Button 10`": "../#DefaultDevices/DualShock4/Defaultstyle/R1.png",
+      "`Button 11`": "../#DefaultDevices/DualShock4/Defaultstyle/Pad N.png",
+      "`Button 12`": "../#DefaultDevices/DualShock4/Defaultstyle/Pad S.png",
+      "`Button 13`": "../#DefaultDevices/DualShock4/Defaultstyle/Pad W.png",
+      "`Button 14`": "../#DefaultDevices/DualShock4/Defaultstyle/Pad E.png",
+      "`Button 15`": "../#DefaultDevices/DualShock4/Defaultstyle/Touchpad.png",
+      "`Axis 0-`": "../#DefaultDevices/DualShock4/Defaultstyle/Left X-.png",
+      "`Axis 0+`": "../#DefaultDevices/DualShock4/Defaultstyle/Left X+.png",
+      "`Axis 1-`": "../#DefaultDevices/DualShock4/Defaultstyle/Left Y+.png",
+      "`Axis 1+`": "../#DefaultDevices/DualShock4/Defaultstyle/Left Y-.png",
+      "`Axis 2-`": "../#DefaultDevices/DualShock4/Defaultstyle/Right X-.png",
+      "`Axis 2+`": "../#DefaultDevices/DualShock4/Defaultstyle/Right X+.png",
+      "`Axis 3+`": "../#DefaultDevices/DualShock4/Defaultstyle/Right Y-.png",
+      "`Axis 3-`": "../#DefaultDevices/DualShock4/Defaultstyle/Right Y+.png",
+      "`Full Axis 4+`": "../#DefaultDevices/DualShock4/Defaultstyle/L2.png",
+      "`Full Axis 5+`": "../#DefaultDevices/DualShock4/Defaultstyle/R2.png"
+    },
+    "SDL/0/DualSense Wireless Controller": {
+      "SDL/0/DualSense Wireless Controller": "../#DefaultDevices/DualShock4/Device/Icon.png",
+      "`Button 0`": "../#DefaultDevices/DualShock4/Defaultstyle/Cross.png",
+      "`Button 1`": "../#DefaultDevices/DualShock4/Defaultstyle/Circle.png",
+      "`Button 2`": "../#DefaultDevices/DualShock4/Defaultstyle/Square.png",
+      "`Button 3`": "../#DefaultDevices/DualShock4/Defaultstyle/Triangle.png",
+      "`Button 4`": "../#DefaultDevices/DualShock4/Defaultstyle/Share.png",
+      "`Button 5`": "../#DefaultDevices/DualShock4/Defaultstyle/PS.png",
+      "`Button 6`": "../#DefaultDevices/DualShock4/Defaultstyle/Options.png",
+      "`Button 7`": "../#DefaultDevices/DualShock4/Defaultstyle/L3.png",
+      "`Button 8`": "../#DefaultDevices/DualShock4/Defaultstyle/R3.png",
+      "`Button 9`": "../#DefaultDevices/DualShock4/Defaultstyle/L1.png",
+      "`Button 10`": "../#DefaultDevices/DualShock4/Defaultstyle/R1.png",
+      "`Button 11`": "../#DefaultDevices/DualShock4/Defaultstyle/Pad N.png",
+      "`Button 12`": "../#DefaultDevices/DualShock4/Defaultstyle/Pad S.png",
+      "`Button 13`": "../#DefaultDevices/DualShock4/Defaultstyle/Pad W.png",
+      "`Button 14`": "../#DefaultDevices/DualShock4/Defaultstyle/Pad E.png",
+      "`Button 15`": "../#DefaultDevices/DualShock4/Defaultstyle/Touchpad.png",
+      "`Axis 0-`": "../#DefaultDevices/DualShock4/Defaultstyle/Left X-.png",
+      "`Axis 0+`": "../#DefaultDevices/DualShock4/Defaultstyle/Left X+.png",
+      "`Axis 1-`": "../#DefaultDevices/DualShock4/Defaultstyle/Left Y+.png",
+      "`Axis 1+`": "../#DefaultDevices/DualShock4/Defaultstyle/Left Y-.png",
+      "`Axis 2-`": "../#DefaultDevices/DualShock4/Defaultstyle/Right X-.png",
+      "`Axis 2+`": "../#DefaultDevices/DualShock4/Defaultstyle/Right X+.png",
+      "`Axis 3+`": "../#DefaultDevices/DualShock4/Defaultstyle/Right Y-.png",
+      "`Axis 3-`": "../#DefaultDevices/DualShock4/Defaultstyle/Right Y+.png",
+      "`Full Axis 4+`": "../#DefaultDevices/DualShock4/Defaultstyle/L2.png",
+      "`Full Axis 5+`": "../#DefaultDevices/DualShock4/Defaultstyle/R2.png"
     }
   },
   "generated_folder_name": "#Generated_Mario Party 4",
@@ -1562,7 +1703,7 @@
         }
       }
     },
-	"tex1_24x24_9405dc2dfa76739d_5.png": {
+    "tex1_24x24_9405dc2dfa76739d_5.png": {
       "image": "tex1_24x24.png",
       "emulated_controls": {
         "GCPad1": {
@@ -1577,7 +1718,7 @@
         }
       }
     },
-	"tex1_24x24_e36567af5346ad10_5.png": {
+    "tex1_24x24_e36567af5346ad10_5.png": {
       "image": "tex1_24x24.png",
       "emulated_controls": {
         "GCPad1": {
@@ -1592,7 +1733,7 @@
         }
       }
     },
-	"tex1_24x24_5679e8a3575175b5_5.png": {
+    "tex1_24x24_5679e8a3575175b5_5.png": {
       "image": "tex1_24x24.png",
       "emulated_controls": {
         "GCPad1": {
@@ -1607,7 +1748,7 @@
         }
       }
     },
-	"tex1_24x24_b5e0b6a5d4329844_5.png": {
+    "tex1_24x24_b5e0b6a5d4329844_5.png": {
       "image": "tex1_24x24.png",
       "emulated_controls": {
         "GCPad1": {
@@ -1622,7 +1763,7 @@
         }
       }
     },
-	"tex1_24x24_6a75a5b639903bd5_5.png": {
+    "tex1_24x24_6a75a5b639903bd5_5.png": {
       "image": "tex1_24x24.png",
       "emulated_controls": {
         "GCPad1": {
@@ -1637,7 +1778,7 @@
         }
       }
     },
-	"tex1_24x24_578519d2097a9a84_5.png": {
+    "tex1_24x24_578519d2097a9a84_5.png": {
       "image": "tex1_24x24.png",
       "emulated_controls": {
         "GCPad1": {
@@ -1652,7 +1793,7 @@
         }
       }
     },
-	"tex1_24x24_c0c8b29519611078_5.png": {
+    "tex1_24x24_c0c8b29519611078_5.png": {
       "image": "tex1_24x24.png",
       "emulated_controls": {
         "GCPad1": {
@@ -1667,7 +1808,7 @@
         }
       }
     },
-	"tex1_30x420_77262729cbccb1c4_5.png": {
+    "tex1_30x420_77262729cbccb1c4_5.png": {
       "image": "tex1_30x420.png",
       "emulated_controls": {
         "GCPad1": {
@@ -1678,7 +1819,7 @@
               120.0,
               120.0
             ],
-			[
+            [
               20.0,
               860.0,
               100.0,
@@ -1692,7 +1833,7 @@
               120.0,
               240.0
             ],
-			[
+            [
               20.0,
               980.0,
               100.0,
@@ -1706,7 +1847,7 @@
               120.0,
               360.0
             ],
-			[
+            [
               20.0,
               1100.0,
               100.0,
@@ -1720,7 +1861,7 @@
               120.0,
               480.0
             ],
-			[
+            [
               20.0,
               1220.0,
               100.0,
@@ -1734,7 +1875,7 @@
               120.0,
               600.0
             ],
-			[
+            [
               20.0,
               1340.0,
               100.0,
@@ -1748,7 +1889,7 @@
               120.0,
               720.0
             ],
-			[
+            [
               20.0,
               1460.0,
               100.0,
@@ -1762,7 +1903,7 @@
               120.0,
               840.0
             ],
-			[
+            [
               20.0,
               1580.0,
               100.0,
@@ -1772,7 +1913,7 @@
         }
       }
     },
-	"tex1_216x58_4fc5a36dd42f2f7d_14.png": {
+    "tex1_216x58_4fc5a36dd42f2f7d_14.png": {
       "image": "tex1_216x58_4fc5a36dd42f2f7d_14.png",
       "emulated_controls": {
         "GCPad1": {
@@ -1784,7 +1925,7 @@
               120.0
             ]
           ],
-		  "Buttons/B": [
+          "Buttons/B": [
             [
               50.0,
               120.0,
@@ -1795,7 +1936,7 @@
         }
       }
     },
-	"tex1_216x58_fa29a7f65a1aebb7_a32e580624f93fc5_9.png": {
+    "tex1_216x58_fa29a7f65a1aebb7_a32e580624f93fc5_9.png": {
       "image": "tex1_216x58_4fc5a36dd42f2f7d_14.png",
       "emulated_controls": {
         "GCPad1": {
@@ -1807,7 +1948,7 @@
               120.0
             ]
           ],
-		  "Buttons/B": [
+          "Buttons/B": [
             [
               50.0,
               120.0,
@@ -1818,7 +1959,7 @@
         }
       }
     },
-	"tex1_216x62_cbb6608a3ac153ca_93eaf50c52184af7_9.png": {
+    "tex1_216x62_cbb6608a3ac153ca_93eaf50c52184af7_9.png": {
       "image": "tex1_216x62_cbb6608a3ac153ca_93eaf50c52184af7_9.png",
       "emulated_controls": {
         "GCPad1": {
@@ -1830,7 +1971,7 @@
               115.0
             ]
           ],
-		  "Buttons/B": [
+          "Buttons/B": [
             [
               50.0,
               130.0,
@@ -1841,11 +1982,11 @@
         }
       }
     },
-	"tex1_216x36_994c24e6f5ffa5b3_351b4707fc250a31_9.png": {
+    "tex1_216x36_994c24e6f5ffa5b3_351b4707fc250a31_9.png": {
       "image": "tex1_216x36_994c24e6f5ffa5b3_351b4707fc250a31_9.png",
       "emulated_controls": {
         "GCPad1": {
-		  "Buttons/B": [
+          "Buttons/B": [
             [
               45.0,
               20.0,
@@ -1856,11 +1997,11 @@
         }
       }
     },
-	"tex1_320x42_2a73cd9723bba377_8aa5321c3bc96777_9.png": {
+    "tex1_320x42_2a73cd9723bba377_8aa5321c3bc96777_9.png": {
       "image": "tex1_320x42_2a73cd9723bba377_8aa5321c3bc96777_9.png",
       "emulated_controls": {
         "GCPad1": {
-		  "Buttons/Z": [
+          "Buttons/Z": [
             [
               690.0,
               50.0,
@@ -1871,38 +2012,38 @@
         }
       }
     },
-	"tex1_24x96_f0fa0b32f4bdeb1d_b0a9d922fce8c0c8_9.png": {
+    "tex1_24x96_f0fa0b32f4bdeb1d_b0a9d922fce8c0c8_9.png": {
       "image": "tex1_24x96_f0fa0b32f4bdeb1d_b0a9d922fce8c0c8_9.png",
       "emulated_controls": {
         "GCPad1": {
-		  "Triggers/L": [
+          "Triggers/L": [
             [
               0.0,
               0.0,
               96.0,
               98.0
             ],
-			[
-			  6.0,
-			  102.0,
-			  90.0,
-			  186.0
-			]
+            [
+              6.0,
+              102.0,
+              90.0,
+              186.0
+            ]
           ],
-		  "Triggers/R": [
+          "Triggers/R": [
             [
               0.0,
               190.0,
               96.0,
               290.0
             ],
-			[
-			  6.0,
-			  294.0,
-			  90.0,
-			  378.0
-			]
-          ]		  
+            [
+              6.0,
+              294.0,
+              90.0,
+              378.0
+            ]
+          ]
         }
       }
     },
