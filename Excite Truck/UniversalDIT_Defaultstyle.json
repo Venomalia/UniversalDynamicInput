@@ -1559,122 +1559,317 @@
         "Wiimote1": {
           "Buttons/2": [
             [
-              0.0,
-              0.0,
-              64.0,
-              64.0
+              16.0,
+              16.0,
+              240.0,
+              240.0
             ],
             [
               0.0,
-              64.0,
-              64.0,
+              256.0,
+              256.0,
+              512.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_64x64_82d8d8bfb09e0473_14.png": {
+      "image": "tex1_64x64.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/2": [
+            [
+              0.0,
+              0.0,
+              128.0,
               128.0
             ]
           ]
         }
       }
     },
-    "tex1_256x256_0634e94b2685e32f_14.png": {
-      "image": "tex1_256x256_0634e94b2685e32f_14.png",
+    "tex1_64x64_c8e9868a2a851ed2_14.png": {
+      "image": "tex1_64x64.png",
       "emulated_controls": {
         "Wiimote1": {
-          "Tilt/Forward": [
-            [
-              0.0,
-              0.0,
-              256.0,
-              256.0
-            ]
-          ]
-        }
-      }
-    },
-    "tex1_256x256_03640b0be99adfdb_0.png": {
-      "image": "tex1_256x256_03640b0be99adfdb_0.png",
-      "emulated_controls": {
-        "Wiimote1": {
-          "Tilt/Backward": [
-            [
-              0.0,
-              0.0,
-              256.0,
-              256.0
-            ]
-          ]
-        }
-      }
-    },
-    "tex1_256x256_4777c6b5e1bc0bb0_14.png": {
-      "image": "tex1_256x256_4777c6b5e1bc0bb0_14.png",
-      "emulated_controls": {
-        "Wiimote1": {
-          "Tilt/Backward": [
-            [
-              0.0,
-              0.0,
-              256.0,
-              256.0
-            ]
-          ]
-        }
-      }
-    },
-    "tex1_256x256_bcd76be7ae0d53e9_0.png": {
-      "image": "tex1_256x256_bcd76be7ae0d53e9_0.png",
-      "emulated_controls": {
-        "Wiimote1": {
-          "Tilt/Forward": [
-            [
-              0.0,
-              0.0,
-              256.0,
-              256.0
-            ]
-          ]
-        }
-      }
-    },
-    "tex1_256x256_3770fbba3c6938f0_0.png": {
-      "image": "tex1_256x256_3770fbba3c6938f0_0.png",
-      "emulated_controls": {
-        "Wiimote1": {
-          "Tilt/Right": [
-            [
-              128.0,
-              0.0,
-              256.0,
-              202.0
-            ]
-          ],
-          "Tilt/Left": [
+          "Buttons/1": [
             [
               0.0,
               0.0,
               128.0,
-              202.0
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_64x64_3af32d71c3492a6c_14.png": {
+      "image": "tex1_64x64.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/A": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_64x64_2d1f16a88dbc6ce7_14.png": {
+      "image": "tex1_64x64.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/+": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_64x64_ff0c80606ea1014a_14.png": {
+      "image": "tex1_64x64.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "D-Pad/Left": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_64x64_9992c0af1dc9f37a_0.png": {
+      "image": "tex1_64x64.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "D-Pad/Left": [
+            [
+              0.0,
+              0.0,
+              128.0,
+              128.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_256x256_52b71fbe6370f389_14.png": {
+      "image": "tex1_256x256.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Device": [
+            [
+              14.0,
+              0.0,
+              512.0,
+              380.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_256x256_3a1041f3df89ef6d_0.png": {
+      "image": "tex1_256x256.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Device": [
+            [
+              14.0,
+              0.0,
+              512.0,
+              380.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_256x256_79e7afc973b323b6_14.png": {
+      "image": "tex1_256x256.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Device": [
+            [
+              0.0,
+              0.0,
+              512.0,
+              256.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_256x256_8ba65b7427ff8e4c_0.png": {
+      "image": "tex1_256x256.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Device": [
+            [
+              0.0,
+              0.0,
+              512.0,
+              256.0
             ]
           ]
         }
       }
     },
     "tex1_256x256_80b75d80ad2492d5_14.png": {
-      "image": "tex1_256x256_80b75d80ad2492d5_14.png",
+      "image": "tex1_256x256.png",
       "emulated_controls": {
         "Wiimote1": {
-          "Tilt/Right": [
-            [
-              128.0,
-              0.0,
-              256.0,
-              202.0
-            ]
-          ],
           "Tilt/Left": [
             [
+              24.0,
+              50.0,
+              264.0,
+              306.0
+            ]
+		  ],
+          "Tilt/Right": [
+            [
+              264.0,
+              50.0,
+              506.0,
+              306.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_256x256_3770fbba3c6938f0_0.png": {
+      "image": "tex1_256x256.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Tilt/Left": [
+            [
+              24.0,
+              50.0,
+              264.0,
+              306.0
+            ]
+		  ],
+          "Tilt/Right": [
+            [
+              264.0,
+              50.0,
+              506.0,
+              306.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_256x256_4777c6b5e1bc0bb0_14.png": {
+      "image": "tex1_256x256.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Tilt/Backward": [
+            [
               0.0,
+              50.0,
+              512.0,
+              306.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_256x256_03640b0be99adfdb_0.png": {
+      "image": "tex1_256x256.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Tilt/Backward": [
+            [
               0.0,
-              128.0,
-              202.0
+              50.0,
+              512.0,
+              306.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_256x256_0634e94b2685e32f_14.png": {
+      "image": "tex1_256x256.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Tilt/Forward": [
+            [
+              0.0,
+              50.0,
+              512.0,
+              306.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_256x256_bcd76be7ae0d53e9_0.png": {
+      "image": "tex1_256x256.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Tilt/Forward": [
+            [
+              0.0,
+              50.0,
+              512.0,
+              306.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_192x288_f6c92d51d2e7e39f_4018f76832fd7b2f_9.png": {
+      "image": "tex1_192x288_f6c92d51d2e7e39f_4018f76832fd7b2f_9.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Buttons/2": [
+            [
+              14.0,
+              6.0,
+              51.0,
+              43.0
+            ],
+            [
+              118.0,
+              54.0,
+              155.0,
+              91.0
+            ],
+            [
+              122.0,
+              102.0,
+              159.0,
+              139.0
+            ],
+            [
+              138.0,
+              150.0,
+              175.0,
+              187.0
+            ],
+            [
+              118.0,
+              197.0,
+              155.0,
+              234.0
+            ],
+            [
+              118.0,
+              245.0,
+              155.0,
+              282.0
             ]
           ]
         }
