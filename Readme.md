@@ -1,6 +1,8 @@
 # Universal Dynamic Input
 [![Wiki](https://img.shields.io/badge/Wiki-grey)](https://github.com/Venomalia/UniversalDynamicInput/wiki) [![Changelog](https://img.shields.io/badge/Changelog-grey)](https://github.com/Venomalia/UniversalDynamicInput/blob/main/Changelog.md) [![Requests](https://img.shields.io/badge/Requests-3a3)](https://github.com/Venomalia/UniversalDynamicInput/issues/new/choose) [![Discord](https://img.shields.io/badge/Discord-blue?logo=Discord&logoColor=fff)](https://discord.gg/q9RtF4Tm9E) [![Dolphin](https://img.shields.io/badge/Dolphin-Forum-88e)](https://forums.dolphin-emu.org/Thread-universal-dynamic-input-texture-pack) [![DIT CreatorTool](https://img.shields.io/badge/Dolphin-DIT_Creator_Tool-999)](https://github.com/Venomalia/DolphinDynamicInputTextureCreator/releases) [![Downloads](https://img.shields.io/github/downloads/Venomalia/UniversalDynamicInput/total?color=907&label=Downloads)](https://github.com/Venomalia/UniversalDynamicInput/releases) [![Stars](https://img.shields.io/github/stars/Venomalia/UniversalDynamicInput?color=990&label=Stars)](https://github.com/Venomalia/UniversalDynamicInput/stargazers)
 
+![Image1](https://i.imgur.com/WIxE3IZ.jpg "Image1")
+
 **UniversalDynamicInput** is a custom button package for [Dolphin emulator](https://dolphin-emu.org/).  
 It uses [dynamic input textures](https://forums.dolphin-emu.org/Thread-introducing-dynamic-input-textures-a-new-feature-for-controller-icons) to create custom buttons in **real time**.  
 Unlike traditional button packs, you can change the control settings at **any time**,  
@@ -11,47 +13,48 @@ Take a look at this [Dolphin progress report](https://dolphin-emu.org/blog/2020/
  
 ### [<img src="https://img.shields.io/github/v/release/Venomalia/UniversalDynamicInput?label=Download&style=for-the-badge" alt="Download" height="35"/>](https://github.com/Venomalia/UniversalDynamicInput/releases)
 
-## [Installation](https://github.com/Venomalia/UniversalDynamicInput/wiki/Installation)
+## Which Dolphin versions are supported?
+Dolphin 5.0-15214 or [newer](https://dolphin-emu.org/download/) and all branches based on one of these versions.
+- [Dolphin](https://dolphin-emu.org/) for desktop Windows, MacOS and Linux based systems.
+- [Dolphin UWP](https://github.com/UWP-Team/dolphinUWP) for Xbox Series X and S.
+- [RetroDECK](https://retrodeck.net/) for Linux and SteamOS. 
+- [EmuDeck](https://www.emudeck.com/) for SteamOS. 
 
-#### Requires
-- Dolphin 5.0-15214 or [newer](https://dolphin-emu.org/download/).
-- At least one Supported [Input Device](https://github.com/Venomalia/UniversalDynamicInput/wiki/Supported-Input-Devices) and [Game](https://github.com/Venomalia/UniversalDynamicInput/wiki/Supported-games).
+## What games are supported?
+You can find all supported games on the [wiki](https://github.com/Venomalia/UniversalDynamicInput/wiki/Supported-games), if a game is not supported you can [add it](https://github.com/Venomalia/UniversalDynamicInput/wiki/Create-a-Package) or open a [request](https://github.com/Venomalia/UniversalDynamicInput/issues/new/choose).
 
-#### Desktop
-1. Place the **DynamicInputTextures** folder into Dolphin's **Load** directory,
-   - **Windows:** _`%UserName%\Documents\Dolphin Emulator\Load`_ in **Portable mode** _`\User\Load`_
-   - **Linux:** _`~/.dolphin-emu/Load`_ or _`~/.local/share/dolphin-emu/Load`_ depending on your system
-   - **macOS:** _`~/Library/Application Support/Dolphin/Load`_
+## Which input devices are supported?
+You can find all supported input devices on the [wiki](https://github.com/Venomalia/UniversalDynamicInput/wiki/Supported-Input-Devices), if a devices is not supported you can [add it](https://github.com/Venomalia/UniversalDynamicInput/wiki/Add-a-Devices) or open a [request](https://github.com/Venomalia/UniversalDynamicInput/issues/new/choose).
+
+## How to install the pack?
+You can also find a detailled intalation for your version on the [wiki](https://github.com/Venomalia/UniversalDynamicInput/wiki/Installation).
+
+#### Installation
+1. Place the **DynamicInputTextures** folder into Dolphin's **Load** directory:
+   - You can find the load folder if you navigate in dolphin to `File` > `Open User Folder` and navigate to the `Load` folder.
+   - By default you can also find the load folder under
+      - **Windows:** _`%UserName%\Documents\Dolphin Emulator\Load`_
+      - **Linux:** _`~/.dolphin-emu/Load`_ or _`~/.local/share/dolphin-emu/Load`_ depending on your system
+      - **MacOS:** _`~/Library/Application Support/Dolphin/Load`_
+      - **Xbox:** Xbox Usb drive at _`Dolphin\Load`_
+   - The path should now look like this `.\Load\DynamicInputTextures`
 1. Open Dolphin, enter `Graphics` > `Advanced` tab > Check **`Load Custom Textures`**.
 1. As soon as you start a [supported game](../wiki/Supported-Games), Dolphin will generate and load the new button textures.  
-    > If you have any problems take a look at our [troubleshooting](https://github.com/Venomalia/UniversalDynamicInput/wiki/Problem-solving#troubleshooting) guide.
+    > If you have any problems take a look at our [troubleshooting](../wiki/Problem-solving#troubleshooting) guide.
 
 #### Clone
 It is also possible to **Clone** this repository to Dolphin's **Load** directory.
 
-## [Supported Games](https://github.com/Venomalia/UniversalDynamicInput/wiki/Supported-games)
-
-## [Supported Input Devices](https://github.com/Venomalia/UniversalDynamicInput/wiki/Supported-Input-Devices)
-
-##  Screenshots:
-![Image1](https://i.imgur.com/WIxE3IZ.jpg "Image1")
-![Image2](https://i.imgur.com/3pcxh5P.jpg "Image2")
-
 ## FAQ:
+
 ### Does it work with texture packs?
 Yes, there are no known problems.
 
 ### Does it work with netplay?
 Yes, but there can be problems with wii games because only player 1 can use Wii Remote 1.
 
-### Do we accept game suggestions?
-Yes, but we need the [texture dumps](https://github.com/Venomalia/UniversalDynamicInput/wiki/Dumping-Textures) to implement it. Dumps can be sent to us via [Github](https://github.com/Venomalia/UniversalDynamicInput/issues/new/choose) or [Discord](https://discord.gg/q9RtF4Tm9E).
-
-### My controller is not supported?
-here you can make a [request](https://github.com/Venomalia/UniversalDynamicInput/issues/new/choose).
-
 ### How to create a package for this project?
-Try this [guide](https://github.com/Venomalia/UniversalDynamicInput/wiki/Create-a-Package). make a [contribution](https://github.com/Venomalia/UniversalDynamicInput/wiki/Contributing)
+Try this [guide](https://github.com/Venomalia/UniversalDynamicInput/wiki/Create-a-Package).
 
 ### The buttons that are displayed do not fit my controller!
 Try the [DevicesTextureChanger](https://github.com/Venomalia/UniversalDynamicInput/wiki/Windows-Supported-Input-Devices#devicestexturechanger) or create a [request](https://github.com/Venomalia/UniversalDynamicInput/issues/new/choose).
@@ -67,6 +70,9 @@ Super Mario Galaxy [1](https://forums.dolphin-emu.org/Thread-super-mario-galaxy-
 Phantasy Star Online 1 & 2 UI assets created by [LutheeMajestic](https://forums.dolphin-emu.org/Thread-phantasy-star-online-episode-i-ii-hd-ui-project) Licensed under [![license](https://img.shields.io/badge/CC%20BY--SA%204.0-lightgrey)](https://creativecommons.org/licenses/by-sa/4.0/deed.de).
 
 ### Special thanks:
-[iwubcode](https://github.com/iwubcode) for this great feature and to all helpers for beta-tests, feedback, texture-dumps and other improvements.
+[iwubcode](https://github.com/iwubcode) for the development of [dynamic input textures](https://forums.dolphin-emu.org/Thread-introducing-dynamic-input-textures-a-new-feature-for-controller-icons).
+
+All helpers for beta-tests, feedback, texture-dumps and other improvements.
+
 ---
 [![license](https://img.shields.io/github/license/Venomalia/UniversalDynamicInput?label=License)](https://github.com/Venomalia/UniversalDynamicInput/blob/main/LICENSE)
