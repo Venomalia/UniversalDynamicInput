@@ -1471,6 +1471,21 @@
           ]
         }
       }
+    },
+    "tex1_64x64_ee7fe8500fcff02a_14.png": {
+      "image": "tex1_128x128.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "IR/Up": [
+            [
+              0.0,
+              0.0,
+              256.0,
+              256.0
+            ]
+          ]
+        }
+      }
     }
   }
 }
