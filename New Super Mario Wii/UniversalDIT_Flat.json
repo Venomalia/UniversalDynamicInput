@@ -1572,7 +1572,7 @@
       "image": "tex1_80x76.png",
       "emulated_controls": {
         "Wiimote1": {
-          "Shake/Y": [
+          "Shake/Z": [
             [
               10.0,
               10.0,
@@ -1587,7 +1587,7 @@
       "image": "tex1_80x76.png",
       "emulated_controls": {
         "Wiimote1": {
-          "Shake/Y": [
+          "Shake/Z": [
             [
               10.0,
               10.0,
@@ -1602,22 +1602,7 @@
       "image": "tex1_80x76.png",
       "emulated_controls": {
         "Wiimote1": {
-          "Shake/Y": [
-            [
-              10.0,
-              10.0,
-              150.0,
-              142.0
-            ]
-          ]
-        }
-      }
-    },
-    "tex1_80x76_97881fc45b8e9934_5.png": {
-      "image": "tex1_80x76.png",
-      "emulated_controls": {
-        "Wiimote1": {
-          "Shake/Y": [
+          "Shake/Z": [
             [
               10.0,
               10.0,
@@ -1632,7 +1617,7 @@
       "image": "tex1_80x76.png",
       "emulated_controls": {
         "Wiimote1": {
-          "Shake/Y": [
+          "Shake/Z": [
             [
               10.0,
               10.0,
@@ -1647,7 +1632,7 @@
       "image": "tex1_80x76.png",
       "emulated_controls": {
         "Wiimote1": {
-          "Shake/Y": [
+          "Shake/Z": [
             [
               10.0,
               10.0,
@@ -1765,7 +1750,7 @@
               529.0
             ]
           ],
-          "Shake/Y": [
+          "Shake/Z": [
             [
               1323.0,
               265.0,
@@ -1773,12 +1758,353 @@
               529.0
             ]
           ],
-          "Nunchuk/Shake/Y": [
+          "Nunchuk/Shake/Z": [
             [
               1587.0,
               265.0,
               1852.0,
               529.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_80x76_1b4330560f1c3005_3.png": {
+      "image": "tex1_80x76_2.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Blank": [
+            [
+              0.0,
+              0.0,
+              160.0,
+              152.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_80x76_1d29e20fe76536a2_3.png": {
+      "image": "tex1_80x76_2.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Blank": [
+            [
+              0.0,
+              0.0,
+              160.0,
+              152.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_80x76_9bb8102f78d8214c_3.png": {
+      "image": "tex1_80x76_2.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Blank": [
+            [
+              0.0,
+              0.0,
+              160.0,
+              152.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_80x76_2905d50a73be453b_3.png": {
+      "image": "tex1_80x76_2.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Blank": [
+            [
+              0.0,
+              0.0,
+              160.0,
+              152.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_80x76_5507a74628c05330_3.png": {
+      "image": "tex1_80x76_2.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Blank": [
+            [
+              0.0,
+              0.0,
+              160.0,
+              152.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_80x76_690096098e5962ab_3.png": {
+      "image": "tex1_80x76_2.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Blank": [
+            [
+              0.0,
+              0.0,
+              160.0,
+              152.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_80x76_024472280251911d_3.png": {
+      "image": "tex1_80x76_2.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Blank": [
+            [
+              0.0,
+              0.0,
+              160.0,
+              152.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_80x76_b25c08e508f71250_3.png": {
+      "image": "tex1_80x76_2.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Blank": [
+            [
+              0.0,
+              0.0,
+              160.0,
+              152.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_80x76_cb64e9cc294325c7_3.png": {
+      "image": "tex1_80x76_2.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Blank": [
+            [
+              0.0,
+              0.0,
+              160.0,
+              152.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_80x76_d6d0f76df3e4b69d_3.png": {
+      "image": "tex1_80x76_2.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Blank": [
+            [
+              0.0,
+              0.0,
+              160.0,
+              152.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_80x76_dad212259c820c9e_3.png": {
+      "image": "tex1_80x76_2.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Blank": [
+            [
+              0.0,
+              0.0,
+              160.0,
+              152.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_80x76_f41dcd9ad2c86c52_3.png": {
+      "image": "tex1_80x76_2.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Blank": [
+            [
+              0.0,
+              0.0,
+              160.0,
+              152.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_80x76_95bdcc7c54247edc_3.png": {
+      "image": "tex1_80x76_2.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Tilt/Left": [
+            [
+              0.0,
+              0.0,
+              80.0,
+              152.0
+            ]
+          ],
+          "Tilt/Right": [
+            [
+              80.0,
+              0.0,
+              160.0,
+              152.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_80x76_249635f426d30d05_3.png": {
+      "image": "tex1_80x76_2.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Tilt/Left": [
+            [
+              4.0,
+              0.0,
+              76.0,
+              152.0
+            ]
+          ],
+          "Tilt/Right": [
+            [
+              80.0,
+              0.0,
+              160.0,
+              152.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_80x76_9d159859b926b2c0_5.png": {
+      "image": "tex1_80x76_2.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Tilt/Left": [
+            [
+              7.0,
+              0.0,
+              73.0,
+              152.0
+            ]
+          ],
+          "Tilt/Right": [
+            [
+              80.0,
+              0.0,
+              160.0,
+              152.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_80x76_075bf421f29ea30a_5.png": {
+      "image": "tex1_80x76_2.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Tilt/Left": [
+            [
+              10.0,
+              0.0,
+              70.0,
+              152.0
+            ]
+          ],
+          "Tilt/Right": [
+            [
+              80.0,
+              0.0,
+              160.0,
+              152.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_80x76_d186d4fde5cbf13b_5.png": {
+      "image": "tex1_80x76_2.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Tilt/Left": [
+            [
+              0.0,
+              0.0,
+              80.0,
+              152.0
+            ]
+          ],
+          "Tilt/Right": [
+            [
+              84.0,
+              0.0,
+              156.0,
+              152.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_80x76_cc737475a3a4f6d4_5.png": {
+      "image": "tex1_80x76_2.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Tilt/Left": [
+            [
+              0.0,
+              0.0,
+              80.0,
+              152.0
+            ]
+          ],
+          "Tilt/Right": [
+            [
+              87.0,
+              0.0,
+              153.0,
+              152.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_80x76_97881fc45b8e9934_5.png": {
+      "image": "tex1_80x76_2.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Tilt/Left": [
+            [
+              0.0,
+              0.0,
+              80.0,
+              152.0
+            ]
+          ],
+          "Tilt/Right": [
+            [
+              90.0,
+              0.0,
+              150.0,
+              152.0
             ]
           ]
         }
