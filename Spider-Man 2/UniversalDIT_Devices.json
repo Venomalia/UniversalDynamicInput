@@ -1,0 +1,65 @@
+{
+  "generated_folder_name": "#Generated_Spider-Man 2",
+  "preserve_aspect_ratio": true,
+  "output_textures": {
+    "tex1_256x256_da303ca840336f30_14.png": {
+      "image": "tex1_256x256_da303ca840336f30_14.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Device": [
+            [
+              0.0,
+              0.0,
+              512.0,
+              512.0
+            ]
+          ]
+        }
+      },
+      "host_controls": {
+		      "DSUClient/1/BetterJoy": {
+				"DSUClient/1/BetterJoy": "../#DefaultDevices/Switch_Joy-Con/Device/IconN.png"
+			    },
+		      "DSUClient/0/BetterJoy": {
+				"DSUClient/0/BetterJoy": "../#DefaultDevices/Switch_Pro Controller/Device/IconN.png"
+			    },
+		      "DInput/0/Wireless Gamepad": {
+				"DInput/0/Wireless Gamepad": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\IconN.png"
+			    },
+		      "XInput/0/Gamepad": {
+				"XInput/0/Gamepad": "..\\#DefaultDevices\\XBOX ONE\\Device\\IconN.png"
+			    },
+		      "DInput/0/Bluetooth LE XINPUT compatible input device": {
+				"DInput/0/Bluetooth LE XINPUT compatible input device": "..\\#DefaultDevices\\XBOX ONE\\Device\\IconN.png"
+			    },
+		      "DSUClient/0/DualShock4": {
+				"DSUClient/0/DualShock4": "../#DefaultDevices/DualShock4/Device/IconN.png"
+			    },
+		      "DInput/0/Wireless Controller": {
+				"DInput/0/Wireless Controller": "..\\#DefaultDevices\\DualShock4\\Device\\IconN.png"
+			    },
+		      "evdev/0/Wireless Controller": {
+				"evdev/0/Wireless Controller": "../#DefaultDevices/DualShock4/Device/IconN.png"
+			    },
+		      "evdev/0/Sony Interactive Entertainment Wireless Controller": {
+				"evdev/0/Sony Interactive Entertainment Wireless Controller": "../#DefaultDevices/DualShock4/Device/IconN.png"
+			    },
+		      "evdev/0/Microsoft X-Box 360 pad": {
+				"evdev/0/Microsoft X-Box 360 pad": "../#DefaultDevices/XBOX ONE/Device/IconN.png"
+			    },
+		      "evdev/0/Microsoft X-Box One S pad": {
+				"evdev/0/Microsoft X-Box One S pad": "../#DefaultDevices/XBOX ONE/Device/IconN.png"
+			    },
+			  "evdev/0/Xbox Wireless Controller": {
+				"evdev/0/Xbox Wireless Controller": "../#DefaultDevices/XBOX ONE/Device/IconN.png"
+				},
+		      "SDL/0/PS4 Controller": {
+				"SDL/0/PS4 Controller": "../#DefaultDevices/DualShock4/Device/IconN.png"
+			    },
+		      "SDL/0/Xbox Wireless Controller": {
+				"SDL/0/Xbox Wireless Controller": "../#DefaultDevices/XBOX ONE/Device/IconN.png"
+			    }
+	  }
+    }
+  }
+}
