@@ -27,7 +27,7 @@ You can find all supported games on the [wiki](https://github.com/Venomalia/Univ
 You can find all supported input devices on the [wiki](https://github.com/Venomalia/UniversalDynamicInput/wiki/Supported-Input-Devices), if a devices is not supported you can [add it](https://github.com/Venomalia/UniversalDynamicInput/wiki/Add-a-Devices) or open a [request](https://github.com/Venomalia/UniversalDynamicInput/issues/new/choose).
 
 ## How to install the pack?
-You can also find a detailled intalation for your version on the [wiki](https://github.com/Venomalia/UniversalDynamicInput/wiki/Installation).
+You can also find a detailled installation for your version on the [wiki](https://github.com/Venomalia/UniversalDynamicInput/wiki/Installation).
 
 #### Installation
 1. Place the **DynamicInputTextures** folder into Dolphin's **Load** directory:
