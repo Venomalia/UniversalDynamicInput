@@ -39,8 +39,8 @@ You can also find a detailled installation for your version on the [wiki](https:
       - **Xbox:** Xbox Usb drive at _`Dolphin\Load`_
    - The path should now look like this `.\Load\DynamicInputTextures`
 1. Open Dolphin, enter `Graphics` > `Advanced` tab > Check **`Load Custom Textures`**.
-1. As soon as you start a [supported game](../wiki/Supported-Games), Dolphin will generate and load the new button textures.  
-    > If you have any problems take a look at our [troubleshooting](../wiki/Problem-solving#troubleshooting) guide.
+1. As soon as you start a [supported game](https://github.com/Venomalia/UniversalDynamicInput/wiki/Supported-games), Dolphin will generate and load the new button textures.  
+    > If you have any problems take a look at our [troubleshooting](https://github.com/Venomalia/UniversalDynamicInput/wiki/Problem-solving#troubleshooting) guide.
 
 #### Clone
 It is also possible to **Clone** this repository to Dolphin's **Load** directory.
