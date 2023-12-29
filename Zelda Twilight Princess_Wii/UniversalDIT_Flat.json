@@ -1602,7 +1602,23 @@
       "image": "tex1_24x30_66b5aad834813336_2.png",
       "emulated_controls": {
         "Wiimote1": {
+          "Shake/X": [
+            [
+              0.0,
+              0.0,
+              96.0,
+              120.0
+            ]
+          ],
           "Shake/Y": [
+            [
+              0.0,
+              0.0,
+              96.0,
+              120.0
+            ]
+          ],
+          "Shake/Z": [
             [
               0.0,
               0.0,
@@ -1617,7 +1633,7 @@
       "image": "tex1_30x48_fde6bb475f248e15_2.png",
       "emulated_controls": {
         "Wiimote1": {
-          "Nunchuk/Shake/Y": [
+          "Nunchuk/Shake/X": [
             [
               0.0,
               0.0,
