@@ -10,11 +10,15 @@ repos:
         args: [--fix=lf]
       - id: check-case-conflict
       - id: check-merge-conflict
-  # For Markdown, JSON and YAML
+      # JSON formatting. Prettier's unwrapping is undesirable
+      - id: pretty-format-json
+        args: [--autofix, --no-ensure-ascii, --no-sort-keys]
+  # For Markdown and YAML
   - repo: https://github.com/pre-commit/mirrors-prettier
     rev: "v3.1.0"
     hooks:
       - id: prettier
+        exclude_types: [json]
   # For Python
   - repo: https://github.com/astral-sh/ruff-pre-commit
     rev: "v0.1.14"
