@@ -1,0 +1,45 @@
+repos:
+  # Various useful generic autofixes
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.5.0
+    hooks:
+      - id: trailing-whitespace
+        args: [--markdown-linebreak-ext=md]
+      - id: end-of-file-fixer
+      - id: mixed-line-ending
+        args: [--fix=lf]
+      - id: check-case-conflict
+      - id: check-merge-conflict
+      # JSON formatting. Prettier's unwrapping is undesirable
+      - id: pretty-format-json
+        args: [--autofix, --no-ensure-ascii, --no-sort-keys]
+  # For Markdown and YAML
+  - repo: https://github.com/pre-commit/mirrors-prettier
+    rev: "v3.1.0"
+    hooks:
+      - id: prettier
+        exclude_types: [json]
+  # For Python
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: "v0.1.14"
+    hooks:
+      # Run the linter.
+      - id: ruff
+        args: [--fix]
+      # Run the formatter.
+      - id: ruff-format
+  # Custom generator
+  - repo: local
+    hooks:
+      - id: generate_alternate_assets
+        name: Generate Alternate Assets
+        language: python
+        language_version: python3.12
+        additional_dependencies: ["imageio", "numpy", "tqdm"]
+        entry: python "#DefaultDevices/generate_alternate_assets.py"
+        # files: "^#DefaultDevices/" # TODO: only run when images are modified
+        pass_filenames: false
+
+ci:
+  autoupdate_branch: main
+  autoupdate_schedule: monthly
