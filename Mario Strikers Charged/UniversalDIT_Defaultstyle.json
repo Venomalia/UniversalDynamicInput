@@ -408,7 +408,7 @@
       "`Axis Yr+`": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Right Y-.png",
       "`Axis Yr-`": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Right Y+.png"
     },
-	"DInput/0/Pro Controller": {
+    "DInput/0/Pro Controller": {
       "DInput/0/Pro Controller": "..\\#DefaultDevices\\Switch_Pro Controller\\Device\\Icon.png",
       "`Button 0`": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Button B.png",
       "`Button 1`": "..\\#DefaultDevices\\Switch_Pro Controller\\Defaultstyle\\Button A.png",
@@ -749,7 +749,7 @@
       "evdev/0/Nintendo Switch Pro Controller": "../#DefaultDevices/Switch_Pro Controller/Device/Icon.png",
       "EAST": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button A.png",
       "SOUTH": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button B.png",
-	  "WEST": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button Y.png",
+      "WEST": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button Y.png",
       "NORTH": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button X.png",
       "TL": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/L.png",
       "TR": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/R.png",
@@ -778,7 +778,7 @@
       "evdev/0/Bensussen Deutsch & Associates,Inc.(BDA) NSW Spectra Wired Controller": "../#DefaultDevices/Switch_Pro Controller/Device/Icon.png",
       "C": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button A.png",
       "EAST": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button B.png",
-	  "SOUTH": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button Y.png",
+      "SOUTH": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button Y.png",
       "NORTH": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button X.png",
       "WEST": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/L.png",
       "Z": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/R.png",
@@ -1096,7 +1096,7 @@
       "`Button 0`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button A.png",
       "`Button 1`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button B.png",
       "`Button 2`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button X.png",
-	  "`Button 3`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button Y.png",
+      "`Button 3`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button Y.png",
       "`Button 4`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button -.png",
       "`Button 5`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Home.png",
       "`Button 6`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button +.png",
@@ -1152,7 +1152,7 @@
       "evdev/0/8BitDo Pro 2": "../#DefaultDevices/Switch_Pro Controller/Device/Icon.png",
       "C": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button Y.png",
       "EAST": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button A.png",
-	  "SOUTH": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button B.png",
+      "SOUTH": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button B.png",
       "NORTH": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button X.png",
       "WEST": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/L.png",
       "Z": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/R.png",
@@ -1280,7 +1280,7 @@
       "`Button 0`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button A.png",
       "`Button 1`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button B.png",
       "`Button 2`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button X.png",
-	  "`Button 3`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button Y.png",
+      "`Button 3`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button Y.png",
       "`Button 4`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button -.png",
       "`Button 5`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Home.png",
       "`Button 6`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle/Button +.png",
@@ -1499,70 +1499,70 @@
               362.0
             ]
           ],
-		  "Nunchuk/Buttons/Z": [
-		    [
-		      157.0,
-			  61.0,
-			  283.0,
-			  125.0
-		    ]
-		  ],
-		  "Nunchuk/Buttons/C": [
-		    [
-		      156.0,
-			  195.0,
-			  284.0,
-			  259.0
-		    ]
-		  ],
-		  "Nunchuk/Stick/Up": [
-		    [
-		      159.0,
-			  318.0,
-			  287.0,
-			  382.0
-		    ]
-		  ],
-		  "Nunchuk/Shake/X": [
-		    [
-		      649.0,
-			  60.0,
-			  777.0,
-			  124.0
-		    ]
-		  ],
-		  "Shake/X": [
-		    [
-		      392.0,
-			  54.0,
-			  520.0,
-			  118.0
-		    ]
-		  ],
-		  "Buttons/B": [
-		    [
-		      663.0,
-			  165.0,
-			  791.0,
-			  229.0
-		    ]
-		  ],
-		  "Buttons/A": [
-		    [
-		      667.0,
-			  310.0,
-			  795.0,
-			  374.0
-		    ]
-		  ],
-		  "D-Pad/Down": [
-		    [
-		      669.0,
-			  406.0,
-			  797.0,
-			  470.0
-		    ]
-		  ]
+          "Nunchuk/Buttons/Z": [
+            [
+              157.0,
+              61.0,
+              283.0,
+              125.0
+            ]
+          ],
+          "Nunchuk/Buttons/C": [
+            [
+              156.0,
+              195.0,
+              284.0,
+              259.0
+            ]
+          ],
+          "Nunchuk/Stick/Up": [
+            [
+              159.0,
+              318.0,
+              287.0,
+              382.0
+            ]
+          ],
+          "Nunchuk/Shake/X": [
+            [
+              649.0,
+              60.0,
+              777.0,
+              124.0
+            ]
+          ],
+          "Shake/X": [
+            [
+              392.0,
+              54.0,
+              520.0,
+              118.0
+            ]
+          ],
+          "Buttons/B": [
+            [
+              663.0,
+              165.0,
+              791.0,
+              229.0
+            ]
+          ],
+          "Buttons/A": [
+            [
+              667.0,
+              310.0,
+              795.0,
+              374.0
+            ]
+          ],
+          "D-Pad/Down": [
+            [
+              669.0,
+              406.0,
+              797.0,
+              470.0
+            ]
+          ]
         }
       }
     }

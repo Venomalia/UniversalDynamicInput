@@ -24,7 +24,7 @@ echo 2: Xinput (Linux-XBOX 360)
 echo 3: DualShock
 if exist "#DefaultDevices\*_backup" echo r: reset all to default
 
-set /p answer=select an option: 
+set /p answer="select an option: "
 if /I "%answer%"=="0" exit
 if /I "%answer%"=="1" goto AXinput
 if /I "%answer%"=="2" goto AXinput360
@@ -46,7 +46,7 @@ echo 5: Generic
 echo 6: Switch Pro Controller ( A=B, B=A, Y=X, X=Y")
 if exist "#DefaultDevices\%name%_backup" echo r: %name% (default)
 
-set /p answer=select an option: 
+set /p answer="select an option: "
 if /I "%answer%"=="0" goto Start
 if /I "%answer%"=="1" goto XinputTo360
 if /I "%answer%"=="2" goto XinputToSX
@@ -69,7 +69,7 @@ echo 3: Generic
 echo 4: Switch Pro Controller ( A=B, B=A, Y=X, X=Y")
 if exist "#DefaultDevices\%name%_backup" echo r: %name% (default)
 
-set /p answer=select an option: 
+set /p answer="select an option: "
 if /I "%answer%"=="0" goto Start
 if /I "%answer%"=="1" goto XinputToPS3
 if /I "%answer%"=="2" goto XinputToPS4
@@ -87,7 +87,7 @@ echo 0: Back
 echo 1: DualShock3
 if exist "#DefaultDevices\%name%_backup" echo r: %name% (default)
 
-set /p answer=select an option: 
+set /p answer="select an option: "
 if /I "%answer%"=="0" goto Start
 if /I "%answer%"=="1" goto DualShock3
 if /I "%answer%"=="r" CALL :ResetX "%name%"

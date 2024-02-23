@@ -2,7 +2,6 @@ name: Ask a Question
 description: ask a question.
 labels: [question]
 body:
-
   - type: textarea
     id: question
     attributes:
