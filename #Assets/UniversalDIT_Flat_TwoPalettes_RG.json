@@ -887,7 +887,20 @@
       "`Axis 4-`": "../#DefaultDevices/_TwoPalettes_RG/DualShock4/Flat/Right Y+.png",
       "`Axis 3+`": "../#DefaultDevices/_TwoPalettes_RG/DualShock4/Flat/Right X+.png",
       "`Axis 3-`": "../#DefaultDevices/_TwoPalettes_RG/DualShock4/Flat/Right X-.png",
-      "THUMBR": "../#DefaultDevices/_TwoPalettes_RG/DualShock4/Flat/R3.png"
+      "THUMBR": "../#DefaultDevices/_TwoPalettes_RG/DualShock4/Flat/R3.png",
+      "`Button 0`": "../#DefaultDevices/_TwoPalettes_RG/DualShock4/Flat/Cross.png",
+      "`Button 1`": "../#DefaultDevices/_TwoPalettes_RG/DualShock4/Flat/Circle.png",
+      "`Button 3`": "../#DefaultDevices/_TwoPalettes_RG/DualShock4/Flat/Square.png",
+      "`Button 2`": "../#DefaultDevices/_TwoPalettes_RG/DualShock4/Flat/Triangle.png",
+      "`Button 4`": "../#DefaultDevices/_TwoPalettes_RG/DualShock4/Flat/L1.png",
+      "`Button 5`": "../#DefaultDevices/_TwoPalettes_RG/DualShock4/Flat/R1.png",
+      "`Button 9`": "../#DefaultDevices/_TwoPalettes_RG/DualShock4/Flat/Options.png",
+      "`Button 8`": "../#DefaultDevices/_TwoPalettes_RG/DualShock4/Flat/Share.png",
+      "`Button 10`": "../#DefaultDevices/_TwoPalettes_RG/DualShock4/Flat/PS.png",
+      "`Button 11`": "../#DefaultDevices/_TwoPalettes_RG/DualShock4/Flat/L3.png",
+      "`Button 12`": "../#DefaultDevices/_TwoPalettes_RG/DualShock4/Flat/R3.png",
+      "`Axis 2+`": "../#DefaultDevices/_TwoPalettes_RG/DualShock4/Flat/L2.png",
+      "`Axis 5+`": "../#DefaultDevices/_TwoPalettes_RG/DualShock4/Flat/R2.png"
     },
     "evdev/0/Sony Interactive Entertainment Wireless Controller": {
       "evdev/0/Sony Interactive Entertainment Wireless Controller": "../#DefaultDevices/_TwoPalettes_RG/DualShock4/Device/Icon.png",
