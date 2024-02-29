@@ -83,7 +83,8 @@ def generate_images_from_source(source_path: Path) -> None:
     )
     if (
         # Skip B&W images for TwoPalettes
-        len(_mirror_image.shape) > 2
+        len(source_image.shape) > 2
+        and "Flat_Mask" not in relative_path.parts
         # TwoPalettes is only used with Flat* for now, avoid generating unused images
         and relative_path.parts[1].startswith("Flat")
     ):
