@@ -2,45 +2,44 @@ name: Device Request
 description: Create a request for a device we should support.
 labels: [Device Request]
 body:
+  - type: input
+    id: devices_name
+    attributes:
+      label: Input device?
+      description: What is the name of the device.
+      placeholder: Xbox one controller
+    validations:
+      required: true
 
-- type: input
-  id: devices_name
-  attributes:
-    label: Input device?
-    description: What is the name of the device.
-    placeholder: Xbox one controller
-  validations:
-    required: true
-    
-- type: input
-  id: devices_id
-  attributes:
-    label: Input device ID?
-    description: 'in dolphin under `Controllers` > `Configure` > **`Device`**.'
-    placeholder: XInput/0/Gamepad
-  validations:
-    required: true
-    
-- type: input
-  id: operating-systems
-  attributes:
-    label: Operating System?
-    description: With which operating system do you use the controller?
-    placeholder: Windows 10
-  validations:
-    required: true
-    
-- type: textarea
-  id: mapping
-  attributes:
-    label: What is the key assignment.
-    description: What are the keys named in dolphin and what would be the understandable name. [Templates](https://github.com/Venomalia/UniversalDynamicInput/wiki/Device-Templates)
-    placeholder: |
-      '"`Key ID`" = Description'
-      '"`Button 1`" = A Button'
-      '"`Button 2`" = B Button'
-      '"`Axis Z+`" = Trigger L'
-      '"`Axis Y+`" = Trigger R'
-      '...'
-  validations:
-    required: true
+  - type: input
+    id: devices_id
+    attributes:
+      label: Input device ID?
+      description: "in dolphin under `Controllers` > `Configure` > **`Device`**."
+      placeholder: XInput/0/Gamepad
+    validations:
+      required: true
+
+  - type: input
+    id: operating-systems
+    attributes:
+      label: Operating System?
+      description: With which operating system do you use the controller?
+      placeholder: Windows 10
+    validations:
+      required: true
+
+  - type: textarea
+    id: mapping
+    attributes:
+      label: What is the key assignment.
+      description: What are the keys named in dolphin and what would be the understandable name. [Templates](https://github.com/Venomalia/UniversalDynamicInput/wiki/Device-Templates)
+      placeholder: |
+        '"`Key ID`" = Description'
+        '"`Button 1`" = A Button'
+        '"`Button 2`" = B Button'
+        '"`Axis Z+`" = Trigger L'
+        '"`Axis Y+`" = Trigger R'
+        '...'
+    validations:
+      required: true

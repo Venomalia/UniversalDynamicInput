@@ -17,19 +17,19 @@
         }
       },
       "host_controls": {
-		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "Wiimote Animations/Joy-Con/tex1_128x128_2bc2bcb2db441b70_4.png"
-			    },
-		      "DSUClient/0/DualShock4": {
-				"DSUClient/0/DualShock4": "Wiimote Animations/DualShock4/tex1_128x128_2bc2bcb2db441b70_4.png"
-			    },
-		      "evdev/0/Wireless Controller": {
-				"evdev/0/Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_2bc2bcb2db441b70_4.png"
-			    },
-		      "evdev/0/Sony Interactive Entertainment Wireless Controller": {
-				"evdev/0/Sony Interactive Entertainment Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_2bc2bcb2db441b70_4.png"
-			    }
-	    }
+        "DSUClient/1/BetterJoy": {
+          "DSUClient/1/BetterJoy": "Wiimote Animations/Joy-Con/tex1_128x128_2bc2bcb2db441b70_4.png"
+        },
+        "DSUClient/0/DualShock4": {
+          "DSUClient/0/DualShock4": "Wiimote Animations/DualShock4/tex1_128x128_2bc2bcb2db441b70_4.png"
+        },
+        "evdev/0/Wireless Controller": {
+          "evdev/0/Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_2bc2bcb2db441b70_4.png"
+        },
+        "evdev/0/Sony Interactive Entertainment Wireless Controller": {
+          "evdev/0/Sony Interactive Entertainment Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_2bc2bcb2db441b70_4.png"
+        }
+      }
     },
     "tex1_128x128_75edc338cb298220_4.png": {
       "image": "Wiimote Animations/Original/tex1_128x128_75edc338cb298220_4.png",
@@ -46,19 +46,19 @@
         }
       },
       "host_controls": {
-		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "Wiimote Animations/Joy-Con/tex1_128x128_75edc338cb298220_4.png"
-			    },
-		      "DSUClient/0/DualShock4": {
-				"DSUClient/0/DualShock4": "Wiimote Animations/DualShock4/tex1_128x128_75edc338cb298220_4.png"
-			    },
-		      "evdev/0/Wireless Controller": {
-				"evdev/0/Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_75edc338cb298220_4.png"
-			    },
-		      "evdev/0/Sony Interactive Entertainment Wireless Controller": {
-				"evdev/0/Sony Interactive Entertainment Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_75edc338cb298220_4.png"
-			    }
-	    }
+        "DSUClient/1/BetterJoy": {
+          "DSUClient/1/BetterJoy": "Wiimote Animations/Joy-Con/tex1_128x128_75edc338cb298220_4.png"
+        },
+        "DSUClient/0/DualShock4": {
+          "DSUClient/0/DualShock4": "Wiimote Animations/DualShock4/tex1_128x128_75edc338cb298220_4.png"
+        },
+        "evdev/0/Wireless Controller": {
+          "evdev/0/Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_75edc338cb298220_4.png"
+        },
+        "evdev/0/Sony Interactive Entertainment Wireless Controller": {
+          "evdev/0/Sony Interactive Entertainment Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_75edc338cb298220_4.png"
+        }
+      }
     },
     "tex1_128x128_715a1feea447461b_4.png": {
       "image": "Wiimote Animations/Original/tex1_128x128_715a1feea447461b_4.png",
@@ -75,19 +75,19 @@
         }
       },
       "host_controls": {
-		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "Wiimote Animations/Joy-Con/tex1_128x128_715a1feea447461b_4.png"
-			    },
-		      "DSUClient/0/DualShock4": {
-				"DSUClient/0/DualShock4": "Wiimote Animations/DualShock4/tex1_128x128_715a1feea447461b_4.png"
-			    },
-		      "evdev/0/Wireless Controller": {
-				"evdev/0/Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_715a1feea447461b_4.png"
-			    },
-		      "evdev/0/Sony Interactive Entertainment Wireless Controller": {
-				"evdev/0/Sony Interactive Entertainment Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_715a1feea447461b_4.png"
-			    }
-	    }
+        "DSUClient/1/BetterJoy": {
+          "DSUClient/1/BetterJoy": "Wiimote Animations/Joy-Con/tex1_128x128_715a1feea447461b_4.png"
+        },
+        "DSUClient/0/DualShock4": {
+          "DSUClient/0/DualShock4": "Wiimote Animations/DualShock4/tex1_128x128_715a1feea447461b_4.png"
+        },
+        "evdev/0/Wireless Controller": {
+          "evdev/0/Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_715a1feea447461b_4.png"
+        },
+        "evdev/0/Sony Interactive Entertainment Wireless Controller": {
+          "evdev/0/Sony Interactive Entertainment Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_715a1feea447461b_4.png"
+        }
+      }
     },
     "tex1_128x128_847d41fbcf8b308e_4.png": {
       "image": "Wiimote Animations/Original/tex1_128x128_847d41fbcf8b308e_4.png",
@@ -104,19 +104,19 @@
         }
       },
       "host_controls": {
-		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "Wiimote Animations/Joy-Con/tex1_128x128_847d41fbcf8b308e_4.png"
-			    },
-		      "DSUClient/0/DualShock4": {
-				"DSUClient/0/DualShock4": "Wiimote Animations/DualShock4/tex1_128x128_847d41fbcf8b308e_4.png"
-			    },
-		      "evdev/0/Wireless Controller": {
-				"evdev/0/Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_847d41fbcf8b308e_4.png"
-			    },
-		      "evdev/0/Sony Interactive Entertainment Wireless Controller": {
-				"evdev/0/Sony Interactive Entertainment Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_847d41fbcf8b308e_4.png"
-			    }
-	    }
+        "DSUClient/1/BetterJoy": {
+          "DSUClient/1/BetterJoy": "Wiimote Animations/Joy-Con/tex1_128x128_847d41fbcf8b308e_4.png"
+        },
+        "DSUClient/0/DualShock4": {
+          "DSUClient/0/DualShock4": "Wiimote Animations/DualShock4/tex1_128x128_847d41fbcf8b308e_4.png"
+        },
+        "evdev/0/Wireless Controller": {
+          "evdev/0/Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_847d41fbcf8b308e_4.png"
+        },
+        "evdev/0/Sony Interactive Entertainment Wireless Controller": {
+          "evdev/0/Sony Interactive Entertainment Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_847d41fbcf8b308e_4.png"
+        }
+      }
     },
     "tex1_128x128_5277b75ea1688bd4_4.png": {
       "image": "Wiimote Animations/Original/tex1_128x128_5277b75ea1688bd4_4.png",
@@ -133,19 +133,19 @@
         }
       },
       "host_controls": {
-		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "Wiimote Animations/Joy-Con/tex1_128x128_5277b75ea1688bd4_4.png"
-			    },
-		      "DSUClient/0/DualShock4": {
-				"DSUClient/0/DualShock4": "Wiimote Animations/DualShock4/tex1_128x128_5277b75ea1688bd4_4.png"
-			    },
-		      "evdev/0/Wireless Controller": {
-				"evdev/0/Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_5277b75ea1688bd4_4.png"
-			    },
-		      "evdev/0/Sony Interactive Entertainment Wireless Controller": {
-				"evdev/0/Sony Interactive Entertainment Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_5277b75ea1688bd4_4.png"
-			    }
-	    }
+        "DSUClient/1/BetterJoy": {
+          "DSUClient/1/BetterJoy": "Wiimote Animations/Joy-Con/tex1_128x128_5277b75ea1688bd4_4.png"
+        },
+        "DSUClient/0/DualShock4": {
+          "DSUClient/0/DualShock4": "Wiimote Animations/DualShock4/tex1_128x128_5277b75ea1688bd4_4.png"
+        },
+        "evdev/0/Wireless Controller": {
+          "evdev/0/Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_5277b75ea1688bd4_4.png"
+        },
+        "evdev/0/Sony Interactive Entertainment Wireless Controller": {
+          "evdev/0/Sony Interactive Entertainment Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_5277b75ea1688bd4_4.png"
+        }
+      }
     },
     "tex1_128x128_05692a04cdd9bf97_4.png": {
       "image": "Wiimote Animations/Original/tex1_128x128_05692a04cdd9bf97_4.png",
@@ -162,19 +162,19 @@
         }
       },
       "host_controls": {
-		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "Wiimote Animations/Joy-Con/tex1_128x128_05692a04cdd9bf97_4.png"
-			},
-		      "DSUClient/0/DualShock4": {
-				"DSUClient/0/DualShock4": "Wiimote Animations/DualShock4/tex1_128x128_05692a04cdd9bf97_4.png"
-			    },
-		      "evdev/0/Wireless Controller": {
-				"evdev/0/Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_05692a04cdd9bf97_4.png"
-			    },
-		      "evdev/0/Sony Interactive Entertainment Wireless Controller": {
-				"evdev/0/Sony Interactive Entertainment Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_05692a04cdd9bf97_4.png"
-			    }
-	    }
+        "DSUClient/1/BetterJoy": {
+          "DSUClient/1/BetterJoy": "Wiimote Animations/Joy-Con/tex1_128x128_05692a04cdd9bf97_4.png"
+        },
+        "DSUClient/0/DualShock4": {
+          "DSUClient/0/DualShock4": "Wiimote Animations/DualShock4/tex1_128x128_05692a04cdd9bf97_4.png"
+        },
+        "evdev/0/Wireless Controller": {
+          "evdev/0/Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_05692a04cdd9bf97_4.png"
+        },
+        "evdev/0/Sony Interactive Entertainment Wireless Controller": {
+          "evdev/0/Sony Interactive Entertainment Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_05692a04cdd9bf97_4.png"
+        }
+      }
     },
     "tex1_128x128_a4fc6558152fbf3f_4.png": {
       "image": "Wiimote Animations/Original/tex1_128x128_a4fc6558152fbf3f_4.png",
@@ -191,19 +191,19 @@
         }
       },
       "host_controls": {
-		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "Wiimote Animations/Joy-Con/tex1_128x128_a4fc6558152fbf3f_4.png"
-			},
-		      "DSUClient/0/DualShock4": {
-				"DSUClient/0/DualShock4": "Wiimote Animations/DualShock4/tex1_128x128_a4fc6558152fbf3f_4.png"
-			    },
-		      "evdev/0/Wireless Controller": {
-				"evdev/0/Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_a4fc6558152fbf3f_4.png"
-			    },
-		      "evdev/0/Sony Interactive Entertainment Wireless Controller": {
-				"evdev/0/Sony Interactive Entertainment Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_a4fc6558152fbf3f_4.png"
-			    }
-	    }
+        "DSUClient/1/BetterJoy": {
+          "DSUClient/1/BetterJoy": "Wiimote Animations/Joy-Con/tex1_128x128_a4fc6558152fbf3f_4.png"
+        },
+        "DSUClient/0/DualShock4": {
+          "DSUClient/0/DualShock4": "Wiimote Animations/DualShock4/tex1_128x128_a4fc6558152fbf3f_4.png"
+        },
+        "evdev/0/Wireless Controller": {
+          "evdev/0/Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_a4fc6558152fbf3f_4.png"
+        },
+        "evdev/0/Sony Interactive Entertainment Wireless Controller": {
+          "evdev/0/Sony Interactive Entertainment Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_a4fc6558152fbf3f_4.png"
+        }
+      }
     },
     "tex1_128x128_be0696b00ef70b9a_4.png": {
       "image": "Wiimote Animations/Original/tex1_128x128_be0696b00ef70b9a_4.png",
@@ -220,19 +220,19 @@
         }
       },
       "host_controls": {
-		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "Wiimote Animations/Joy-Con/tex1_128x128_be0696b00ef70b9a_4.png"
-			},
-		      "DSUClient/0/DualShock4": {
-				"DSUClient/0/DualShock4": "Wiimote Animations/DualShock4/tex1_128x128_be0696b00ef70b9a_4.png"
-			    },
-		      "evdev/0/Wireless Controller": {
-				"evdev/0/Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_be0696b00ef70b9a_4.png"
-			    },
-		      "evdev/0/Sony Interactive Entertainment Wireless Controller": {
-				"evdev/0/Sony Interactive Entertainment Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_be0696b00ef70b9a_4.png"
-			    }
-	    }
+        "DSUClient/1/BetterJoy": {
+          "DSUClient/1/BetterJoy": "Wiimote Animations/Joy-Con/tex1_128x128_be0696b00ef70b9a_4.png"
+        },
+        "DSUClient/0/DualShock4": {
+          "DSUClient/0/DualShock4": "Wiimote Animations/DualShock4/tex1_128x128_be0696b00ef70b9a_4.png"
+        },
+        "evdev/0/Wireless Controller": {
+          "evdev/0/Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_be0696b00ef70b9a_4.png"
+        },
+        "evdev/0/Sony Interactive Entertainment Wireless Controller": {
+          "evdev/0/Sony Interactive Entertainment Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_be0696b00ef70b9a_4.png"
+        }
+      }
     },
     "tex1_128x128_c165bf4bc64281e7_4.png": {
       "image": "Wiimote Animations/Original/tex1_128x128_c165bf4bc64281e7_4.png",
@@ -249,19 +249,19 @@
         }
       },
       "host_controls": {
-		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "Wiimote Animations/Joy-Con/tex1_128x128_c165bf4bc64281e7_4.png"
-			},
-		      "DSUClient/0/DualShock4": {
-				"DSUClient/0/DualShock4": "Wiimote Animations/DualShock4/tex1_128x128_c165bf4bc64281e7_4.png"
-			    },
-		      "evdev/0/Wireless Controller": {
-				"evdev/0/Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_c165bf4bc64281e7_4.png"
-			    },
-		      "evdev/0/Sony Interactive Entertainment Wireless Controller": {
-				"evdev/0/Sony Interactive Entertainment Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_c165bf4bc64281e7_4.png"
-			    }
-	    }
+        "DSUClient/1/BetterJoy": {
+          "DSUClient/1/BetterJoy": "Wiimote Animations/Joy-Con/tex1_128x128_c165bf4bc64281e7_4.png"
+        },
+        "DSUClient/0/DualShock4": {
+          "DSUClient/0/DualShock4": "Wiimote Animations/DualShock4/tex1_128x128_c165bf4bc64281e7_4.png"
+        },
+        "evdev/0/Wireless Controller": {
+          "evdev/0/Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_c165bf4bc64281e7_4.png"
+        },
+        "evdev/0/Sony Interactive Entertainment Wireless Controller": {
+          "evdev/0/Sony Interactive Entertainment Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_c165bf4bc64281e7_4.png"
+        }
+      }
     },
     "tex1_128x128_c97659147330c75b_4.png": {
       "image": "Wiimote Animations/Original/tex1_128x128_c97659147330c75b_4.png",
@@ -278,19 +278,19 @@
         }
       },
       "host_controls": {
-		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "Wiimote Animations/Joy-Con/tex1_128x128_c97659147330c75b_4.png"
-			},
-		      "DSUClient/0/DualShock4": {
-				"DSUClient/0/DualShock4": "Wiimote Animations/DualShock4/tex1_128x128_c97659147330c75b_4.png"
-			    },
-		      "evdev/0/Wireless Controller": {
-				"evdev/0/Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_c97659147330c75b_4.png"
-			    },
-		      "evdev/0/Sony Interactive Entertainment Wireless Controller": {
-				"evdev/0/Sony Interactive Entertainment Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_c97659147330c75b_4.png"
-			    }
-	    }
+        "DSUClient/1/BetterJoy": {
+          "DSUClient/1/BetterJoy": "Wiimote Animations/Joy-Con/tex1_128x128_c97659147330c75b_4.png"
+        },
+        "DSUClient/0/DualShock4": {
+          "DSUClient/0/DualShock4": "Wiimote Animations/DualShock4/tex1_128x128_c97659147330c75b_4.png"
+        },
+        "evdev/0/Wireless Controller": {
+          "evdev/0/Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_c97659147330c75b_4.png"
+        },
+        "evdev/0/Sony Interactive Entertainment Wireless Controller": {
+          "evdev/0/Sony Interactive Entertainment Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_c97659147330c75b_4.png"
+        }
+      }
     },
     "tex1_128x128_cb5bba45b9574b45_4.png": {
       "image": "Wiimote Animations/Original/tex1_128x128_cb5bba45b9574b45_4.png",
@@ -307,19 +307,19 @@
         }
       },
       "host_controls": {
-		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "Wiimote Animations/Joy-Con/tex1_128x128_cb5bba45b9574b45_4.png"
-			},
-		      "DSUClient/0/DualShock4": {
-				"DSUClient/0/DualShock4": "Wiimote Animations/DualShock4/tex1_128x128_cb5bba45b9574b45_4.png"
-			    },
-		      "evdev/0/Wireless Controller": {
-				"evdev/0/Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_cb5bba45b9574b45_4.png"
-			    },
-		      "evdev/0/Sony Interactive Entertainment Wireless Controller": {
-				"evdev/0/Sony Interactive Entertainment Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_cb5bba45b9574b45_4.png"
-			    }
-	    }
+        "DSUClient/1/BetterJoy": {
+          "DSUClient/1/BetterJoy": "Wiimote Animations/Joy-Con/tex1_128x128_cb5bba45b9574b45_4.png"
+        },
+        "DSUClient/0/DualShock4": {
+          "DSUClient/0/DualShock4": "Wiimote Animations/DualShock4/tex1_128x128_cb5bba45b9574b45_4.png"
+        },
+        "evdev/0/Wireless Controller": {
+          "evdev/0/Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_cb5bba45b9574b45_4.png"
+        },
+        "evdev/0/Sony Interactive Entertainment Wireless Controller": {
+          "evdev/0/Sony Interactive Entertainment Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_cb5bba45b9574b45_4.png"
+        }
+      }
     },
     "tex1_128x128_d2d7f1826bb18c31_4.png": {
       "image": "Wiimote Animations/Original/tex1_128x128_d2d7f1826bb18c31_4.png",
@@ -336,19 +336,19 @@
         }
       },
       "host_controls": {
-		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "Wiimote Animations/Joy-Con/tex1_128x128_d2d7f1826bb18c31_4.png"
-			},
-		      "DSUClient/0/DualShock4": {
-				"DSUClient/0/DualShock4": "Wiimote Animations/DualShock4/tex1_128x128_d2d7f1826bb18c31_4.png"
-			    },
-		      "evdev/0/Wireless Controller": {
-				"evdev/0/Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_d2d7f1826bb18c31_4.png"
-			    },
-		      "evdev/0/Sony Interactive Entertainment Wireless Controller": {
-				"evdev/0/Sony Interactive Entertainment Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_d2d7f1826bb18c31_4.png"
-			    }
-	    }
+        "DSUClient/1/BetterJoy": {
+          "DSUClient/1/BetterJoy": "Wiimote Animations/Joy-Con/tex1_128x128_d2d7f1826bb18c31_4.png"
+        },
+        "DSUClient/0/DualShock4": {
+          "DSUClient/0/DualShock4": "Wiimote Animations/DualShock4/tex1_128x128_d2d7f1826bb18c31_4.png"
+        },
+        "evdev/0/Wireless Controller": {
+          "evdev/0/Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_d2d7f1826bb18c31_4.png"
+        },
+        "evdev/0/Sony Interactive Entertainment Wireless Controller": {
+          "evdev/0/Sony Interactive Entertainment Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_d2d7f1826bb18c31_4.png"
+        }
+      }
     },
     "tex1_128x128_dcf98b2b73c4db9f_4.png": {
       "image": "Wiimote Animations/Original/tex1_128x128_dcf98b2b73c4db9f_4.png",
@@ -365,19 +365,19 @@
         }
       },
       "host_controls": {
-		      "DSUClient/1/BetterJoy": {
-				"DSUClient/1/BetterJoy": "Wiimote Animations/Joy-Con/tex1_128x128_dcf98b2b73c4db9f_4.png"
-			},
-		      "DSUClient/0/DualShock4": {
-				"DSUClient/0/DualShock4": "Wiimote Animations/DualShock4/tex1_128x128_dcf98b2b73c4db9f_4.png"
-			    },
-		      "evdev/0/Wireless Controller": {
-				"evdev/0/Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_dcf98b2b73c4db9f_4.png"
-			    },
-		      "evdev/0/Sony Interactive Entertainment Wireless Controller": {
-				"evdev/0/Sony Interactive Entertainment Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_dcf98b2b73c4db9f_4.png"
-			    }
-	    }
+        "DSUClient/1/BetterJoy": {
+          "DSUClient/1/BetterJoy": "Wiimote Animations/Joy-Con/tex1_128x128_dcf98b2b73c4db9f_4.png"
+        },
+        "DSUClient/0/DualShock4": {
+          "DSUClient/0/DualShock4": "Wiimote Animations/DualShock4/tex1_128x128_dcf98b2b73c4db9f_4.png"
+        },
+        "evdev/0/Wireless Controller": {
+          "evdev/0/Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_dcf98b2b73c4db9f_4.png"
+        },
+        "evdev/0/Sony Interactive Entertainment Wireless Controller": {
+          "evdev/0/Sony Interactive Entertainment Wireless Controller": "Wiimote Animations/DualShock4/tex1_128x128_dcf98b2b73c4db9f_4.png"
+        }
+      }
     }
   }
 }
