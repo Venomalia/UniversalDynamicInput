@@ -57,8 +57,8 @@ def should_generate_two_palettes(
         (
             # Skip B&W images for TwoPalettes
             len(source_image.shape) > 2
-            # TwoPalettes is only used with Flat* for now, avoid generating unused images
-            and relative_path.parts[1].startswith("Flat")
+            # TwoPalettes is only used with Flat for now (Pitfall game only), avoid generating unused images
+            and relative_path.parts[1] == "Flat"
             # Masks by nature only have 1 channel and TwoPalettes textures already include Alpha
             and not any(part.endswith("_Mask") for part in relative_path.parts)
         )
