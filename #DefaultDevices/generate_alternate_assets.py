@@ -50,6 +50,23 @@ def keep_ba(image: NDArray[uint8]) -> NDArray[uint8]:
     return new_image
 
 
+def should_generate_two_palettes(
+    source_image: NDArray[uint8], relative_path: Path
+) -> bool:
+    return (
+        (
+            # Skip B&W images for TwoPalettes
+            len(source_image.shape) > 2
+            # TwoPalettes is only used with Flat* for now, avoid generating unused images
+            and relative_path.parts[1].startswith("Flat")
+            # Masks by nature only have 1 channel and TwoPalettes textures already include Alpha
+            and not any(part.endswith("_Mask") for part in relative_path.parts)
+        )
+        # However, we still need the icon from Device/Icon.png for default templates
+        or relative_path.parts[-2:] == ("Device", "Icon.png")
+    )
+
+
 def generate_new_image(
     transform: Callable[[NDArray[uint8]], NDArray[uint8]],
     image: NDArray[uint8],
@@ -81,49 +98,39 @@ def generate_images_from_source(source_path: Path) -> None:
         source_image,
         mirror_folder / relative_path,
     )
-    if (
-        # Skip B&W images for TwoPalettes
-        len(source_image.shape) > 2
-        and "Flat_Mask" not in relative_path.parts
-        # TwoPalettes is only used with Flat* for now, avoid generating unused images
-        and relative_path.parts[1].startswith("Flat")
-    ):
-        two_palettes_relative_path = (Path("_TwoPalettes") / relative_path).parent
-        rg_relative_path = two_palettes_relative_path / (
-            relative_path.stem + "_RG" + relative_path.suffix
-        )
-        ba_relative_path = two_palettes_relative_path / (
-            relative_path.stem + "_BA" + relative_path.suffix
-        )
+    if should_generate_two_palettes(source_image, relative_path):
+        two_palettes_rg_relative_path = Path("_TwoPalettes_RG") / relative_path
+        two_palettes_ba_relative_path = Path("_TwoPalettes_BA") / relative_path
 
-        # _TwoPalettes/*_RG
+        # _TwoPalettes_RG/
         _two_palettes_rg = generate_new_image(
             keep_rg,
             source_image,
-            default_devices_folder / rg_relative_path,
+            default_devices_folder / two_palettes_rg_relative_path,
         )
-        # _TwoPalettes/*_BA
+        # _TwoPalettes_BA/
         _two_palettes_ba = generate_new_image(
             keep_ba,
             source_image,
-            default_devices_folder / ba_relative_path,
+            default_devices_folder / two_palettes_ba_relative_path,
         )
-        # _Mirror/_TwoPalettes/*_RG
+        # _Mirror/_TwoPalettes_RG/
         _mirror_two_palettes_rg = generate_new_image(
             keep_rg,
             _mirror_image,
-            mirror_folder / rg_relative_path,
+            mirror_folder / two_palettes_rg_relative_path,
         )
-        # _Mirror/_TwoPalettes/*_BA
+        # _Mirror/_TwoPalettes_BA/
         _mirror_two_palettes_ba = generate_new_image(
-            keep_ba, _mirror_image, mirror_folder / ba_relative_path
+            keep_ba, _mirror_image, mirror_folder / two_palettes_ba_relative_path
         )
 
 
 def main() -> None:
     shutil.rmtree(mirror_folder, ignore_errors=True)
     shutil.rmtree(rotated90_folder, ignore_errors=True)
-    shutil.rmtree(default_devices_folder / "_TwoPalettes", ignore_errors=True)
+    shutil.rmtree(default_devices_folder / "_TwoPalettes_RG", ignore_errors=True)
+    shutil.rmtree(default_devices_folder / "_TwoPalettes_BA", ignore_errors=True)
     image_paths = tuple(default_devices_folder.glob("**/*.png"))
     process_map(generate_images_from_source, image_paths, chunksize=1)  # type: ignore[no-untyped-call]
 
