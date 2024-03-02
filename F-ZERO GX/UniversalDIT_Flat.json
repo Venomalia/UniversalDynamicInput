@@ -2172,6 +2172,21 @@
           ]
         }
       }
+    },
+    "tex1_24x24_2b1627cdf2869f90_14.png": {
+      "image": "tex1_24x24.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/Z": [
+            [
+              0.0,
+              0.0,
+              96.0,
+              96.0
+            ]
+          ]
+        }
+      }
     }
   }
 }
