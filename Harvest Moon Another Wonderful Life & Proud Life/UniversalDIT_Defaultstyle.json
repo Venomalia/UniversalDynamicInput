@@ -2065,7 +2065,7 @@
       "THUMBR": "../#DefaultDevices/DualShock4/Defaultstyle/R3.png"
     }
   },
-  "generated_folder_name": "#Generated_Harvest Moon Another Wonderful Life",
+  "generated_folder_name": "#Generated_Harvest Moon Another Wonderful Life and Proud Life",
   "preserve_aspect_ratio": true,
   "output_textures": {
     "tex1_256x150_c9e949ef08fa0b05_5.png": {
@@ -2091,8 +2091,55 @@
         }
       }
     },
+    "tex1_374x128_acf0cae951cc4704_5.png": {
+      "image": "tex1_374x128_acf0cae951cc4704_5.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Main Stick/Up": [
+            [
+              0.0,
+              0.0,
+              195.0,
+              188.0
+            ]
+          ],
+          "Buttons/A": [
+            [
+              205.0,
+              20.0,
+              398.0,
+              190.0
+            ]
+          ],
+          "Buttons/Y": [
+            [
+              419.0,
+              34.0,
+              652.0,
+              178.0
+            ]
+          ],
+          "Buttons/B": [
+            [
+              1374.0,
+              11.0,
+              1496.0,
+              153.0
+            ]
+          ],
+          "Buttons/X": [
+            [
+              1348.0,
+              293.0,
+              1496.0,
+              511.0
+            ]
+          ]
+        }
+      }
+    },
     "tex1_374x128_9de57564a2b4149b_5.png": {
-      "image": "tex1_374x128_9de57564a2b4149b_5.png",
+      "image": "tex1_374x128_acf0cae951cc4704_5.png",
       "emulated_controls": {
         "GCPad1": {
           "Main Stick/Up": [

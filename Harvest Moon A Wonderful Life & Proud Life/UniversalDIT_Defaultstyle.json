@@ -2065,7 +2065,7 @@
       "THUMBR": "../#DefaultDevices/DualShock4/Defaultstyle/R3.png"
     }
   },
-  "generated_folder_name": "#Generated_Harvest Moon A Wonderful Life_EN",
+  "generated_folder_name": "#Generated_Harvest Moon A Wonderful Life and Proud Life",
   "preserve_aspect_ratio": true,
   "output_textures": {
     "tex1_256x150_3dc0f93899b98c69_5.png": {
@@ -2093,6 +2093,76 @@
     },
     "tex1_374x128_886bdfbb4253518c_5.png": {
       "image": "tex1_374x128_886bdfbb4253518c_5.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Main Stick/Up": [
+            [
+              0.0,
+              0.0,
+              195.0,
+              188.0
+            ]
+          ],
+          "Buttons/A": [
+            [
+              205.0,
+              20.0,
+              398.0,
+              190.0
+            ]
+          ],
+          "Buttons/Y": [
+            [
+              419.0,
+              34.0,
+              652.0,
+              178.0
+            ]
+          ],
+          "Buttons/B": [
+            [
+              1374.0,
+              11.0,
+              1496.0,
+              153.0
+            ]
+          ],
+          "Buttons/X": [
+            [
+              1348.0,
+              293.0,
+              1496.0,
+              511.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_256x150_7f5cf0afac527894_5.png": {
+      "image": "tex1_256x150_7f5cf0afac527894_5.png",
+      "emulated_controls": {
+        "GCPad1": {
+          "Buttons/X": [
+            [
+              0.0,
+              372.0,
+              150.0,
+              600.0
+            ]
+          ],
+          "Buttons/Y": [
+            [
+              163.0,
+              436.0,
+              392.0,
+              583.0
+            ]
+          ]
+        }
+      }
+    },
+    "tex1_374x128_6e3f3bed193ba665_5.png": {
+      "image": "tex1_374x128_6e3f3bed193ba665_5.png",
       "emulated_controls": {
         "GCPad1": {
           "Main Stick/Up": [
