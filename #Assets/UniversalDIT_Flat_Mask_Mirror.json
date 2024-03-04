@@ -581,7 +581,7 @@
       "`Trigger L`": "../#DefaultDevices/_Mirror/Stadia/Flat_Mask/L2.png",
       "`Thumb R`": "../#DefaultDevices/_Mirror/Stadia/Flat_Mask/R3.png",
       "`Shoulder R`": "../#DefaultDevices/_Mirror/Stadia/Flat_Mask/R1.png",
-      "`Trigger R`": "../#DefaultDevices/_Mirror/Stadia/Flat_Mask/Z2.png",
+      "`Trigger R`": "../#DefaultDevices/_Mirror/Stadia/Flat_Mask/R2.png",
       "`Hat 0 E`": "../#DefaultDevices/_Mirror/Stadia/Flat_Mask/Pad E.png",
       "`Hat 0 N`": "../#DefaultDevices/_Mirror/Stadia/Flat_Mask/Pad N.png",
       "`Hat 0 S`": "../#DefaultDevices/_Mirror/Stadia/Flat_Mask/Pad S.png",
@@ -1019,7 +1019,7 @@
     "SDL/0/Xbox Wireless Controller": {
       "`Button E`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Button B.png",
       "`Button S`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Button A.png",
-      "`Button W`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Button N.png",
+      "`Button W`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Button X.png",
       "`Button N`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Button Y.png",
       "`Thumb L`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Thumb L.png",
       "`Thumb R`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Thumb R.png",
@@ -1210,7 +1210,7 @@
       "SDL/0/Controller (Xbox One For Windows)": "../#DefaultDevices/_Mirror/XBOX ONE/Device/Icon.png",
       "`Button E`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Button B.png",
       "`Button S`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Button A.png",
-      "`Button W`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Button N.png",
+      "`Button W`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Button X.png",
       "`Button N`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Button Y.png",
       "`Thumb L`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Thumb L.png",
       "`Thumb R`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Thumb R.png",
@@ -1453,7 +1453,7 @@
     "SDL/0/Logitech Gamepad F710": {
       "`Button E`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Button B.png",
       "`Button S`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Button A.png",
-      "`Button W`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Button N.png",
+      "`Button W`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Button X.png",
       "`Button N`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Button Y.png",
       "`Thumb L`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Thumb L.png",
       "`Thumb R`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Thumb R.png",
@@ -1511,7 +1511,7 @@
     "SDL/0/Controller (Gamepad F310)": {
       "`Button E`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Button B.png",
       "`Button S`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Button A.png",
-      "`Button W`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Button N.png",
+      "`Button W`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Button X.png",
       "`Button N`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Button Y.png",
       "`Thumb L`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Thumb L.png",
       "`Thumb R`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Thumb R.png",
@@ -1748,7 +1748,7 @@
     "SDL/0/Xbox One Elite 2 Controller": {
       "`Button E`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Button B.png",
       "`Button S`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Button A.png",
-      "`Button W`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Button N.png",
+      "`Button W`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Button X.png",
       "`Button N`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Button Y.png",
       "`Thumb L`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Thumb L.png",
       "`Thumb R`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Thumb R.png",
@@ -1797,7 +1797,7 @@
     "SDL/0/Xbox One S Controller": {
       "`Button E`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Button B.png",
       "`Button S`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Button A.png",
-      "`Button W`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Button N.png",
+      "`Button W`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Button X.png",
       "`Button N`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Button Y.png",
       "`Thumb L`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Thumb L.png",
       "`Thumb R`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Thumb R.png",
@@ -1846,7 +1846,7 @@
     "SDL/0/Xbox Series X Controller": {
       "`Button E`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Button B.png",
       "`Button S`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Button A.png",
-      "`Button W`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Button N.png",
+      "`Button W`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Button X.png",
       "`Button N`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Button Y.png",
       "`Thumb L`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Thumb L.png",
       "`Thumb R`": "../#DefaultDevices/_Mirror/XBOX ONE/Flat_Mask/Thumb R.png",
