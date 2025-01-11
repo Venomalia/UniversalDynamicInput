@@ -1872,7 +1872,7 @@
       "`Full Axis 2+`": "../#DefaultDevices/_Mirror/XBOX ONE/Simple-Default/Trigger L.png",
       "`Full Axis 5+`": "../#DefaultDevices/_Mirror/XBOX ONE/Simple-Default/Trigger R.png"
     },
-    " One S Controller": {
+    "SDL/0/Xbox One S Controller": {
       "SDL/0/Xbox One S Controller": "../#DefaultDevices/_Mirror/XBOX ONE/Device/Icon.png",
       "`Button E`": "../#DefaultDevices/_Mirror/XBOX ONE/Simple-Default/Button B.png",
       "`Button S`": "../#DefaultDevices/_Mirror/XBOX ONE/Simple-Default/Button A.png",
