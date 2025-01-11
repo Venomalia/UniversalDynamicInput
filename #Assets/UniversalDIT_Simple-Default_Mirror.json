@@ -1872,7 +1872,7 @@
       "`Full Axis 2+`": "../#DefaultDevices/_Mirror/XBOX ONE/Simple-Default/Trigger L.png",
       "`Full Axis 5+`": "../#DefaultDevices/_Mirror/XBOX ONE/Simple-Default/Trigger R.png"
     },
-    "SDL/0/Xbox One S Controller": {
+    " One S Controller": {
       "SDL/0/Xbox One S Controller": "../#DefaultDevices/_Mirror/XBOX ONE/Device/Icon.png",
       "`Button E`": "../#DefaultDevices/_Mirror/XBOX ONE/Simple-Default/Button B.png",
       "`Button S`": "../#DefaultDevices/_Mirror/XBOX ONE/Simple-Default/Button A.png",
@@ -2084,8 +2084,8 @@
       "`Full Axis 4+`": "../#DefaultDevices/_Mirror/DualShock4/Simple-Default/L2.png",
       "`Full Axis 5+`": "../#DefaultDevices/_Mirror/DualShock4/Simple-Default/R2.png"
     },
-    "SDL/0/SDL/0/Generic X-Box pad": {
-      "SDL/0/SDL/0/Generic X-Box pad": "../#DefaultDevices/_Mirror/XBOX ONE/Device/Icon.png",
+    "SDL/0/Generic X-Box pad": {
+      "SDL/0/Generic X-Box pad": "../#DefaultDevices/_Mirror/XBOX ONE/Device/Icon.png",
       "`Button E`": "../#DefaultDevices/_Mirror/XBOX ONE/Simple-Default/Button B.png",
       "`Button S`": "../#DefaultDevices/_Mirror/XBOX ONE/Simple-Default/Button A.png",
       "`Button W`": "../#DefaultDevices/_Mirror/XBOX ONE/Simple-Default/Button X.png",
