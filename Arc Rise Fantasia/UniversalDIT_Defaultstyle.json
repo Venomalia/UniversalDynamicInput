@@ -2159,6 +2159,27 @@
         }
       }
     },
+    "tex1_64x40_b0397928eb05792b_9b4025053a39de55_9.png": {
+      "image": "tex1_64x40_b0397928eb05792b_9b4025053a39de55_9.png",
+      "emulated_controls": {
+        "Wiimote1": {
+          "Classic/Buttons/Y": [
+            [
+              10.0,
+              24.0,
+              114.0,
+              132.0
+            ],
+            [
+              138.0,
+              24.0,
+              242.0,
+              132.0
+            ]
+          ]
+        }
+      }
+    },
     "tex1_64x40_da947b71bc0eadfa_4c8947d2e6267e68_9.png": {
       "image": "tex1_64x40_da947b71bc0eadfa_4c8947d2e6267e68_9.png",
       "emulated_controls": {
