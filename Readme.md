@@ -11,8 +11,7 @@ the in-game buttons are automatically updated to match the controller and settin
 Another advantage is that there are no problems with other texture packs.  
 Take a look at this [Dolphin progress report](https://dolphin-emu.org/blog/2020/12/10/dolphin-progress-report-october-2020/#50-12801-dynamic-input-textures-by-iwubcode) for more info.
 
-### [<img src="https://img.shields.io/github/v/release/Venomalia/UniversalDynamicInput?label=Download&style=for-the-badge" alt="Download" height="35"/>](https://github.com/Venomalia/UniversalDynamicInput/releases)
-[<img src="https://img.shields.io/badge/Download-Prerelease-blue&style=for-the-badge alt="Download" height="35"/>](https://github.com/Venomalia/UniversalDynamicInput/releases)
+[<img src="https://img.shields.io/github/v/release/Venomalia/UniversalDynamicInput?label=Download&style=for-the-badge" alt="Download" height="35"/>](https://github.com/Venomalia/UniversalDynamicInput/releases)
 ## Which Dolphin versions are supported?
 
 Dolphin 5.0-15214 or [newer](https://dolphin-emu.org/download/) and all branches based on one of these versions.
