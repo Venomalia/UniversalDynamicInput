@@ -2436,7 +2436,7 @@
       "`Full Axis 2+`": "../#DefaultDevices/_TwoPalettes_BA/XBOX ONE/Flat/Trigger L.png",
       "`Full Axis 5+`": "../#DefaultDevices/_TwoPalettes_BA/XBOX ONE/Flat/Trigger R.png"
     },
-	"SteamDeck/0/Steam Deck": {
+    "SteamDeck/0/Steam Deck": {
       "`A`": "../#DefaultDevices/_TwoPalettes_BA/Steam Deck/Flat/Button A.png",
       "`B`": "../#DefaultDevices/_TwoPalettes_BA/Steam Deck/Flat/Button B.png",
       "`X`": "../#DefaultDevices/_TwoPalettes_BA/Steam Deck/Flat/Button X.png",
