@@ -18,7 +18,7 @@ Take a look at this [Dolphin progress report](https://dolphin-emu.org/blog/2020/
 Dolphin 5.0-15214 or [newer](https://dolphin-emu.org/download/) and all branches based on one of these versions.
 
 - [Dolphin](https://dolphin-emu.org/) for desktop Windows, MacOS and Linux based systems.
-- [Dolphin UWP](https://github.com/UWP-Team/dolphinUWP) for Xbox Series X and S.
+- [DolphinUWP](https://github.com/SternXD/dolphin) for Xbox Series X and S.
 - [RetroDECK](https://retrodeck.net/) for Linux and SteamOS.
 - [EmuDeck](https://www.emudeck.com/) for SteamOS.
 
