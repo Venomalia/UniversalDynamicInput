@@ -21,6 +21,7 @@ Dolphin 5.0-15214 or [newer](https://dolphin-emu.org/download/) and all branches
 - [DolphinUWP](https://github.com/SternXD/dolphin) for Xbox Series X and S.
 - [RetroDECK](https://retrodeck.net/) for Linux and SteamOS.
 - [EmuDeck](https://www.emudeck.com/) for SteamOS.
+- [Dolphin for Android](https://play.google.com/store/apps/details?id=org.dolphinemu.dolphinemu&hl=en-US) for Android.
 
 ## What games are supported?
 
@@ -43,6 +44,7 @@ You can also find a detailled installation for your version on the [wiki](https:
      - **Linux:** _`~/.dolphin-emu/Load`_ or _`~/.local/share/dolphin-emu/Load`_ depending on your system
      - **MacOS:** _`~/Library/Application Support/Dolphin/Load`_
      - **Xbox:** Xbox Usb drive at _`Dolphin\Load`_
+     - **Android:** _`Android/Data/org.dolphinemu.dolphinemu/Files/Load`_
    - The path should now look like this `.\Load\DynamicInputTextures`
 1. Open Dolphin, enter `Graphics` > `Advanced` tab > Check **`Load Custom Textures`**.
 1. As soon as you start a [supported game](https://github.com/Venomalia/UniversalDynamicInput/wiki/Supported-games), Dolphin will generate and load the new button textures.
