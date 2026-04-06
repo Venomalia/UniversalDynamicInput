@@ -21,7 +21,7 @@ repos:
         exclude_types: [json]
   # For Python
   - repo: https://github.com/astral-sh/ruff-pre-commit
-    rev: "v0.15.4"
+    rev: "v0.15.9"
     hooks:
       # Run the linter.
       - id: ruff
