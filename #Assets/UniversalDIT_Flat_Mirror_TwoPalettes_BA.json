@@ -380,7 +380,7 @@
       "`Button 3`": "../#DefaultDevices/_TwoPalettes_BA/Switch_Joy-Con/Flat/Button Y.png",
       "`Button 2`": "../#DefaultDevices/_TwoPalettes_BA/Switch_Joy-Con/Flat/Button X.png"
     },
-     "SDL/0/Nintendo Switch Joy-Con (L)": {
+    "SDL/0/Nintendo Switch Joy-Con (L)": {
       "SDL/0/Nintendo Switch Joy-Con (L)": "../#DefaultDevices/_TwoPalettes_BA/Switch_Joy-Con/Device/Icon.png",
       "`Button E`": "../#DefaultDevices/_TwoPalettes_BA/Switch_Joy-Con/Flat/Button A.png",
       "`Button S`": "../#DefaultDevices/_TwoPalettes_BA/Switch_Joy-Con/Flat/Button B.png",
@@ -439,7 +439,7 @@
       "`Button 3`": "../#DefaultDevices/_TwoPalettes_BA/Switch_Joy-Con/Flat/Button Y.png",
       "`Button 2`": "../#DefaultDevices/_TwoPalettes_BA/Switch_Joy-Con/Flat/Button X.png"
     },
-     "SDL/0/Nintendo Switch Joy-Con (R)": {
+    "SDL/0/Nintendo Switch Joy-Con (R)": {
       "SDL/0/Nintendo Switch Joy-Con (R)": "../#DefaultDevices/_TwoPalettes_BA/Switch_Joy-Con/Device/Icon.png",
       "`Button E`": "../#DefaultDevices/_TwoPalettes_BA/Switch_Joy-Con/Flat/Button A.png",
       "`Button S`": "../#DefaultDevices/_TwoPalettes_BA/Switch_Joy-Con/Flat/Button B.png",
