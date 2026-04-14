@@ -740,8 +740,8 @@
       "`Full Axis 4+`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle_Pressed/ZL.png",
       "`Full Axis 5+`": "../#DefaultDevices/Switch_Pro Controller/Defaultstyle_Pressed/ZR.png"
     },
-    "SDL/0/Dualsense Edge Wireless Controller": {
-      "SDL/0/Dualsense Edge Wireless Controller": "../#DefaultDevices/DualShock4/Device/Icon.png",
+    "SDL/0/DualSense Edge Wireless Controller": {
+      "SDL/0/DualSense Edge Wireless Controller": "../#DefaultDevices/DualShock4/Device/Icon.png",
       "`Button E`": "../#DefaultDevices/DualShock4/Defaultstyle_Pressed/Circle.png",
       "`Button S`": "../#DefaultDevices/DualShock4/Defaultstyle_Pressed/Cross.png",
       "`Button W`": "../#DefaultDevices/DualShock4/Defaultstyle_Pressed/Square.png",
